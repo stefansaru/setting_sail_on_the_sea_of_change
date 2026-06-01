@@ -1,0 +1,20 @@
+# --- Input files -------------------------------------------------------------
+# Large / binary source artifacts (e.g. the original manuscript .docx) live in
+# input/ and are NOT version-controlled. The folder itself is kept via .gitkeep
+# so the structure persists. The faithful text extraction in
+# setting-sail-knowledge-system/00-sources/ IS tracked.
+input/*
+!input/.gitkeep
+
+# --- Editor / vault cruft ----------------------------------------------------
+# Obsidian workspace settings are machine-specific; ignore by default.
+.obsidian/
+
+# --- OS cruft ----------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Misc --------------------------------------------------------------------
+*.tmp
+*~
