@@ -3,8 +3,8 @@ id: emotional-mastery
 title: Emotional Mastery
 type: brain-concept
 status: stable
-score: 1
-supported_by: [setting-sail]
+score: 3
+supported_by: [setting-sail, think-and-grow-rich, how-to-stop-worrying]
 contested: false
 codex_pages: [memory-as-editable-film, anchoring, emotional-baggage, pain-vs-suffering, thermostat-vs-thermometer, most-fears-are-memories, diffusing-visual-memories, self-compassion, emotional-energy, using-music-to-shape-emotions]
 tags: [emotions, theme/observer-stance]
@@ -47,6 +47,8 @@ emotion from a driver into a dashboard.
 
 ## References
 - **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+- **[[think-and-grow-rich]]** — Hill — "fear is only a state of mind"; the six ghosts of fear. See [[bibliography]].
+- **[[how-to-stop-worrying]]** — Carnegie — worry is a manageable mental habit. See [[bibliography]].
 *(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
 
 ## Related

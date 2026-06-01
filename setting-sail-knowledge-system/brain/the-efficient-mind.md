@@ -3,15 +3,16 @@ id: the-efficient-mind
 title: The Efficient Mind — A Way of Thinking That Improves Life
 type: brain-capstone
 status: living
-sources_count: 1            # books synthesized so far
-supported_by: [setting-sail]
+sources_count: 3            # books synthesized so far
+supported_by: [setting-sail, think-and-grow-rich, how-to-stop-worrying]
 updated: 2026-06-01
 ---
 
 > The point of the whole system: a single, coherent **way of thinking** — assembled from every
 > book — that measurably improves quality of life. This page is **living**: it re-synthesizes
-> as the Brain's scores shift. Right now it rests on 1 book (*Setting Sail*); it will sharpen
-> with each one added.
+> as the Brain's scores shift. It now rests on **3 books** (Setting Sail + Hill + Carnegie);
+> the top-scored steps below — agency, emotional mastery, self-authorship — are the ones all
+> three already endorse. It sharpens with each book added.
 
 ## The thesis in one line
 > **Accept the sea, choose the heading.** You can't control what happens; you can author who

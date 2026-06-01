@@ -3,8 +3,8 @@ id: compounding-through-habit
 title: Compounding Through Habit
 type: brain-concept
 status: stable
-score: 1
-supported_by: [setting-sail]
+score: 2
+supported_by: [setting-sail, think-and-grow-rich]
 contested: false
 codex_pages: [atomic-habits, the-habit-loop, consistency-beats-restarting, discipline-over-motivation, mood-follows-action, two-minute-rule, skill-automation, the-walnut-tree, every-master-was-once-a-disaster]
 tags: [habits, theme/compounding-small-actions]
@@ -46,6 +46,7 @@ are *starting small*, *designing the environment*, and *consistency over intensi
 
 ## References
 - **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+- **[[think-and-grow-rich]]** — Hill — autosuggestion (daily repetition) + persistence; identity by repetition. See [[bibliography]].
 *(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
 
 ## Related

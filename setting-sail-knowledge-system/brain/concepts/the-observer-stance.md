@@ -3,8 +3,8 @@ id: the-observer-stance
 title: The Observer Stance
 type: brain-concept
 status: stable
-score: 1
-supported_by: [setting-sail]
+score: 2
+supported_by: [setting-sail, how-to-stop-worrying]
 contested: false
 codex_pages: [becoming-the-observer, the-mind-cinema, the-thought-boats, tolerating-conflicting-beliefs, system-1-and-system-2, the-problem-is-not-the-problem, model-emotions-nonverbally]
 tags: [theme/observer-stance]
@@ -45,6 +45,7 @@ react. With it, a gap opens between stimulus and response.
 
 ## References
 - **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+- **[[how-to-stop-worrying]]** — Carnegie — mental attitude is the lever: "our life is what our thoughts make it". See [[bibliography]].
 *(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
 
 ## Related

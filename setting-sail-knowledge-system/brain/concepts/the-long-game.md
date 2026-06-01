@@ -3,8 +3,8 @@ id: the-long-game
 title: The Long Game
 type: brain-concept
 status: stable
-score: 1
-supported_by: [setting-sail]
+score: 2
+supported_by: [setting-sail, think-and-grow-rich]
 contested: false
 codex_pages: [hyperbolic-discounting, consistency-beats-restarting, the-walnut-tree, financial-independence-number, memento-mori, every-master-was-once-a-disaster, outcome-independence, backup-fund, diversify-for-resilience]
 tags: [theme/compounding-small-actions, theme/journey-over-destination]
@@ -46,6 +46,7 @@ aren't fatal, and judge by process, not lucky outcomes.
 
 ## References
 - **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+- **[[think-and-grow-rich]]** — Hill — persistence outlasts failure; a definite plan pursued over years. See [[bibliography]].
 *(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
 
 ## Related

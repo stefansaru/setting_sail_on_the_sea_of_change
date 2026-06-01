@@ -3,8 +3,8 @@ id: clear-thinking-under-bias
 title: Clear Thinking Under Bias
 type: brain-concept
 status: stable
-score: 1
-supported_by: [setting-sail]
+score: 2
+supported_by: [setting-sail, how-to-stop-worrying]
 contested: false
 codex_pages: [cognitive-bias, system-1-and-system-2, the-map-is-not-the-territory, becoming-the-observer, the-book-and-pen-test, knowns-and-unknowns, occams-razor, bias-catalog]
 tags: [cognitive-bias, theme/observer-stance]
@@ -38,6 +38,7 @@ high-stakes judgments through slow, deliberate reasoning.
 ## Contradictions / open tensions
 - Tension with "trust your [[inner-voice]]": resolved by domain — trust resonance for *values*,
   route *factual/probabilistic* claims through System 2 ([[gaps|G4]]).
+- **Cross-book (C9):** Hill's [[think-and-grow-rich|"thoughts become things"]] clashes head-on with this — resolved at [[belief-works-through-action]] (belief works through *action*, not magic).
 - **Failure mode:** [[blindspot-bias]] — knowing the list doesn't debias you; structure and feedback do, not insight alone.
 
 ## How to apply it
@@ -47,6 +48,7 @@ high-stakes judgments through slow, deliberate reasoning.
 
 ## References
 - **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+- **[[how-to-stop-worrying]]** — Carnegie — the "law of averages": weigh the real odds of what you dread (base-rate thinking). See [[bibliography]].
 *(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
 
 ## Related

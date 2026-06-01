@@ -3,8 +3,8 @@ id: self-authorship
 title: Self-Authorship
 type: brain-concept
 status: stable
-score: 1
-supported_by: [setting-sail]
+score: 3
+supported_by: [setting-sail, think-and-grow-rich, how-to-stop-worrying]
 contested: false
 codex_pages: [three-metamorphoses, defining-your-own-values, values-discovered-and-created, child-phase, lion-phase, internalizing-the-exterior, intention-in-context, start-with-the-end-in-mind, becoming-the-painter]
 tags: [theme/self-authorship, arc/child]
@@ -46,6 +46,8 @@ discover what resonates, then author the *ranking* you commit to.
 
 ## References
 - **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+- **[[think-and-grow-rich]]** — Hill — definiteness of purpose / burning desire as the foundation. See [[bibliography]].
+- **[[how-to-stop-worrying]]** — Carnegie — "find yourself and be yourself; there is no one else like you". See [[bibliography]].
 *(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
 
 ## Related

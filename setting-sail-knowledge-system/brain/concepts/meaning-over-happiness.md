@@ -3,8 +3,8 @@ id: meaning-over-happiness
 title: Meaning Over Happiness
 type: brain-concept
 status: stable
-score: 1
-supported_by: [setting-sail]
+score: 2
+supported_by: [setting-sail, how-to-stop-worrying]
 contested: false
 codex_pages: [the-will-to-meaning, meaning-is-created-not-found, ikigai, your-mission-is-bigger-than-your-objectives, doing-what-you-love-is-loving-the-mission, frankls-values, the-money-happiness-curve, hedonic-adaptation]
 tags: [theme/journey-over-destination, stratum/meaning]
@@ -45,6 +45,7 @@ Meaning is *created*, not found — and it's bigger than any single goal.
 
 ## References
 - **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+- **[[how-to-stop-worrying]]** — Carnegie — cure depression by doing good for others; count blessings over grievances. See [[bibliography]].
 *(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
 
 ## Related

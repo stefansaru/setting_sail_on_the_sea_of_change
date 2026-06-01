@@ -3,8 +3,8 @@ id: agency-over-circumstance
 title: Agency Over Circumstance
 type: brain-concept
 status: stable
-score: 1
-supported_by: [setting-sail]
+score: 3
+supported_by: [setting-sail, think-and-grow-rich, how-to-stop-worrying]
 contested: false
 codex_pages: [you-are-the-sailor-not-the-wind, change-what-you-can-accept-what-you-cant, stoicism, taking-responsibility, be-proactive, the-problem-is-not-the-problem, outcome-independence]
 tags: [theme/control-vs-acceptance, theme/self-authorship]
@@ -47,6 +47,8 @@ your direction. Mastery is relocating effort from the uncontrollable to the cont
 
 ## References
 - **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+- **[[think-and-grow-rich]]** — Hill — "the responsibility is yours"; fear is a chosen state of mind. See [[bibliography]].
+- **[[how-to-stop-worrying]]** — Carnegie — "cooperate with the inevitable"; accept the worst, then act. See [[bibliography]].
 *(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
 
 ## Related

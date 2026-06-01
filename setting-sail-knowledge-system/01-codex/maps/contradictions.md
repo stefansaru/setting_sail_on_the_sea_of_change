@@ -82,7 +82,18 @@ link to a dedicated `status: synthesis` page.
 - **Failure modes:** treating a self-respect dip as worthlessness; or trying to *earn* worth (it can't be earned or lost).
 
 ---
-## Summary — the eight (nine) as polarities
+## Cross-book contradictions (from the [[library-index|Library]])
+*Tensions between an ingested book and the Brain / another book. The author is asked how to resolve each.*
+
+### C9 — Manifestation vs. clear thinking *(Hill vs. the Brain)* → [[belief-works-through-action]]
+- **Pole A — [[think-and-grow-rich|Napoleon Hill]]:** "thoughts are things"; thought, held with faith, *attracts* its physical equivalent; the "sixth sense" delivers outcomes. Near-total control of fate via mind.
+- **Pole B — the Brain:** [[clear-thinking-under-bias]] (magical thinking; Hill's evidence is [[survivorship-bias]]) and [[you-are-the-sailor-not-the-wind]] (you control your response, not luck/the wind).
+- **Missing dimension — *level: psychological vs. metaphysical*** (author's call, 2026-06-01).
+- **Synthesis:** *Belief works through action, not magic.* Belief shapes effort, attention, and persistence (real → keep Hill's psychology); it does not directly alter luck/odds/reality (magic → reject the metaphysics). Full page: [[belief-works-through-action]].
+- *Note (riches vs. meaning):* Hill's money-as-aim vs. [[meaning-over-happiness]] is **not** a true contradiction — resolved by **C7** ([[the-money-happiness-curve]]): Hill works the steep part (reaching "enough"); meaning is the plateau.
+
+---
+## Summary — the polarities
 | # | Polarity | Missing dimension | Synthesis | Page |
 |---|----------|-------------------|-----------|------|
 | C0 | accept ↔ change | different objects | accept the sea, choose the heading | [[acceptance-and-change]] |
@@ -94,6 +105,7 @@ link to a dedicated `status: synthesis` page.
 | C6 | embrace ↔ quit work | meaningful vs. meaningless | seek meaningful struggle | *(in-map)* |
 | C7 | money matters ↔ doesn't | amount (a curve) | buys freedom from suffering, not meaning | [[the-money-happiness-curve]] |
 | C8 | earned ↔ inherent esteem | level of abstraction | worth given, self-respect earned | [[human-worth-vs-self-respect]] |
+| C9 | manifestation ↔ clear thinking *(Hill)* | psychological vs. metaphysical | belief works through action, not magic | [[belief-works-through-action]] |
 
 ---
 *Logging convention:* `C<n> — short title`; state both poles with page links, name the
