@@ -18,24 +18,32 @@ so you know the existing Brain concepts.
 
 BOOK
 - Title: {{TITLE}}   Author: {{AUTHOR}}   Slug: {{SLUG}}
-- Source file (git-ignored): input/{{FILENAME}}
-- Extracted text: {{TMP_TXT_PATH}}   (already extracted for you; if missing, extract per §11)
+- Source folder/files (git-ignored): input/{{PATH}}
 
 DO
-1. Read the extracted text. Identify the book's thesis, ~8–15 key concepts, key techniques,
-   and the best ~5 quotable lines.
+0. **Select ONE source file** (never read duplicates). Ignore images/audio/video. Choose one
+   format (EPUB > PDF > RTF/DOCX > TXT) and one language (EN; else RO). If chapter-split,
+   concatenate that format's files in order. Note what you skipped. Extract text to C:/tmp/{{SLUG}}.txt.
+1. **Read conclusions first (Tier 1 — fast):** table of contents, the conclusion/summary/
+   epilogue/"key takeaways" (usually the last ~10–15%), the introduction (thesis), and any
+   chapter-end summaries. From this capture: thesis, ~8–15 key concepts, ~5 best quotes.
+   **Escalation gate:** only read more deeply (Tier 2) if the conclusions are *novel vs. the
+   Brain, sharply contradictory, or unusually dense with actionable ideas.* Otherwise stop.
 2. WRITE the distillation page library/books/{{SLUG}}.md from
-   library/_templates/book-distillation.md. In "Key concepts," link each idea to the codex
-   page it rhymes with using [[wikilinks]] (consult brain-index.md and the codex). In
-   "Connections," state agreements and tensions with Setting Sail / other books.
-3. Do NOT edit anything under brain/ or any maps/ file. Only create your one book page.
-4. Return ONLY the Contribution Report below as your final message (this is what the
-   orchestrator consumes — keep it strict).
+   library/_templates/book-distillation.md — fill `language`, `format`, `files_skipped`,
+   `depth`. In "Key concepts," link each idea to the codex page it rhymes with via [[wikilinks]]
+   (consult brain-index.md). In "Connections," state agreements and tensions.
+3. Do NOT edit anything under brain/, bibliography.md, or any maps/ file. Only create your one
+   book page. (The orchestrator registers the book and updates the Brain.)
+4. Return ONLY the Contribution Report below as your final message (strict format).
 
 CONTRIBUTION REPORT (return exactly this structure)
 ---
 book: {{SLUG}}
+registry: { title, author, year, language, format, source_file, files_skipped, depth }  # for bibliography.md
 one_line_thesis: <one sentence>
+depth_used: T1 | T2
+escalated_because: <reason, or "n/a — Tier 1 sufficed">
 supports:              # existing Brain concepts this book endorses (+ evidence)
   - concept: <brain-concept-id>
     evidence: "<short quote or paraphrase + page/loc>"
@@ -56,8 +64,11 @@ notes: "<anything the orchestrator should know>"
 
 ## Orchestrator merge (main agent, after each sub-agent returns)
 Run **serially** across returned reports (no concurrency on shared files):
-1. For each `supports[].concept`: add `{{SLUG}}` to that concept's `supported_by:` (and add a
-   bullet under "How each source frames it" with the evidence).
+0. **Register the book** in `library/maps/bibliography.md` from `report.registry`
+   (title, author, year, language, format, file read, files skipped, depth). One row per book.
+1. For each `supports[].concept`: add `{{SLUG}}` to that concept's `supported_by:`, add a
+   bullet under "How each source frames it" with the evidence, **and add the book to that
+   concept's `## References` section** (link to its `library/books/<slug>` page + [[bibliography]]).
 2. For each `new_concepts[]`: if genuinely cross-cutting, create a `brain/concepts/<id>.md`
    (or a `seed` row) with `supported_by: [{{SLUG}}]`.
 3. **For each `contradicts[]`: STOP and ASK the author** (AskUserQuestion) how to resolve —

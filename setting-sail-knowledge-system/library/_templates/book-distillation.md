@@ -4,8 +4,11 @@ title: "REPLACE Book Title"
 type: book-distillation
 author: REPLACE Author
 year: REPLACE
-format: pdf | epub | docx | txt
-source: "../../../input/REPLACE-filename"   # git-ignored; not committed
+language: en             # the ONE language read (en | ro | …)
+format: epub             # the ONE format read (priority epub > pdf > rtf/docx > txt)
+source: "../../../input/REPLACE-filename"   # the single file read; git-ignored, not committed
+files_skipped: []        # duplicate editions / audio / video ignored (also logged in bibliography)
+depth: T1                # T1 = fast, conclusions-first | T2 = deep pass | Full = home book only
 status: draft            # draft | stable
 tags: []
 related: []              # codex pages + other library book slugs
@@ -13,7 +16,7 @@ created: 2026-06-01
 updated: 2026-06-01
 ---
 
-> **One-sentence thesis** — the single idea the whole book is arguing.
+> **One-sentence thesis** — the single idea the whole book is arguing (capture from the conclusion/intro first).
 
 ## The main idea
 2–4 sentences: what the book claims and why it matters. Who it's for.

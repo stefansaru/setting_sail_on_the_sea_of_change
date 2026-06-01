@@ -42,6 +42,10 @@ yourself *and* strive to grow, fueled by worthiness rather than its lack.
 2. Pursue growth *from* worthiness, not *toward* it (links to [[acceptance-and-change]]).
 3. Treat yourself as you would a friend ([[self-compassion-best-friend-test]]).
 
+## References
+- **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+*(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
+
 ## Related
 - Brain: [[acceptance-and-change]] cluster, [[self-authorship]], [[emotional-mastery]].
 - Codex: see `codex_pages` above.

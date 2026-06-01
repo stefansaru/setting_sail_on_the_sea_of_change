@@ -212,25 +212,47 @@ hundreds. See `library/README.md`.
 - Library pages contain only **transformative distillation**: brief key-concept summaries,
   your own notes, and *short* attributed quotes. No wholesale text.
 
+### Source selection — ONE file per book (never read the same thing twice)
+A "book" may arrive as a **folder** containing many files: several formats (pdf, epub, rtf…),
+several languages (e.g. RO + EN), an audiobook, chapter-split files, cover images, etc.
+**Pick exactly one source to read.** Algorithm:
+1. List candidate **text** files; **ignore** images, audio (`.mp3/.m4b…`), and video entirely.
+2. Choose **one format** by priority: **EPUB > PDF > RTF/DOCX > TXT** (cleanest text first).
+   Treat the others as duplicates — do **not** read them.
+3. Choose **one language**. Default: **English**; fall back to **Romanian** if no English
+   edition exists. (Override per book if the original/best edition is in another language.)
+4. If the chosen format is **split into chapter files**, that *is* the one book — concatenate
+   them in order. If multiple files are different *editions/languages*, keep only the chosen one.
+5. Record the **chosen file** and the **skipped files** in the registry (provenance).
+
+> Goal: minimum reading for maximum signal. One edition, one language, no re-reads.
+
 ### Extracting text by format (tools verified present on this machine)
-- **PDF:** `pdftotext "input/book.pdf" "C:/tmp/book.txt"` (poppler, already installed). For
-  scanned/visual PDFs, use the Read tool with `pages` ranges instead.
-- **EPUB:** it's a zip of XHTML. Extract with Python (stdlib `zipfile` + `lxml`, both present):
-  read the OPF spine order, strip tags from each XHTML doc, concatenate. (Same pattern as the
-  `.docx` extraction script used for Setting Sail.)
-- **DOCX:** the `zipfile` + `word/document.xml` regex method (see how Setting Sail was extracted).
-- **TXT / MD:** read directly.
-- **MOBI / AZW:** convert to EPUB/PDF first (Calibre `ebook-convert`); not installed here.
+- **PDF:** `pdftotext "input/<book>.pdf" "C:/tmp/<slug>.txt"` (poppler, installed). Scanned/visual → Read tool with `pages` ranges.
+- **EPUB:** zip of XHTML — Python `zipfile` + `lxml` (present): read OPF spine order, strip tags, concatenate.
+- **RTF:** strip control words to text (regex) or `pandoc` if available; else read salient parts via the Read tool.
+- **DOCX:** `zipfile` + `word/document.xml` regex (as Setting Sail was extracted).
+- **TXT / MD:** read directly. **MOBI / AZW:** convert to EPUB/PDF first (not installed).
+
+### Reading strategy — conclusions first, two tiers (read fast, deepen only if it earns it)
+Do **not** read every book cover to cover. Triage:
+- **Tier 1 — fast pass (default, every book):** from the extracted text, read the **table of
+  contents**, the **conclusion / summary / epilogue / "key takeaways"** (often the last
+  ~10–15%), the **introduction** (states the thesis), and any **chapter-end summaries**. From
+  this, capture: thesis, ~8–15 key concepts, best quotes, and the Contribution Report.
+- **Escalation gate:** deep-dive **only if the conclusions are of particular interest** —
+  i.e. they are *novel* vs. the Brain, *sharply contradict* it, or are unusually *dense with
+  actionable ideas*. Otherwise stop at Tier 1.
+- **Tier 2 — deep pass (only when warranted):** read the high-value chapters in full and
+  enrich the Brain accordingly. Note the escalation reason in the registry.
 
 ### The distillation INGEST (per book)
-1. Drop the source in `input/`; extract text to `C:/tmp/` (don't commit the extraction).
-2. Read it. Copy `library/_templates/book-distillation.md` → `library/books/<slug>.md`.
-3. Fill: thesis · ~8–15 key concepts (each linked to the codex page it rhymes/clashes
-   with) · techniques · gold nuggets · **Connections** (agreements & tensions).
-4. Update `library/maps/library-index.md` (add the row; note cross-book agreements/tensions).
-5. Log any *sharp* disagreement in `01-codex/maps/contradictions.md` as a cross-book polarity.
-6. **Namespacing:** if a book's concept becomes its own card, prefix the id with the book
-   slug (`deep-work-attention-residue`) so it never collides with a codex page.
+1. Select the one source file (rules above); extract text to `C:/tmp/` (don't commit it).
+2. **Tier-1 read** (conclusions-first). Copy `library/_templates/book-distillation.md` → `library/books/<slug>.md`; fill thesis · key concepts (each linked to the codex page it rhymes/clashes with) · gold nuggets · **Connections**.
+3. **Register the book** in `library/maps/bibliography.md` (the master reference list): title, author, year, language used, format used, source path, chosen/skipped files, depth tier, date.
+4. Update `library/maps/library-index.md` (the cross-book map). Decide the escalation gate; if Tier 2, do the deep pass and note why.
+5. Feed the Contribution Report into the **Brain** (§12): bump `supported_by`/scores; **ASK the author on any contradiction**; add the book to each affected concept's **## References**.
+6. Log sharp disagreements in `01-codex/maps/contradictions.md`. **Namespacing:** a promoted book-concept's id is prefixed with the book slug.
 
 The payoff: every new book makes the *whole* graph richer — you see where authors converge,
 where they contradict, and where each fills a gap the others leave.

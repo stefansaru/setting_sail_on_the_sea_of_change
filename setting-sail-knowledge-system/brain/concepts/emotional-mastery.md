@@ -45,6 +45,10 @@ emotion from a driver into a dashboard.
 2. Soften a painful memory (dim it, distance the sound) and re-title it with its lesson.
 3. Pre-build state anchors / playlists; choose your temperature before the day sets it.
 
+## References
+- **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+*(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
+
 ## Related
 - Brain: [[the-observer-stance]] (prerequisite), [[agency-over-circumstance]], [[inherent-worth]].
 - Codex: see `codex_pages` above.

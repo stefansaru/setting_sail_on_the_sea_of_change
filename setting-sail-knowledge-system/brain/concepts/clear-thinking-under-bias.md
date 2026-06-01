@@ -45,6 +45,10 @@ high-stakes judgments through slow, deliberate reasoning.
 2. Ask: *what would change my mind, and have I looked for it?* (counter [[confirmation-bias]]).
 3. Check base rates and the simplest explanation before the dramatic story.
 
+## References
+- **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+*(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
+
 ## Related
 - Brain: [[the-observer-stance]] (watch the bias fire), [[agency-over-circumstance]], [[self-authorship]].
 - Codex: see `codex_pages` above.

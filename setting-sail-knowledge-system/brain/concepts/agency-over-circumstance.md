@@ -45,6 +45,10 @@ your direction. Mastery is relocating effort from the uncontrollable to the cont
 2. Spend zero energy on the "not me" column; act on the "me" column (response, attitude, next step).
 3. Convert uncontrollable wishes into controllable objectives ([[wishlist-to-objectives]]).
 
+## References
+- **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+*(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
+
 ## Related
 - Brain: [[the-observer-stance]] (you must notice the gap to use it), [[acceptance-and-change]], [[emotional-mastery]].
 - Codex: see `codex_pages` above.

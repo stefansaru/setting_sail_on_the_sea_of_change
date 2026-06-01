@@ -44,6 +44,10 @@ aren't fatal, and judge by process, not lucky outcomes.
 2. Optimize for compounding (habits, skills, relationships, investments), not quick wins.
 3. Build redundancy so one failure can't end the game; then keep showing up.
 
+## References
+- **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+*(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
+
 ## Related
 - Brain: [[compounding-through-habit]] (the engine), [[meaning-over-happiness]], [[agency-over-circumstance]].
 - Codex: see `codex_pages` above.

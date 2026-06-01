@@ -44,6 +44,10 @@ discover what resonates, then author the *ranking* you commit to.
 2. List what genuinely resonates (signals); then rank them into a hierarchy you'd stand by.
 3. Write values in present tense as a code of conduct; act from it ([[intention-in-context]]).
 
+## References
+- **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+*(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
+
 ## Related
 - Brain: [[meaning-over-happiness]] (authored values point at meaning), [[agency-over-circumstance]], [[inherent-worth]].
 - Codex: see `codex_pages` above.

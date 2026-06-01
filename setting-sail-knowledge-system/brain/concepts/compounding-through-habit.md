@@ -44,6 +44,10 @@ are *starting small*, *designing the environment*, and *consistency over intensi
 2. Design the environment: make the good cue obvious, the bad one hard.
 3. Optimize for showing up daily, not for intensity; let it compound.
 
+## References
+- **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+*(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
+
 ## Related
 - Brain: [[the-long-game]] (habits are how you win it), [[self-authorship]] (identity habits), [[agency-over-circumstance]].
 - Codex: see `codex_pages` above.

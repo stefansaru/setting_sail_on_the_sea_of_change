@@ -39,6 +39,12 @@ brain/
 └── _tools/recompute-brain-scores.py
 ```
 
+## References in every concept
+Each Brain concept ends with a **## References** section listing the books that support it —
+links to each `library/books/<slug>` page and to the master [[bibliography]]. It grows on
+every ingest, and the **number of references = the score**. (`supported_by:` is the
+machine-readable list; **## References** is its human-readable, cited form.)
+
 ## Page conventions
 - `type: brain-concept`. Title = the mode of thinking (e.g. "Agency Over Circumstance").
 - **Synthesis across sources:** a "How each source frames it" section that *grows per book*.

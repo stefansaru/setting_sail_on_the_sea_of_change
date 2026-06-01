@@ -43,6 +43,10 @@ react. With it, a gap opens between stimulus and response.
 2. Picture thoughts as boats passing a dock; let the unhelpful ones drift by.
 3. Before reacting, take one breath — that breath *is* the observer arriving.
 
+## References
+- **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+*(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
+
 ## Related
 - Brain: [[agency-over-circumstance]] (observing is its precondition), [[clear-thinking-under-bias]], [[emotional-mastery]].
 - Codex: see `codex_pages` above.

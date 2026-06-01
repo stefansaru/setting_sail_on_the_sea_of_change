@@ -43,6 +43,10 @@ Meaning is *created*, not found — and it's bigger than any single goal.
 2. Tie goals to a mission and values; savor the process, not only the milestone.
 3. Shift effort from consumption to contribution where you can.
 
+## References
+- **Setting Sail** (home book, source #0) — via the codex pages in this concept's `codex_pages` frontmatter. See [[bibliography]].
+*(Each additional book that supports this concept is appended here on ingest, linking its `library/books/<slug>` page + [[bibliography]]. Reference count tracks the score.)*
+
 ## Related
 - Brain: [[self-authorship]] (authored values aim at meaning), [[the-long-game]], [[agency-over-circumstance]].
 - Codex: see `codex_pages` above.
