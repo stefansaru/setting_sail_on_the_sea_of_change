@@ -197,3 +197,79 @@ The codex is a faithful archive, not a rewrite. Standing policy (set by the auth
 - Prefer **logging a gap or contradiction** over smoothing it away.
 - Preserve the author's metaphors and mascots — they are the system's memory hooks
   and its richest content-generation fuel.
+
+---
+
+## 11. The Library — distilling *other* books
+
+`library/` holds **distillations of other authors' books**, cross-linked into the same
+graph. This is a *lighter* operation than the full INGEST: **one page per book**, not
+hundreds. See `library/README.md`.
+
+### Copyright (important)
+- Source files live in the repo-root **`input/` folder, which is git-ignored** — never
+  commit a copyrighted book or its full-text extraction.
+- Library pages contain only **transformative distillation**: brief key-concept summaries,
+  your own notes, and *short* attributed quotes. No wholesale text.
+
+### Extracting text by format (tools verified present on this machine)
+- **PDF:** `pdftotext "input/book.pdf" "C:/tmp/book.txt"` (poppler, already installed). For
+  scanned/visual PDFs, use the Read tool with `pages` ranges instead.
+- **EPUB:** it's a zip of XHTML. Extract with Python (stdlib `zipfile` + `lxml`, both present):
+  read the OPF spine order, strip tags from each XHTML doc, concatenate. (Same pattern as the
+  `.docx` extraction script used for Setting Sail.)
+- **DOCX:** the `zipfile` + `word/document.xml` regex method (see how Setting Sail was extracted).
+- **TXT / MD:** read directly.
+- **MOBI / AZW:** convert to EPUB/PDF first (Calibre `ebook-convert`); not installed here.
+
+### The distillation INGEST (per book)
+1. Drop the source in `input/`; extract text to `C:/tmp/` (don't commit the extraction).
+2. Read it. Copy `library/_templates/book-distillation.md` → `library/books/<slug>.md`.
+3. Fill: thesis · ~8–15 key concepts (each linked to the codex page it rhymes/clashes
+   with) · techniques · gold nuggets · **Connections** (agreements & tensions).
+4. Update `library/maps/library-index.md` (add the row; note cross-book agreements/tensions).
+5. Log any *sharp* disagreement in `01-codex/maps/contradictions.md` as a cross-book polarity.
+6. **Namespacing:** if a book's concept becomes its own card, prefix the id with the book
+   slug (`deep-work-attention-residue`) so it never collides with a codex page.
+
+The payoff: every new book makes the *whole* graph richer — you see where authors converge,
+where they contradict, and where each fills a gap the others leave.
+
+---
+
+## 12. The Brain — the scored, compounding synthesis
+
+`brain/` is the top layer: **cross-source master concepts** (the recurring "ways of thinking"),
+each **scored by how many books support it**, building toward one description of an efficient
+way of thinking that improves life ([[the-efficient-mind]]). See `brain/README.md`.
+
+### Scoring (the rule)
+- Each `brain/concepts/<id>.md` has `supported_by:` (list of source slugs) and `contested:`.
+- **`score = number of distinct sources in `supported_by``** — the single source of truth.
+- `brain/_tools/recompute-brain-scores.py --write` recomputes every `score:` and regenerates
+  the leaderboard in `brain/maps/brain-index.md`. Never hand-edit scores; edit `supported_by`.
+- More sources endorsing a concept → higher score → more central to the recommended way of thinking.
+
+### What belongs in the Brain (vs. the codex)
+- The Brain is **higher-order and selective**: only the cross-cutting modes of thinking that
+  recur across books. Not every codex/book concept is promoted.
+- A Brain concept *synthesizes* and links **down** to the codex pages (Setting Sail's instance)
+  and `library/books/<slug>` pages that support it. Don't duplicate their detail — point to it.
+- Seed the Brain from the most-referenced codex concepts; expand as books arrive.
+
+### Updating the Brain (per book) — and the contradiction rule
+Driven by the per-book sub-agent's Contribution Report (`03-engine/prompts/ingest-book-subagent.md`):
+1. **supports** → append the book slug to the matched concept's `supported_by:` + add an
+   "How each source frames it" bullet with evidence.
+2. **new_concepts** → create a new Brain page (or `seed` row) if genuinely cross-cutting.
+3. **contradicts → ASK THE AUTHOR.** This is a hard rule: when a book clashes with the Brain
+   or another book, **pause and ask** (AskUserQuestion) how to resolve — keep both as a
+   [[polarity-thinking|polarity]] (log in `01-codex/maps/contradictions.md`), prefer one
+   source, or add a missing dimension. Mark the concept `contested: true`. Never silently pick a side.
+4. Run the score script; periodically regenerate [[the-efficient-mind]] from the leaderboard top.
+
+### Scale: one sub-agent per book
+For large libraries, spawn **one sub-agent per book** (batches of ~5–10). Each writes only its
+own `library/books/<slug>.md` (no write conflicts) and returns a Contribution Report; the
+**orchestrator** serially merges reports into `brain/` and handles contradictions with the
+author. For a few short books, ingest directly without spawning.

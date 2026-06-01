@@ -50,7 +50,7 @@ as devotion.
 
 ## Related concepts
 - [[relationship-phases-dating-vs-longterm]] — the model this strengthens.
-- [[self-esteem-under-the-microscope]] — esteem can't be outsourced to a partner *(forward link — Ch.4)*.
+- [[self-esteem|self-esteem (under the microscope)]] — esteem can't be outsourced to a partner *(forward link — Ch.4)*.
 
 ## Source locations
 - Ch.3 §3.24 "love and relationships"

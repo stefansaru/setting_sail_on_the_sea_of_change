@@ -33,7 +33,7 @@ on in a child.
 ## Supporting ideas
 - [[life-as-tree-and-flame]] — the twin metaphors.
 - [[vestigial-structures]] / [[recapitulation-embryo]] — the lineage written into body and development.
-- Resonates with the [[legacy-the-epilogue|legacy purpose]]: passing something living forward.
+- Resonates with the [[the-epilogue|legacy purpose]]: passing something living forward.
 
 ## Opposing ideas & tensions
 - **Poetic, not rigorous biology.** "The first cells are still dividing inside us" is a

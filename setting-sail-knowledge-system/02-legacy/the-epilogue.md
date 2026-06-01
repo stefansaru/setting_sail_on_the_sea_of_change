@@ -1,5 +1,5 @@
 ---
-id: legacy-the-epilogue
+id: the-epilogue
 title: "The Epilogue — Why This Book Exists"
 type: legacy-reference
 status: stable
@@ -38,7 +38,7 @@ case something happens" and he doesn't get the chance to say them in person:
 This epilogue is the mission statement of the whole repository. The four pillars exist
 *because of* this: the codex preserves the ideas precisely, and the **legacy layer**
 exists so his daughter can "still hear his voice" — exactly what
-[[02-legacy/voice.md]] and the [[letters]] are for. When in doubt about tone or
+[[voice]] and the letters are for. When in doubt about tone or
 priority in `02-legacy/`, return to this page.
 
 ## How to use it

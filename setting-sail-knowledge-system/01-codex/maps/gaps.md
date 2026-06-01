@@ -67,7 +67,7 @@ counter-balancing page on the limits of mindset would keep the system honest.
 "Will to receive / will to bestow" ([[will-to-receive-and-will-to-bestow]]) echoes
 Kabbalistic language; [[rocky-the-stoic-dog]] descends from Zeno/Chrysippus's
 cart-and-dog. The book presents them without lineage. Not errors, but worth noting for
-scholarly integrity and for the [[influences]] map.
+scholarly integrity and for the influences map.
 
 ---
 *Logging convention:* `G<n> — short title`, describe the gap, name what would fill

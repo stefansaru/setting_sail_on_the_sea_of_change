@@ -33,7 +33,7 @@ A running record of what's been processed and what's next. Update on every INGES
 - Financial-literacy module fully captured ([[cashflow-sheet]] → [[financial-independence-number]]).
 
 ### 2026-06-01 — Chapter 10 ingested (book finale)
-- **Ch.10 — Intention in Context** fully processed — 19 codex pages (2 principles, 7 concepts, 3 techniques, 5 metaphors, +[[robert-axelrod]] & [[stephen-covey]] influences) + the [[legacy-the-epilogue|legacy epilogue page]].
+- **Ch.10 — Intention in Context** fully processed — 19 codex pages (2 principles, 7 concepts, 3 techniques, 5 metaphors, +[[robert-axelrod]] & [[stephen-covey]] influences) + the [[the-epilogue|legacy epilogue page]].
 - Capstone tool [[intention-in-context]] + signature metaphor [[the-intention-donut]] captured.
 - **Resolved [[contradictions|C4]]** (private values vs. others) via [[generous-tit-for-tat]]; resolved Ch.3 forward link [[generous-tit-for-tat]].
 
@@ -99,4 +99,4 @@ The whole book is in. Remaining work is enrichment, not extraction:
 
 *(Verified by filesystem count: concept 153 (incl. 6 `status: synthesis`), principle 20, technique 34, metaphor 44, influence 11 = 262 atomic pages + 9 maps. Per-chapter rows are approximate due to cross-chapter back-fills.)*
 
-*(plus legacy: [[legacy-the-epilogue]], [[letter-on-saying-no|on-saying-no letter]], for-my-daughter index, voice notes.)*
+*(plus legacy: [[the-epilogue]], [[on-saying-no|on-saying-no letter]], for-my-daughter index, voice notes.)*

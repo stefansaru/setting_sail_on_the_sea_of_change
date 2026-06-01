@@ -28,7 +28,7 @@ Evolution follows a simple rule: "if it's not broken, keep it." So our bodies re
 Vestigial structures are tangible proof of our evolutionary history written into the
 body — the physical counterpart of [[vestigial-mind-wirings|mental relics]] and the
 clearest illustration of [[evolutionary-mismatch]]. (The palmaris longus is also the
-personal detail the author points his daughter to in the [[legacy-the-epilogue|epilogue]].)
+personal detail the author points his daughter to in the [[the-epilogue|epilogue]].)
 
 ## Supporting ideas
 - "If it's not broken, keep it" — evolution discards only what actively costs.

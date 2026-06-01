@@ -1,5 +1,5 @@
 ---
-id: letter-on-saying-no
+id: on-saying-no
 title: "On Learning to Say No"
 type: legacy-letter
 status: draft

@@ -28,6 +28,9 @@ It is built to be four things at once:
   maps/         The knowledge graph, Maps-of-Content, themes, contradictions, gaps.
 02-legacy/      The inheritance layer — distilled wisdom in the author's voice.
 03-engine/      The content-generation layer — templates, prompts, series outlines.
+library/        Distillations of OTHER books, cross-linked into the same graph.
+brain/          The scored, compounding synthesis — modes of thinking ranked by how
+                many books support them; capstone: the-efficient-mind.md.
 _schema/        The governor — rules, page templates, taxonomy, lint checklist.
 ```
 
