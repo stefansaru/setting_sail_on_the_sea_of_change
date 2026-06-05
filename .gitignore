@@ -4,6 +4,7 @@
 # so the structure persists. The faithful text extraction in
 # setting-sail-knowledge-system/00-sources/ IS tracked.
 input/*
+output/*
 !input/.gitkeep
 
 # --- Editor / vault cruft ----------------------------------------------------

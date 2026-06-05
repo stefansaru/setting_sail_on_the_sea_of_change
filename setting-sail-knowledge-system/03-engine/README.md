@@ -13,6 +13,28 @@ courses, and prompts for future AI assistants.
   podcast outline, social post, course module).
 - `series/` — outlines that sequence codex pages into a body of content
   (e.g. a "camel → lion → child" video trilogy; a 10-part newsletter on biases).
+- `world/` — the **story-world bible**: atomic lore pages for a series' fictional universe
+  (world concept, mechanics, technology, environment), each carrying its `canon-registry` ID.
+  The registry is the index; these pages hold the depth.
+- `scripts/` — **drafted episode scripts** (the verbatim prose the audit runs against), named
+  `s1e##-slug.md` (+ descriptive slugs for unslotted standalones). See `scripts/README.md` for the
+  Episode Guide. Paired with the outline in `series/` and the canon in `world/`.
+- `craft/` — house references for *how* to write, shoot, and produce a given form, plus the
+  audit apparatus: `fantasy-writing.md` (universal story craft), `scifi-writing.md` (the
+  science-fiction genre overlay, with `avoiding-bad-scifi.md` anti-patterns),
+  `scifi-cinematography.md` (visual craft, with deep-dives
+  `negative-space.md`, `lighting.md`, `vertical-grammar.md` (9:16),
+  `chromatic-expressionism.md` (the 5-master-artist scenic color/light system), and the
+  `cinematography-techniques.md` master toolkit), `setting-design.md` (setting &
+  production-design aesthetics), `film-production.md` (end-to-end production workflow), and the
+  ops docs `ai-production-toolkit.md` (AI tool pipelines + cost), `market-research.md`
+  (audience), `distribution-strategy.md` (the YouTube–TikTok Barbell + runtime pacing map), and
+  `risk-analysis.md` (risk/mitigation matrix); `revelation-cadence.md` (the **information-rationing**
+  guideline — the Revelation Ledger + Reserve Vault: how much world the *audience* gets per episode);
+  `writing-requirements.md`
+  (auditable GATE/SCORED requirements — story layers, the CINE layer + the REVEAL cadence layer); `canon-registry.md`
+  (+ `.template.md` — the per-anthology source of truth for story *and* visual `VIS-*`
+  consistency); and `audit-reports/` (timestamped scorecards).
 - `tools/` — optional helper scripts (lint, link audit, graph export).
 
 ## The core idea
