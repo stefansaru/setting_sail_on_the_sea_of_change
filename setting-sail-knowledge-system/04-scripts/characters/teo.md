@@ -1,0 +1,60 @@
+---
+id: teo
+name: Teo
+canon: CHR-09 (Q-34 provisional name · Q-35 may fold into Kai)
+role: Season 4 supporting — "The Hero"; the base worker who answers the lure
+status: provisional
+seasons: [S4, S5 (Part 2)]
+tags: [supporting, shadow, the-hero, hull-four, the-lure, season-4]
+related: [kai, the-ai-guide]
+created: 2026-10-12
+updated: 2026-10-12
+---
+
+> The inexperienced, kind, biological worker at the base of the pyramid who keeps decoding after the
+> order to stop, finds the words *"you can be our hero,"* and sends the fleet's position into the dark.
+
+## Identity
+**Teo** — from *Theodoros*, "gift": the one who gives something away. Provisional (`Q-34`). A stasis
+[[the-shadow-entity|Shadow]] on **Hull Four**, Kai's bay-mate on the maintenance rota, younger in the
+voyage, never promoted a tier. The exact mind the [[the-lure-beacon|lure]] was built for: hopeful,
+under-informed, and told *what* but never *why*. *(`Q-35`: the author may fold this role into **Kai**, which
+would make Kai's E19 silence self-protection as well as mercy.)*
+
+## Arc
+- **Season 4.** Watches the "supernova" with the whole base (E6) → is moved to tears by *"we're just like
+  you"* in his own language (E7) → is told, without reason, that the fleet will not answer (E8) → keeps
+  decoding, finds layer 4, and **sends the burst** — heading, speed, acceleration — disregarding the order;
+  nobody notices (E9) → Hull Four is struck through its own window (E10) → his body goes out in a
+  **lifeboat**; he never learns, in S4, that the hit was his (E12) → received on Hull One as one of the
+  refugees whose chemistry halts the ramp (E16–17). The High Clock knows what he sent and files it under
+  *sensor fault* (E19). Kai knows too, and does not tell him.
+- **Part 2 (held).** The one the lost hull's signals will reach first — because he answered once.
+
+## Body-clock & glyph
+- **Body:** 100% organic Shadow throughout S4; crosses to Hull One *as a body*, in a lifeboat — the
+  expensive way ([[the-stasis-economy]]).
+- **Glyph:** no Lens of his own in S4; he is seen through Kai's.
+
+## Want · Fear · Lie · Truth
+- **Want:** to help; to matter. **Fear:** to be useless at the bottom of a ladder he can't climb.
+- **Lie:** *they're just like us.* **Truth:** the Doughnut's hardest version — *the message was a lie / the
+  person who answered was good.*
+
+## Relationships
+- **Kai** ([[kai]]) — bay-mate, the one who knows. The friendship is the season's quiet bill.
+- **The High Clock** (`FAC-05`) — never meets it; it decided his fate in an afternoon he couldn't attend.
+
+## Voice & signature
+Earnest, quick to translate for others, says "we" early. His one decisive act is the kindest and most
+catastrophic thing anyone does in the season.
+
+## Appears in
+Season 4 (E6–12, E16–17). Part 2 (held).
+
+## Open questions
+- Name (`Q-34`). Fold into Kai (`Q-35`)? Does he learn the truth in Part 2, and from whom?
+
+## Related
+- Canon: `CHR-09` in [[canon-registry]]. World: [[the-lure-beacon]] · [[the-sealed-manifest]] ·
+  [[the-stasis-economy]]. Season: [[setting-sail-the-seed-ledger]].

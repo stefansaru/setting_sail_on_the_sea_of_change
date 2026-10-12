@@ -196,7 +196,8 @@ The triptych is closing, but the world stays larger than the frame:
 - **What the released Grid *becomes*** once its founding grief is metabolized — a tool, or something new — is
   left to the audience (permanent).
 - **Whether the still-distributed DP-remainder fully dissolves** at the finale, or a quiet shard persists.
-- **The Centauri clone's separate civilization** — glimpsed, never toured.
+- **The Centauri clone's separate civilization** — glimpsed, never toured. *(→ toured, provisionally, as the
+  **Seed Fleet** of [[setting-sail-the-seed-ledger|Season 4]] — `Q-28`, added 2026-10-12.)*
 
 ## Audit & consistency note
 Audit each drafted S3 script with [`../prompts/audit-script.md`](../prompts/audit-script.md) against
