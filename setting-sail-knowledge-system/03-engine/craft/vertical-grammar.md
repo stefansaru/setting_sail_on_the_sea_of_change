@@ -83,7 +83,7 @@ Vertical shorts are watched small, fast, often muted:
 - Adapts [[scifi-cinematography]] (§4 scale, §5 composition, §11 focus), [[negative-space]] (lead/
   looking room → vertical), and [[cinematography-techniques]] (toolkit re-oriented) for 9:16.
 - The diegetic UI is the [[the-perspective-lens-ui]] (`VIS-08`); its on/fade states are story coverage.
-- Worked example: the Ep 19 breakdown in [`../scripts/s1e19-the-pure-current.md`](../scripts/s1e19-the-pure-current.md).
+- Worked example: the Ep 19 breakdown in [`../../04-scripts/episodes/s1e19-the-pure-current.md`](../../04-scripts/episodes/s1e19-the-pure-current.md).
 - Audited under `CINE-08/09/13/14`; recurring choices recorded in `VIS-*` of [[canon-registry]].
 
 ## Sources & credits

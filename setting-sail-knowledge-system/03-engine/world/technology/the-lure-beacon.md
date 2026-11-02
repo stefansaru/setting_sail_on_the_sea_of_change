@@ -58,7 +58,7 @@ leaves it undefended. The Doughnut: *the message was a lie / the person who answ
 mode:** a hero.
 
 ## Open questions
-- Who sends the burst — a supporting character (**Teo**, `CHR-09`, `Q-34`) or **Kai** themself (`Q-35`)?
+- Who sends the burst — a supporting character (**Teo**, `CHR-09`) or **Kai** themself (`Q-35`)?
 - Register of the Unlisted beyond the beacon (`Q-30`): shown in Part 2, or only ever heard?
 - Whether the burst is *discovered* by the High Clock at once (lean: yes — the array logs every
   transmission) and buried under "sensor fault" to prevent a lynching at the base.

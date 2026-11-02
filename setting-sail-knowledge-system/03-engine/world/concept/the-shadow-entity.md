@@ -26,10 +26,10 @@ medium — hence the name.
   recent events (the redundancy [[the-ghost-entity|Ghosts]] lack is *this fuzzy fallback*, not a full copy).
 - **The pull of the body.** The biological container needs maintenance, nutrient cycling, and waste
   management; a Shadow **cannot stray from its home node indefinitely**. *(Tier access itself is
-  unbound while connected — the limit is network priority/merit, not the skull; resolves S-03.)*
+  unbound while connected — the limit is network priority/merit, not the skull; resolves S-03. Holds on Earth; fleet stasis caps it, `Q-46`.)*
 - **Tether Sickness.** When network proximity decays (the tether "stretches" = connection strength
   drops), the mind **drops to lossy biological memory** mid-thought — the high-granularity self falls
-  away and only the blurry human version remains: a visceral, hallucinatory panic. *(The felt experience
+  away and only the blurry human version remains, in a brain that has barely been used ([[the-quickening]]): a visceral, hallucinatory panic. *(The felt experience
   of **tether decay**, quantified as the TTD countdown — [[tether-decay]] `MAG-22`. There is no dreaming
   in-grid, so the brain-cache must be rested via Sabbaticals or it collapses.)*
 

@@ -27,6 +27,9 @@ datacenters.
   radiation threatens packet corruption and the transit years make Earth-side stasis volatile, so
   the traveler **leaves their Original Active Ledger running on Earth** while an exact **Data-Clone**
   is beamed across the void. Two instances now live in parallel.
+- **The receiver is a ship.** You can't beam the first datacenter (audit gap S-08). Earth's interstellar beams
+  land on [[the-seed-fleet|the fleet]], already in flight: light overtakes ships. A beamed mind has no body, so
+  it arrives a Ghost (`Q-45`).
 - **Post-transit identity choice** — once the mission syncs:
   - **The Merge** — fuse both ledgers into one identity, integrating two whole lifetimes of
     experience (and the psychological identity-friction that comes with it).

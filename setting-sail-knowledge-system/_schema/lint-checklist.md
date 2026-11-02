@@ -1,7 +1,7 @@
 # Lint Checklist
 
 Run this after any INGEST pass, or periodically, to keep the codex healthy.
-A future helper script (`03-engine/tools/`) can automate the mechanical checks.
+A future helper script (in a `_tools/` folder, like `brain/_tools/`) can automate the mechanical checks.
 
 ## Structural
 - [ ] Every codex page's frontmatter `id` equals its filename (minus `.md`).

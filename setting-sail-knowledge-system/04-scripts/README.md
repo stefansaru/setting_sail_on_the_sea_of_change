@@ -23,15 +23,17 @@
 | **Raul** | [[raul]] | `CHR-02` | Protagonist — "the Unsynced Mind" | S1 lead · S2 guide · S3 lead |
 | **Mara, the Cartographer** | [[mara]] | `CHR-01` | The architect / Distributed President; incarnates | S1–S2 trace · S3 |
 | **Adam** | [[adam]] | `CHR-06` | "The Grounded One" — the inverse pilgrim | S2 lead · S3 |
-| **Ruth** | [[ruth]] | `CHR-07` | Adam's mother; the S3 surrogate (Book of Ruth) | S1 · S2 · S3 |
+| **Naomi** | [[naomi]] | `CHR-11` | Adam's mother; breaks her vow, dies mortal | S1 · S2 |
+| **Ruth** | [[ruth]] | `CHR-07` | The one who stays; the S3 surrogate (Book of Ruth) | S2 · S3 |
 | **Vance** | [[vance]] | `CHR-04` | Antagonist — the optimization tempter | S2 · S3 |
-| **Maya** | [[maya]] | `CHR-05` | Raul's partner; the Proximity Illusion | S1 · S2 · S3 |
+| **Vesper** | [[vesper]] | `CHR-05` | Raul's partner; the Proximity Illusion | S1 · S2 · S3 |
 | **The AI Guide** | [[the-ai-guide]] | `CHR-03` | The comforting guide (the Teddy Bear) | S1 · S2 echo |
-| **The Centauri Clone** | [[the-centauri-clone]] | `CHR-02` Branch (`Q-14`) | Raul's branched other self; S3 rival-engineer | S1 · S3 |
+| **Rafe** (the Centauri Clone) | [[the-centauri-clone]] | `CHR-02` Branch (`Q-14`) | Raul's branched other self; S3 rival-engineer | S1 · S3 |
 | **Jun** | [[jun]] | supporting (`Q-08`) | Raul's friend; the gentle Cyborg Slip | S1E7 |
 | **Nia** | [[nia]] | supporting (`Q-08`) | The Purist who becomes what she refused | S1E11–13 |
 | **Kai** | [[kai]] | `CHR-08` (`Q-27`) | "The Sleeper" — the colonist trapped on Hull Four | S4 lead · S5 |
 | **Teo** | [[teo]] | `CHR-09` (`Q-34`/`Q-35`) | "The Hero" — the worker who answers the lure | S4 · S5 |
+| **Decimus** | [[decimus]] | `CHR-10` | The bay safeguard who jumps straight to 1 in 10 | S4 · S5 |
 
 > **Minor / unwritten** (add a page as each is named, `Q-08`): the E1 parents, the Hope **Pastor**, the
 > E19/E20 **Purist mother**. The terse index for all of the above is the `CHR-*` table in the

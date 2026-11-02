@@ -84,11 +84,12 @@ shadow. (Per-season; this is the Season-1 vault.)
 | [[intention-in-context-law]] (`MAG-18`) + merit-keys; **Vance** (`CHR-04`) + [[intent-patch]] (`MAG-21`) | none — Vance is bible-only, absent from all 20 | the antagonist/Law strand is the S2 engine (`Q-10`) |
 | [[the-personal-blockchain]] (`MAG-11`) · [[compliance-validation-protocol]] (`MAG-20`) | one **teaser** only — E12 *"…want your chain made public? Just in case." / "I'll think about it."* | seed the apparatus; don't run it until S2 (see F-1) |
 | [[standardized-vices]] (`WLD-15`) · [[intimate-commerce]] (`WLD-16`) | none | adult-society texture, off the descent's spine |
-| [[frequency-tribes]] (`WLD-17`) Dunbar/Proximity Illusion; **Maya** (`CHR-05`) | caste **slang** only (E8) | the Proximity-Illusion / Maya reel is unslotted (`Q-11`) — a held reunion thread |
+| [[frequency-tribes]] (`WLD-17`) Dunbar/Proximity Illusion; **Vesper** (`CHR-05`) | caste **slang** only (E8) | the Proximity-Illusion / Vesper reel is unslotted (`Q-11`) — a held reunion thread |
 | [[tether-decay]] (`MAG-22`) TTD / dreamless insomnia; the **Dream Hunger** | none | a standalone candidate, not on the S1 line |
 | [[data-graveyards]] (`PLC-09`) Data Dementia | none | a place for a later descent |
 | [[the-absolution-protocol]] (`MAG-16`) church-prison sentence | only Hope's **medical** side shows (E11–13) | the carceral half of [[the-ministry-of-hope]] is held |
 | [[parallel-pedagogy]] (`WLD-18`) the Merging, dramatized | carried **implicitly** by the hollow "Camel's Doughnut" glyph; the [[the-split-mirror|Split Mirror]] origin is unslotted | the glyph *is* the reveal; don't flash back to explain it |
+| [[the-one-in-n-rule]] (`MAG-32`) ratings, batches, failed forks | collar tags (`1:30`) as unexplained throwaways; at most one spoken line (E10) | S2 pays it (E12–14); that Mara wrote the creed and never took the test is S3 |
 
 ### S3 reserve — culture/etiquette beats deferred past S2
 Held for the **Season-3 vault** (no S1/S2 home; surface only if a slot genuinely opens, else they wait):
@@ -100,11 +101,12 @@ Held for the **Season-3 vault** (no S1/S2 home; surface only if a slot genuinely
 ### Permanent mysteries — protect from *ever* over-explaining
 Some gaps stay gaps even past the finale ([[fantasy-writing]] §17 — the reader co-builds what you leave
 blank). Do not bottom these out, in S1 or later:
-- **The Distributed President's true nature** — a villain-less systemic weather, not a person to unmask.
+- **~~The Distributed President's true nature~~** — moved 2026-11-02: **held until S3**, which reveals her as Mara. In S1–S2 she stays a villain-less systemic weather.
 - **The AI Guide** ([[canon-registry|`CHR-03`]]) — is the Teddy-Bear/Guide *ever* untrustworthy? Keep it open.
 - **What lies "under" the render** beyond raw code — don't reveal a final substrate; the descent is the point.
 - **E20's actual choice** — the finale cuts *before* the Purist mother chooses; the *holding* was the point.
-  Never shoot the resolution.
+  Never shoot it clean. *(Amended 2026-11-02: the result may be known, as S2 requires, and the moment may appear
+  only through a lossy memory.)*
 
 ## 7. How it's audited
 - **REVEAL layer** in [[writing-requirements]] (`REVEAL-01..06`) — gates the budget (§4), the valve (§3),
@@ -126,9 +128,11 @@ blank). Do not bottom these out, in S1 or later:
 | 1 | ★ existence begins **in a capsule** — minds wander a simulated world (never named "sim") | · parents' bodies rest on Earth (`FCT-009/010`) | experience |
 | 2 | ★ consciousness wakes **in-grid**; the **AI Guide** (`CHR-03`) | · the Lens exists (one circle: *Safe*) | UI |
 | 3 | ★ the **metric reward loop** — Intention squares pay out validation | · the nursery has *walls* (a seam of light) | UI / experience |
+| 3a | ★ the **negative loop** / the virtuous principles | · capsule **bpm** intercut (audience only; guards E6) · Teddy's collar tag | experience |
+| 3b | ★ the **pattern detector** — the Lens can act for you | · unnamed officials · plant → S3 the un-run clip · dilation felt, unnumbered (guards E5/E12) | experience / UI |
 | 4 | ★ it's all **rendered** — a billboard glitches to raw grey code | · *Utopia Score*; **plant → E10** | experience / UI |
 | 5 | ★ the **velocity tiers** + forced **down-clock**; post-labor displacement | · governance as an *unnamed* ruling; the **Global Loop** / Despair field | experience |
-| 6 | ★ Raul is a **Shadow** — body in a pod, brain = antenna, the **tether** | · Ghosts pass with **pity** (plant → E7/E17) | UI / experience |
+| 6 | ★ Raul is a **Shadow** — body in a pod, brain = antenna, the **tether** | · ***Host age: 14 weeks*** · Ghosts pass with **pity** (plant → E7/E17) | UI / experience |
 | 7 | ★ the **Cyborg Slip** → a **Ghost**; the **"slight itch"** | · proxy-presence at Tier 0 | experience |
 | 8 | ★ **"shells with ghosts within"** — the caste line | · caste **slang** (*Vapor / Glacial*) | idiom |
 | 9 | ★ the **physical Grid** — lunar servers + **Mirror Constellation** | · *"Solar weather advisory — elevated"* (plant → E10) | wonder beat |

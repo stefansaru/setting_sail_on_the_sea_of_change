@@ -51,7 +51,7 @@ or its only mercy?* Echoes [[the-distributed-president]] (law from status, never
 fleet scale.
 
 ## Open questions
-- Who, exactly, sits on the High Clock — and is the [[the-centauri-clone|Centauri Clone]] among them (`Q-28`)?
+- Who else sits on the High Clock? [[the-centauri-clone|Rafe]] does (`Q-28`, `Q-45`); the rest of the council is open.
 - Does the manifest's Earth clause tie back to **Mara** / the Distributed President (S3), or is the fleet
   launched before or beyond her era (`Q-29`)?
 - Is *the Unlisted* a thing the High Clock discovered — or a thing it already knew to expect (`Q-30`)?

@@ -1,7 +1,7 @@
 ---
 id: teo
 name: Teo
-canon: CHR-09 (Q-34 provisional name · Q-35 may fold into Kai)
+canon: CHR-09 (Q-35 may fold into Kai)
 role: Season 4 supporting — "The Hero"; the base worker who answers the lure
 status: provisional
 seasons: [S4, S5 (Part 2)]
@@ -15,7 +15,8 @@ updated: 2026-10-12
 > order to stop, finds the words *"you can be our hero,"* and sends the fleet's position into the dark.
 
 ## Identity
-**Teo** — from *Theodoros*, "gift": the one who gives something away. Provisional (`Q-34`). A stasis
+**Teo** — from *Theodoros*, "gift of God": the one who gives something away. **Teddy is short for the same name:**
+the kind worker is what the bear raised. A stasis
 [[the-shadow-entity|Shadow]] on **Hull Four**, Kai's bay-mate on the maintenance rota, younger in the
 voyage, never promoted a tier. The exact mind the [[the-lure-beacon|lure]] was built for: hopeful,
 under-informed, and told *what* but never *why*. *(`Q-35`: the author may fold this role into **Kai**, which
@@ -53,7 +54,7 @@ catastrophic thing anyone does in the season.
 Season 4 (E6–12, E16–17). Part 2 (held).
 
 ## Open questions
-- Name (`Q-34`). Fold into Kai (`Q-35`)? Does he learn the truth in Part 2, and from whom?
+- Fold into Kai (`Q-35`)? Does he learn the truth in Part 2, and from whom?
 
 ## Related
 - Canon: `CHR-09` in [[canon-registry]]. World: [[the-lure-beacon]] · [[the-sealed-manifest]] ·

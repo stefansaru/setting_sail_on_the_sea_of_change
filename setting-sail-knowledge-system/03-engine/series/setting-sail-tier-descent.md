@@ -106,11 +106,14 @@ Organic-to-Synthetic countdown in their stasis capsule. The descent of the *mind
 | III (11–15) | **30% organic** cyborg | Ep 14–15 neural-synthetic upgrade for data-beam bandwidth |
 | IV (16–20) | **0% organic** Ghost | Ep 17 final cell death → Ghost; Ep 19 inhabits a Cyborg Shell |
 
+*After Ep 10 Raul runs at **Tier 0**, like most cyborgs ([[velocity-tiers]]), which is how he can wait years for
+the clone's reply (E14→E16). Real-time reference: [[the-quickening]].*
+
 ---
 
 ## Season 1 — "The Intention Ledger" (20-episode blueprint)
 Format per episode: **Setting · Plot · UI/Visual hook.** Ep 1–3 have drafted scripts in
-[`../scripts/`](../scripts/). Every 2.5-min script follows the **runtime pacing template** (hook 0:05 →
+[`../../04-scripts/episodes/`](../../04-scripts/episodes/). Every 2.5-min script follows the **runtime pacing template** (hook 0:05 →
 Act I context → Act II friction → cliffhanger) in [[distribution-strategy]] §3 — built to ride the
 TikTok/YouTube retention curve.
 
@@ -127,6 +130,12 @@ TikTok/YouTube retention curve.
    slipping, learning that getting back up brings reward. *UI:* low-angle tracking; the Teddy Bear's
    claps spawn **dopamine "positive" metrics** in the bottom squares — teaching the seeking of constant
    validation. → script `s1e03`.
+   - **3a. He Started It** — *Tier 2.* Raul and **Jun**, about eight, fight over the ball from E3. Teddy names
+     the [[the-virtuous|negative loop]]; they keep fighting; ten breaths in real time, hearts falling in the
+     capsules. *UI:* amber circles; sound drains to one held note. → script `s1e03a`.
+   - **3b. The Upper Level** — *Tier 2 → 3 → 2.* Windows of lifelong loops while Teddy petitions the unnamed
+     officials and wins a [[the-pattern-detector|pattern detector]]. Back home, Raul's hand opens without him.
+     *UI:* the thread, **LOOP FORMING**, a square that fills itself. → script `s1e03b`. *(Numbering: `Q-39`.)*
 4. **Internalizing the Exterior** — *→ Tier 1.* Now an adolescent digital entity in a curated virtual
    city, accepting societal rules unquestioningly, sure their [[the-perspective-lens-ui|Lens]] *is*
    truth. *UI:* high-key saturated neon; top circles swell with corporate "Utopia" scores — the toxic-
@@ -143,7 +152,7 @@ TikTok/YouTube retention curve.
 6. **Shadows in the Neon** — *Tier 1.* Entering the adult workforce, the protagonist learns they are a
    **[[the-shadow-entity|Shadow]]** — mind quantum-tethered to a body sleeping in a capsule node. *UI:*
    a faint geometric **tether line** pulses at the screen edge, tracking the body's health/nutrient
-   status.
+   status. A readout: **Host age: 14 weeks** ([[the-quickening]]).
 7. **The Cyborg Slip** — *Tier 0 → 1.* A close friend in the physical world reaches the threshold —
    their last organic cell dies. *UI:* a pause, a **slight passing itch** on a synthetic wrist, a
    smile, and a newly autonomous **[[the-ghost-entity|Ghost]]** ledger logs into the network.
@@ -172,7 +181,7 @@ visits is `Q-09`. The UI shifts to Hope's Parish Metrics + Sanctuary-Void look (
     light; a real-world **24-hour countdown** embeds; the opening flattens into the
     [[chromatic-expressionism|"Despair" filter]] (black blocks + oxidized crimson). → [[the-1-percent-mutation]].
 12. **The 24-Year Lab** — *Tier 3 Apex.* The dying character emergency-plunges into max dilation:
-    minutes on Earth, a subjective **decades-long** lifetime designing a cure. *UI:* a peer: *"Sure you
+    about two and a half real hours, a subjective **decades-long** lifetime designing a cure. *UI:* a peer: *"Sure you
     don't want your blockchain ledger public? Just in case?"* — *"I'll think about it."*
     ([[the-personal-blockchain|Chain-Check]]). Breakthrough beats bloom into the
     [[chromatic-expressionism|"Sublime Contemplation" filter]] (cadmium orange / violet / amber).
@@ -183,7 +192,7 @@ visits is `Q-09`. The UI shifts to Hope's Parish Metrics + Sanctuary-Void look (
     **data-beaming**: copy context + ledger to a laser array while the original keeps running on Earth.
     *UI:* the screen splits — **Earth Instance** routine vs **Deep-Space Clone Packet** flashing across
     the void. → [[the-cosmic-clone-paradox]].
-15. **The Forked Identity** — *Alpha Centauri mining station.* The clone wakes light-years away; cosmic
+15. **The Forked Identity** — *"The Station," deep space.* The clone wakes light-years away, bodiless; cosmic
     interference + isolation give it distinct trauma — it falls in love and **branches** into a separate
     personality. *UI:* the clone's bottom squares fill with custom local intentions that **contradict**
     the Earth instance. *(The data-beam bandwidth of Ep 14–15 forced the **Neural-Synthetic Upgrade →
@@ -199,7 +208,7 @@ visits is `Q-09`. The UI shifts to Hope's Parish Metrics + Sanctuary-Void look (
     **[[the-ghost-entity|Ghost]]** (**0% organic**, [[progressive-digitalization]]). *UI:* a
     hallucinatory visual panic; the interface flickers violently as the mind desyncs from its
     brain-antenna. → [[the-shadow-entity]]. **Full script:**
-    [`../scripts/s1e17-tether-sickness.md`](../scripts/s1e17-tether-sickness.md).
+    [`../../04-scripts/episodes/s1e17-tether-sickness.md`](../../04-scripts/episodes/s1e17-tether-sickness.md).
 18. **Unplugging the Safe Harbour** — *Tier 0 surface.* The protagonist dampens to real-time and steps
     onto the raw un-simulated Earth, finding a colony of **Natural Purists** (`FAC-02`) who reject all
     modification. *UI:* a radical shift — clinical digital light → rich low-key **organic chiaroscuro**
@@ -209,7 +218,7 @@ visits is `Q-09`. The UI shifts to Hope's Parish Metrics + Sanctuary-Void look (
     grieve, and hold non-optimized roles — a grounded presence that subverts the Grid's toxic
     positivity; a purist mother lays a warm wrinkled hand over their cold chrome wrist. *UI:* the
     top/bottom modules **fade to transparency** as they stop reacting to metrics. **The flagship
-    cyborg↔mortal collision** — full breakdown: [`../scripts/s1e19-the-pure-current.md`](../scripts/s1e19-the-pure-current.md).
+    cyborg↔mortal collision** — full breakdown: [`../../04-scripts/episodes/s1e19-the-pure-current.md`](../../04-scripts/episodes/s1e19-the-pure-current.md).
 20. **The Macro-Doughnut Equilibrium** — *Flesh ∩ Ledger · SEASON FINALE (Phase D).* A purist child
     falls fatally ill; the purist mother faces breaking her vows to use digital modification to save
     them, and the protagonist guides her through the choice. *UI:* the final shot — the UI drops its
@@ -235,6 +244,6 @@ episodes (`ANTH-06`). Story craft: [[fantasy-writing]] + [[scifi-writing]]; imag
 - World: [[the-shadow-grid]] · [[velocity-tiers]] · [[the-doughnut-principle]] · [[the-macro-doughnut]] · [[the-perspective-lens-ui]] · [[the-shadow-entity]] · [[the-ghost-entity]].
 - Thematic skeleton (the season's argument): [[societal-values]].
 - Source philosophy: [[intention-in-context]] · [[child-phase]] · [[camel-lion-child-trilogy]] · [[you-are-the-sailor-not-the-wind]].
-- Drafted scripts: [`../scripts/`](../scripts/). Origin season (re-homes the legacy HELM anthology): [[setting-sail-the-cartographers-ledger]] (S3).
+- Drafted scripts: [`../../04-scripts/episodes/`](../../04-scripts/episodes/). Origin season (re-homes the legacy HELM anthology): [[setting-sail-the-cartographers-ledger]] (S3).
 - **Sequel — the reverse ascent:** [[setting-sail-tier-ascent]] (Season 2, "The Mortal Ledger") — the Purist
   boy saved in Ep 20 climbs Tier 0→3; it **spends this season's Reserve Vault** ([[revelation-cadence]] §6).

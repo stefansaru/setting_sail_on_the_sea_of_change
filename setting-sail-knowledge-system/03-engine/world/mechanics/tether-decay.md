@@ -36,7 +36,7 @@ $$ TTD = \frac{\Psi_{\text{organic}}}{\lambda_{td}\,\cdot\,V_{\text{tier}}} $$
 - **Ψ_organic** = remaining organic brain resilience · **V_tier** = the velocity multiplier (60× / 3,600×
   / 86,400×).
 - **The Tier-3 emergency.** At Tier 3 a citizen burns a *subjective year* of wakefulness in ~6 real
-  hours, so TTD can fall **100% → 1% in a single real-world afternoon** — high speed is a biological
+  minutes, so TTD can fall **100% → 1% in a single real-world afternoon** — high speed is a biological
   gamble.
 - **The body-clock interlock ([[progressive-digitalization]]).** As Ψ_organic drops with each
   cyborg-ization, **TTD shortens** — the more synthetic Raul becomes, the *worse* his dream-hunger and

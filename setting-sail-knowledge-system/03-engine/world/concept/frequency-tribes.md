@@ -32,11 +32,11 @@ context. Drift to a different tier and you drift, permanently, into a different 
     (skin discarded, just drifting data).
 
 ## The Proximity Illusion (story role)
-The signature tragedy: **Raul (`CHR-02`) and Maya (`CHR-05`)** lie in stasis pods *bolted inches apart*
+The signature tragedy: **Raul (`CHR-02`) and Vesper (`CHR-05`)** lie in stasis pods *bolted inches apart*
 — *"our biological capsules are right next to each other"* — but the monitors tell the truth. Raul's
-reads **Tier 0 (1:1)**; Maya's pulses ice-blue at **Tier 2 (1s = 1hr)**. While Raul lives one outside
-day, Maya lives **~10 subjective years** in her high-speed tribe. To Maya, Raul is a frozen statue she
-left an eternity ago; to Raul, Maya is a blur too fast to hold. *Physically touching, subjectively
+reads **Tier 0 (1:1)**; Vesper's pulses ice-blue at **Tier 2 (1s = 1hr)**. While Raul lives one outside
+day, Vesper lives **~10 subjective years** in her high-speed tribe. To Vesper, Raul is a frozen statue she
+left an eternity ago; to Raul, Vesper is a blur too fast to hold. *Physically touching, subjectively
 separated by a lifetime.* (Shot in [[chromatic-expressionism|Caravaggio]] chiaroscuro + heavy
 [[negative-space]] — a candidate standalone reel; slot `Q-11`.)
 

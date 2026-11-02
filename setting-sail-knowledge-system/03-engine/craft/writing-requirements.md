@@ -157,6 +157,31 @@ sequence*; skip with a note for a context-free standalone.
 | REVEAL-05 | S | **Drip balance across the season** — the Ledger reads as a steady column, no act front-loaded or starved. *1:* lumped/dumped / *3:* uneven / *5:* steady, compounding drip with payoffs where guns were planted. | §7 |
 | REVEAL-06 | S | **Mystery economy** — enough withheld that the world feels larger than it shows; permanent mysteries protected. *1:* over-explained / *3:* some reserve / *5:* the unseen mass is *felt* (the "larger machine"). | §1, §6 |
 
+## Layer DIAL — dialogue *(per line and per short)*
+
+Spoken lines are few, so each one must count. **The author's rule: all dialogue must be meaningful and make sense
+to the viewer. No mindless chit-chat, unless mindless chit-chat is what's being depicted.** Applies to spoken lines,
+voice-over and on-screen dialogue. Not to UI readouts, which fall under `WR-L`.
+
+| ID | T | Requirement & how to verify |
+|----|---|------------------------------|
+| DIAL-01 | G | **Every line does a job:** shows a want, shifts power, reveals character, plants or pays something, or turns the scene. *Verify:* name the job for each line. None → cut it. |
+| DIAL-02 | G | **It makes sense to a cold viewer.** Someone who has seen only this reel can tell what is being said and why it matters. *Verify:* read the lines alone with the visuals. Unexplained jargon a viewer must understand → fail. An unexplained throwaway is fine if nothing depends on it. |
+| DIAL-03 | G | **No mindless chit-chat, unless that is what's being depicted.** Small talk, greetings and filler fail unless the emptiness is the point, as in a hospitality script or a toxic-positivity loop. *Verify:* intended chit-chat is marked `[CHIT-CHAT: purpose]` in the script; unmarked filler → fail. |
+| DIAL-04 | G | **No telling each other what they already know** ("As you know, Bob"). *Verify:* would this speaker really say this to this listener? |
+| DIAL-05 | G | **Nobody states the theme or explains the moment.** *Verify:* flag any line that says what the scene means. Extends `STORY-02`. |
+| DIAL-06 | G | **Speech budget:** ≤ 90 spoken words per reel, ≤ 120 for a flagship or dialogue-led reel. *Verify:* count them; silence is part of the budget. |
+| DIAL-07 | G | **Voice continuity.** Each character sounds like their sheet, and like their age. Children talk like children. *Verify:* compare with `04-scripts/characters/`. |
+| DIAL-08 | G | **Speakers use only words they'd know.** Terms follow the [[glossary]], and a character knows only what they could know by then. *Verify:* each coined term is in the glossary, in season. Links `WR-N1/N5`. |
+| DIAL-09 | S | **Subtext.** People talk around what they mean. *1:* on the nose / *3:* some layers / *5:* the real conversation is unspoken. |
+| DIAL-10 | S | **Sayable.** Short, natural in the mouth, actable. Test it aloud. *1:* written prose / *3:* fine / *5:* quotable. |
+| DIAL-11 | S | **Silence is used.** The best line is sometimes none. *1:* talk fills every gap / *3:* some pauses / *5:* silence carries the turn. |
+
+**Signature lines are protected.** Don't rewrite these without asking the author: *"It's just… quieter." · "A slight
+itch." · "Oh, Raul." · "Eleven good ones." · "That's the saddest thing you've said." · "One step at a time." · "He
+started it." · "I'm not the file they beamed." · "You've been granted your request…"* and the author's verbatim E1
+scene. Polish around them.
+
 ## Layer PROCESS — author hygiene *(tracked, not script-audited)*
 
 Not scored against the text; checked at the project level. `PROC-01` a **story bible /
@@ -176,7 +201,7 @@ Copy this block into the audit report / the short's working notes and fill it ea
 SHORT: <title>            DRAFT: <n>            DATE: <YYYY-MM-DD>
 GATES:  <passed>/<applicable>   (list any FAIL ids)
 SCORES (1–5 rollups):
-  STORY __  CHAR __  WORLD __  THEME __  SCENE __  PAGE __  CINE __  ANTH __  REVEAL __
+  STORY __  CHAR __  WORLD __  THEME __  SCENE __  PAGE __  CINE __  ANTH __  REVEAL __  DIAL __
   OVERALL __
 TOP FINDINGS: <P0/P1 ids>          CANON UPDATES: <new FCT-/CHR- ids>
 ```
@@ -197,6 +222,6 @@ between drafts without a noted reason.
 ## Related
 - Craft source for every requirement: [[fantasy-writing]] (story §N) and
   [[scifi-cinematography]] (visual **cine §N**, layer CINE).
-- Consistency source of truth: [[canon-registry]] (filled per anthology).
+- Consistency source of truth: [[canon-registry]] (filled per anthology). What must always hold: [[world-requirements]] (`WR-*`). Words: [[glossary]].
 - The runner that produces the scorecard + findings: [`../prompts/audit-script.md`](../prompts/audit-script.md).
 - The work being audited: [[setting-sail-tier-descent]].

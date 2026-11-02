@@ -7,7 +7,7 @@ status: draft
 tags: [cyborg, real-time, transhuman, lifeway, transition]
 related: [the-shadow-grid, velocity-tiers, the-1-percent-mutation]
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-11-02
 ---
 
 > The slow path: stay in a physical body at real-time, replace it piece by piece over decades, and
@@ -30,6 +30,10 @@ to digital that this path produces.
 - **The pull of the Grid.** Out of innate curiosity, these fresh digital entities are drawn toward
   the dilated simulators and eventually **merge into the main Grid** — so the "purist physical"
   path quietly feeds the network anyway.
+
+- **The forced Slip (`Q-50`).** Any mind can be beamed given time, and Raul had it in S1E14. Packing a mind takes
+  longer than a dying hull has left unless it runs at the Apex, and aboard the fleet only a Ghost reaches the
+  Apex. So Kai has to finish the Slip first (S4E13–15).
 
 ## In the world
 A common, undramatic way to die-without-dying — the opposite of the violent

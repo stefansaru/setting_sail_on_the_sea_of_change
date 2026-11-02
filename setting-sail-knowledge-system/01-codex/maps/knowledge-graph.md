@@ -118,4 +118,4 @@ you-are-the-sailor-not-the-wind --posture-for--> child-phase, defining-your-own-
 ## Next for this map
 Build a compact Mermaid cluster (like the Ch.3 one above) for each chapter, or one per
 stratum. Every page already carries its own `related:` edges in frontmatter, so the graph
-can also be generated mechanically from the codex (a future `03-engine/tools/` script).
+can also be generated mechanically from the codex (a future `_tools/` script).

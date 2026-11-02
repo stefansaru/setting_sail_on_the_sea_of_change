@@ -9,16 +9,14 @@ courses, and prompts for future AI assistants.
 - `prompts/` — reusable LLM prompts that read the codex and emit drafts
   (e.g. "expand a concept into a 1,200-word essay", "turn a metaphor into a
   3-minute video script", "generate a podcast dialogue between two concepts").
-- `formats/` — output templates per channel (book chapter, YouTube script,
-  podcast outline, social post, course module).
 - `series/` — outlines that sequence codex pages into a body of content
   (e.g. a "camel → lion → child" video trilogy; a 10-part newsletter on biases).
 - `world/` — the **story-world bible**: atomic lore pages for a series' fictional universe
   (world concept, mechanics, technology, environment), each carrying its `canon-registry` ID.
   The registry is the index; these pages hold the depth.
-- `scripts/` — **drafted episode scripts** (the verbatim prose the audit runs against), named
-  `s1e##-slug.md` (+ descriptive slugs for unslotted standalones). See `scripts/README.md` for the
-  Episode Guide. Paired with the outline in `series/` and the canon in `world/`.
+- **Episode scripts** now live in **[`../04-scripts/episodes/`](../04-scripts/README.md)** (moved out of the
+  engine, 2026-06-06): the verbatim `s1e##-slug.md` prose (+ descriptive standalone slugs) the audit runs
+  against, plus the Episode Guide. Still paired with the outline in `series/` and the canon in `world/`.
 - `craft/` — house references for *how* to write, shoot, and produce a given form, plus the
   audit apparatus: `fantasy-writing.md` (universal story craft), `scifi-writing.md` (the
   science-fiction genre overlay, with `avoiding-bad-scifi.md` anti-patterns),
@@ -31,11 +29,13 @@ courses, and prompts for future AI assistants.
   (audience), `distribution-strategy.md` (the YouTube–TikTok Barbell + runtime pacing map), and
   `risk-analysis.md` (risk/mitigation matrix); `revelation-cadence.md` (the **information-rationing**
   guideline — the Revelation Ledger + Reserve Vault: how much world the *audience* gets per episode);
+  `glossary.md` (every name and coined term: definition, first on-screen use, retired words — `WR-N1..N5`);
   `writing-requirements.md`
   (auditable GATE/SCORED requirements — story layers, the CINE layer + the REVEAL cadence layer); `canon-registry.md`
   (+ `.template.md` — the per-anthology source of truth for story *and* visual `VIS-*`
   consistency); and `audit-reports/` (timestamped scorecards).
-- `tools/` — optional helper scripts (lint, link audit, graph export).
+- Helper scripts (lint, link audit, graph export) live in a `_tools/` folder next to
+  what they operate on — today only [`../brain/_tools/recompute-brain-scores.py`](../brain/_tools/recompute-brain-scores.py).
 
 ## The core idea
 

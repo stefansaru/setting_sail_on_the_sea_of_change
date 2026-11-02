@@ -15,13 +15,13 @@
 > *withheld* half the world ([[revelation-cadence]] §6, the Reserve Vault), **S2 spends it** — the
 > [[the-distributed-president|Distributed President]], the [[intention-in-context-law|Law]] + **Vance**,
 > the [[the-personal-blockchain|blockchain]]/[[compliance-validation-protocol|CVP]] (paying off the S1 E12
-> seed, `F-1`), [[standardized-vices]] + [[intimate-commerce]], the [[frequency-tribes|Tribes]] + **Maya**,
+> seed, `F-1`), [[standardized-vices]] + [[intimate-commerce]], the [[frequency-tribes|Tribes]] + **Vesper**,
 > [[tether-decay|TTD]], the [[data-graveyards|Data Graveyards]], Hope's [[the-absolution-protocol|carceral
 > half]], and the [[parallel-pedagogy|Merging]] dramatized at last. (It keeps its **own** reserve for S3 —
 > see *Reserve Vault, S2* below.)
 
 ## The protagonist — "The Grounded One"
-**Adam** (`CHR-06`, `Q-16` provisional) — the **Purist boy the protagonist saved in the S1 finale**
+**Adam** (`CHR-06`, `Q-16` provisional) — the **Purist boy saved in the S1 finale**
 ([[setting-sail-tier-descent|S1E20]]): cured of a mortal illness by emergency cyborg implants, his
 **[[progressive-digitalization|digitalization begun]]** against his people's vows. Years on, he is a young
 man living among the [[setting-sail-tier-descent|Natural Purists]] (`FAC-02`) but **marked** — he carries
@@ -39,8 +39,10 @@ creature of clay who eats the Grid's apple and is expelled from the mortal garde
   *total optimization + accountability are right; mortality is a bug to be patched.* The credible "**what if
   Raul was wrong?**" The tempter who offers Adam the keys to save his dying mother — for the last of his
   flesh. → [[intent-patch]], [[intention-in-context-law]].
-- **The mother:** **Ruth** (`CHR-07`, `Q-17` provisional) — the Purist who broke her own vow to save Adam in
-  S1E20, and is now **aging toward a mortal death in real-time** while Adam dilates away from her.
+- **The mother:** **Naomi** (`CHR-11`) — the Purist who broke her own vow to save Adam in S1E20, and is now
+  **aging toward a mortal death in real-time** while Adam dilates away from her. Her *"eleven good ones"*
+  (S1E19) is the season's clock.
+- **The one who stays:** **Ruth** (`CHR-07`) — Adam's betrothed. When he climbs she stays with Naomi to the end.
 
 ---
 
@@ -51,8 +53,9 @@ pain stops.** That is the first bite. From there each tier offers a sweeter subt
 fatigue, no fear; then no dreams; then risk-free pleasure; then the [[parallel-pedagogy|Merging]] (lose the
 singular mortal "I", gain a brilliant fused mind); then dilation enough to **outrun death itself.** Every
 gift the audience reads as a loss the seduced Adam cannot. The **body-clock** decays as he climbs (the cost
-is always flesh), and **mortal time races below him** — by the time he can save his mother, he has dilated
-so far that her whole remaining life has already nearly run out.
+is always flesh), and **mortal time keeps running below him:** dilation gives him more life per real hour,
+never more real hours, so every subjective decade still costs her real time. By the time he can save his
+mother, her whole remaining life has nearly run out.
 
 **The spine, inverted:** S1's four Acts mapped the [Sea-of-Change phases](#the-sea-of-change--inverted-the-seductive-calm) A→D (harbor → flare → ocean → horizon). S2 runs the **mirror voyage** — *out of* the harbor of
 the flesh, *into* the seductive calm of the Grid, and the storm is that the calm is **empty.** The
@@ -68,7 +71,11 @@ Adam's is **purchase**: he spends the very mortality his people died to keep.
 | I (1–5) | **90% organic** (purist + life-saving implants) | the S1E20 cure; the implants integrate |
 | II (6–10) | **60% organic** | the [[parallel-pedagogy|Merging]] + Tier-2 bandwidth (Ep 9–10) |
 | III (11–15) | **30% organic** | the regime's upper-tier neural-synthetic "upgrades" (Ep 15) |
-| IV (16–20) | **→ ~0% at the Apex**, then **claws back a sliver** | Apex dilation (Ep 16); the ruinous descent (Ep 17–20) |
+| IV (16–20) | **→ ~10% at the Apex, ~0% by Ep 19**, then **borrowed flesh** | Apex dilation (Ep 16); the ruinous descent (Ep 17–19); the cure Naomi refuses, regrown from her cells (Ep 20) |
+
+**The real-time clock (`Q-48`).** Naomi's eleven years run out while Adam climbs. The climb itself fits inside her
+last few months: about 3 months at Tier 1 (~15 years), 3 days at Tier 2 (~30 years), 2.4 hours at the Apex (24
+years). That's about 70 subjective years for him, and one season at a bedside for Ruth.
 
 ### The glyph — the issued ring that never fills *(`Q-12` mirror)*
 Raul's glyph ran **hollow → fractured → solid.** Adam's runs the tragic inverse:
@@ -100,12 +107,12 @@ each rung is the episode's **one major reveal**, paid as *seduction, then shown 
 
 ### Act I — The First Bite (Ep 1–5) · *Tier 0 → 1 · 90% organic · Phase A′: leaving the harbor of the flesh*
 1. **The Marked Boy** — *Tier 0, the Purist Village (`PLC-06`).* Years after his cure, Adam is a young man
-   among the purists, half-belonging: the Grid-tech in his body sets him apart, and his mother **Ruth** is
-   aging. **Raul** (Ghost-in-shell) watches over him. His implant **glitches** — a crack of cold blue
+   among the purists, half-belonging: the Grid-tech in his body sets him apart, and his mother **Naomi** is
+   aging, and **Ruth** (`CHR-07`), who means to marry him, is waiting. **Raul** (Ghost-in-shell) watches over him. His implant **glitches** — a crack of cold blue
    Grid-light in the warm firelit village. *UI:* **no Lens** — raw, low-key [[lighting|Caravaggio]] mortal
    sight (the inverse of S1E1's pristine Tier-3). → mirrors [[setting-sail-tier-descent|S1E1]].
 2. **The Maintenance Ascent** — *Tier 0 → 1.* The implants are failing; only the Grid can service them. Adam
-   makes his **first ascent** — and the moment he crosses up, his lifelong implant-pain **vanishes.** The
+   makes his **first ascent** — and the moment he crosses up, his years-old implant-pain **vanishes.** The
    first gift is *relief.* *UI:* his **first Lens** is installed — a single clean Context circle blooms over
    raw sight. → inverts S1E2's infant waking.
 3. **The Painless World** — *Tier 1.* Offered a "temporary" residency for ongoing care, Adam is relieved of
@@ -115,9 +122,9 @@ each rung is the episode's **one major reveal**, paid as *seduction, then shown 
 4. **The Garden Behind Glass** — *Tier 1, looking down.* Adam watches the village by feed and sees it the
    Grid's way — small, poor, *failing* its metrics. *UI:* his Lens auto-tags his own mother **"Cellular
    decay — advanced"** — he is now the chrome scanner S1-Raul recoiled from in [[setting-sail-tier-descent|S1E19]],
-   pointed the wrong way. Ruth refuses to come up. First fracture from the garden.
+   pointed the wrong way. Naomi refuses to come up, and Ruth stays with her. First fracture from the garden.
 5. **The Vow He Breaks** — *the [[inter-tier-travel|Data Buffer]] (T1).* To keep the cure alive Adam accepts
-   a **permanent up-clock**, leaving real-time — breaking his own purist vow as Ruth once broke hers for him.
+   a **permanent up-clock**, leaving real-time — breaking his own purist vow as Naomi once broke hers for him.
    *UI:* the down-clock's [[chromatic-expressionism|Despair field]] **inverted** — a *euphoric* golden field
    the audience reads as loss; the Grid issues him a **hollow "Camel's Doughnut"** glyph (the convert's
    issued balance). **End Act I:** the surface — and mortal time — begins slipping away beneath him.
@@ -128,9 +135,9 @@ each rung is the episode's **one major reveal**, paid as *seduction, then shown 
    then the **hunger** — the brain-cache countdown, the need for Sub-Velocity Sabbaticals. The first gift
    that shows teeth. *UI:* a quiet decay-meter he doesn't yet read. → [[the-dream-hunger]].
 7. **The Proximity Illusion** *(standalone slotted, `Q-11`)* — *Tier 2, a [[frequency-tribes|Dunbar-150
-   tribe]].* Adam joins a clock-based tribe and meets **Maya** (`CHR-05`) — **Raul's** long-lost partner,
+   tribe]].* Adam joins a clock-based tribe and meets **Vesper** (`CHR-05`) — **Raul's** long-lost partner,
    who climbed and dilated and is now adrift, lifetimes from the man she loved. The **Proximity Illusion:**
-   pods inches apart, lives lifetimes apart. *(Answers the held Maya thread.)* Seduction: belonging; cost:
+   pods inches apart, lives lifetimes apart. *(Answers the held Vesper thread.)* Seduction: belonging; cost:
    it's an illusion of closeness. *UI:* tribe-frequency overlay; two clocks that never match.
 8. **The Standardized Vices** — *Tier 2.* Adam tastes the Grid's **licensed pleasures** —
    [[standardized-vices]] (`WLD-15`) and [[intimate-commerce]] (`WLD-16`): vice without consequence,
@@ -142,12 +149,12 @@ each rung is the episode's **one major reveal**, paid as *seduction, then shown 
    selves **fuse into one ledger** — gaining cognition, losing the singular mortal "I" he was born with.
    *The Split Mirror:* his mortal self and his grid-self cannot both survive the fusion. He chooses fusion.
    The deepest subtraction yet. → [[the-split-mirror]].
-10. **The Hollow Crown** *(MID-SEASON CLIMAX — Phase B′ peak).* — *Tier 2 apex.* Post-Merging, Adam is
+10. **The Hollow Crown** *(MID-SEASON CLIMAX — Phase B′ peak).* — *Top of Tier 2.* Post-Merging, Adam is
     brilliant, fast, beloved — a **perfect Grid life** — and the horror is that it is perfect and means
     *nothing.* (The exact inverse of S1E10, where Raul's harbor **broke**; here Adam's harbor is flawlessly
     **built**.) *UI:* the issued glyph should fill — and **stays hollow;** he notices the hollowness for the
-    first time. **→ 60% organic.** Then a real-time message lands: **Ruth is dying.** Mortal time has been
-    racing while he dilated. The sweetness curdles.
+    first time. **→ 60% organic.** Then a real-time message lands: **Naomi is dying.** Mortal time has kept
+    running while he dilated. The sweetness curdles.
 
 ### Act III — The Machine Behind the Curtain (Ep 11–15) · *Tier 2 → 3 approach · → 30% organic · Phase C′*
 *The reveal act — S2 spends the S1 Reserve Vault. Register shifts to [[chromatic-expressionism|Albers]]
@@ -155,11 +162,11 @@ nested-archway law-chambers + the [[the-ministry-of-hope|Hope]] Sanctuary-Void (
 11. **The Distributed President** — *Tier 2/3, the law-chambers.* Racing to fund his mother's cure, Adam
     climbs into the governance layer and finally *sees how the world is run:* the **[[the-distributed-president|Distributed
     President]]** (`WLD-11`) — law derived live from planetary status, a villain-less weather of rules. Awe,
-    then dread. *(Its **ultimate nature** stays a permanent mystery — S2's reserve.)* *UI:* Albers archways;
+    then dread. *(Its **ultimate nature** is held for S3.)* *UI:* Albers archways;
     law rewriting itself in real time. **Answers an S1 question.**
 12. **The Merit Key** — *Tier 3 approach.* **Vance** (`CHR-04`) appears — the merit-holder who can patch the
     [[intention-in-context-law|Law]] (`MAG-18`). He's fascinated by Adam, the rare convert who *climbed.*
-    His creed: *mortality is a bug.* He offers Adam the keys to save Ruth — for the last of his flesh. The
+    His creed: *mortality is a bug.* He offers Adam the keys to save Naomi — for the last of his flesh. The
     tempter, the credible "**what if Raul is wrong?**" *UI:* a merit-key signature chain; a patch waiting
     for Adam's thumb.
 13. **The Chain and the Patch** — *Tier 3 approach.* **Pays off the S1 E12 seed (`F-1`).** Adam learns the
@@ -167,9 +174,9 @@ nested-archway law-chambers + the [[the-ministry-of-hope|Hope]] Sanctuary-Void (
     / "Proven-in-Use" (`MAG-20`) — and that Vance games it with **[[intent-patch|Intent-Patches]]** (`MAG-21`):
     he looks perfectly aligned while doing devastating things. The "accountability utopia" is a **lie.** *UI:*
     a spotless public chain over a rotten act. **Answers an S1 question.**
-14. **The Data Graveyards** — *Tier 2.5, frozen lunar-crater archival slums (`PLC-09`).* Adam sees the real
+14. **The Data Graveyards** — *Tier 2, frozen lunar-crater archival slums (`PLC-09`).* Adam sees the real
     fate of the purely digital: tether-less minds **bit-rotting into [[data-graveyards|Data Dementia]]** —
-    ghost-towns of forgetting. *The thing he is becoming.* (Inverse of S1E17's eidetic **curse** — here the
+    ghost-towns of bit-rot. *The thing he is becoming.* (Inverse of S1E17's eidetic **curse** — here the
     Grid's "eternity" is a slow **erasure.**) The seduction fully curdles. *UI:* corrupted memory-blocks,
     minds looping a single decayed frame. **Answers an S1 question.**
 15. **The Absolution** — *the [[the-ministry-of-hope|Ministry of Hope]] — carceral half (`MAG-16`).* To earn
@@ -181,35 +188,37 @@ nested-archway law-chambers + the [[the-ministry-of-hope|Hope]] Sanctuary-Void (
 ### Act IV — The Apex, and the Reckoning (Ep 16–20) · *Tier 3 · → ~0% organic · Phase D′*
 16. **The Chronological Sanctuary** *(standalone slotted, `Q-11`)* — *Tier 3 Apex (86,400× — [[velocity-tiers]]).*
     Adam reaches the top — the eternity he climbed for — and uses **[[the-chronological-sanctuary|dilation to
-    outrun death]]**, living subjective decades to design Ruth's cure (the exact mirror of S1E12's *24-Year
+    outrun death]]**, living subjective decades to design Naomi's cure (the exact mirror of S1E12's *24-Year
     Lab*, now Adam in the pod). **→ ~10% organic.** The gift, achieved. *UI:* the serene subjective clock;
-    decades in a held breath.
-17. **Too High to Reach** — *Tier 3 vs Tier 0.* He has the cure — but the **dilation that made it** means
-    real-time **raced:** Ruth is at her **final mortal hour** while he spent subjective years in the Apex.
+    decades in one real afternoon.
+17. **Too High to Reach** — *Tier 3 vs Tier 0.* He has the cure — but the **dilation that made it** still
+    cost **real hours** (24 Apex years = 2.4 real hours): Naomi is at her **final mortal hour.**
     (Inverts S1E11's 24-hour countdown — now the countdown is *his* doing.) He must **descend** at ruinous
     cost; every tier down strips a gift back. The whole logic of the climb turns to ash. *UI:* two clocks,
     one nearly stopped.
 18. **Raul's Mirror** — *the descent corridor.* **Raul** (Ghost) confronts Adam — the two protagonists meet
     as mirror images. *"I gave up everything to feel one mortal thing. You gave up the one mortal thing to
-    feel everything."* And the hardest truth: the cure can save Ruth's **body** but will make her **chrome,
-    eidetic, hollow** — exactly what it made Adam (the mirror of S1E13's Nia). Is saving her *life* worth
+    feel everything."* And the hardest truth: the cure can save Naomi's **body** but will make her **chrome,
+    eidetic, hollow** — exactly what it made Adam (the mirror of S1E13's Nia). The rule (`Q-49`): the cure regrows flesh only by
+    consuming a donor's cells, so with no donor it can only make chrome. Is saving her *life* worth
     costing her *mortality?* *UI:* Adam's glyph and Raul's, drawn in opposite directions, briefly aligned.
 19. **The Pure Current, Reversed** *(flagship)* — *Tier 0 surface, the village, real-time.* Adam reaches
-    Ruth's deathbed a **near-0% [[the-ghost-entity|Ghost]] in a shell** — *he has become Raul.* He can save
-    her body into chrome, or let her die **mortal and whole**: the **exact choice Ruth faced for him in
+    Naomi's deathbed a **near-0% [[the-ghost-entity|Ghost]] in a shell** — *he has become Raul.* He can save
+    her body into chrome, or let her die **mortal and whole**: the **exact choice Naomi faced for him in
     S1E20, handed back reversed.** *UI:* his fully-installed Lens tries to **optimize** the moment; he reaches
     to **switch it off** — and, more machine than Raul ever was, can barely do it (the tragic inverse of
     [[setting-sail-tier-descent|S1E19]], where Raul *could*). The mirror of the warm-hand-over-chrome image.
 20. **The Mortal Doughnut** *(SEASON FINALE — Phase D′).* — *Flesh ∩ Ledger, real-time.* Adam **chooses.**
     He does **not** convert her — he honors what she taught him, lets her die mortal and whole, and **spends
-    the last of his dilation and eternity to drop to raw real-time**, so he can be present *in her time, not
+    the last of his dilation and eternity to stay in raw real-time**, so he can be present *in her time, not
     his* — and in that ruinous trade he buys back a **sliver of the mortal he threw away:** for one breath he
     **ages, forgets, is simply there.** *UI:* the cold-complete Apex ring **cracks** — and a single warm,
     finite, flickering arrow blooms: not Raul's earned **solid** [[the-macro-doughnut]] but its tragic twin —
     **the Mortal Doughnut: balance bought one breath too late.** He gained the whole Grid and missed her
-    life; he gives the Grid back for one mortal goodbye. Hard cut to black on the cracked ring and a single,
-    real heartbeat — that **stops.** *(Ends per the season's engine: he returns to the flesh, at the cost of
-    everything. Seeds S3 — the cure exists; the regime stands; the Centauri clone waits; what does Adam do
+    life; he gives the Grid back for one mortal goodbye. **She refuses the cure and makes him take it:** it was built
+    from her cells, so the flesh it regrows on him is borrowed, literally, from her, and regrowing it uses up what's left of her. Ruth is at the bedside.
+    Hard cut to black on the cracked ring and a single, real heartbeat, **hers**, that **stops.** *(Ends per the
+    season's engine: he returns to the flesh, at the cost of everything. Seeds S3 — the cure exists; the regime stands; the Centauri clone waits; what does Adam do
     with one borrowed mortal life? `Q-19`.)*
 
 ---
@@ -219,14 +228,14 @@ The three drafted standalones and the Proximity-Illusion concept become S2 episo
 | Reel | S2 slot | Spends |
 |------|---------|--------|
 | [[the-dream-hunger]] | **Ep 6** | [[tether-decay]] (`MAG-22`) — dreamless insomnia / TTD |
-| The Proximity Illusion (in [[frequency-tribes]]) | **Ep 7** | [[frequency-tribes]] (`WLD-17`) + **Maya** (`CHR-05`) |
+| The Proximity Illusion (in [[frequency-tribes]]) | **Ep 7** | [[frequency-tribes]] (`WLD-17`) + **Vesper** (`CHR-05`) |
 | [[the-split-mirror]] | **Ep 9** | the [[parallel-pedagogy|Merging]] (`WLD-18`) dramatized |
 | [[the-chronological-sanctuary]] | **Ep 16** | Apex dilation / outrun-death ([[velocity-tiers]]) |
 
 ## Reserve Vault — Season 2 (what S2 still withholds, for S3)
 Per the [[revelation-cadence]] firewall, S2 **spends** the S1 vault but **keeps its own** so the world still
 feels larger than it shows ([[market-research]] §2):
-- **The Distributed President's *ultimate* nature** — seen *operating* (Ep 11), never unmasked (permanent).
+- **The Distributed President's *ultimate* nature** — seen *operating* (Ep 11), not unmasked until S3.
 - **What lies *above* / beyond Tier 3** — the Apex ceiling stays a closed door.
 - **The Centauri Branch-clone's separate civilization** (`Q-14`) — Raul's other self, held for S3.
 - **Whether Raul's guidance is wholly trustworthy** — the S1 `CHR-03` (AI-Guide) question, now worn by Raul.
@@ -239,12 +248,12 @@ Audit each drafted S2 script with [`../prompts/audit-script.md`](../prompts/audi
 keep the S2 Reserve Vault sealed. The **ascent = reverse tier order** is the `ANTH-05` throughline (mirror of
 S1's `TML-03`). Keep the **body-clock** (`progressive-digitalization`, inverted valence), the **glyph**
 (absent→issued→cold-complete→cracked, `Q-12` mirror), the **9:16 UI** (`VIS-08`), and the **rendering style**
-(`VIS-13`) consistent (`ANTH-06`). New `Q-`: `Q-16` Adam's name · `Q-17` Ruth's name · `Q-18` S2 title ·
+(`VIS-13`) consistent (`ANTH-06`). New `Q-`: `Q-16` Adam's name · `Q-17` Ruth's role · `Q-18` S2 title ·
 `Q-19` the finale's exact ending.
 
 ## Related
 - The mirror it inverts: [[setting-sail-tier-descent]] (Season 1). World: [[the-shadow-grid]] ·
   [[velocity-tiers]] · [[the-doughnut-principle]] · [[the-macro-doughnut]] · [[the-perspective-lens-ui]].
 - The vault it spends: [[revelation-cadence]] §6 · [[canon-registry]] §11. Antagonist: [[intent-patch]] ·
-  [[intention-in-context-law]]. The thread it answers: [[frequency-tribes]] (Maya).
+  [[intention-in-context-law]]. The thread it answers: [[frequency-tribes]] (Vesper).
 - Source philosophy: [[intention-in-context]] · [[you-are-the-sailor-not-the-wind]] · [[societal-values]].

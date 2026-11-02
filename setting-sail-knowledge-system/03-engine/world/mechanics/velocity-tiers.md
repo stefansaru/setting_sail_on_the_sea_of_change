@@ -27,10 +27,12 @@ outside second — the world's central resource and status marker.
 | **2** | Hour Velocity | 1s = 1 hr (3,600×) | High-level engineering, systemic problem-solving, advanced R&D |
 | **3** | Day Velocity / **The Apex** | 1s = 1 day (86,400×) | Crisis management, evolutionary design, premium generational incubation |
 
-- **The Apex math:** a real-world 24-hour cycle = a subjective **24-year lifetime** inside.
+- **The Apex math:** one real hour = about 10 subjective years, and a real day = about **237 years**. A subjective
+  **24-year lifetime** takes **2.4 real hours**, and Apex time is rationed (`Q-42`).
 - **Allocation is meritocratic** (per [[the-shadow-grid]]): your **baseline** tier follows capability +
   society's processing priority, not free choice. Any caste ([[the-shadow-entity|Shadow]] or
-  [[the-ghost-entity|Ghost]]) can reach any tier **while connected** — the gate is priority, not biology.
+  [[the-ghost-entity|Ghost]]) can reach any tier **while connected** — the gate is priority, not biology. *(On Earth. Fleet stasis
+  can't hold fast clocks: [[the-stasis-economy]], `Q-46`.)* Bodies keep up through [[the-quickening]].
 - **Velocity credits** (resolves audit S-05) are **temporary processing allocations** earned as
   incentives — compress an urgent project into a fraction of a second — **not** purchases of a
   permanent tier/class.
@@ -55,7 +57,7 @@ serenity of a person reading a book on a quiet afternoon."
 ## In the world
 Tier is rank, and a [[frequency-tribes|Frequency Tribe]] is the ~150 minds who share your clock. The
 Apex is the pinnacle of simulated reality and the engine of the [[the-1-percent-mutation|Apex Escape
-Loop]] (24 outside hours → 24 subjective years to invent a cure).
+Loop]] (2.4 outside hours → 24 subjective years to invent a cure).
 
 ## Story role
 Time-as-inequality and time-as-salvation in one mechanic. Resonates directly with the

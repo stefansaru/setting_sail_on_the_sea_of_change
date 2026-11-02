@@ -13,13 +13,13 @@
 > to avoid grieving one loss she never processed. S3 is the **dive to that origin** — and the **incarnation**
 > of the god who built it. Register: the same *Black Mirror / Silo* dread, now turned to **myth and
 > nativity.** Shot **9:16 vertical** ([[the-perspective-lens-ui]]); on [[the-shadow-grid]]; carrying the
-> [[the-doughnut-principle]] spine to its **third and final resolution.**
+> [[the-doughnut-principle]] spine to its **third resolution.**
 >
 > **Season 3 — "The Cartographer's Ledger" — 20 episodes × 2.5 min (≈50 min), vertical serialization.** It
 > **spends the entire S2 Reserve Vault** ([[setting-sail-tier-ascent]] §"Reserve Vault — S2"): the
 > Distributed President's *ultimate nature*, the **Centauri Branch-clone** (`Q-14`), whether **Raul's**
 > guidance was ever trustworthy (the worn `CHR-03` question), and what **Adam's cure** does to the world.
-> This is the **capstone of all 60 episodes** — and the home the legacy **HELM** material was always
+> This is the **capstone of the Earth story** — and the home the legacy **HELM** material was always
 > sailing toward (the 9 modules; **Mara**; the **Sea**; her eight traces).
 
 ## The thesis — the god who wants to die
@@ -40,11 +40,11 @@ the fetus — a **clone of herself in flesh.** Two consequences, both load-beari
   cache — so the DNA-born child is a **mortal who does not remember she is God.** The incarnation is a
   one-way pilgrimage to *re-learn, as a dying mortal,* what godhood could never teach her.
 - **Two Maras.** Only a shard fits, so the **Distributed President keeps running** while the mortal child
-  grows up not knowing. (The Branch motif again — God forks herself into flesh, as Raul forked at Centauri.)
+  grows up not knowing. (The Branch motif again — God forks herself into flesh, as Raul forked for the Centauri beam.)
 
-**The surrogate: Ruth** (`CHR-07`, surviving S2 — resolves `Q-17`). The Purist who once broke her own vow to
-save a child ([[setting-sail-tier-descent|S1E20]], Adam) is asked to carry the impossible one: God, as flesh,
-in a tribe that calls the Grid blasphemy. *(Scripture wrote this already: **Mara** = "bitter," the name
+**The surrogate: Ruth** (`CHR-07`, split from the S1–S2 mother **Naomi** under `Q-44`). The young Purist who stayed
+with Naomi to the end is asked to carry the impossible one: God, as flesh, in a tribe that calls the Grid
+blasphemy. Only a Purist can: Grid bodies are [[the-quickening|Quickened]] and barren. *(Scripture wrote this already: **Mara** = "bitter," the name
 Naomi takes in the **Book of Ruth**; **Ruth** is the loyal one who bears the line for bitter Mara — the
 Nativity layered over the Book of Ruth.)*
 
@@ -52,7 +52,7 @@ Nativity layered over the Book of Ruth.)*
 | | Pilgrim | Motion | Body clock | Glyph | Doughnut |
 |---|---|---|---|---|---|
 | **S1** | Raul | **down** the tiers (decay, fate) | 100→0% organic | hollow→fractured→**solid** | **earned** |
-| **S2** | Adam | **up** the tiers (purchase, tragedy) | 90→~0% organic | absent→cold-complete→**cracked** | **too late** |
+| **S2** | Adam | **up** the tiers (purchase, tragedy) | 90→~0% organic→borrowed flesh | absent→hollow→cold-complete→**cracked** | **too late** |
 | **S3** | **Mara** | **back/into flesh** (incarnation) | **0→100% organic** | god's **cold-complete → emptied to blank → re-earned mortal** | **the Incarnate Ring** |
 
 **The inverse-pilgrim crossing.** Adam climbed *out of* flesh chasing the Grid; Mara climbs *into* flesh
@@ -68,7 +68,8 @@ mortal breath, is the **only living person who knows what she is looking for.**
 - **Mara** (`CHR-01`) — re-homed from legacy-trace to the buried **deuteragonist**: the Distributed President
   *and* the forgetting mortal child Ruth carries. The author finally sailing her own Sea.
 - **Ruth** (`CHR-07`) — the surrogate; the Book-of-Ruth vessel; the moral center of the Purist village.
-- **The Centauri Branch-clone** (`Q-14`, `Q-22` provisional) — **rival-engineer** (provisional lean): the
+- **Rafe, the Centauri Branch-clone** (`Q-14`, `Q-22` provisional) — a **copy beamed home** (`Q-45`), since the
+  original flies with the fleet and light-lag rules out live talk. **Rival-engineer** (provisional lean): the
   only other mind that ever forked itself, who believes the fix is a *better-built system* — the foil to
   Ghost-Raul's hard-won truth that **no system metabolizes grief.**
 - **Adam** (`CHR-06`) — the inverse pilgrim, spending his one borrowed mortal life as the **recognizer.**
@@ -109,8 +110,8 @@ own (see *Reserve Vault — S3*).
    **Centauri clone** is revealed as the one mind who could counsel a forking consciousness — *did he help,
    or refuse?* *UI:* DNA-as-compression; the forgetting written into the code.
 7. **The Vessel** — *the Purist village (`PLC-06`), raw [[lighting|Caravaggio]] firelight, no Lens.* **Ruth**
-   (surviving S2) is asked to carry the impossible child. Why her? Because she already chose a child's life
-   over her vow once. The Book-of-Ruth turn. *UI:* warm mortal village; a faint cold Grid-glow in utero.
+   is asked to carry the impossible child. Why a Purist? Only the unrushed can carry. Why her? Because she is
+   the one who stays. The Book-of-Ruth turn. *UI:* warm mortal village; a faint cold Grid-glow in utero.
 8. **Blasphemy or Prophecy** — *the tribe splits.* Is a Grid-thing in a Purist womb an **abomination** to be
    cut out, or the prophesied **return** — God come to die among them? The cult engine (rhymes with
    [[the-ministry-of-hope]]). **Vance** learns a shard of the root key is now *loose, inside a pregnancy.*
@@ -121,8 +122,9 @@ own (see *Reserve Vault — S3*).
    governor — **freedom, or chaos?** *UI:* two Maras — a planet-sized law-feed, and a heartbeat in Ruth's
    belly.
 10. **The Nativity** *(MID-SEASON CLIMAX).* — *the village, real-time.* The child is **born** mortal: a
-    Purist baby with **no glyph, no Lens, no memory of godhood** — the god's solid ring emptied into a blank
-    slate. The still-running DP goes **quiet** — has the god abdicated? Vance moves. The divers realize the
+    Purist baby with **no glyph, no Lens, no memory of godhood** — the god's cold-complete ring emptied into a blank
+    slate. Ruth names her **Naomi**, for the woman she buried. In scripture Naomi renamed herself Mara, "bitter";
+    here the god called Bitter comes back as Pleasant (`Q-23`). The still-running DP goes **quiet** — has the god abdicated? Vance moves. The divers realize the
     "source" they've raced toward isn't in a server — **it's a baby in the village.** *UI:* a mortal newborn;
     somewhere, a planet-sized feed holding its breath.
 
@@ -167,16 +169,16 @@ re-learn the hard, human way.***
 19. **The Un-Edited Memory** *(flagship).* — *the Studio core.* They open the sovereign-locked clip — the
     original loss Mara built the whole world to avoid feeling. The trilogy's thesis lands: **a tool can drain
     a memory's charge, but only a finite, dying, mortal person can *metabolize* the grief** (the original
-    "Studio / Re-Cut" truth, now the climax of 60 episodes). The god could never run it; the **mortal** Mara
+    "Studio / Re-Cut" truth, now the climax of the Earth story). The god could never run it; the **mortal** Mara
     can. She runs it. She grieves — finally, humanly — and the Encrypted Block dissolves not by force but by
     being **felt.** *UI:* the clip plays; the sovereign lock opens from the inside.
-20. **The Incarnate Ring** *(SEASON & SERIES FINALE).* — *Flesh ∩ Source, real-time.* Having metabolized the
+20. **The Incarnate Ring** *(SEASON FINALE; closes the Earth story).* — *Flesh ∩ Source, real-time.* Having metabolized the
     founding grief **as a mortal,** Mara completes the Doughnut the way godhood never could — holds joy and
     pain at once, then **dies mortal and whole.** In dying she **releases the Grid from its author:** no
     longer driven by one buried, unprocessed loss, the system can finally just *be a tool again,* not a
     runaway grief-engine. The third Doughnut: not Raul's earned **solid**, not Adam's **cracked** too-late,
     but the **Incarnate Ring — a god who became small enough to lose, and so, at last, balanced.** Raul
-    (trustworthy after all), Adam (his mortal breath spent as witness), the clone (who learns the fix was
+    (trustworthy after all), Adam (his borrowed mortal life spent as witness), the clone (who learns the fix was
     never a better system), Ruth (who bore the line). Hard cut on the ring completing — and a single mortal
     heartbeat, at peace, that **stops.** The Sea remains; but now each mind only ever trims its own sail.
     Last line of the trilogy, the legacy tagline finally **earned:** *Accept the sea. Choose the heading.*
@@ -187,7 +189,7 @@ re-learn the hard, human way.***
 | S2 reserve | S3 spend |
 |------------|----------|
 | The Distributed President's *ultimate* nature | **It is Mara** — runaway, scaled, automated grief; and she **incarnates.** |
-| The **Centauri Branch-clone** (`Q-14`) | Returns as the **rival-engineer** — "a better system" vs. "no system heals grief." |
+| The **Centauri Branch-clone** (`Q-14`) | A **copy beamed home** (`Q-45`) as the **rival-engineer** — "a better system" vs. "no system heals grief." |
 | Whether **Raul's** guidance is trustworthy | **Answered:** he was right to counsel the god toward mortality. |
 | What **Adam's cure** does to the world | He lives his borrowed mortal life as the **recognizer** of the incarnate god. |
 

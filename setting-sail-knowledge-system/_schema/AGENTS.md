@@ -24,13 +24,15 @@ durable beyond the author's lifetime.
 
 ---
 
-## 1. The three layers (never collapse them)
+## 1. The layers (never collapse them)
 
 | Layer | Folder | Mutable? | Purpose |
 |-------|--------|----------|---------|
 | **Sources** | `00-sources/` | **NO — immutable** | Faithful extraction of the manuscript. The ground truth every claim cites back to. |
 | **Codex** | `01-codex/` | Yes — curated | The wiki. Atomic, cross-linked, neutral-voice pages. |
 | **Legacy / Engine** | `02-legacy/`, `03-engine/` | Yes | Derived products: the inheritance layer and the content-generation layer. |
+| **Scripts** | `04-scripts/` | Yes | Workable story outputs: episode scripts, cast, readable prose, production briefs. |
+| **Library / Brain** | `library/`, `brain/` | Yes | Distillations of *other* books and the scored, compounding synthesis across them. |
 | **Governor** | `_schema/` | Rarely | The rules (this file + templates + taxonomy). |
 
 **Rule:** Never edit `00-sources/` to "fix" the book. If the book is wrong,

@@ -27,7 +27,10 @@ It is built to be four things at once:
   influences/   The thinkers the worldview is built from.
   maps/         The knowledge graph, Maps-of-Content, themes, contradictions, gaps.
 02-legacy/      The inheritance layer — distilled wisdom in the author's voice.
-03-engine/      The content-generation layer — templates, prompts, series outlines.
+03-engine/      The content-generation layer — templates, prompts, series outlines,
+                world bible, and craft guides.
+04-scripts/     Workable outputs in one place — episode scripts (episodes/), the cast
+                (characters/), readable season prose (readable/), and tool briefs (production/).
 library/        Distillations of OTHER books, cross-linked into the same graph.
 brain/          The scored, compounding synthesis — modes of thinking ranked by how
                 many books support them; capstone: the-efficient-mind.md.
@@ -40,6 +43,8 @@ _schema/        The governor — rules, page templates, taxonomy, lint checklist
 - **Want the worldview at a glance?** Read [`01-codex/maps/worldview-spine.md`](01-codex/maps/worldview-spine.md).
 - **Want to navigate the ideas?** Open [`01-codex/maps/knowledge-graph.md`](01-codex/maps/knowledge-graph.md).
 - **Building content?** See [`03-engine/README.md`](03-engine/README.md).
+- **Want to read the stories / the cast?** See [`04-scripts/`](04-scripts/README.md) — readable season
+  prose in `readable/` and the character sheets in `characters/`.
 - **An AI assistant?** [`_schema/AGENTS.md`](_schema/AGENTS.md) is your operating manual.
 
 ## Status

@@ -26,8 +26,8 @@ strike across both substrates so the biological host can't trigger an emergency 
 1. **The Cognitive Shock Trap (digital).** Security instantly cuts the threat's processing priority,
    **force-dropping their virtual space from Tier 3 (86,400×) to Tier 0 (1×) in one real-world
    microsecond** — with **none** of the graded phase-matching of a lawful [[inter-tier-travel|Data
-   Buffer State]]. To the attacker, a subjective *month* of thought is compressed into a fraction of a
-   second: a catastrophic deceleration that paralyzes the mind mid-act.
+   Buffer State]]. To the attacker, the whole drop happens in under a tenth of a subjective second, with
+   no warning: a catastrophic deceleration that paralyzes the mind mid-act.
 2. **The Physical Lockdown (real).** Simultaneously, a team of institutional **[[the-ministry-of-hope|
    Pastors]]** reaches the attacker's physical capsule. They slam their **directional electromagnetic
    pastoral staffs** onto the stasis pod, overriding its illegal antenna arrays and locking the

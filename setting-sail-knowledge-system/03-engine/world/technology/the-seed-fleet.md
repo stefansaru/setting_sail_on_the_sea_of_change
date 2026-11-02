@@ -7,7 +7,7 @@ status: draft
 tags: [fleet, hull, shield, laser, lifeboat, deep-space, season-4]
 related: [the-firing-protocol, the-stasis-economy, the-sealed-manifest, the-cosmic-clone-paradox, velocity-tiers, the-shadow-grid-cooling]
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-11-02
 ---
 
 > A loose formation of hulls crossing deep space toward a habitable system — each one a Shadow Grid in a
@@ -42,6 +42,28 @@ seat; **Hull Four** is the one the story breaks.
 - **Spacing is a cost.** Safe distance means a sister hull is minutes away by beam and **hours** by lifeboat.
   Steering the whole formation (to deflect around debris) burns fuel on every hull at once — the arithmetic
   behind [[the-firing-protocol]].
+
+## Two clocks (`Q-52`, draft numbers)
+T is real years from Raul's beam in S1E14. Cruise is about 10% of light speed, to Alpha Centauri, 4.4 light-years out.
+
+| Event | T (real years) | From Earth | Note |
+|-------|----------------|------------|------|
+| Launch | −35 | 0 | Bodies go into deep stasis; minds pause between watches |
+| S1E14, the beam leaves Earth | 0 | ~3.5 ly | Raul's body is about 6 months old |
+| The beam lands on Hull Four | +3.9 | ~3.9 ly | Rafe wakes; at Tier 2 a real day is about ten years |
+| S4E1–9 | +3.9 to +4.2 | ~3.9 ly | The star is brightening; the ramp starts |
+| S4E10, the strike | ~+4.2 | ~3.9 ly | The "station accident" |
+| S4E11–15, Hull Four's last hours | + 81 hours | | Rafe beams out early, Kai last |
+| Reply copy leaves | ~+4.2 | ~3.9 ly | Rafe's reply to Earth |
+| S1E16, the reply reaches Earth | ~+8.2 | | Nearly 4 years' lag each way |
+| S1E17, Raul's body dies | ~+8.5 | | About 9 real years old |
+| S4E16–19 | ~+4.2 | ~3.9 ly | The bill and the manifest |
+| S4E20, visual range | ~+8 | ~4.4 ly | Braking; a real-time jump of about 4 years from E19 |
+| Landfall (S5) | ~+9 | 4.4 ly | |
+
+So Hull Four's strike happens *before* S1 ends, and Earth learns of it as a "station accident" in S1E16. A
+Base Shadow lives only a few subjective years of the crossing, by roster. The High Clock stands short watches: a
+real year at the Apex would be 86,400 subjective years, and the reactor could not pay for it.
 
 ## In the world
 Cold, dark, procedural. The Flavin-neon of the server decks (`VIS-15`), the Caravaggio tenebrism of the

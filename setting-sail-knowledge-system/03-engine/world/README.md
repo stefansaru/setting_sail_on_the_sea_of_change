@@ -76,6 +76,7 @@ World pages are checked under the **WORLD** layer (rules, consistency, lived-in 
 - [[recreation-culture]] (`WLD-19`) — fun as decompression for the sleepless: Turrell Raves, Historical Parsing, the Glacial Vacation.
 - [[cultural-taboos]] (`WLD-20`) — the etiquette of disgust: the Glacial Stutter, Organic Leakage, Masked Intent.
 - [[the-substrate-olympics]] (`WLD-21`) — Games split by substrate physics; the Tier-Reality Paradox (mind too fast for flesh).
+- [[the-virtuous]] (`WLD-25`) — the creed every Grid child is raised in: break negative loops; no leadership without proof.
 
 ### mechanics/
 - [[velocity-tiers]] (`WLD-04`) — the time-dilation hierarchy (Tier 0–3; Apex = 86,400×).
@@ -91,6 +92,9 @@ World pages are checked under the **WORLD** layer (rules, consistency, lived-in 
 - [[chromatic-tears]] (`MAG-23`) — malware as aesthetic corruption; flickers the Intention Squares, accelerates TTD.
 - [[velocity-braking]] (`MAG-24`) — the spectacular takedown: Cognitive Shock Trap + Pastor electromagnetic staffs.
 - [[the-encrypted-block-paradox]] (`MAG-25`) — the sovereign-lock black box; an inmate the AI can neither read nor release.
+- [[the-one-in-n-rule]] (`MAG-32`) — responsibility for N people requires passing a 1-in-N test; forks, ratings, ad-hoc succession.
+- [[the-quickening]] (`MAG-34`) — capsules rush the body to keep up; the side-effects of rushing; the S1 real-time chronology.
+- [[the-pattern-detector]] (`MAG-33`) — the Lens warning of a negative loop; the stress trigger; the alignment setting.
 
 ### technology/
 - [[the-personal-blockchain]] (`MAG-11`) — consciousness ledger; Full Disclosure; Chain-Check.
