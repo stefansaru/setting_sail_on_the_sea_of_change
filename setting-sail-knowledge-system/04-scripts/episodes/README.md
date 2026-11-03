@@ -1,4 +1,4 @@
-# Episode Guide — *Intention in Context*, Season 1 "The Intention Ledger"
+# Episode Guide — *Intention in Context*, Seasons 1–2
 
 The manifest + status board. **Per-episode breakdowns** live in the blueprint
 [`../../03-engine/series/setting-sail-tier-descent.md`](../../03-engine/series/setting-sail-tier-descent.md); **drafted prose
@@ -60,16 +60,58 @@ scripts** live here; this file is the **index**.
 | 19 | **The Pure Current** *(flagship)* | Purist Village | ✅ | [[s1e19-the-pure-current]] |
 | 20 | **The Macro-Doughnut Equilibrium** *(finale)* | Flesh ∩ Ledger | ✅ | [[s1e20-the-macro-doughnut-equilibrium]] |
 
+# Season 2 "The Mortal Ledger"
+
+> **Season 2 status: 20 scripts, draft v1 audited and revised (✅), 2026-11-04.** Blueprint [[setting-sail-tier-ascent]];
+> audit `audit-reports/AuditReport_s2-scripts_d1_20261104`; rulings `Q-127`, `Q-128`. Readable edition:
+> [`../readable/season-2-the-mortal-ledger.md`](../readable/season-2-the-mortal-ledger.md).
+
+## Act I — The First Bite (Phase A′) · Adam **90% organic**
+| Ep | Title | Tier | ✓ | File |
+|----|-------|------|---|------|
+| 1 | The Marked Boy | T0 | ✅ | [[s2e01-the-marked-boy]] |
+| 2 | The Maintenance Ascent | T0→1 | ✅ | [[s2e02-the-maintenance-ascent]] |
+| 3 | The Painless World | T1 | ✅ | [[s2e03-the-painless-world]] |
+| 4 | The Garden Behind Glass | T1 | ✅ | [[s2e04-the-garden-behind-glass]] |
+| 5 | The Vow He Breaks | Buffer | ✅ | [[s2e05-the-vow-he-breaks]] |
+
+## Act II — The Gifts That Subtract (Phase B′) · Adam → **60%** at Ep 10
+| Ep | Title | Tier | ✓ | File |
+|----|-------|------|---|------|
+| 6 | The Dream Hunger | T1 | ✅ | [[s2e06-the-dream-hunger]] |
+| 7 | The Proximity Illusion | T2 | ✅ | [[s2e07-the-proximity-illusion]] |
+| 8 | The Standardized Vices | T2 | ✅ | [[s2e08-the-standardized-vices]] |
+| 9 | The Split Mirror | T2 | ✅ | [[s2e09-the-split-mirror]] |
+| 10 | The Hollow Crown | T2 | ✅ | [[s2e10-the-hollow-crown]] |
+
+## Act III — The Machine Behind the Curtain (Phase C′) · Adam → **30%** at Ep 15
+| Ep | Title | Tier | ✓ | File |
+|----|-------|------|---|------|
+| 11 | The Distributed President | T2 | ✅ | [[s2e11-the-distributed-president]] |
+| 12 | The Merit Key | T2 | ✅ | [[s2e12-the-merit-key]] |
+| 13 | The Chain and the Patch | T2 | ✅ | [[s2e13-the-chain-and-the-patch]] |
+| 14 | The Data Graveyards | T2 (lunar) | ✅ | [[s2e14-the-data-graveyards]] |
+| 15 | The Absolution | T2 (Hope) | ✅ | [[s2e15-the-absolution]] |
+
+## Act IV — The Apex, and the Reckoning (Phase D′) · Adam → **~0%**, then borrowed flesh
+| Ep | Title | Tier | ✓ | File |
+|----|-------|------|---|------|
+| 16 | The Chronological Sanctuary | T3 Apex | ✅ | [[s2e16-the-chronological-sanctuary]] |
+| 17 | Too High to Reach | T3→descent | ✅ | [[s2e17-too-high-to-reach]] |
+| 18 | Raul's Mirror | Descent (T1) | ✅ | [[s2e18-rauls-mirror]] |
+| 19 | The Pure Current, Reversed | T0 village | ✅ | [[s2e19-the-pure-current-reversed]] |
+| 20 | The Mortal Doughnut | Flesh ∩ Ledger | ✅ | [[s2e20-the-mortal-doughnut]] |
+
 ## Standalone reels (slots per `Q-11`, `Q-76`, `Q-77`)
 | Title | Use | ✓ | File |
 |-------|-----|---|------|
-| The Chronological Sanctuary | outrun-death; slot **S2E16** (`Q-11`), recast as Adam (`Q-76`) | 📋 wordless, retimed (`Q-89`) | [[the-chronological-sanctuary]] |
-| The Split Mirror | Raul's Merging origin; slot **S2E9** (`Q-11`, `Q-76`) | ✍️ some lines, retimed (`Q-89`) | [[the-split-mirror]] |
-| The Proximity Illusion | Vesper, now a Ghost, met by Adam; slot **S2E7** (`Q-92`) (`Q-11`) | 📋 | concept in [[frequency-tribes]] |
-| The Dream Hunger | TTD countdown; slot **S2E6** (`Q-11`, `Q-76`); outside S1 continuity (`Q-46`) | ✍️ some lines | [[the-dream-hunger]] |
+| The Chronological Sanctuary | outrun-death; scripted for Adam as [[s2e16-the-chronological-sanctuary]] (`Q-76`); this reel stays a standalone | 📋 wordless, retimed (`Q-89`) | [[the-chronological-sanctuary]] |
+| The Split Mirror | Raul's Merging origin; Adam's adult Merging is [[s2e09-the-split-mirror]] (`Q-76`) | ✍️ some lines, retimed (`Q-89`) | [[the-split-mirror]] |
+| The Proximity Illusion | Vesper, now a Ghost, met by Adam (`Q-92`) | ✅ | [[s2e07-the-proximity-illusion]] |
+| The Dream Hunger | TTD countdown; Adam's version is [[s2e06-the-dream-hunger]] (`Q-76`); outside S1 continuity (`Q-46`) | ✍️ some lines | [[the-dream-hunger]] |
 | The Substrate Paradox | Substrate-Olympics desync (culture; S2 candidate) | ✅ | [[the-substrate-paradox]] |
 | The First Supper | Flavor Scripts vs Hospitality (culture; licensed Sabbatical, `Q-72`) | ✅ | [[the-first-supper]] |
-| The Locked Block | Encrypted-Block Paradox at Hope; one welded door at **S2E15** (`Q-77`, `Q-116`), recalled S3E13 (`Q-119`) | ✅ | [[the-locked-block]] |
+| The Locked Block | Encrypted-Block Paradox at Hope; one welded door in [[s2e15-the-absolution]] (`Q-77`, `Q-116`), recalled S3E13 (`Q-119`) | ✅ | [[the-locked-block]] |
 | The Mirror Asymmetry | Aesthetic Dichotomy demo, split-screen (unslotted) | ✅ wordless by design, retimed (`Q-89`) | [[the-mirror-asymmetry]] |
 
 > **Deferred to S3 reserve** (no S1/S2 home): Turrell Raves & Historical Parsing ([[recreation-culture]]),
@@ -81,7 +123,7 @@ scripts** live here; this file is the **index**.
 > remaining items are author calls. Reports: `audit-reports/AuditReport_<slug>_d1_20260605_220454.md`.
 
 ## Progress
-**22 / 22 full S1 scripts drafted (E1–20 plus lettered E3a–b); last audit: the 2026-11-03 fix-and-audit round
+**S2: 20 / 20 scripts drafted and audited (2026-11-04).** **22 / 22 full S1 scripts drafted (E1–20 plus lettered E3a–b); last audit: the 2026-11-03 fix-and-audit round
 (rulings `Q-85`–`Q-89` applied: E1 birth grant; E14/E17 by leased proxy; minor castes in every header; the E6/E17
 capsule and the E20 KAVANA vial; three standalones retimed). Every S1 reel now carries hook / context / friction /
 turn timecodes except E1 (`Q-75`).** Next pass: a per-episode line-polish + shotlist before render.

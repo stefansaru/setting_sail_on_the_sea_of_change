@@ -1,7 +1,7 @@
 # Series — *Intention in Context* · **Season 2: "The Mortal Ledger"**
 
 > *(File slug `setting-sail-tier-ascent` — the deliberate mirror of [[setting-sail-tier-descent|Season 1's
-> tier-descent]]. Display title **Intention in Context — Season 2: The Mortal Ledger** (`Q-18`).)*
+> tier-descent]]. Display title **Intention in Context — Season 2: The Mortal Ledger** (`Q-18`).)* **Scripted 2026-11-04:** all 20 reels in `04-scripts/episodes/s2e##-*.md` (draft v1, audited; `Q-127`, `Q-128`); details the scripts settled are logged in those rulings and the glossary.
 
 > **The inverse season.** Season 1 ran a mind *down* the [[velocity-tiers]] (Tier 3 → 0), trading speed for
 > weight until it earned the [[the-macro-doughnut|Macro-Doughnut]]. **Season 2 runs the other way:** a
