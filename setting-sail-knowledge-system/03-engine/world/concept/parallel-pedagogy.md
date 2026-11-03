@@ -15,7 +15,7 @@ updated: 2026-06-05
 > single real-world second. Growing up is a **cryptographic awakening.**
 
 ## Concept
-Education bypasses the drag of linear time via **Parallel Pedagogy**: out of the kindergarten pod, a
+Education bypasses the drag of linear time via **Parallel Pedagogy**: out of the kindergarten, a
 child's [[the-personal-blockchain|Personal Blockchain]] is **forked** into several isolated avatars,
 each dropped into a specialized high-velocity school tier and its own ~150-mind
 [[frequency-tribes|frequency tribe]].
@@ -52,6 +52,13 @@ This draws the legal/psychological line of the world: a **protected, system-cura
 ## Story role — Raul's becoming
 This is **Raul's origin** (the [[the-split-mirror|Split Mirror]] reel): Raul-Alpha, -Beta, -Gamma, three
 souls who never met, fused into one.
+
+**When Raul forks (`Q-119`, 2026-11-03).** The fork comes *out of* the kindergarten, so S1E3a–b, the nursery's last
+days, show one child at about eight. He forks on leaving it, just after E3b. The pattern detector and alignment
+setting won in E3b sit on that one pre-fork chain, so all three threads inherit them, and the Merging hands them back
+as one. E4 follows one thread, unlabelled; the Merging falls between E4 and E5, and the hollow glyph is on screen by
+E6. Adults may switch alignment off (`WR-L4`): the Merging is the moment the default becomes a choice, and almost
+nobody makes it. Raul does, in S1E19. The threads are never named in S1 (HELD to S2E9).
 
 **The Two Doughnuts (`Q-12`, settled).** The Merging confers **cognition, not equilibrium** — Raul ends
 it intellectually *whole* (he knows everything) but **not** emotionally balanced. What his graduation UI

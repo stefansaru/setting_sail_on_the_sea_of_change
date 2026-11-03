@@ -7,12 +7,12 @@
 > [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md).
 >
 > **Slotting:** unslotted demo of the dichotomy — fits the S1 descent (Raul as Shadow/cyborg in a dreamless
-> sim). Confirm placement (`Q-23`-adjacent); the specific partner can be tuned to a stranger or a known
+> sim). Confirm placement (slot open, `Q-11`); the specific partner can be tuned to a stranger or a known
 > thread.
 
 ## Setting & production context
 One Grid node rendered two ways, then the physical capsule bay it really is. The "conversation" happens
-inside a **dreamless simulation** ([[tether-decay]]); the bodies rest in adjacent stasis pods on the
+inside a **dreamless simulation** ([[tether-decay]]); the bodies rest in adjacent stasis capsules on the
 substrate. The horror is structural, not gory: it lives in the **cut** from vector-perfect avatar to mortal
 flesh.
 
@@ -26,36 +26,51 @@ flesh.
 
 ## Treatment
 
-### Act I — The Beautiful Lie (00:00–01:00) · *split 50/50*
-- **Left (Raul's Lens):** Raul rendered as a flawless 28-year-old in a tailored minimalist suit; the room is
-  a sharp geometric array of blue lightbars (an **Albers** structural grid, `VIS-15`). He speaks with a
-  striking, athletic woman in her early 30s.
-- **Right (Her Lens):** the *same* conversation — but her frame is a borderless, shifting **Turrell** violet
-  cloud-void; to her, Raul wears glowing ethereal digital fabrics, not a suit.
-- **Dialogue:** a deeply human, shared memory; voices perfectly synced, matching the clean agelessness of
-  both avatars. The audience reads it as one scene — it is two.
+*Timing per `Q-89`: hook 0:00–0:05 · context to 1:15 · friction to 2:15 · turn to 2:30.*
 
-### Act II — The Substrate Snap (01:00–02:00)
+### Hook (0:00–0:05) · *split 50/50*
+- One image: the screen splits down the middle on the *same* coordinates, and the two halves disagree. Left, blue
+  lightbars and a man in a suit; right, a violet cloud and the same man in glowing fabric. Their hands meet across
+  the seam.
+
+### Context — The Beautiful Lie (0:05–1:15)
+- **Left (Raul's Lens):** Raul rendered as a flawless 28-year-old in a tailored minimalist suit; the room is
+  a sharp geometric array of blue lightbars (an **Albers** structural grid, `VIS-15`). He sits with a
+  striking, athletic woman in her early 30s.
+- **Right (Her Lens):** the *same* moment — but her frame is a borderless, shifting **Turrell** violet
+  cloud-void; to her, Raul wears glowing ethereal digital fabrics, not a suit.
+- **No dialogue (by design).** Their words stay under the score. They are remembering something together; we see
+  it land on both faces at the same instant, a shared laugh, perfectly synced. The audience reads it as one
+  scene — it is two.
+
+### Friction — The Substrate Snap (1:15–2:15)
 - A high-frequency alarm slices the audio. Overlay across both panels:
   `[System Alert: Forced Real-Time Diagnostic — Node Disconnect]`.
 - The split-screen renders **dissolve**. Clean digital sound drops out; in rushes the heavy mechanical thrum
-  of cooling fans, biological wheezing, the drip of fluid lines. The illusion is ending in real time.
+  of cooling fans, biological wheezing, the drip of fluid lines.
+- Cut to the real world in unforgiving single-source chiaroscuro (`VIS-16`). Raul's actual body is drawn from a
+  stasis capsule for maintenance — gaunt, deep stress-lines, pale skin slick with synthetic sweat, the raw scarred
+  ports where cybernetic cables bolt into his collarbone ([[progressive-digitalization]]).
 
-### Act III — The Caravaggio Flesh (02:00–02:30)
-- Cut to the real world in unforgiving single-source chiaroscuro (`VIS-16`).
-- **The reveal:** Raul's actual body is drawn from a stasis pod for maintenance — gaunt, deep stress-lines,
-  pale skin slick with synthetic sweat, the raw scarred ports where cybernetic cables bolt into his
-  collarbone ([[progressive-digitalization]]).
-- **The final contrast:** the camera pans to the neighbouring pod. The woman whose hand he just held in the
-  dreamless sim is a **Shadow capsule-tenant whose Quickened body looks sixty** — face deeply lined, hands trembling with a
-  progressive neuro-degenerative illness.
-- **Last image:** a silent close-up of Raul's physical, bloodshot eye tracking the status light on her pod
+### Turn — The Caravaggio Flesh (2:15–2:30)
+- The camera pans to the neighbouring capsule. The woman whose hand he just held in the dreamless sim is a
+  **Shadow whose Quickened body looks sixty** — face deeply lined, hands trembling with a progressive
+  neuro-degenerative illness.
+- **Last image:** a silent close-up of Raul's physical, bloodshot eye tracking the status light on her capsule
   as it blinks a cold mechanical blue: `[Default Render Terminated. Returning to Baseline Substrate.]`
 
 ## Theme
 Inside the simulation, humanity can reach an absolute, ageless utopia of personal taste — but only by living
 a complete, isolated lie, **never able to look at the same world, or the same body, as the person they
 love.** The dichotomy *is* the tragedy.
+
+## Notes / continuity
+- **Castes (`Q-87`):** Raul is a cyborg, his body in a capsule (post-E10, pre-E17); the woman is a Shadow.
+  Bodies are Quickened (`WR-B2`), which is why hers looks sixty.
+- **Wordless by design.** The earlier treatment called for a shared-memory exchange nobody had written; the reel
+  now carries it in the synced laugh, so `DIAL` is N/A. An author line can be dropped in later at under 20 words.
+- **Writers' room:** the neighbouring capsule is the one S1E6 and S1E17 show untagged (`Q-88`, a-ha #15). If this
+  reel is slotted, the woman is Raul's partner (`Q-92`); never tag or name her on screen before S2E7.
 
 ## Related
 - Canon demonstrated: [[the-ageless-default]] (`WLD-22`/`VIS-16`) · [[asymmetric-perspective]]

@@ -7,7 +7,7 @@ status: draft
 tags: [cyborg, real-time, transhuman, lifeway, transition]
 related: [the-shadow-grid, velocity-tiers, the-1-percent-mutation]
 created: 2026-06-04
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > The slow path: stay in a physical body at real-time, replace it piece by piece over decades, and
@@ -33,7 +33,10 @@ to digital that this path produces.
 
 - **The forced Slip (`Q-50`).** Any mind can be beamed given time, and Raul had it in S1E14. Packing a mind takes
   longer than a dying hull has left unless it runs at the Apex, and aboard the fleet only a Ghost reaches the
-  Apex. So Kai has to finish the Slip first (S4E13–15).
+  Apex. So Kai has to finish the Slip first (S4E13–15). Packing takes about eight subjective months: four real days at Tier 1, under two hours at Tier 2, four minutes at the Apex.
+  Hull Four has 81 hours, under three and a half days, so Tier 1 can't do it; Tier 2 is refused to a Shadow while
+  the reactor feeds the beam queue (S4E13), and by the time the Slip is done Kai has only minutes. Decimus's `1:10` budget pays for the
+  climb and the four Apex minutes (`Q-79`). In the Hull Cut, Raul's priority pays instead (`Q-113`).
 
 ## In the world
 A common, undramatic way to die-without-dying — the opposite of the violent

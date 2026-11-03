@@ -36,7 +36,7 @@ there in the unbroken gold of a world that could not go wrong. Then they walked 
 "We're the same," he said. "It just feels different than before. But some things never change. Like holding hands."
 
 Their fingers wove together, and they walked on, while behind them the light shimmered through the leaves, a little too perfectly, on a paradise
-that was also a kind of pod.
+that was also a kind of capsule.
 
 ### 2. The Primitive Grid
 In the dark behind closed eyes there was a heartbeat, and then a soft rushing, and then light — a uniform
@@ -48,10 +48,10 @@ because the music seemed to come from it.
 
 Grown, looking back, he would say it with wonder: "I remember all of it. Shadows first… and then — *music.*"
 
-Then the shapes slid together and *became* something — a Teddy
-Bear that spun and sang and opened its arms wide. He laughed. There was no fear anywhere in the world, only
-warmth, the purest possible contentment, the baseline the next eighteen years of his life would spend
-themselves complicating.
+His eyes drifted off the circle, and the music stopped. One beat of silence; his face crumpled toward a wail.
+Then the shapes slid together and *became* something — a Teddy Bear that spun, and the music came back from it.
+It sang and opened its arms wide. He laughed. There was no fear anywhere in the world, only warmth, the purest
+possible contentment, the baseline the rest of his life would spend complicating.
 
 *Very good,* the Bear told him. *You're doing great.*
 
@@ -164,7 +164,7 @@ The Bear took a beat too long. "One step at a time."
 Its paw turned him toward the door. They went through into blinding gold, and we do not follow.
 
 Then, hard, the nursery. The boys were back, older around the eyes. The song that had been playing when they
-left was still on the same verse, and the red ball sat where they had left it.
+left was still on the same song, and the red ball sat where they had left it.
 
 Jun reached. Raul's jaw set. A thin amber thread drew itself between them, tagged in small letters: *Loop
 forming.* And at the edge of Raul's sight a choice filled itself in: *Open hand.* His fingers opened. Jun,
@@ -233,8 +233,8 @@ Lens, menu by menu, to a setting he had never opened: he was a *Shadow*. His min
 slept in a capsule on Earth, and that line was its tether, its lifeline. He had always had a body out
 there. He had just never once looked.
 
-He pulled up the feed. In a stasis pod, a stranger's slack face breathed slowly — his own. Vertigo took
-him. He reached toward the screen and the tether tightened in warning.
+He pulled up the feed. In a stasis capsule, a stranger's slack face breathed slowly — his own. Inches from it,
+at the edge of the picture, sat a second capsule with no tag. He didn't look at it. Vertigo took him. He reached toward the screen and the tether tightened in warning.
 
 "That's… me? Thirty-four years, I'm asleep down there?"
 
@@ -261,7 +261,7 @@ smiled. A threshold, crossed. Somewhere on the network a new Ghost quietly logge
 
 The chrome body sat empty and cooling while, elsewhere, Jun floated free and weightless. Raul pressed his
 proxy's cold hand to his friend's colder chest, and then to where his own heart should have been, and felt
-only chrome — his warm mortal body asleep in a pod, a world away. His tether hummed at the edge of the
+only chrome — his warm mortal body asleep in a capsule, a world away. His tether hummed at the edge of the
 frame, suddenly very heavy.
 
 ### 8. Phantoms and Casing
@@ -273,7 +273,7 @@ half contempt.
 The contempt was open here. A tethered Shadow foreman, present by leased proxy, sneered at the shell, and the
 Ghost inside it fired back.
 
-"Vapor playing dress-up. No skin, no stakes."
+"Smoke playing dress-up. No skin, no stakes."
 
 "And you? A Glacial, freezing in the meat. At least I *chose.*"
 
@@ -306,7 +306,7 @@ had reached the mirrors.
 
 Citizens froze and screamed as their pristine reality glitched to wireframe. Raul looked up into the wound —
 and felt the surge come *down his tether*. Far away, in its capsule, his sleeping body convulsed as the power
-spike cooked his nervous system. Agony he had never imagined flooded both worlds at once. Automated pods
+spike cooked his nervous system. Agony he had never imagined flooded both worlds at once. Automated surgical rigs
 seized his real body; his avatar buckled as his limbs went dark. To save him, the system amputated the ruined
 organic parts — spine, lungs — and bolted cybernetics in their place.
 
@@ -325,13 +325,13 @@ He flexed a chrome hand where flesh used to be — seventy percent a body, and f
 
 ### 11. The 1% Fault Line
 A single slab of oxidized crimson light, low in the dark, and over it a countdown: *23:59:58…* In a sub-level
-clinic of the Ministry of Hope, an old woman named Nia lay dying. She was a Natural Purist, entirely
+clinic of the Ministry of Hope, an old woman named Kavana lay dying. She was a Natural Purist, entirely
 biological, and she had taken the Ministry's desperate bargain — an experimental rewrite of her own DNA to
 keep her mortal body alive. She had drawn the one percent. Catastrophic collapse. One day left.
 
 Raul watched from the doorway, a seventy-percent machine looking at a woman dying of being too human.
 
-A Pastor knelt beside her, gentle and terrible. The cure could not be finished in a single human day — unless
+An Intercessor knelt beside her, gentle and terrible. The cure could not be finished in a single human day — unless
 she let them put her mind into the Apex, where time ran far faster.
 
 "You have a day," he said softly. "Hope can buy you two and a half hours of it, at the Apex. Twenty-four *years*, in there. Long enough to save yourself."
@@ -340,66 +340,67 @@ she let them put her mind into the Apex, where time ran far faster.
 
 "Or don't come back at all. You took our odds once already, child."
 
-Nia looked at her trembling, spotted hands, and then at the glowing pod. The countdown ticked. She reached for
+Kavana looked at her trembling, spotted hands, and then at the glowing capsule. The countdown ticked. She reached for
 it.
 
 ### 12. The 24-Year Lab
-Inside the Apex, time was unhurried. Nia — young again here, in the avatar she had chosen — sat calmly before
+Inside the Apex, time was unhurried. Kavana — young again here, in the avatar she had chosen — sat calmly before
 walls of holographic computation and ran decade-long biochemical models with the ease of reading on a quiet
 afternoon. Outside, only minutes were passing. In here, there were years. To force a stubborn protein to fold
 she triggered a licensed disruption, and the world briefly shattered into light and re-settled, faster.
 
-A Pastor's avatar visited, and the real price surfaced. To leave, her ledger had to read clean: was her
+An Intercessor's avatar visited, and the real price surfaced. To leave, her ledger had to read clean: was her
 desperate, vow-breaking choice provably aligned?
 
-"Your intent reads ninety-nine percent clean, Nia. Sure you don't want your chain made public? Just in case."
+"Your intent reads ninety-nine percent clean, Kavana. Sure you don't want your chain made public? Just in case."
 
 "I'll think about it," she said, not looking up from her work.
 
-Twenty subjective years passed in the space of his sentence. She aged inside the Apex while his seconds barely
-moved — two people in one room, a lifetime apart. Old again, decades spent, she finished the formula at last,
+Twenty subjective years passed while his clock moved two hours. She aged inside the Apex — two people in one room, a lifetime apart. Old again, decades spent, she finished the formula at last,
 and looked at it with exhausted triumph and grief. It would save her body by making it no longer entirely
 hers. A word locked in at the edge of her sight: *Live.*
 
 ### 13. Downloading the Cure
-The timer outside read nine seconds. Robotic surgical pods unfolded over Nia's dying biological body with a
+The timer outside read nine seconds. Robotic surgical rigs closed over Kavana's dying biological body with a
 visceral clunk, and her mind — carrying the cure she had spent subjective decades inventing — downloaded back
 out of the Apex into a synthetic body the machines assembled around her few salvageable parts. The flesh that
 had drawn the one percent was set aside.
 
-At zero, the old body flatlined exactly as the new one opened its eyes. Nia was alive, and she was chrome. She
+At zero, the old body flatlined exactly as the new one opened its eyes. Kavana was alive, and she was chrome. She
 lifted a gleaming hand she did not recognize. She was a Cyborg now — the very thing her whole purist life had
 refused.
 
 "I saved myself," she said hollowly. Then, looking at the hand: "…Who is this?"
 
-She stood, unsteady, a stranger in a perfect body, while the Pastor draped a simple cloth over the discarded
+She stood, unsteady, a stranger in a perfect body, while the Intercessor draped a simple cloth over the discarded
 flesh. A clean new readout settled at the edge of her sight: *Organic: 8%.* The cure had worked. The woman had not survived it. From the gallery, Raul watched, and saw his own
 future in her face.
 
 ### 14. The Centauri Data Beam
-A laser array fired a packet of light at the sky with a crack, and for an instant Raul's reflection split in
-the launch glass — two of him. He had drawn a deep-space assignment, and he was learning the rules of it: his
+A laser array fired a packet of light at the sky with a crack. Raul stood at the launch glass in a leased proxy,
+and for an instant his reflection split in it — two of him. He had drawn a deep-space assignment, and he was learning the rules of it: his
 mind, his context, his whole ledger copied to a beam and fired across the void, while the original kept
 running back on Earth. But the bandwidth was brutal, more than his seventy-percent-organic brain could carry.
 
-A technician laid it out. "Your brain won't carry the beam. Forty percent has to go. Sign there."
+A technician laid it out. "Your brain won't carry the beam in time. Forty percent has to go. Sign there."
 
 "…And what's left of me, after?" Raul asked, hesitating over the last of himself.
 
-He signed. Pods replaced his skull and the seat of his senses, and he dropped to thirty percent — his hands
+At the edge of his sight a choice sat empty. He filled it himself, slowly: *Go.*
+
+He signed. Surgical rigs replaced his skull and the seat of his senses, and he dropped to thirty percent — his hands
 flickering to bare metal wireframe under the strain. Then the beam split him. His vision cleaved into two: on
 one side the Earth instance, resuming his life; on the other the deep-space copy, flashing away into black.
-Both were him. Neither would ever be wholly him again. He lowered his new chrome hands and watched his own
-copy vanish toward Alpha Centauri.
+Both were him. Neither would ever be wholly him again. At the glass he lowered the proxy's chrome hands and
+watched his own copy vanish toward Alpha Centauri.
 
 ### 15. The Forked Identity
-A Raul opened his eyes light-years from Earth, gasping, and for a moment did not know which Raul he was. The
-station was cold and cramped; a red corruption-warning stuttered across his vision, cosmic radiation chewing
+A Raul opened his eyes light-years from Earth, gasping, and for a moment did not know which Raul he was. The gasp
+was only a reflex; there was no chest to fill. A small line said so: *Body: none.* The station was cold and cramped; a red corruption-warning stuttered across his vision, cosmic radiation chewing
 at the edges of the long beam.
 
 Then came the years. Cut off from his Earth-self by light-years of lag, the clone began to diverge. He
-survived a station accident the original never faced. He grieved crewmates the original never met. He fell in
+survived the night the Station was holed, which the original never faced. He grieved crewmates the original never met. He fell in
 love with someone the Earth-Raul would never know. Slowly, he stopped thinking of himself as a copy at all.
 His own intentions filled in — *stay, build, love* — and they directly contradicted the life waiting back
 home.
@@ -425,7 +426,7 @@ an identical past and nothing else. And the Earth-Raul *wanted* it: the love, th
 never been given.
 
 The old Raul would have optimized — absorbed the copy, taken the data, maximized himself. But this Raul had
-spent a fractured season learning that you do not have to crush two truths into one to hold them.
+spent eight fractured years learning that you do not have to crush two truths into one to hold them.
 
 The clone spoke first. "Merge, and I stop. You get my years. Even her. She never chose you."
 
@@ -445,10 +446,11 @@ and in Raul's vision the fractured ring steadied, just a fraction. Not whole. Bu
 ## Act IV — The Great Descent
 
 ### 17. Tether Sickness
-A chrome-and-carbon hand pressed flat against a sealed observation port. Beyond the glass lay the raw,
+A chrome-and-carbon hand pressed flat against a sealed observation port: a leased proxy's hand, standing at the
+very edge of how far his tether would reach from the capsule where his body lay. Beyond the glass lay the raw,
 un-simulated outside — wind, dust, real sun — and a carmine emergency light throbbed through the corridor.
-Raul's face was almost entirely synthetic now; only his eyes still read warm. He wanted, just once, to feel
-something real.
+In the glass his own face lay over the proxy's, almost entirely synthetic now; only his eyes still read warm. He
+wanted, just once, to feel something real.
 
 The Guide spoke, calm, in the same old warmth that had once taught him to crawl. "Raul. You're too far from your body. Come back."
 
@@ -462,14 +464,15 @@ edges and began to slip away, like water through fingers.
 "…What did it say? The bear. What did it—" He reached for it, and wonder broke through the panic. "I'm forgetting."
 
 A memory slipped away for the first time in his existence. It was terrifying. It was the most human thing that
-had ever happened to him. Far away, in the stasis bay, his real heart and lungs failed; a single biological
+had ever happened to him. Far away, in the stasis bay, his real heart failed; a single biological
 heartbeat slowed.
 
 "Oh, Raul," said the Guide, no longer a warning. Almost tender.
 
 A beat of perfect stillness. A tiny passing itch at the back of his synthetic neck, where the last living cell
 used to be. He scratched it, absently, the way you brush off nothing — and the heartbeat flatlined into a clean
-digital tone.
+digital tone. For a single frame, as the tether let go, there was the bay again: the capsule next to his, inches
+away, with no tag.
 
 The carmine chaos vanished. The world resolved into cold, perfect, eidetic clarity, sharper than real. He
 reached back, instinctively, for the warm fuzzy memory that had been slipping — and it was *there*. Flawless.
@@ -485,8 +488,8 @@ he had reached for — still behind glass — with his own perfect chrome reflec
 incapable of forgetting the exact moment he lost the ability to forget.
 
 ### 18. Unplugging the Safe Harbour
-A heavy airlock cycled, and Raul — a Ghost now, wearing a cyborg shell, fresh from his own death — slowed all
-the way down to real time. The frantic hum of the Grid dropped into silence. Raw, un-simulated daylight struck
+A heavy airlock cycled, and Raul — a Ghost now, wearing the same chrome body he had died in, a shell now rather
+than a proxy — stepped out in real time. The constant hum of the Grid dropped into silence. Raw, un-simulated daylight struck
 his lenses for the first time.
 
 He stepped onto the actual Earth: dirt, wind, weeds pushing through cracked concrete, no render and no metric
@@ -542,6 +545,9 @@ A child's ragged cough cut the village quiet. A purist mother cradled her fevere
 un-augmented world had no way to treat — and mortal time was running out. She faced the unthinkable: break the
 vow of her whole people and let the Grid's medicine into her child, saving his life by beginning to make him a
 machine; or hold to her purity, and let him die mortal and whole.
+
+Raul touched his temple, and the Lens, dark since the village, came back on: circles only, the squares below left empty. On the table between them sat the sealed vial. In Raul's sight a small tag settled on its label: *Kavana.*
+Nobody read it aloud.
 
 She turned, in anguish, to the one person there who had lived both sides — to Raul, chrome and eidetic, who had
 given up everything she was about to risk.

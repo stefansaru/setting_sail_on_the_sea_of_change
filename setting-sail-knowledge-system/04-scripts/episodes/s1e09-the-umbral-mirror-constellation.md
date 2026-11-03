@@ -26,4 +26,4 @@ precise, **and exposed.** A single line of telemetry scrolls past, unremarked: *
 elevated.* [UI: hollow glyph, serene — for the last time.] Cut to black. *(The gun on the wall for E10.)*
 
 *Canon: cooling architecture / PSR ([[the-shadow-grid-cooling]]); wonder beat (`CINE-15`); plants the
-solar-storm payoff (Chekhov). Raul 100% organic. Turrell register.*
+solar-storm payoff (Chekhov). Raul 100% organic. Turrell register. Castes (`Q-87`): no one else on screen.*

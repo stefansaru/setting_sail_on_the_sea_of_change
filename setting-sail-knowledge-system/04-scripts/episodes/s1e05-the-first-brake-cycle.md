@@ -6,7 +6,7 @@
 
 **HOOK (0:00–0:05).** A clean chime, then violent **shutter-distortion** — the world smears into streaks
 of light. Raul's face freezes mid-breath while everything around him **accelerates** into a blur. He is
-being **down-clocked** (T2 → T1) for the first time. ([[inter-tier-travel]].)
+being **down-clocked** (T2 → T1) by force for the first time. ([[inter-tier-travel]].)
 
 **ACT I — CONTEXT (0:05–1:15).** The smear resolves. Raul stands in a slower, denser civic tier, briefly
 disoriented. A flat system voice delivers the news without malice: a [[the-distributed-president|planetary
@@ -29,4 +29,5 @@ and the Despair field snaps back to hospitality orange as the next guest arrives
 [UI: a bottom Intention square he didn't choose: *Serve.*] Cut to black.
 
 *Canon: [[velocity-tiers]] down-clock; post-labor economy + the Global Loop + Despair filter (built into
-set). Raul 100% organic, in-grid. Sets the adult baseline before E6's caste reveal.*
+set). Raul 100% organic, in-grid. Sets the adult baseline before E6's caste reveal. Castes (`Q-87`): the guests
+are Shadows; SYSTEM is a voice, not a person.*

@@ -1,14 +1,14 @@
 ---
 id: jun
 name: Jun
-canon: "supporting (S1E7) — name provisional, Q-08"
+canon: "supporting (S1E7) "
 role: Raul's friend; the gentle Cyborg Slip
 status: provisional
 seasons: [S1 (E3a–b, E7)]
 tags: [supporting, friend, cyborg, ghost, the-cyborg-slip, foreshadow]
 related: [raul]
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-11-03
 ---
 
 > Raul's friend, who shows him that death can be gentle — a cyborg whose last living cell quietly gives out,
@@ -16,8 +16,11 @@ updated: 2026-06-06
 > rehearsal for Raul's own end.
 
 ## Identity
-**Jun** — Japanese 順 "obedient", 純 "pure": the boy who grins at the open hand.  Raul's close friend; a body more **chrome than flesh** after decades of
-ordinary repairs, a hand here, a lung there.
+**Jun** — Japanese 順 "obedient", 純 "pure": the boy who grins at the open hand. Raul's close friend; a body more **chrome than flesh** (wear varies, and he lived in the flesh at Tier 0, so wore faster, `Q-75`) after a few
+real months of ordinary repairs, a hand here, a lung there. On Raul's Tier-1 clock those months were years, which is
+why Raul remembers the repairs as lifelong.
+
+**Caste (`WR-B1`):** Shadow child (E3–E3b) → cyborg living in the flesh at Tier 0 → Ghost (E7).
 
 ## Arc
 - **S1E3a–b "He Started It" / "The Upper Level":** as a boy of about eight, fights Raul over the ball he once
@@ -29,8 +32,8 @@ ordinary repairs, a hand here, a lung there.
   dying." Directly foreshadows **Raul's own death** (E17).
 
 ## Voice & signature
-Calm, even light, at the threshold — *"Shh. I think… it's now." / "Oh. Oh, Raul — it doesn't hurt. It's
-just… quieter."*
+Calm, even light, at the threshold — *"Shh. I think… I think it's now." / "Oh. Oh. Raul — it doesn't hurt. It's
+just… quieter."* As a boy: *"No, he started it!"* / *"Did they know?"*
 
 ## Want · Truth
 - **Truth (he embodies):** the slip is not an ending to fear — it is *quieter*. The first time Raul sees that

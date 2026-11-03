@@ -5,7 +5,8 @@
 > Ledger"]] · [[setting-sail-the-cartographers-ledger|S3 "The Cartographer's Ledger"]] · **S4 "The Seed
 > Ledger."** Display title **Intention in Context — Season 4: The Seed Ledger** (`Q-26` provisional).
 > **Status: DRAFT / author's seed — 2026-10-12; author's answers folded in the same day** (`Q-28/29/31/32/33`
-> resolved as leans; `Q-34/35` added). Still open: `Q-26`, `Q-30`, `Q-35`.)*
+> resolved as leans; `Q-34/35` added). Still open: `Q-26`, `Q-30`, `Q-35`. **Updated 2026-11-03:** `Q-109`–`Q-112`
+> applied; the S5 outline carries its watch items.)*
 
 > **The voyage season.** S1 ran a mind *down* the [[velocity-tiers]], S2 ran one *up*, S3 ran *back to the
 > source*. **S4 runs *out*** — the same tiers, the same castes, the same Doughnut, bolted inside a **seed
@@ -71,6 +72,9 @@
   thought lost reappears within sensor range; the aliens that boarded it transmit **signals that trigger a
   revolt.** Part 1 = the travel until the planet is in visual range.
 
+*Superseded in part by later rulings, kept above as the record:* the hit is a grain of natural rock (`Q-66`), and S4
+shows only that its timestamp sits under Teo's burst (`Q-111`). Whether the Unlisted attacked at all is S5's question.
+
 ---
 
 ## How it bolts onto the existing world (no new physics)
@@ -112,7 +116,7 @@ The seed is, almost rule for rule, the Shadow Grid put inside a hull. **Reused, 
 
 ## The protagonist — "The Sleeper"
 **Kai** (`CHR-08`) — a **stasis Shadow at the base of the pyramid**: body in a bay on
-**Hull Four**, mind running at Tier 0–1 on maintenance rota, a colonist who signed on to **arrive in a body**.
+**Hull Four**, mind running at Tier 0–1 on maintenance rota, attending the bays at Tier 0 by proxy, a colonist who signed on to **arrive in a body**.
 The name: Hawaiian *kai*, "sea" — the Sea of Change literalized as the one who actually sails it — and a
 Greek *kai*, "and": the one who must hold two truths at once. Archetype: **"The Sleeper"** — the one who
 was promised a waking.
@@ -126,10 +130,10 @@ was promised a waking.
 - **The ship's voice:** the AI-Guide archetype (`CHR-03` echo) as the **hull's own voice** — the countdown is
   read in the Teddy Bear's cadence.
 - **The friend:** **Teo** (`CHR-09`, [[teo]]) — Kai's bay-mate; the kind, inexperienced worker who answers the
-  [[the-lure-beacon|lure]]. His body leaves in a lifeboat; he never learns in S4 that the hit was his.
+  [[the-lure-beacon|lure]]. His body leaves in a lifeboat; he never learns in S4 that his burst sits in the log just above the hit.
 - **The one at the top:** **[[the-centauri-clone|Rafe]]** (`Q-28`, `Q-45`) — the
   fleet *is* the Centauri expedition, so Raul's Earth beam landed on a hull. His branched self worked Hull Four (its crew call it "the Station"),
-  survived the hit by beam-out, and rose to the High Clock: the Ghost who receives Kai when they finally climb. His S3 question (*"a better system"*) is now a
+  survived the hit by beam-out, and, as Hull Four's senior surviving Ghost, holds its High Clock seat by default (`Q-64`): the Ghost who receives Kai when they finally climb. His S3 question (*"a better system"*) is now a
   *ship*.
 
 ---
@@ -153,7 +157,7 @@ dying hull with no surgeon but the ship.
 The fleet's forward shield, seen from dead ahead, is a **disc with a dark bore at its centre** for the laser:
 **a doughnut pierced by an arrow** (`VIS-12`, `TON-02`), *literalized as engineering*. Kai's UI glyph is that
 disc: **whole** (Act I) → **open** (the firing window, Ep 10) → **cracked** (the hit) → **re-drawn solid, as
-a Ghost's** (Ep 20, the planet seen *through* the bore).
+a Ghost's** (Ep 19, then the planet seen *through* the bore in Ep 20).
 
 ### The Sea of Change — the void as the externalized emotion
 The four Acts map onto the four Sea-of-Change phases, as in S1–S3 — now with the Sea as **deep space**:
@@ -169,22 +173,26 @@ one major reveal per reel ([[revelation-cadence]]); the aliens are **never shown
 
 ### Act I — The Pyramid (Ep 1–5) · *Tier 0–1 · Kai 100% organic · Phase A: the serene dark*
 1. **The Firing Day** — *Hull Four, forward bay.* A routine firing: the screen drops, the lock takes a
-   long minute, the bore flashes, a rock a thousand kilometres out becomes dust. Kai on maintenance rota
-   watches it the way you watch weather. *UI:* the **disc glyph** introduced — whole. → the cold open is the
+   long minute, the bore flashes, a rock twenty million kilometres out becomes dust (at a tenth of light speed the
+   hull covers that in about eleven minutes, so the lock has room). Kai on maintenance rota
+   watches it the way you watch weather. Two crew on watch, by proxy, count the lock aloud; one shoves the other: *"He started
+   it."* Nobody looks up (a-ha #16 reminder). *UI:* the **disc glyph** introduced — whole. → the cold open is the
    season's weapon, shown as beauty.
 2. **Watts and Chemistry** — *stasis bays, below.* The [[the-stasis-economy]] laid out through Kai's shift:
    a row of bodies, each with a chemistry line; above them, a server rack that costs only light. Kai's own
-   body in its bay. *UI:* Context circles show the fleet's **two budgets** side by side.
-3. **The Base of the Pyramid** — *Tier 1 commons.* The population pyramid as lived: Kai's tribe
-   ([[frequency-tribes]]) is the many at the slow bottom; the few above are a rumour. Someone is
+   body in its bay. Over the bay doors, the crew's worn stencil: **THE STATION** (a-ha #5 reminder; S1E15's word). *UI:* Context circles show the fleet's **two budgets** side by side.
+3. **The Base of the Pyramid** — *Tier 1 commons.* The population pyramid as lived: most of the slow bottom is Ghosts on watch, and Kai's tribe ([[frequency-tribes]]) is one of its few bands with bodies (`Q-68`); the few above are a rumour. Someone is
    **promoted upward** and vanishes mid-sentence into a faster clock. *UI:* the pyramid as the Lens's
    vertical ruler.
-4. **The Ramp** — *the synthesis bay.* The star is brighter; the first new bodies are being **grown** for
-   voyage-long Ghosts ([[capsule-birth]]). Kai meets a Ghost waiting to *wake into flesh*. The promise of
-   the voyage, made visible. *UI:* a new Intention square — **"arrive."**
+4. **The Ramp** — *Hull Four's synthesis bay, Kai by proxy.* The star is brighter; the first new bodies are being **grown** for
+   voyage-long Ghosts ([[capsule-birth]]). Kai meets a Ghost waiting to *wake into flesh*. She is Rafe's partner, unnamed here (a-ha #6). The promise of
+   the voyage, made visible. On the fleet-wide ramp board, one embryo slot on Hull One reads only **RESERVED**: a
+   standing reserve with no name on it, kept for a claim not yet made (`Q-112`; plants a-ha #12). Nobody in the bay
+   looks twice. *UI:* a new Intention square — **"arrive."**
 5. **The High Clock** — *the Apex, glimpsed.* Kai is sent up one tier, to Tier 1, to deliver a fault report and sees,
    for a moment, the council that runs everything — an afternoon of theirs passes in about ten of Kai's seconds. They are
-   polite, kind, and **finished talking before Kai arrives.** *UI:* the Lens stutters across the clock-gap.
+   polite, kind, and **finished talking before Kai arrives.** Kai reads their collar tags (`1:1000`, `1:2000`) the
+   way a child does, without thinking what they cost (Validation). *UI:* the Lens stutters across the clock-gap.
    **End Act I:** the window is a routine; the pyramid is a kindness.
 
 ### Act II — The Lure (Ep 6–10) · *Tier 0–1 · Phase B: the window opens*
@@ -197,71 +205,87 @@ one major reveal per reel ([[revelation-cadence]]); the aliens are **never shown
    **artificial satellite beaming in all directions** ([[the-lure-beacon]]). Layer one decodes **"help."**
    Layer two: **"we're just like you, please help us"** — in every Earth language at once. The base is
    undone. The High Clock, at Apex speed, is not. *UI:* the Context circles become **mouths**, each a
-   language.
+   language, each crossed by the same red interference band Rafe's Lens showed in S1E15 (a-ha #4 reminder).
 8. **Heading, Speed, Acceleration** — *the Apex / the base, split-frame.* Layer three asks for the fleet's
    vector relative to the star — *"rest assured it did not go supernova."* The High Clock reads the
    reassurance as the tell, declines in an afternoon that is the base's blink, and orders **silence**. The
    base is told *that*, not *why* ([[the-sealed-manifest]]). *UI:* the order arrives as a single closed
-   square. Meanwhile: debris ahead on the track; the fuel arithmetic ([[the-firing-protocol]]) says *fire*;
-   a lock is scheduled.
-9. **You Can Be Our Hero** — *Hull Four, a bay after lights-out.* Teo keeps decoding. Layer four:
+   square.
+9. **You Can Be Our Hero** — *Hull Four, a bay after lights-out.* On the bay board, tomorrow's firing, routine as
+   weather: debris ahead, the fuel arithmetic says *fire* ([[the-firing-protocol]]), a lock is scheduled. Teo keeps decoding. Layer four:
    **"you can be our hero."** He sends a burst — heading, speed, acceleration — disregarding the order,
    certain he is the only one brave enough to help. Nobody notices. The array logs it. *UI:* one Intention
-   square lights **"help"** and stays lit. **The fleet has given itself away.**
-10. **The Open Window** *(mid-season)* — *Hull Four.* The firing day: the screen drops, the long lock
-    begins, the bore fires, the planted rock dies — and in the same open second **something that was not
-    listed comes through the bore's line.** Hull Four is struck head-on. The log reads *sensor fault*. *UI:*
+   square lights **"help"** and stays lit. No amber thread draws: the act is sincere and virtuous, and the detector
+   reads loops, not ends (a-ha #8, the thread's last return). **The fleet has given itself away.**
+10. **The Open Window** *(mid-season)* — *Hull Four.* (What hits is a gram-scale grain of natural rock, `Q-66`; the debris scheduled in E9 is unrelated, and the High Clock reads Teo's burst only afterwards.) The firing day: the screen drops, the long lock
+    begins, the bore fires, the scheduled rock dies — and in the same open second **something that was not
+    listed comes through the bore's line.** Hull Four is struck head-on (a-ha #5: this is S1E15's "station accident"; never said on screen, the viewer joins it). The log reads *sensor fault*. *UI:*
     the disc glyph **cracks**; the frame goes to the Rothko **Despair field** and holds. Cut to black.
 
 ### Act III — The Countdown (Ep 11–15) · *Tier 0 → 3 · Kai 100% → 0% · Phase C: the storm inside the hull*
-11. **Eighty-One Hours** — *Hull Four, dark.* Life support is finite and **Kai knows the number.** Kai is down-clocked to Tier 0 for the evacuation, so
+11. **Eighty-One Hours** — *Hull Four, dark.* Life support is finite and **Kai knows the number:** at zero the reactor scrams and the stacks fall to reserve (`Q-56`). Kai is down-clocked to Tier 0 to free watts for the beam queue, so
     every real hour counts. The ship's
-    voice (the AI-Guide cadence) reads it. Digital citizens are being **beamed out** in order of priority;
+    voice (the AI-Guide cadence) reads it. Ghosts are being **beamed out** in order of priority;
     bodies are being loaded into **lifeboats**. Kai's bay is not on the first list. *UI:* the countdown lives
     in the Intention squares, ticking.
 12. **The Lifeboats** — *the bay doors.* The small ships leave with the bodies they can hold — **Teo's among
     them.** Kai's body
-    cannot go: the bay is damaged, the line is cut. **Only the mind can leave, and packing a mind before the
-    hull dies takes the Apex. Only a Ghost gets the Apex.** The option that was always theoretical is now the only door. *UI:* the "arrive" square dims.
+    cannot go: the bay is damaged, the line is failing. **Only the mind can leave, and packing a mind before the hull dies takes a faster clock than Kai is allowed. Only a Ghost gets one.** The option that was always theoretical is now the only door. *UI:* the "arrive" square dims.
 13. **Priority Denied** — *the Data Buffer.* Kai tries to **climb** — more time per second — and is refused:
-    [[inter-tier-travel]] is gated by priority and the High Clock is rationing the reactor's last watts for
-    its own transfer. The pyramid, in the dark, shows its shape. *UI:* the vertical ruler, Kai pinned to its
+    [[inter-tier-travel]] is gated by priority and the High Clock is rationing the reactor's last watts for the beam queue. The pyramid, in the dark, shows its shape. *UI:* the vertical ruler, Kai pinned to its
     base. **Body:** first severance — 70%.
-14. **The Slip in One Night** — *the medical bay, no surgeon.* Kai forces the [[the-cyborg-slip|Slip]] with
+14. **The Slip in One Night** — *Kai's bay, no surgeon.* Kai forces the [[the-cyborg-slip|Slip]] with
     the ship's own tools: cutting the body's claim on the mind, line by line, while the countdown reads
     hours. The most physical episode of the series. *UI:* the Lens flickers to **wireframe**. **Body:** 30%.
 15. **A Slight Itch** — *the Identity Key.* Minutes left. Kai severs the Key and becomes a **Ghost** —
-    *"A slight itch. Nothing more."* — and, now ungated, **climbs**: Tier 1, 2, 3. Inside the Apex the last
-    half-second of Hull Four becomes **twelve long, quiet hours**, time to audit the ledger and pack the self. The
-    beam fires. Kai is gone — **but a dying hull does not get to pause.** The transmit is a copy, not a move:
-    **a second Kai is still running in Hull Four's failing servers** when the frame cuts (`Q-31` → **Branch**,
-    confirmed 2026-10-12; Part 2's loaded gun). *UI:* the Turrell void; the cracked disc, far below, does
-    *not* stop ticking. **Body: 0%.** **End Act III.**
+    *"A slight itch. Nothing more."* — and, on the 1:10 budget Decimus now holds, **climbs**: Tier 1, 2, 3. Inside the Apex the last four minutes become **most of a year**, time to pack the self; the last half-second becomes **twelve long, quiet hours**, time to audit the ledger. The
+    beam fires. Kai is gone. At zero the reactor scrams and the stacks fall to reserve (`Q-56`). *UI:* the Turrell
+    void; the cracked disc, far below, does *not* stop ticking. **Body: 0%.** **End Act III.** *(Writers' room until
+    S5, never said on screen: the last beam off a dying hull does not get to pause (`Q-55`), so the transmit is a
+    copy, and **a second Kai is still running in Hull Four's servers** when the frame cuts (`Q-31` → **Branch**,
+    Part 2's loaded gun). The ticking disc is the only trace. One reveal for the reel: the itch.)*
 
 ### Act IV — The Sealed Manifest (Ep 16–20) · *Tier 2–3 · Kai a Ghost · Phase D: the brightening star*
-16. **Hull One** — *arrival.* Kai wakes on the sister hull, fast, bodiless, and among the High Clock's
-    clock for the first time. From up here the refugees' lifeboats arrive **in slow motion**, and the cost is
+16. **Hull One** — *arrival.* Kai wakes on the sister hull, fast, bodiless: at Tier 2, the clock the High Clock
+    allows each Ghost it receives from Hull Four, close enough to the council's clock to keep up with it for the first time. **Rafe** receives them: a man who has been mourning Hull Four's crew since S1E15 (a-ha #5
+    payoff). His collar tag is blank; he holds the seat by default, as the senior surviving Ghost (`Q-64`, Validation). From up here the last of the refugees' lifeboats arrive **in slow motion**, and the cost is
     visible at once: every body received is a body **not grown** ([[the-stasis-economy]] — the ramp halts).
-    *UI:* the "arrive" square returns — for *other* people.
+    In the corner of the array, Hull Four drifts alongside, dark, keeping pace as a dead hull should (plants the
+    `Q-56` anomaly; E20 is its reminder). *UI:* the "arrive" square returns — for *other* people.
 17. **The Spare Margin** — *Hull One, synthesis bay.* The High Clock reallocates the chemistry reserve to
-    keep Hull Four's bodies alive; the planned colonist count is **cut**, and Kai's slot goes with it. Below, the base is told only that
+    keep Hull Four's bodies alive; the planned colonist count is **cut**, and Kai, whose body is dust, loses the ramp slot just listed for them. Rafe votes for it, against her (a-ha #6). Below, the base is told only that
     the ramp is "paused." Kai, now fast enough to attend, hears both versions in the same afternoon. *UI:*
     two Context circles, two truths, one budget.
-18. **What the Base Is Not Told** — *the Apex.* [[the-sealed-manifest]] opened: the real margins, the real
-    odds, the clause the colonists signed without reading at the speed it was written, and the line about
-    what a ramp-grown body *is*: [[the-quickening|Quickened]], good for about a decade. Kai, who was
-    *protected* by this for years, holds the Doughnut's two halves: **they were right to protect us / they
-    never asked.** *UI:* the Albers law-chamber archways, nested, with the base's tiny frame at the centre.
-19. **Sensor Fault** — *the fleet's shared array.* Kai pulls Hull Four's last log at Apex speed and reads the
-    thing no one at the base could have read: the object was not *missed*. It was **Unlisted** — and it had
-    **changed course** — toward a vector the array had logged *leaving* Hull Four, in Teo's hand, ten episodes
-    ago. The High Clock already knows both, and has chosen the words *sensor fault* for the same reason it
-    sealed the manifest: a base that learns this will tear Teo apart. Kai does not tell the base either. Or Teo. *(The one reveal S4 permits about the
-    aliens: a line in a log. Nothing is shown.)* *UI:* the disc glyph, **re-drawn solid** — as a Ghost's.
-20. **Visual Range** — *forward bay, Hull One.* The destination planet resolves from a point to a disc —
+18. **What the Base Is Not Told** — *the Apex, on Rafe's ration* (`Q-109`: he pays for Kai's Apex time in E18–19
+    and the watches to E20, because he wants one person from Hull Four to read what he reads). [[the-sealed-manifest]]
+    opened, in one montage of margins and odds, to the one line that is the reel's reveal: what a ramp-grown body
+    *is*: [[the-quickening|Quickened]], good for about a decade. Kai, who was *protected* by this for years, holds
+    the Doughnut's two halves: **they were right to protect us / they never asked.** The turn is a door that
+    doesn't open: one clause stays sealed even at the Apex, and not by the clock. It carries a **tissue lock**, set by
+    someone with a body, and a Ghost's hand passes through it (`Q-110`). It is filed against Hull One's RESERVED
+    slot from E4 (a-ha #12 reminder). Viewers who saw the welded door (S2E15) and the un-run clip (S3E13, E19)
+    know what kind of hand opens such a lock (`Q-67`); nobody says whose. *(Writers' room, `Q-119`: the President's, set
+    while she still had her body at launch; the slot holds a copy of her genome.)* Its content is the vault's "clause behind
+    the clause", paid in S5. *UI:* the Albers law-chamber archways, nested, with the base's tiny frame at the centre.
+19. **Sensor Fault** — *the fleet's shared array, still on Rafe's ration.* Kai pulls Hull Four's last log at Apex
+    speed and reads what no one at the base could have read. What came through the window was a grain of natural
+    rock, too small for any catalogue (`Q-66`). Its timestamp sits directly under a line Kai knows: a burst logged
+    *leaving* Hull Four, in Teo's hand, ten episodes ago. The log shows the order of things and nothing more
+    (`Q-111`). It never says *because*. It doesn't need to: a base that reads those two lines together will tear
+    Teo apart, which is why the High Clock, which read the burst only after the hit, chose the words *sensor fault*.
+    The serial layer, in the same log: the first pattern the Unlisted ever matched was a packet from Earth, Raul's
+    beam read in transit, so the lure was written from a boy's copied ledger (a-ha #4; the cold viewer gets the two
+    lines, the serial viewer gets this). Kai does not tell the base either. Or Teo. *(The one thing S4 permits about
+    the aliens: a line in a log. Nothing is shown. Writers' room: the beacon sits within about 0.27 light-years, so
+    nothing it sent could have reached Hull Four in the days between burst and hit ([[the-lure-beacon]]). The burst
+    didn't cause the hit. It gave away the vector, and that bill is S5's.)* *UI:* the disc glyph, **re-drawn solid** — as a Ghost's.
+20. **Visual Range** — *forward bay, Hull One, about four real years later. Kai has stood short watches since E19, on Rafe's ration (`Q-109`).* On the array's feed the destination planet resolves from a point to a disc —
     **seen through the bore of the shield**, a world inside a doughnut. The base is told the ramp resumes.
-    Kai, who could now wake into flesh only by taking someone's slot, watches the people who will. Last image: far astern, past the
-    edge of the catalogue, **Hull Four is still transmitting.** Cut to black. → **Part 2.**
+    Kai, who could now wake into flesh only by taking someone's slot, watches the people who will. Rafe's collar,
+    blank at E16, now carries a rating; the four years' cost is not shown (`Q-64`, Validation). Last image: far astern,
+    past the edge of the catalogue, **Hull Four is still transmitting.** The serial viewer remembers E16: it kept pace
+    then, and the fleet has not yet braked. A dead hull can't fall behind, and four years is longer than any reserve
+    (`Q-56` reminder; nobody remarks on it). Cut to black. → **Part 2.**
 
 ### Interlude — Decimus (E9a–9b, proposed 2026-11-01, kept by the current rulings) · *between "You Can Be Our Hero" and "The Open Window"*
 *The author's seed: the perspective of a digital safeguard. Told at Tier 2, where the lock is sixty hours long.
@@ -278,17 +302,27 @@ Episode numbers above are unchanged. See [[decimus]], [[the-one-in-n-rule]], [[t
   resolves in the same frame the bore flashes. Cut straight into E10.
 
 ## Reserve Vault — Season 4 (what S4 withholds, for Part 2)
+**S5's first reveal (`Q-56`):** a dead hull can't brake, so Hull Four should drift alongside (E16), then overshoot once
+the fleet brakes. Instead it is astern by E20. Something is slowing it, and the same something pays **Hull Four's
+reserve bill**: stacks on reserve can't keep transmitting for four years on their own. One cause, two anomalies;
+plant E16, reminder E20, payoff S5's first reel.
 Per the [[revelation-cadence]] firewall, S4 keeps the hull larger than the frame:
 - **The aliens — "The Unlisted" (`FAC-06`).** Never *shown*; S4 gives them only a **voice** — the
-  [[the-lure-beacon|beacon]]'s four layers (E6–9) — and one log line (E19: *it changed course*). Their nature,
-  number, intent, and the boarding of Hull Four are Part 2. *(`Q-30` — visibility and register still open.)*
+  [[the-lure-beacon|beacon]]'s four layers (E6–9) — and one log line (E19: the first pattern they matched was a packet
+  from Earth). Their nature, number, intent, whether they had any hand in the hit, and the boarding of Hull Four are
+  Part 2. *(`Q-30` — visibility and register still open.)*
 - **Hull Four's fate** — still transmitting (Ep 20). What, and to whom, is Part 2's engine.
 - **Rafe's "better system"** — the High Clock *is* his civilization (`Q-28`); whether
   it was a better system is the colony's question, not the voyage's.
 - **What the manifest promised Earth** — the clause behind the clause.
 - **The second Kai** — confirmed running in Hull Four's servers at E15 (`Q-31` Branch). What the Unlisted
   find when they board is *a Kai*. Held entirely for Part 2.
-- **Teo's guilt** — he does not know. Who tells him, and when, is Part 2.
+- **Teo's guilt** — he does not know, and the log proves only an order of events (`Q-111`). Who tells him, and
+  whether the burst's real cost (the vector, not the hit) is ever separated from the blame, is Part 2.
+- **The sealed slot and clause** (a-ha #12: planted S3E20's `Outbound · 4.4 ly`, set up E4, reminded E18) — a standing reserve (`Q-112`) and a tissue lock
+  (`Q-110`). Who set the lock, and who claims the slot by beam, is paid in S5. S4 never says Mara.
+- **"He started it" at the scale of species** (a-ha #16) — Teo's burst, then the hit; reminded E1 (the crew counting the lock),
+  restated without comment by E19's log order, paid in the S5 finale.
 
 ## Part 2 — "The Colony Ledger" (held, `TML-08`)
 Landing; the hull becomes the headquarters; the colonists restate their rules and begin to experiment; the
@@ -298,6 +332,20 @@ trigger a revolt. **Its own season — S5** (`Q-33` confirmed 2026-10-12); bluep
 transmits will reach **Teo** first, because he answered once — and will come in **Kai's** voice, because a Kai
 was still running when they boarded.
 
+**Watch items for the S5 blueprint (physics and earlier rulings it must respect):**
+- **The inversion needs continuous ramp growth.** Ramp bodies are Quickened: barren, about a decade of flesh
+  (`WR-B2`). A colony of them can't breed its way to "more bodies than Ghosts"; it holds the inversion only while the
+  ramp keeps growing bodies, every decade, on the planet's chemistry. Unless S5 finds a slow-grown body, the inverted
+  pyramid is a running cost, not a state reached once.
+- **Hull Four's anomalies have one cause** (see the vault): the slowing and the reserve bill.
+- **Teo's body must last.** He arrived awake and was re-stilled (`Q-63`); his decade starts when he wakes for landfall.
+- **The colony spans decades for a-ha #12.** Landfall is about T+10; Mara dies on Earth about T+38.5 (S3 opens about a
+  year after S2E20, about T+20.5, and spans about 18 years); the news reaches the colony 4.4 years later, about T+43,
+  some **33 years after landfall**, three ramp generations. The slot's claim comes by beam (`Q-112`) and lands 4.4
+  years after it is sent. S5 needs either that span or a stated time-jump.
+- **The burst gave away the vector, not the hit** (`Q-66`, `Q-111`, [[the-lure-beacon]] light-lag). If the Unlisted
+  board Hull Four, they came because of Teo; that is a-ha #16's "who started it" at the scale of species.
+
 ## Audit & consistency note
 Audit each drafted S4 script with [`../prompts/audit-script.md`](../prompts/audit-script.md) against
 [[writing-requirements]] and the [[canon-registry]] (`WORLD-*`, `ANTH-*`), and the [[revelation-cadence]]
@@ -305,9 +353,10 @@ Audit each drafted S4 script with [`../prompts/audit-script.md`](../prompts/audi
 compressed but in the canonical four waypoints; the **disc-and-bore glyph** as the `VIS-12` motif; the
 **9:16 UI** (`VIS-08`); the **rendering style** (`VIS-13`); the palettes (`VIS-15`: Turrell for the Apex,
 Flavin for the server decks, Rothko for the hit, Albers for the manifest, Caravaggio for the lifeboat bays).
-`Q-` state (2026-11-02): **open** — `Q-26` title · `Q-30` the aliens' visibility/register ·
-`Q-35` Teo-or-Kai sends the burst. **Resolved** — `Q-27` Kai · `Q-34` Teo. **Resolved as author leans** — `Q-28` Centauri (yes) ·
-`Q-29` in flight throughout S1–S3 · `Q-31` Branch (a second Kai runs on) · `Q-32` seven numbered hulls + the
+`Q-` state (2026-11-03): **open** — `Q-26` title · `Q-30` the aliens' visibility/register ·
+`Q-35` Teo-or-Kai sends the burst. **Resolved** — `Q-27` Kai · `Q-34` Teo · `Q-109` Rafe pays E18–20 · `Q-110` tissue
+lock · `Q-111` correlation only · `Q-112` standing reserve. **Resolved as author leans** — `Q-28` Centauri (yes) ·
+`Q-29` in flight through S1, landed before S2 · `Q-31` Branch (a second Kai runs on) · `Q-32` seven numbered hulls + the
 screen · `Q-33` Part 2 = S5.
 
 ## Related

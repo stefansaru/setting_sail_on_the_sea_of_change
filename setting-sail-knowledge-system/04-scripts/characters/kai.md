@@ -6,9 +6,9 @@ role: Season 4 lead — "The Sleeper"; the colonist trapped on Hull Four
 status: provisional
 seasons: [S4, S5 (Part 2)]
 tags: [protagonist, shadow, ghost, the-sleeper, stasis, hull-four, season-4]
-related: [teo, the-centauri-clone, the-ai-guide, raul]
+related: [teo, decimus, the-centauri-clone, the-ai-guide, raul]
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-11-03
 ---
 
 > The colonist at the base of the pyramid who was promised a waking — and who, trapped in a dying hull
@@ -27,12 +27,13 @@ on to **arrive in a body**. *(Pronouns left open in the blueprint.)*
   days like weather (E1–5) → the window opens and Hull Four is struck (E10) → **the countdown**: life
   support finite and *known*; the lifeboats leave without their body; the climb to a faster clock is
   **refused** by the High Clock (E11–13) → the **Slip in one night** with the ship's own tools (E14) → severs
-  the Key — *"A slight itch. Nothing more."* — becomes a [[the-ghost-entity|Ghost]], climbs to the Apex, where
-  half a second is twelve hours, and is **beamed** to Hull One — a *copy*, because a dying hull cannot
-  pause: **a second Kai keeps running in Hull Four** (E15, `Q-31` Branch) → wakes fast and bodiless among
-  the High Clock, watches the refugees cost the ramp, **reads [[the-sealed-manifest]]**, reads Hull Four's
-  last log (*it changed course* — toward the vector **Teo** sent), and tells the base nothing, and tells Teo
-  nothing — the thing that was done to them (E16–19) →
+  the Key — *"A slight itch. Nothing more."* — becomes a [[the-ghost-entity|Ghost]], climbs to the Apex on
+  Decimus's `1:10` budget (`Q-79`), where half a second is twelve hours, and is **beamed** to Hull One — a *copy*,
+  because the last beam off a dying hull cannot pause: **a second Kai keeps running in Hull Four** (E15, `Q-31`
+  Branch; writers' room until S5) → wakes fast and bodiless at Tier 2 near the High Clock, watches the refugees cost
+  the ramp, then, on **Rafe's** ration (`Q-109`), **reads [[the-sealed-manifest]]** and the clause no Ghost can open
+  (a tissue lock, `Q-110`), and reads Hull Four's last log: the hit's timestamp sits under the burst **Teo** sent
+  (`Q-111`; an order of events, never a cause). Kai tells the base nothing, and tells Teo nothing (E16–19) →
   sees the planet through the bore of the shield, a world they could wake into only by taking someone's slot (E20).
 - **Part 2 (held).** The Ghost who knows. On the colony, the one who can read the lost hull's signals —
   and the one the base will not forgive for having known.
@@ -42,7 +43,7 @@ on to **arrive in a body**. *(Pronouns left open in the blueprint.)*
   night) → **0% Ghost** (E15). [[progressive-digitalization]]'s four waypoints in **three episodes**, no
   surgeon, no upgrade — a field severance on a dying hull. The inverse of Raul's twenty-episode decay.
 - **Glyph:** the fleet's forward shield seen head-on — a **disc with a bore** (the doughnut and arrow,
-  `VIS-12`): **whole** (Act I) → **open** (E8–10) → **cracked** (the hit) → **re-drawn solid, as a Ghost's**
+  `VIS-12`): **whole** (Act I) → **open** (E10) → **cracked** (the hit) → **re-drawn solid, as a Ghost's**
   (E19–20).
 
 ## Want · Fear · Lie · Truth
@@ -57,8 +58,10 @@ on to **arrive in a body**. *(Pronouns left open in the blueprint.)*
   enemy; worse — a guardian.
 - **The ship's voice** — the [[the-ai-guide]] archetype as Hull Four's own voice, reading the countdown in
   the Teddy Bear's cadence.
-- **Rafe** ([[the-centauri-clone]], `Q-28`) — if the fleet is the Centauri expedition: the
-  High Clock Ghost who receives Kai at the Apex, Raul's other self, whose "better system" is the ship.
+- **Rafe** ([[the-centauri-clone]], `Q-28`) — the
+  High Clock Ghost who receives Kai, Raul's other self, whose "better system" is the ship. He pays for Kai's Apex
+  time in E18–19 and the watches to E20 (`Q-109`).
+- **Decimus** ([[decimus]]) — the bay safeguard that reads Kai the countdown and pays for the climb (`Q-79`).
 - **Raul** ([[raul]]) — never met; the structural mirror (the slow descent vs the forced one night).
 
 ## Voice & signature

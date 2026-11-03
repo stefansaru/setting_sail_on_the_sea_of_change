@@ -7,7 +7,7 @@ status: draft
 tags: [leadership, proof, validation, fork, merit, rating]
 related: [the-virtuous, the-cosmic-clone-paradox, compliance-validation-protocol, intention-in-context-law, parallel-pedagogy, data-graveyards, the-stasis-economy]
 created: 2026-11-01
-updated: 2026-11-01
+updated: 2026-11-03
 ---
 
 > To be responsible for N people, you must have passed a test only 1 in N pass. Fail and you usually live,
@@ -28,9 +28,11 @@ ratings are worn openly, written `1:N`.
 - **Ad-hoc succession.** When a role falls empty and someone must take it, a rated person **assumes it
   automatically**. An unrated person may still step up, but nothing follows them by default: no authority
   transfers, no Lens defers. They lead by persuasion alone.
-- **Digital candidates: the batch.** Usually digital programs take the test. A candidate **forks** into N
-  copies, each living through the preparation and the test. The fork that passes carries the rating and the
-  name. Cost = forks × preparation time × clock speed, and this is why it is compute-expensive.
+- **Digital candidates: the batch.** Usually digital programs take the test, and so may a **Ghost**, who has no
+  body to hold it to one run (`Q-90`). A candidate **forks** into N copies, each living through the preparation
+  and the test. The fork that passes carries the rating and the name; the failed forks are filed under that name
+  in the [[data-graveyards]], or in a hull's own stacks aboard the fleet (`WR-S3`). Cost = forks × preparation
+  time × clock speed, and this is why it is compute-expensive.
 - **Human candidates: the single run.** Humans also pass these tests, with one life and one attempt, after
   long preparation in hard conditions. Physical batches are costly: many entrants, few passes, lasting harm.
   **Adults only:** minors are excluded, since [[parallel-pedagogy]] blocks both branching and un-abridged
@@ -43,30 +45,34 @@ ratings are worn openly, written `1:N`.
 
 ## In the world
 Ratings sit on collars and profile tags, like rank. Teddy wears `1:30`, one class. A bay safeguard might wear
-`1:3`. A child learns to read them before they learn what they cost. Proposed link to existing canon: a
+`1:3`. A child learns to read them before they learn what they cost. Link to existing canon, placed in S2E12: a
 **merit key** ([[intention-in-context-law]]) is what a high rating unlocks. The rating proves what you survived
 once; [[compliance-validation-protocol|Proven-in-Use]] proves how you have behaved since. They are two
 different proofs, and a [[intent-patch|patch]] can fake the second but not the first, which is why Vance needs
-a forged batch record.
+a forged batch record. Vance is a Ghost (`Q-90`); his record claims a batch of 10,000, and no failed fork is filed
+under his name anywhere. The Graveyards are un-indexed, so the missing 9,999 show only to someone who walks the rows
+(S2E14, `WR-S5`).
 
 ## Story role
 It makes "who gets to lead?" a question with a price. Its best dramatic case is the person who has done
-something *harder* than any test and holds no proof: **Nia** (E11–13), **Raul** (E10, E20), **Kai** (S4E14).
+something *harder* than any test and holds no proof: **Kavana** (E11–13), **Raul** (E10, E20), **Kai** (S4E14).
 
 **The dark ledger (`Q-37`, resolved).** Under the fork model, `1:10000` means 9,999 failed selves somewhere.
 In principle these are **branches of a digital being, heading to the [[data-graveyards]]** — the *Identity
 Orphanage* [[parallel-pedagogy]] warned of. They **can be people**, if a person attempted the Validation. The
-higher the rating, the larger the private graveyard. **Reveal: S2E14** (Adam finds merit-holders' names there).
+higher the rating, the larger the private graveyard. **Reveal: S2E14** (Adam finds merit-holders' names there,
+and none under Vance's). In S2 the rule is named at E12, kept apart from the CVP at E13 and turned at E14; Adam
+never takes it, and Raul is tagged `UNRATED` at E18.
 
 **Held for S3.** The Distributed President is the exception: it answers for everyone and never took the test.
 Mara's incarnation can then be read as the rating she owed: a fork into flesh, one life, no retries.
 
 ## Open questions
 - Must a branch consent, and who pays to keep it running on the way to the graveyard?
-- How a person takes the Validation in branches, given the human single run above. Draft reading: a person who
-  has gone digital can branch; anyone still tied to a body gets one run.
+- How a person takes the Validation in branches, given the human single run above. Draft reading, now relied on
+  by `Q-90`: a person who has gone digital (a Ghost) can branch; anyone still tied to a body gets one run.
 - How harsh adult preparation may be.
-- Who sets each test, and can a test be *real life*? (Must the Grid credit Nia's 1% survival?)
+- Who sets each test, and can a test be *real life*? (Must the Grid credit Kavana's 1% survival?)
 
 ## Related
 - [[the-virtuous]] — the creed behind it. [[the-pattern-detector]] — its nursery-level sibling.

@@ -7,7 +7,7 @@ status: draft
 tags: [resources, pyramid, population, stasis, synthesis, season-4]
 related: [velocity-tiers, the-shadow-entity, the-ghost-entity, capsule-birth, the-seed-fleet, the-sealed-manifest, the-substrate-olympics]
 created: 2026-10-12
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 > A server mind costs electricity; a body costs chemistry carried from Earth. So the voyage carries its
@@ -16,7 +16,7 @@ updated: 2026-11-02
 
 ## Concept
 The Shadow Grid on Earth is a status ladder. Aboard the [[the-seed-fleet]] it is a **ledger of mass and
-watts**. The reactor makes electricity for the whole crossing; the hull's chemistry — oxygen, water,
+watts**. The reactor makes electricity for the whole crossing; the hull's chemistry — oxygen, water, propellant,
 nutrients, pharmaceuticals, waste handling — is finite and was loaded once. A mind running on the stacks
 draws from the first budget. A body in a bay draws from both. The arithmetic decides the shape of the
 population.
@@ -28,7 +28,7 @@ population.
 - **The pyramid.** Population by tier forms a pyramid with time-speed as the vertical axis:
   | Level | Clock | Who | How many |
   |-------|-------|-----|----------|
-  | Base | Tier 0–1 | **Shadows** — bodies in stasis, minds capped by the body's pull ([[the-shadow-entity]], the Tier-Reality Paradox of [[the-substrate-olympics]]) | the many |
+  | Base | Tier 0–1 | **Mostly Ghosts on watch**, plus the few **Shadows**: bodies in stasis, minds capped by the body's pull ([[the-shadow-entity]], the Tier-Reality Paradox of [[the-substrate-olympics]]) | the many: mostly Ghosts on watch, with Shadows a small part (`Q-68`) |
   | Middle | Tier 2 | Ghosts and the rare promoted Shadow on temporary credit | fewer |
   | Apex | Tier 3 | **Ghosts only** — the High Clock (`FAC-05`) | a handful |
   Two reasons it narrows upward: a body aboard **cannot** hold a fast clock (fleet stasis carries a
@@ -39,15 +39,23 @@ population.
   further capped by what the reactor can spare. Speed is rationed, not infinite — which is what makes it
   something the High Clock can *withhold* (S4E13).
 - **Deep stasis pauses the body (`Q-52`).** A body in a bay doesn't age, and draws only a trickle of chemistry.
-  Its clock runs only once it wakes, which is how a decade-long body survives a 44-year crossing. Minds pause
+  Its clock runs only once it wakes, which is how a decade-long body survives a 46-year crossing. Minds pause
   between watches too, or the voyage would last millennia at speed. Shadows attend the bays at Tier 0 by proxy.
 - **The ramp.** As the destination's resources are confirmed by the array, the fleet begins to **synthesize
   bodies** ([[capsule-birth]] — IVF embryo → capsule → Grid, at the far end of the voyage) for minds that
-  crossed as Ghosts. These bodies are [[the-quickening|Quickened]], with the same short lives. The biological population is scaled to the **resources near the destination**, not to
+  crossed as Ghosts. These bodies are [[the-quickening|Quickened]], with the same short lives. Once grown they are
+  stilled in deep stasis, so their decade starts at landfall, not on the ramp. The biological population is scaled to the **resources near the destination**, not to
   Earth's loadout. The ship arrives with "several colonists" and becomes the colony's headquarters.
+- **The standing reserve (`Q-112`).** One embryo slot on Hull One is held for a claim not yet made. Its clause in
+  the manifest carries a tissue lock (`Q-110`, [[the-sealed-manifest]]). It costs nothing until it is claimed. Bible
+  (`Q-119`): it holds a stilled copy of the President's genome, stored before launch; the claim is S3E20's
+  `Outbound · 4.4 ly`, which lands about T+43.
+- **The inversion is a running cost (S5).** Quickened bodies are barren and last about a decade (`WR-B2`), so a
+  colony of them can't grow its own bodies. More bodies than Ghosts holds only while the ramp keeps growing them,
+  every decade, on the planet's chemistry.
 - **The refugee shock (established, S4E16–17).** Bodies arriving by lifeboat from a wounded hull are
   bodies the receiving hull **did not budget**. They are kept alive from the *spare margin* — the same
-  chemistry the ramp was going to spend on new bodies. Every refugee received is a colonist **not grown**.
+  chemistry the ramp was going to spend on new bodies. Every refugee received is a colonist **not grown**. Lifeboats can't hold deep stasis, so refugees arrive awake, and re-stilling each one is a one-off chemistry hit (`Q-63`).
   The ramp halts; the planned colonist count is cut. The cut takes Kai's slot (`Q-51`): a ramp body for Kai
   now means displacing someone.
 
@@ -64,7 +72,8 @@ bill. The Doughnut beat: *every life saved is a life not made.*
 - Numbers for the scripts: minds per hull, bodies in stasis per hull, lifeboat capacity, the ramp's
   planned count and its post-refugee cut.
 - Is Earth-side society's tier-as-status the *same* rule seen from a richer planet, or did the fleet
-  rewrite it (`Q-29` — which era launched it)?
+  rewrite it? (The fleet launched about 36 real years before S1E14, `Q-52`.)
+- Can the colony ever grow a body that isn't Quickened (S5)?
 
 ## Related
 - [[velocity-tiers]] — the clocks the pyramid is built from. [[the-shadow-entity]] / [[the-ghost-entity]]

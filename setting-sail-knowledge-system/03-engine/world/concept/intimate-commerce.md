@@ -21,7 +21,7 @@ licensing and absolute ledger transparency. Risk management changes completely w
 - **Biosecurity Protocol (organic).** Organic workers — including **Natural Purists** who trade inside
   specialized surface sanctuaries — undergo rigorous, mandatory periodic medical/cellular checkups.
 - **Client Liability Laws.** If a client with a biological tether (a [[the-shadow-entity|Shadow]])
-  infects an organic worker with a pathogen due to a **faulty stasis-pod diagnostic**, the client is
+  infects an organic worker with a pathogen due to a **faulty stasis-capsule diagnostic**, the client is
   held **cryptographically and legally liable** for the worker's full medical-restoration cost (a
   [[compliance-validation-protocol|CVP]]-enforced, ledger-signed debt).
 - **Cyborg / synthetic alternatives.** Mechanical hosts and robotic workers are **exempt from

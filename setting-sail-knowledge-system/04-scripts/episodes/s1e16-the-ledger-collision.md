@@ -14,7 +14,7 @@ whole lifetimes fuse into one mind — gaining the clone's years at the cost of 
 *wants* the clone's life — the love, the grief, the growth he never got.
 
 **ACT II — FRICTION (1:15–2:15).** The old Raul would have **optimized** — absorbed the clone, taken the
-data, maximized himself. But this Raul has spent a fractured season learning that you don't have to
+data, maximized himself. But this Raul has spent eight fractured years learning that you don't have to
 collapse two truths into one to hold them.
 > **RAFE:** Merge, and I stop. You get my years. Even her. She never chose you.
 > *(A long silence. The prompt blinks between them.)*
@@ -28,7 +28,10 @@ back toward Centauri, free, alive, separate. Earth-Raul stands alone in the node
 glyph **steadies a fraction**, not solid, but no longer only flickering: the first time he held two truths
 without forcing one. [UI: two glyphs, both intact, drifting apart.] Cut to black.
 
-*Timing: real years have passed since E14, with Raul at Tier 0 ([[the-quickening]] chronology).*
+*Timing: about 8.2 real years have passed since E14, with Raul at Tier 0, body about 8.7 real years old ([[the-quickening]] chronology).*
 
 *Canon: **Branch** chosen (Earth-Raul releases the clone — proto-balance, seeds S2). `Q-14`: confirm
-Merge-vs-Branch. Raul 30% organic; the glyph's first un-forced steadiness (toward the solid Ep 20).*
+Merge-vs-Branch. Raul 30% organic; the glyph's first un-forced steadiness (toward the solid Ep 20).
+Writers' room (`Q-54`, `WR-M1/M3`): the beam home after "Go home, Rafe" is a long hop, so it forks. One instance
+merges with Rafe after landfall; the other waits on Earth, paused, until S3. Never shown in S1. Castes (`Q-87`):
+Rafe here is the reply copy, a Ghost; Raul is a cyborg.*

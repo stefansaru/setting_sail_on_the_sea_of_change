@@ -2,8 +2,11 @@
 
 > A **standalone culture reel** (S2 / [[setting-sail-tier-ascent]] candidate) dramatizing the
 > [[the-substrate-olympics|Substrate Olympics]] and the **Tier-Reality Paradox**. POV: **The Champion**
-> (a Tier-2 Cognitive-League star, names `Q-08`) · register: **Albers/Turrell** serene geometry →
+> (a Tier-2 Cognitive-League star, unnamed) · register: **Albers/Turrell** serene geometry →
 > **Caravaggio** strain. 9:16 · ~2.5 min. The fastest mind alive, humbled by flesh.
+>
+> *Castes (`Q-87`): the Champion is a Ghost in a shell, and the shell is leased flesh (a shell may be flesh); the
+> promoter is a Shadow; the Mortal-Baseline winner is a Purist, with no Lens.*
 
 ## Setup & hook (0:00–0:05)
 A body of light threads an impossible lattice — the **Cognitive League**, rendered as cool
@@ -43,5 +46,4 @@ trained it away.** Hard cut to black on the slow, even breathing of the winner.
   reel: Albers/Turrell → Caravaggio (`VIS-15`).
 - **S2 fit:** the Mortal-Baseline winner is a natural **Purist** beat — pairs with **Adam** /
   [[setting-sail-tier-ascent]]; the climb-is-a-trap thesis (the optimized body *loses* the human race).
-- **Audit:** `STORY-07`, `WORLD-01/02` (cost/limit of the desync), `CINE-16`, `VIS-15`; cast `Q-08`,
-  slot `Q-11`.
+- **Audit:** `STORY-07`, `WORLD-01/02` (cost/limit of the desync), `CINE-16`, `VIS-15`; unslotted (`Q-11`).

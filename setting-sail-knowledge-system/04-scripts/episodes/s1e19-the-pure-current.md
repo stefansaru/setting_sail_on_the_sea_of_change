@@ -26,7 +26,7 @@ rules):
 ## UI behavior (the Perspective Lens)
 The customized [[the-perspective-lens-ui|Lens]] tries to analyze the Purists, then surrenders:
 - **Top circles `[◯]` (Context):** automated diagnostics pulse red/yellow over a purist elder —
-  *[Warning: Advanced Cellular Decay] / [Untreated Osteoarthritis] / [Life Expectancy Limited]*.
+  *[Warning: Advanced Cellular Decay] / [Untreated Osteoarthritis] / [Life Expectancy: Limited]*.
 - **Narrative friction:** to the data-driven mind these people read as *broken, failing machines* — but
   as they share a meal, laugh, and hold hands, the corporate metrics stop making sense.
 - **The UI fades:** the protagonist consciously swipes the interface down; top and bottom modules fade
@@ -47,15 +47,18 @@ cold casing, looking into a warm harbor they can never truly return to. (Sets up
 ## Script (draft v1)
 > 9:16 vertical · ~2.5 min · cinematic photoreal · *Black Mirror / Silo* register. **RAUL** = the
 > protagonist (`CHR-02`), here a [[the-ghost-entity|Ghost]] in a [[shells-with-ghosts-within|Cyborg
-> Shell]]; **THE MOTHER** = a Purist elder-woman (name TBD, `Q-08`). Dialogue is deliberately sparse —
+> Shell]]; **THE MOTHER** = a Purist elder-woman (Naomi, unnamed on screen). Dialogue is deliberately sparse —
 > the theme lands in subtext and in the [[the-perspective-lens-ui|UI]], never a speech
 > ([[fantasy-writing]] §10/§20).
 
-**1 · COLD OPEN — EXTREME CLOSE (9:16).** Raul's cybernetic face fills the frame. Optic lenses
+*Castes (`Q-87`): Raul is a Ghost in a shell; THE MOTHER and the villagers are Purists, so every tag is in Raul's
+Lens (`WR-L2`). Timing: Tier 0 throughout, so one clock.*
+
+**1 · COLD OPEN — EXTREME CLOSE (9:16) · HOOK (0:00–0:05).** Raul's cybernetic face fills the frame. Optic lenses
 *click*, refocus. [SOUND: high digital hum; iris clicks; a faint hydraulic hiss with each "breath".]
 [UI: top Context circles bloom clean diagnostic blue.]
 
-**2 · WIDE — heavy negative space.** Pull back ([[negative-space]]): the chrome figure alone at a
+**2 · WIDE — heavy negative space · CONTEXT (0:05–1:15, shots 2–3).** Pull back ([[negative-space]]): the chrome figure alone at a
 dusty forest line, harsh real sun glinting off metal seams. A step — synthetic foot meets soil with a
 dense *CLUNK*. [Camera: gimbal-smooth, locked — machine-precise `VIS-04`.]
 
@@ -64,7 +67,7 @@ share a meal at a long table: firelight, laughter, wrinkled hands. Raul enters t
 like a cold blade. [UI: scanning THE MOTHER — red/yellow warnings pulse: *Advanced Cellular Decay ·
 Untreated Osteoarthritis · Life Expectancy: Limited*.]
 
-**4 · TWO-SHOT.** Raul stops before THE MOTHER. The chrome and the flesh in one frame
+**4 · TWO-SHOT · FRICTION (1:15–2:15, shots 4–5).** Raul stops before THE MOTHER. The chrome and the flesh in one frame
 ([[scifi-cinematography]] §8, `CINE-11`).
 
 > **RAUL** *(clinical, almost kind):* Your cellular decay is advanced. By my read… you have
@@ -86,7 +89,7 @@ cold chrome of Raul's wrist. Hold on it: immortal engineering held by failing fl
 >
 > **THE MOTHER:** I know that too.
 
-**6 · THE UI FADES.** Raul's free hand swipes slowly *down*. The top circles and bottom
+**6 · THE UI FADES · TURN (2:15–2:30, shots 6–7).** Raul's free hand swipes slowly *down*. The top circles and bottom
 squares drain to **100% transparency** — the lens turns off. [SOUND: the digital hum cuts out; only
 wind, fire, real breathing.] For the first time we see THE MOTHER through raw, uncompromised glass.
 
@@ -100,4 +103,4 @@ the same fact, two arrows; the gulf between optimization and meaning is the whol
 ## Still to write / next
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md) — esp. `CINE-11`
   (the episode *is* the human↔machine contrast), `SCENE-05` (subtext), `STORY-07` (ending = theme).
-- Decide provisional names (`Q-08`); optionally draft **Ep 17** (the Tether-Sickness death) next.
+- Names resolved (`Q-08`); E17 drafted.

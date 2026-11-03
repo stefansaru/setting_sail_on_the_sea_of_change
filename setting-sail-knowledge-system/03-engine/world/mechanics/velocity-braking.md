@@ -5,7 +5,7 @@ type: mechanics
 canon: MAG-24
 status: draft
 tags: [enforcement, security, takedown, velocity, pastors, crime]
-related: [compliance-validation-protocol, velocity-tiers, the-ministry-of-hope, inter-tier-travel, tether-decay, the-ghost-brokers]
+related: [compliance-validation-protocol, velocity-tiers, the-ministry-of-hope, inter-tier-travel, tether-decay, the-clock-brokers]
 created: 2026-06-05
 updated: 2026-06-05
 ---
@@ -19,7 +19,7 @@ updated: 2026-06-05
 **Velocity-Braking** is the containment protocol triggered when the [[compliance-validation-protocol|CVP]]
 detects an active in-grid crime ([[intent-patch|Intent-Patch]] spoofing, a [[chromatic-tears|Chromatic
 Tear]], velocity-credit theft). It pairs a **digital shock** (weaponizing the [[velocity-tiers|tier]]
-clocks) with a **physical lockdown** (the [[the-ministry-of-hope|Pastors]]) — a single coordinated
+clocks) with a **physical lockdown** (the [[the-ministry-of-hope|Intercessors]]) — a single coordinated
 strike across both substrates so the biological host can't trigger an emergency wipe.
 
 ## Rules / mechanics — the two simultaneous strikes
@@ -29,25 +29,24 @@ strike across both substrates so the biological host can't trigger an emergency 
    Buffer State]]. To the attacker, the whole drop happens in under a tenth of a subjective second, with
    no warning: a catastrophic deceleration that paralyzes the mind mid-act.
 2. **The Physical Lockdown (real).** Simultaneously, a team of institutional **[[the-ministry-of-hope|
-   Pastors]]** reaches the attacker's physical capsule. They slam their **directional electromagnetic
-   pastoral staffs** onto the stasis pod, overriding its illegal antenna arrays and locking the
+   Intercessors]]** reaches the attacker's physical capsule. They slam their **directional electromagnetic
+   Intercessor staffs** onto the stasis capsule, overriding its illegal antenna arrays and locking the
    biological host into **neural stasis** before it can execute an emergency data-wipe.
 
 **Cost / limit.** The Brake is a brute, non-consensual override that inflicts real cognitive trauma —
 it is enforcement *as injury*, not arrest. It depends on knowing the host's physical location (the
-Pastors must arrive in the flesh), so it can be defeated by truly un-locatable, fully-digital
+Intercessors must arrive in the flesh), so it can be defeated by truly un-locatable, fully-digital
 [[the-ghost-entity|Ghosts]] — and it can only fire once the CVP has already flagged the act.
 
 ## In the world / look
 A Velocity-Brake is the single most violent image in an otherwise serene Grid: the smooth
 [[chromatic-expressionism|Turrell/Albers]] calm slams to a dead stop, the frame snapping from dilated
 sublime to real-time grey. Cut to the surface — un-zoned capsule bay, cooling vents, illegal antennas —
-where vestmented Pastors press glowing staffs to a pod and a [[the-ghost-brokers|gaunt smuggler]] goes
+where vestmented Intercessors press glowing staffs to a capsule and a [[the-clock-brokers|gaunt smuggler]] goes
 still. The system's mercy and its violence wear the same white robe.
 
 ## Story role
-The state's hard hand — the visible, spectacular consequence that makes the [[compliance-validation-
-protocol|CVP]] feel dangerous rather than bureaucratic. It's the bridge beat between *crime* and
+The state's hard hand — the visible, spectacular consequence that makes the [[compliance-validation-protocol|CVP]] feel dangerous rather than bureaucratic. It's the bridge beat between *crime* and
 *[[the-ministry-of-hope|Hope]]*: the takedown that delivers a body to the cloisters and the
 [[the-absolution-protocol|Absolution Protocol]]. The trauma of the Brake itself can be the wound a
 Penitent must later reckon with.
@@ -58,6 +57,6 @@ Penitent must later reckon with.
 
 ## Related
 - [[compliance-validation-protocol]] — what flags the threat. · [[velocity-tiers]] — the clock it
-  weaponizes. · [[the-ministry-of-hope]] — the Pastors who execute the physical half.
-- [[the-ghost-brokers]] — its usual targets. · [[inter-tier-travel]] — the lawful version it violates.
+  weaponizes. · [[the-ministry-of-hope]] — the Intercessors who execute the physical half.
+- [[the-clock-brokers]] — its usual targets. · [[inter-tier-travel]] — the lawful version it violates.
 - Canon: `MAG-24` in [[canon-registry]].

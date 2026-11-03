@@ -45,7 +45,7 @@ nested squares stuttering. The serenity of the palette is the point — the horr
 Makes a cyber-attack **cinematic and embodied** rather than abstract — a virus you can shoot in 9:16,
 with a body-clock stakes meter ([[tether-decay|TTD]]) ticking down. A Tear loosed in a high tier is a
 ticking-clock set piece: panic plus accelerating decay, resolved (or not) by a [[velocity-braking|
-Velocity-Brake]]. Vectors trace back to the [[the-ghost-brokers|Ghost Brokers]] who deploy them.
+Velocity-Brake]]. Vectors trace back to the [[the-clock-brokers|Clock Brokers]] who deploy them.
 
 ## Open questions
 - Can a Tear be *authored* (a targeted assassination weapon keyed to one victim's Lens), or is it only
@@ -53,5 +53,5 @@ Velocity-Brake]]. Vectors trace back to the [[the-ghost-brokers|Ghost Brokers]] 
 
 ## Related
 - [[the-perspective-lens-ui]] — the UI it corrupts. · [[tether-decay]] — the countdown it accelerates.
-- [[the-ghost-brokers]] — who deploys it. · [[velocity-braking]] — the containment response.
+- [[the-clock-brokers]] — who deploys it. · [[velocity-braking]] — the containment response.
 - Canon: `MAG-23` in [[canon-registry]].

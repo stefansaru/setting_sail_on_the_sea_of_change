@@ -38,7 +38,7 @@ Shadows hold full legal rights and a measure of cultural seniority, but limited 
 **look down on [[shells-with-ghosts-within|shell-bound Ghosts]]** as tragic phantoms miming a physical
 weight they discarded.
 
-**Attending Tier 0.** Because a Shadow's mind lives on the Grid while its body sleeps in a pod, it reaches
+**Attending Tier 0.** Because a Shadow's mind lives on the Grid while its body sleeps in a capsule, it reaches
 the physical surface only by **down-clocked telepresence** (perceiving real-time through surface sensors)
 or by **leasing a proxy shell** for actual contact — never by walking out in person. So a Shadow at a
 Tier-0 scene is "there" the way you're on a call: present, but a world away from their own warm flesh.

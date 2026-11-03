@@ -50,6 +50,12 @@ at the **seam of light** Raul noticed in E3. The seam widens.
 
 The ball stays on the floor. Cut to black.
 
+*Castes (`Q-87`): Raul, Jun and the tiny girl are Shadow children; Teddy is a digital agent (`Q-71`).*
+
+*Parallel Pedagogy (`Q-119`, `WLD-18`): this is the nursery's last stretch, so Raul and Jun are each still one child,
+not yet forked. They fork into their school threads on leaving it, just after E3b, and carry E3b's detector into all
+three. Never stated on screen.*
+
 *Canon: the ball and the seam are planted in E3. ★ the negative loop / the [[the-virtuous|virtuous principles]].
 · the capsule intercut. · Teddy's collar tag, unexplained. Timing: at ~20 real hours old the bodies are
 newborns ([[the-quickening]]), and the small size is a question E6 answers. Ten real breaths ≈ 1 minute at

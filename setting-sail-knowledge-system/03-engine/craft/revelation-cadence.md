@@ -41,13 +41,13 @@ A world-fact may only reach the audience through one of these. **A lecture is ne
 
 1. **Diegetic UI** — the [[the-perspective-lens-ui|Perspective Lens]] *is* the gauge: a new readout,
    a single word, a prompt. (E6 *Tether*; E10 the *Pain* circle; E17 *Organic 0% · Ghost: ACTIVE*;
-   E16 *MERGE ⟷ REMAIN SEPARATE*.) The viewer learns the world *alongside Raul* — the show's core device.
+   E16 *MERGE ⟷ BRANCH*.) The viewer learns the world *alongside Raul* — the show's core device.
 2. **Lived experience** — the mechanic happens *to* a character, with a cost. (E5 the down-clock & job
    loss; E7 the "slight itch"; E13 waking up chrome.) The rule is felt before it's named.
 3. **The wonder beat** — pure scale, almost no words, one per episode where it earns it
    (`CINE-05`). (E9 the lunar servers + Mirror Constellation: the body of the Grid, shown not explained.)
 4. **Idiom & slang** — castes and customs surface as overheard language, never a glossary. (E8 *"shell
-   with a ghost within," "Vapor," "Glacial"* — [[frequency-tribes]] slang dropped Rick-&-Morty-fast.)
+   with a ghost within," "Smoke," "Glacial"* — [[frequency-tribes]] slang dropped Rick-&-Morty-fast.)
 
 ## 4. The per-episode reveal budget
 Default ceiling, deviate only when an episode *is* the reveal (e.g. a mid-season climax):
@@ -84,7 +84,7 @@ shadow. (Per-season; this is the Season-1 vault.)
 | [[intention-in-context-law]] (`MAG-18`) + merit-keys; **Vance** (`CHR-04`) + [[intent-patch]] (`MAG-21`) | none — Vance is bible-only, absent from all 20 | the antagonist/Law strand is the S2 engine (`Q-10`) |
 | [[the-personal-blockchain]] (`MAG-11`) · [[compliance-validation-protocol]] (`MAG-20`) | one **teaser** only — E12 *"…want your chain made public? Just in case." / "I'll think about it."* | seed the apparatus; don't run it until S2 (see F-1) |
 | [[standardized-vices]] (`WLD-15`) · [[intimate-commerce]] (`WLD-16`) | none | adult-society texture, off the descent's spine |
-| [[frequency-tribes]] (`WLD-17`) Dunbar/Proximity Illusion; **Vesper** (`CHR-05`) | caste **slang** only (E8) | the Proximity-Illusion / Vesper reel is unslotted (`Q-11`) — a held reunion thread |
+| [[frequency-tribes]] (`WLD-17`) Dunbar/Proximity Illusion; **Vesper** (`CHR-05`) | caste **slang** only (E8); her untagged capsule (E6, and one frame in E17, `Q-88`) | the Proximity-Illusion / Vesper reel is unslotted (`Q-11`) — a held reunion thread |
 | [[tether-decay]] (`MAG-22`) TTD / dreamless insomnia; the **Dream Hunger** | none | a standalone candidate, not on the S1 line |
 | [[data-graveyards]] (`PLC-09`) Data Dementia | none | a place for a later descent |
 | [[the-absolution-protocol]] (`MAG-16`) church-prison sentence | only Hope's **medical** side shows (E11–13) | the carceral half of [[the-ministry-of-hope]] is held |
@@ -132,12 +132,12 @@ blank). Do not bottom these out, in S1 or later:
 | 3b | ★ the **pattern detector** — the Lens can act for you | · unnamed officials · plant → S3 the un-run clip · dilation felt, unnumbered (guards E5/E12) | experience / UI |
 | 4 | ★ it's all **rendered** — a billboard glitches to raw grey code | · *Utopia Score*; **plant → E10** | experience / UI |
 | 5 | ★ the **velocity tiers** + forced **down-clock**; post-labor displacement | · governance as an *unnamed* ruling; the **Global Loop** / Despair field | experience |
-| 6 | ★ Raul is a **Shadow** — body in a pod, brain = antenna, the **tether** | · ***Host age: 14 weeks*** · Ghosts pass with **pity** (plant → E7/E17) | UI / experience |
+| 6 | ★ Raul is a **Shadow** — body in a capsule, brain = antenna, the **tether** | · ***Host age: 14 weeks*** · Ghosts pass with **pity** (plant → E7/E17) | UI / experience |
 | 7 | ★ the **Cyborg Slip** → a **Ghost**; the **"slight itch"** | · proxy-presence at Tier 0 | experience |
-| 8 | ★ **"shells with ghosts within"** — the caste line | · caste **slang** (*Vapor / Glacial*) | idiom |
+| 8 | ★ **"shells with ghosts within"** — the caste line | · caste **slang** (*Smoke / Glacial*) | idiom |
 | 9 | ★ the **physical Grid** — lunar servers + **Mirror Constellation** | · *"Solar weather advisory — elevated"* (plant → E10) | wonder beat |
 | 10 | ★ the world is **fragile** (solar storm) + **body decay begins** (→70%); glyph **fractures** | · the **Pain** circle; diagnostic widget | experience / UI |
-| 11 | ★ **Ministry of Hope** / Medical Sanctuary + the **1% mutation**; the Purists exist (Nia) | · 24-hour countdown | experience |
+| 11 | ★ **Ministry of Hope** / Medical Sanctuary + the **1% mutation**; the Purists exist (Kavana) | · 24-hour countdown | experience |
 | 12 | ★ the **subjective clock** (Apex dilation, serene not frantic) | · **one** compliance **teaser** (chain-public — *hold the rest*, F-1) | experience |
 | 13 | ★ the **download** — mind into a synthetic body (the cure costs the self) | · *Organic: 8%* | experience / UI |
 | 14 | ★ the **cosmic clone** / data-beam **fork** (→30%) | · wireframe-glitch under stress | experience |

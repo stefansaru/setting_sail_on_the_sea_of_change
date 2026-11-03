@@ -70,7 +70,7 @@ The hazards and layouts literalize the psychological phases of the book *Setting
 Change* (the master metaphor [[you-are-the-sailor-not-the-wind]]). The arc runs in four phases:
 
 - **Phase A — Internalizing the Exterior (The Cultural Harbor).** A tightly-filtered virtual paradise
-  (the Ep 1 meadow / a curated Tier-1 metropolis), saturated bright **high-key** light. Top Context
+  (the Ep 1 meadow / a curated Tier-2 metropolis), saturated bright **high-key** light. Top Context
   circles `[◯]` are dominated by pristine corporate "Utopia" metrics — values internalized without
   question; safe, but an illusion built on toxic positivity. → [[internalizing-the-exterior]],
   [[camel-phase]], [[social-media-iceberg]].
@@ -103,16 +103,22 @@ Organic-to-Synthetic countdown in their stasis capsule. The descent of the *mind
 |-----|-----------|---------|
 | I (1–5) | **100% organic** Shadow | — |
 | II (6–10) | **70% organic** cyborg | Ep 10 solar-storm surge cooks the nervous system → emergency cybernetics |
-| III (11–15) | **30% organic** cyborg | Ep 14–15 neural-synthetic upgrade for data-beam bandwidth |
-| IV (16–20) | **0% organic** Ghost | Ep 17 final cell death → Ghost; Ep 19 inhabits a Cyborg Shell |
+| III (11–15) | **30% organic** cyborg | Ep 14 neural-synthetic upgrade for data-beam bandwidth |
+| IV (16–20) | **30% → 0% organic**: Ghost from Ep 17 | Ep 17 final cell death → Ghost; Ep 18 walks out in the proxy he died in, now his shell |
+
+*Castes of the minor roles (`Q-87`): officials and colleagues are Shadows, the E4 peer a Shadow child, the E14 tech a
+cyborg at Tier 0, Intercessors Ghosts in shells; a shell may be flesh (the Substrate Paradox Champion). Each script
+header or note states its roles' castes.*
 
 *After Ep 10 Raul runs at **Tier 0**, like most cyborgs ([[velocity-tiers]]), which is how he can wait years for
-the clone's reply (E14→E16). Real-time reference: [[the-quickening]].*
+the clone's reply (E14→E16). Real-time reference: [[the-quickening]]. On the series clock (T = real years after
+E14, table in [[the-seed-fleet]]): E1–E3b fall in the first day of his body, E14 is T = 0, E16 about T+8.2, E17 about
+T+8.5, E18–20 about T+8.5–8.6 (Adam about 8).*
 
 ---
 
 ## Season 1 — "The Intention Ledger" (20-episode blueprint)
-Format per episode: **Setting · Plot · UI/Visual hook.** Ep 1–3 have drafted scripts in
+Format per episode: **Setting · Plot · UI/Visual hook.** All 22 reels have drafted scripts in
 [`../../04-scripts/episodes/`](../../04-scripts/episodes/). Every 2.5-min script follows the **runtime pacing template** (hook 0:05 →
 Act I context → Act II friction → cliffhanger) in [[distribution-strategy]] §3 — built to ride the
 TikTok/YouTube retention curve.
@@ -121,7 +127,8 @@ TikTok/YouTube retention curve.
 1. **The Meadow Consensus** — *Tier 3.* A man and woman walk a flawless simulated meadow and share the
    realization that they've initiated their child's cognitive-capsule sequence in the real world.
    *UI:* pristine minimal 9:16, heavy headroom ([[negative-space]]); top circles show flawless
-   environmental-safety / genetic-harmony icons. → script `s1e01`.
+   environmental-safety / genetic-harmony icons. The preserve is a **birth grant**: every new pair of parents
+   gets a short Tier-3 stay for the capsule placement (`Q-85`); the child's mind wakes at Tier 2. → script `s1e01`.
 2. **The Primitive Grid** — *Tier 2.* The child's consciousness awakens: first sensory inputs — a
    rushing sound, then music, abstract shapes in golden fog. *UI:* heavily diffused focus = an
    undeveloped visual cortex; primitives (circle/triangle/square) fuse into the Teddy Bear (`CHR-03`).
@@ -136,7 +143,10 @@ TikTok/YouTube retention curve.
    - **3b. The Upper Level** — *Tier 2 → 3 → 2.* Windows of lifelong loops while Teddy petitions the unnamed
      officials and wins a [[the-pattern-detector|pattern detector]]. Back home, Raul's hand opens without him.
      *UI:* the thread, **LOOP FORMING**, a square that fills itself. → script `s1e03b`. *(Numbering: `Q-39`.)*
-4. **Internalizing the Exterior** — *→ Tier 1.* Now an adolescent digital entity in a curated virtual
+   - *Parallel Pedagogy (`Q-119`, `WLD-18`):* E3a–b are the nursery's last days, so Raul is still one child. He forks
+     into his three school threads on leaving it, just after E3b; the detector and alignment won in E3b go into all
+     three. E4 follows one thread, unlabelled; the Merging falls between E4 and E5. The threads stay HELD until S2E9.
+4. **Internalizing the Exterior** — *Tier 2.* Now an adolescent digital entity in a curated virtual
    city, accepting societal rules unquestioningly, sure their [[the-perspective-lens-ui|Lens]] *is*
    truth. *UI:* high-key saturated neon; top circles swell with corporate "Utopia" scores — the toxic-
    positivity trap. → [[internalizing-the-exterior]].
@@ -152,16 +162,17 @@ TikTok/YouTube retention curve.
 6. **Shadows in the Neon** — *Tier 1.* Entering the adult workforce, the protagonist learns they are a
    **[[the-shadow-entity|Shadow]]** — mind quantum-tethered to a body sleeping in a capsule node. *UI:*
    a faint geometric **tether line** pulses at the screen edge, tracking the body's health/nutrient
-   status. A readout: **Host age: 14 weeks** ([[the-quickening]]).
+   status. A readout: **Host age: 14 weeks** ([[the-quickening]]). Inches from his capsule on the feed, a second
+   capsule, untagged (`Q-88`, a-ha #15; reminder E17, payoff S2E7).
 7. **The Cyborg Slip** — *Tier 0 → 1.* A close friend in the physical world reaches the threshold —
    their last organic cell dies. *UI:* a pause, a **slight passing itch** on a synthetic wrist, a
    smile, and a newly autonomous **[[the-ghost-entity|Ghost]]** ledger logs into the network.
    → [[the-cyborg-slip]].
 8. **Phantoms and Casing** — *Tier 0.* The protagonist watches a Ghost download into a heavy industrial
-   host to do physical labor. *UI:* hard directional light; characters use the idiom **"shell with a
+   host to do physical labor. *UI:* Flavin industrial neon; characters use the idiom **"shell with a
    ghost within"** — Shadow↔Ghost social friction. → [[shells-with-ghosts-within]].
 9. **The Umbral Mirror Constellation** — *deep-space orbit.* A structural look at the Grid's physical
-   host: dark-side-of-the-Moon servers; a constellation of mirror satellites bouncing solar energy onto
+   host: lunar cold-trap servers; a constellation of mirror satellites bouncing solar energy onto
    the cold server farms. *UI:* breathtaking cosmic scale. → [[the-shadow-grid-cooling]].
 10. **The Cracking of the Sky** — *Tier 1 · MID-SEASON CLIMAX (Phase B).* A solar storm hits the mirror
     satellites; the pristine virtual sky **glitches and tears**, exposing scrolling raw server code.
@@ -174,42 +185,44 @@ TikTok/YouTube retention curve.
 *Middle-arc location: **[[the-ministry-of-hope|the Ministry of Hope]]** — the church-prison introduced
 after the Ep 10 crisis. The 1%-trial strand (Ep 11–13) happens in its [[the-medical-sanctuary|Medical
 Sanctuary]]; whether the protagonist is **sentenced there** (rehab), checks in as a **Seeker**, or only
-visits is `Q-09`. The UI shifts to Hope's Parish Metrics + Sanctuary-Void look (`VIS-14`).*
+visits is `Q-09`. S1 keeps only the Sanctuary-Void look (`VIS-14`); Parish Metrics are held to S2E15.*
 11. **The 1% Fault Line** — *Tier 0 · [[the-medical-sanctuary|Hope's Medical Sanctuary]].* A side
-    character takes Hope's desperate bargain — experimental radiation DNA therapy — and hits the
+    character takes Hope's desperate bargain — an experimental DNA-telomere rewrite — and hits the
     catastrophic **1% failure**: 24 hours to live. *UI:* clinical high-contrast under the Sanctuary-Void
     light; a real-world **24-hour countdown** embeds; the opening flattens into the
     [[chromatic-expressionism|"Despair" filter]] (black blocks + oxidized crimson). → [[the-1-percent-mutation]].
 12. **The 24-Year Lab** — *Tier 3 Apex.* The dying character emergency-plunges into max dilation:
-    about two and a half real hours, a subjective **decades-long** lifetime designing a cure. *UI:* a peer: *"Sure you
-    don't want your blockchain ledger public? Just in case?"* — *"I'll think about it."*
+    about two and a half real hours, a subjective **decades-long** lifetime designing a cure. *UI:* the Intercessor: *"Sure you
+    don't want your chain made public? Just in case."* — *"I'll think about it."*
     ([[the-personal-blockchain|Chain-Check]]). Breakthrough beats bloom into the
     [[chromatic-expressionism|"Sublime Contemplation" filter]] (cadmium orange / violet / amber).
 13. **Downloading the Cure** — *Tier 3 → 0.* The mind downloads into a newly built synthetic body just
     as the 24-hour timer hits zero, discarding the failing flesh. *UI:* the visceral clunk of robotic
-    medical pods assembling a cyborg shell around salvageable parts.
-14. **The Centauri Data Beam** — *interplanetary logistics.* The protagonist learns lightspeed
+    surgical rigs assembling a synthetic body around salvageable parts.
+14. **The Centauri Data Beam** — *interstellar logistics.* The protagonist learns lightspeed
     **data-beaming**: copy context + ledger to a laser array while the original keeps running on Earth.
-    *UI:* the screen splits — **Earth Instance** routine vs **Deep-Space Clone Packet** flashing across
+    Raul attends the launch glass by **leased proxy** (`Q-86`) and fills his first self-written square, *Go*.
+    *UI:* the screen splits — **Earth Instance** routine vs **the beamed copy** flashing across
     the void. → [[the-cosmic-clone-paradox]].
-15. **The Forked Identity** — *"The Station," deep space.* The clone wakes light-years away, bodiless; cosmic
-    interference + isolation give it distinct trauma — it falls in love and **branches** into a separate
-    personality. *UI:* the clone's bottom squares fill with custom local intentions that **contradict**
+15. **The Forked Identity** — *"The Station," deep space.* The clone wakes light-years away, bodiless (*Body:
+    none*); cosmic interference + isolation give it distinct trauma — it falls in love and **diverges** into a
+    separate person. *UI:* the clone's bottom squares fill with custom local intentions that **contradict**
     the Earth instance. *(The data-beam bandwidth of Ep 14–15 forced the **Neural-Synthetic Upgrade →
     30% organic**; avatars now glitch to metallic wireframe under stress — [[progressive-digitalization]].)*
 
 ### Act IV — The Great Descent (Ep 16–20) · *the Sea of Change → balance (Phase D)*
 16. **The Ledger Collision** — *the Synchronization Node.* Clone and original face each other in a
-    virtual staging room: **Merge** (severe identity crisis) or **Remain Separate**. *UI:* a flashing
+    virtual staging room, the clone a reply copy sent years ago: **Merge** (severe identity crisis) or **Branch**. *UI:* a flashing
     selection matrix dominates the bottom frame — which version of your life is "true"?
-17. **Tether Sickness** — *Tier 1 → 0.* Chasing authentic truth, the protagonist pushes too far from
-    their home node to peer at the untethered physical world. The strain triggers **systemic rejection**
+17. **Tether Sickness** — *Tier 0.* Chasing authentic truth, the protagonist, in a **leased proxy** at the edge
+    of his tether's range (`Q-86`), pushes too far from the capsule to peer at the untethered physical world. As
+    the tether severs, one frame of the neighbouring capsule (`Q-88`). The strain triggers **systemic rejection**
     — the last biological cells collapse, the **"slight, passing itch"**, and they become a
     **[[the-ghost-entity|Ghost]]** (**0% organic**, [[progressive-digitalization]]). *UI:* a
     hallucinatory visual panic; the interface flickers violently as the mind desyncs from its
     brain-antenna. → [[the-shadow-entity]]. **Full script:**
     [`../../04-scripts/episodes/s1e17-tether-sickness.md`](../../04-scripts/episodes/s1e17-tether-sickness.md).
-18. **Unplugging the Safe Harbour** — *Tier 0 surface.* The protagonist dampens to real-time and steps
+18. **Unplugging the Safe Harbour** — *Tier 0 surface.* The protagonist steps
     onto the raw un-simulated Earth, finding a colony of **Natural Purists** (`FAC-02`) who reject all
     modification. *UI:* a radical shift — clinical digital light → rich low-key **organic chiaroscuro**
     ([[lighting]], [[cinematography-techniques]]).
@@ -221,7 +234,9 @@ visits is `Q-09`. The UI shifts to Hope's Parish Metrics + Sanctuary-Void look (
     cyborg↔mortal collision** — full breakdown: [`../../04-scripts/episodes/s1e19-the-pure-current.md`](../../04-scripts/episodes/s1e19-the-pure-current.md).
 20. **The Macro-Doughnut Equilibrium** — *Flesh ∩ Ledger · SEASON FINALE (Phase D).* A purist child
     falls fatally ill; the purist mother faces breaking her vows to use digital modification to save
-    them, and the protagonist guides her through the choice. *UI:* the final shot — the UI drops its
+    them, and the protagonist guides her through the choice. He switches his Lens back on, dark since E19, to read
+    the vial for her (`Q-119`; the alignment stays off); its label reads **KAVANA** (`Q-88`, a-ha #9: Kavana's
+    formula; reminder S2E3, paid in S2E16). *UI:* the final shot — the UI drops its
     binary flicker; circles and squares **fuse into one centered, counterweighted ring, the
     [[the-macro-doughnut|Macro-Doughnut]]** — the **hollow "Camel's Doughnut" from his graduation finally
     filled solid** (`Q-12`) — anchored *"intention to feel balance"*: enlightenment is holding the beauty

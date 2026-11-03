@@ -5,7 +5,7 @@ type: concept
 canon: FAC-03
 status: draft
 tags: [institution, prison, religion, accountability, faction]
-related: [the-absolution-protocol, the-medical-sanctuary, the-macro-doughnut, the-shadow-grid, social-media-iceberg, velocity-braking, the-ghost-brokers, the-encrypted-block-paradox]
+related: [the-absolution-protocol, the-medical-sanctuary, the-macro-doughnut, the-shadow-grid, social-media-iceberg, velocity-braking, the-clock-brokers, the-encrypted-block-paradox]
 created: 2026-06-04
 updated: 2026-06-04
 ---
@@ -26,8 +26,8 @@ awareness).*
 ## Rules / mechanics
 - **Penitents.** Inmates are styled *Penitents*; there are **no fixed sentences** — release is earned,
   not served, via [[the-absolution-protocol]].
-- **The Pastors (clerical guard caste).** Not wardens — **Pastors / Intercessors** in white or
-  slate-grey cybernetic clerical vestments, carrying **digital pastoral staffs** that double as
+- **The Intercessors (clerical guard caste).** Not wardens — **Intercessors / Intercessors** in white or
+  slate-grey cybernetic clerical vestments, carrying **digital Intercessor staffs** that double as
   *frequency-disruption keys* (pause a Penitent's processing speed, dampen emotional output). They run
   confessionals and daily structural reviews with an aura of total empathy and calm — which makes
   their **absolute control over the inmates' temporal reality** profoundly eerie.

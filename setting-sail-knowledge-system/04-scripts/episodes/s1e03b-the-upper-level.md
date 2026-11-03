@@ -45,15 +45,21 @@ room. A single clip blinks in front of her, unplayed. This window doesn't run at
 Its paw turns him toward the door. They go through into blinding gold, and we do not follow.
 
 **RESOLUTION / CLIFFHANGER (2:15–2:30).** Hard cut: the nursery. The boys are back, older around the eyes. The
-song that was playing when they left is **still on the same verse.** The red ball sits where they left it.
+song that was playing when they left is **still on the same song.** The red ball sits where they left it.
 Jun reaches. Raul's jaw sets. [UI: a thin amber **thread** draws itself between them. Small tag: **LOOP
 FORMING**. A bottom Intention square fills in *by itself*: **OPEN HAND**.] Raul's fingers open. Jun, startled,
 sets the ball down between them. Teddy **claps**. [UI: **+1 · Virtuous**.] Jun grins. Raul smiles too, a beat
 late. He is looking at his hand. **He didn't open it.** Hold one beat too long. Cut to black.
 
+*Castes (`Q-87`): the two officials are Shadows; Raul and Jun are Shadow children; Teddy is a digital agent
+(`Q-71`). The woman in the last window is never given a caste in S1.*
+
 *Canon: ★ the [[the-pattern-detector|pattern detector]] and the alignment setting: the Lens can act for you.
 · the officials, unnamed (`WLD-11` stays in the vault). · the **Landing**. · plant → S3: the woman and the
 un-run clip (`FCT-004`), never explained in S1. Timing: Tier 3 is 24× Tier 2, so one hour at the top is 2.5
 minutes in the nursery, about one song. Experience only: E5 reveals the tiers and E12 the subjective clock. Grid
-compute pays for this visit. Keeps `CHR-03`'s trust question open ([[revelation-cadence]] §6). About 110 spoken
+compute pays for this visit. Writers' room, a-ha #13: the gold door opens on Tier 3, the parents' birth-grant tier;
+we do not follow, and S3E11's ledger logs no visit. The nursery song is the a-ha #1 thread (S3E12). This is the
+last reel before Raul forks into his school threads (`Q-119`, `WLD-18`): the detector and alignment won here go into
+all three. Keeps `CHR-03`'s trust question open ([[revelation-cadence]] §6). About 110 spoken
 words.*

@@ -1,9 +1,12 @@
 # Script — "The Dream Hunger"
 
-> A **standalone Act-III candidate reel** for [[setting-sail-tier-descent]] (slot `Q-11`), dramatizing
-> [[tether-decay|the TTD countdown]]. Raul **`CHR-02` (~30% organic, still tethered — pre-E17)** · POV:
-> Raul · register: **Turrell** violet → **Rothko Despair** → **Caravaggio** capsule. 9:16 · ~2.5 min.
-> A near-miss that foreshadows his E17 death.
+> A **standalone reel**, slotted to S2E6 (`Q-11`) and recast as Adam when S2 is scripted; this version stays a
+> standalone short (`Q-76`). It dramatizes [[tether-decay|the TTD countdown]]. Raul **`CHR-02`, a Shadow at
+> Tier 2, still tethered** · POV: Raul · register: **Turrell** violet → **Rothko Despair** → **Caravaggio**
+> capsule. 9:16 · ~2.5 min. A near-miss that rhymes with his E17 death.
+>
+> *Outside S1 continuity on purpose: S1's Raul runs at Tier 0 after E10 (`Q-46`), so this Tier-2 Raul can't sit
+> between E10 and E17. Castes (`Q-87`): Raul and his tribe are Shadows; SYSTEM is a voice.*
 
 ## Setup & hook (0:00–0:05)
 A massive pulsing overlay dominates Raul's [[the-perspective-lens-ui|Lens]]: **`TTD: 00:11 (REAL-TIME)`**.
@@ -14,7 +17,7 @@ images (old-world trees, flowing water, human faces) bleed onto the clean geomet
 
 ## Friction (0:05–1:15 / Act I→II)
 His terminal: the critical data update needs **10 more subjective hours.** His TTD: 11 real seconds at
-Tier 2 (3,600×) = **11 subjective hours** before his physical brain turns to mush in the pod.
+Tier 2 (3,600×) = **11 subjective hours** before his physical brain turns to mush in the capsule.
 > **SYSTEM (clinical, chilled):** Tether decay accelerating. Your brain is dreaming without you. Down-clock
 > now, or it lets you go.
 >
@@ -22,8 +25,8 @@ Tier 2 (3,600×) = **11 subjective hours** before his physical brain turns to mu
 >
 > **SYSTEM:** You had.
 
-Raul refuses to lose the tether and fall into a Ghost — *he still needs his body to reach the Purist
-village.* So he does the dangerous thing: he **overclocks** to sprint the workload, his TTD timer
+Raul refuses to lose the tether and fall into a Ghost — *he isn't ready to give up his body.* So he does the
+dangerous thing: he **overclocks** to sprint the workload, his TTD timer
 shredding away in fractions of a millisecond.
 
 ## Climax (1:15–2:15)
@@ -43,6 +46,6 @@ Fade out on his face as he drifts into a deep, dark, **biological human dream.**
 ## Notes / canon hooks
 - Showcases [[tether-decay]] (TTD, the Sub-Velocity Sabbatical) + the [[the-memory-substrate|forgetting]]
   price of going mortal. Three-register reel (Turrell → Despair → Caravaggio).
-- **Continuity:** Raul still tethered & ~30% organic → **before E17** (where he *doesn't* reset and lets
-  the tether go). The worsening TTD here makes E17 inevitable.
-- **Audit:** `STORY-07`, `CINE-16`, `VIS-15`; name the tribe members (`Q-08`). Slot: `Q-11`.
+- **Continuity:** a standalone short, not an S1 episode (see header). Read beside E17, it is the night he
+  *does* reset; in E17 he lets the tether go.
+- **Audit:** `STORY-07`, `CINE-16`, `VIS-15`. The tribe stays unnamed. Slot: S2E6 (`Q-11`, `Q-76`).

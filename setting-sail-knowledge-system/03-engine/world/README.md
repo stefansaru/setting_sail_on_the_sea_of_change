@@ -63,7 +63,7 @@ World pages are checked under the **WORLD** layer (rules, consistency, lived-in 
 - [[the-ghost-entity]] (`WLD-09`) — purely digital, ledger-only soul; free but key-fragile.
 - [[shells-with-ghosts-within]] (`WLD-10`) — leased physical hosts; the caste idiom & friction.
 - [[the-ministry-of-hope]] (`FAC-03`) — the church-prison; accountability + a grey-line hospital.
-- [[the-ghost-brokers]] (`FAC-04`) — the overclocked criminal underclass; steal velocity credits to survive; Tether Sickness.
+- [[the-clock-brokers]] (`FAC-04`) — the overclocked criminal underclass; steal velocity credits to survive; Tether Sickness.
 - [[the-medical-sanctuary]] (`MAG-17`) — Hope's experimental trials (99% cyborg / 1% ghost).
 - [[the-distributed-president]] (`WLD-11`) — AI governance; law from real-time planetary status.
 - [[the-post-labor-economy]] (`WLD-12`) — automation safety net: hospitality baseline OR Hope cloister.
@@ -90,7 +90,7 @@ World pages are checked under the **WORLD** layer (rules, consistency, lived-in 
 - [[intent-patch]] (`MAG-21`) — black-market spoof of the Intention Squares; games the CVP.
 - [[tether-decay]] (`MAG-22`) — no dreaming in-grid; the TTD survival countdown; Sub-Velocity Sabbaticals.
 - [[chromatic-tears]] (`MAG-23`) — malware as aesthetic corruption; flickers the Intention Squares, accelerates TTD.
-- [[velocity-braking]] (`MAG-24`) — the spectacular takedown: Cognitive Shock Trap + Pastor electromagnetic staffs.
+- [[velocity-braking]] (`MAG-24`) — the spectacular takedown: Cognitive Shock Trap + Intercessor electromagnetic staffs.
 - [[the-encrypted-block-paradox]] (`MAG-25`) — the sovereign-lock black box; an inmate the AI can neither read nor release.
 - [[the-one-in-n-rule]] (`MAG-32`) — responsibility for N people requires passing a 1-in-N test; forks, ratings, ad-hoc succession.
 - [[the-quickening]] (`MAG-34`) — capsules rush the body to keep up; the side-effects of rushing; the S1 real-time chronology.

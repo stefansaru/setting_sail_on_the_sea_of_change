@@ -22,9 +22,9 @@ remains. The ratio is an implicit clock; the more optimized/safe/fast they becom
 ## Rules / mechanics — the four thresholds
 | Act | State | Catalyst | Physical change | UI / avatar tell |
 |-----|-------|----------|-----------------|------------------|
-| **I (Ep 1–5)** | **100% Organic — Shadow** | — | Wholly biological body in an amniotic stasis pod. | Bright, clean "Utopia" UI; warm, fully-human avatar. |
-| **II (Ep 6–10)** | **70% Organic — Cyborg** | **Ep 10:** the [[the-shadow-grid-cooling|solar storm]] surge backfires down the biological antenna/[[the-shadow-entity|tether]], cooking the nervous system → organ failure. | Automated pods amputate damaged limbs; spine + respiratory system replaced with cybernetics. | A cold **diagnostic widget** permanently attaches to the 9:16 edge (battery, hydraulic pressure). |
-| **III (Ep 11–15)** | **30% Organic — Cyborg** | **Ep 14–15:** [[the-cosmic-clone-paradox|data-beaming/forking]] bandwidth exceeds the organic brain → a voluntary **Neural-Synthetic Upgrade**. | Face, skull, sensory organs → synthetic shielding; only heart, lungs, and core emotional brain remain. | Avatar **glitches to metallic wireframe** under high stress. |
+| **I (Ep 1–5)** | **100% Organic — Shadow** | — | Wholly biological body in an amniotic stasis capsule. | Bright, clean "Utopia" UI; warm, fully-human avatar. |
+| **II (Ep 6–10)** | **70% Organic — Cyborg** | **Ep 10:** the [[the-shadow-grid-cooling|solar storm]] surge backfires down the biological antenna/[[the-shadow-entity|tether]], cooking the nervous system → organ failure. | Automated surgical rigs amputate damaged limbs; spine + respiratory system replaced with cybernetics. | A cold **diagnostic widget** permanently attaches to the 9:16 edge (battery, hydraulic pressure). |
+| **III (Ep 11–15)** | **30% Organic — Cyborg** | **Ep 14–15:** [[the-cosmic-clone-paradox|data-beaming/forking]] bandwidth exceeds the organic brain → a voluntary **Neural-Synthetic Upgrade**. | Face, skull, sensory organs → synthetic shielding; only the heart and core emotional brain remain. | Avatar **glitches to metallic wireframe** under high stress. |
 | **IV (Ep 16–20)** | **0% Organic — Ghost** | **Ep 17:** [[the-shadow-entity|Tether Sickness]] triggers systemic rejection; the last cells collapse — the **"slight, passing itch"** ([[the-cyborg-slip]]) — and they become a [[the-ghost-entity|Ghost]]. | No biological body remains. | To walk the surface (Ep 19) they download into a **Cyborg Shell** ([[shells-with-ghosts-within]]). |
 
 ## In the world / look

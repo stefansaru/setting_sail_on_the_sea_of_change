@@ -12,7 +12,7 @@ updated: 2026-06-05
 
 > The Grid never sleeps — there is **no REM, no dreaming** in the simulation, only unceasing logical
 > execution. A [[the-ghost-entity|Ghost]] handles infinite wakefulness fine. A tethered
-> [[the-shadow-entity|Shadow]] cannot: the biological brain in the pod **still needs to dream**, and if it
+> [[the-shadow-entity|Shadow]] cannot: the biological brain in the capsule **still needs to dream**, and if it
 > can't, it will **tear itself off the machine.** Sleep becomes a survival countdown.
 
 ## Concept

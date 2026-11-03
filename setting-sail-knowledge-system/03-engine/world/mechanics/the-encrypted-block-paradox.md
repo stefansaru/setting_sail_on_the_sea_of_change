@@ -40,7 +40,7 @@ state goes blind.
 ## In the world / look
 The deepest, quietest cells of [[the-ministry-of-hope|Hope]] — the teal **Silence Cloisters** — hold
 the locked-block inmates: gaunt figures sitting in the dark, sovereign and unbroken and never leaving.
-The Pastors tend them with total empathy and zero power. It is the one room where the church-prison's
+The Intercessors tend them with total empathy and zero power. It is the one room where the church-prison's
 serene omniscience curdles into helplessness.
 
 ## Story role

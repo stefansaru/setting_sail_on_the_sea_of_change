@@ -10,6 +10,13 @@ Tier 3 simulation preserve for premium cognitive development. The parents' physi
 clinical capsule bays on Earth (`FCT-009`); their minds wander the simulated paradise. The child
 already lives inside the capsule — safe, warm, learning (`FCT-010`).
 
+**Who pays for the Apex (`Q-85`, `WR-T5`):** the preserve is a **birth grant**. Every new pair of parents gets a
+short Tier-3 stay for the capsule placement. Short in real hours, long on the inside: never said on screen. The
+child's own mind wakes in the Tier-2 nursery (E2). Writers' room: the gap between the two clocks is a-ha #13,
+paid in S3 when Raul finds his parents' ledger (`Q-108`).
+
+**Castes (`Q-87`):** the man and the woman are Shadows. The child is a Shadow from placement.
+
 ## Visual composition
 - **Wide (the meadow walk):** cinematic wide-angle; barefoot couple in an endless pristine meadow;
   warm golden morning light on dew; symmetrical framing pushing the couple low, vast open headroom of

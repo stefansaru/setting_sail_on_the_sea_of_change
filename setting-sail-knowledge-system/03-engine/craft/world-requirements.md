@@ -42,21 +42,21 @@ These never change. If an idea needs one of them broken, it belongs in a differe
 ### Bodies and castes (`WR-B`)
 | ID | T | Requirement | How to verify |
 |----|---|-------------|---------------|
-| WR-B1 | G | **Every person has one caste:** Purist (body, no Grid), Shadow (body in capsule, mind on Grid), cyborg (partly replaced), Ghost (no body), Ghost in a shell (Ghost leasing a machine body). | Each character's caste is stated and valid for that point. |
+| WR-B1 | G | **Every person has one caste:** Purist (body, no Grid), Shadow (body in capsule, mind on Grid), cyborg (partly replaced), Ghost (no body), Ghost in a shell (Ghost leasing a machine body), Quickened (a Ghost woken into a ramp body). Made minds that were never people, like Teddy and Decimus, are **digital agents** (`Q-71`). | Each character's caste is stated and valid for that point. |
 | WR-B2 | G | **Grid bodies are Quickened:** fast-grown, short-lived, worn, barren. Purist bodies are not. | No Grid body lives past about ten real years unaided, not counting time paused in deep stasis; no Grid body conceives or carries. |
 | WR-B3 | G | **Body clocks follow their waypoints:** Raul 100→70→30→0; Adam 90→60→30→~0, then borrowed flesh; Mara 0→100; Kai 100→70→30→0 in one night. | Compare each episode's stated percent. |
 | WR-B4 | G | **Memory follows substrate:** in-grid recall is perfect; a brain forgets; Ghost recall is perfect and permanent. | Forgetting happens only through a brain. |
 | WR-B5 | G | **Where you are decides your limit:** Earth capsules can hold any tier; fleet stasis holds Tier 0–1, with rare credit to Tier 2; the fleet's Apex is Ghosts only. | Check each fleet Shadow's tier. |
-| WR-B6 | G | **The body has a pull:** a Shadow can't leave its node indefinitely; at Tier 0 a Shadow attends by telepresence or a leased proxy, never in person. | Check each Shadow at a real location. |
+| WR-B6 | G | **The body has a pull:** a Shadow can't leave its node indefinitely; at Tier 0 a Shadow attends by telepresence or a leased proxy, never in person. One exception: a licensed Sabbatical, brief, costly and supervised (`Q-72`). | Check each Shadow at a real location. |
 | WR-B7 | G | **A beam carries a mind, not flesh.** Anyone beamed arrives without a body. | Check each beam's arrival. |
-| WR-B8 | G | **Regrown flesh has a donor.** Naomi's cure rebuilds flesh from a donor's cells and consumes the donor; with no donor it can only make chrome. | Anyone regrown names a donor, and that donor is gone. |
+| WR-B8 | G | **Regrown flesh has a donor.** Naomi's cure rebuilds flesh from a donor's cells and consumes the donor, who must be willing and already dying; a body can't donate to itself. With no donor it can only make chrome. | Anyone regrown names a willing, dying donor, and that donor is gone. |
 
 ### Minds and identity (`WR-M`)
 | ID | T | Requirement | How to verify |
 |----|---|-------------|---------------|
 | WR-M1 | G | **Forks are real people after divergence.** Each fork ends in a Merge or a Branch. | Each fork's outcome is stated. |
-| WR-M2 | G | **Minors can't fork by choice.** The only child fork is the system's Parallel Pedagogy, ending in the Merging. | No minor branches voluntarily. |
-| WR-M3 | G | **Short hops pause; long hops fork.** A dying hull can't pause, so its beam-out is a copy. | Check each transfer. |
+| WR-M2 | G | **Minors can't fork by choice.** The only child fork is the system's Parallel Pedagogy, ending in the Merging. One signed exception: Mara, a shard of an adult god (`Q-65`). | No minor branches voluntarily. |
+| WR-M3 | G | **Short hops pause; long hops fork.** A dying hull can pause a mind until arrival is confirmed, while it has minutes left; only its last beams fork. | Check each transfer. |
 | WR-M4 | G | **A Ghost's Identity Key is singular and fragile.** | Key loss or severance has its stated cost. |
 | WR-M5 | G | **Packing a mind takes time.** Any mind can be beamed given time. Short of time, it must pack at the Apex; aboard the fleet, only a Ghost gets there. | Each beam has enough real time, or an Apex pack. |
 
@@ -75,7 +75,7 @@ These never change. If an idea needs one of them broken, it belongs in a differe
 | WR-S2 | G | **Validation:** responsibility for N requires a 1-in-N test. Failure costs the proof and may harm; it need not kill. Rated people assume empty roles automatically; unrated people must persuade. | Each leader's rating or lack of one is coherent. |
 | WR-S3 | G | **Forked candidates are mainly digital; human candidates are adults only.** Failed branches head to the Data Graveyards, or to a dying hull's stacks aboard the fleet. | Check each candidate. |
 | WR-S4 | G | **Law is intent-in-context,** verified live by the CVP against the Personal Blockchain. There are no police and no retroactive trials on the Grid. | Enforcement follows these channels. |
-| WR-S5 | G | **Secrets have a mechanism.** Full Disclosure is the norm; exceptions are the Sealed Manifest, Intent-Patches, sovereign locks and clock-speed itself. | Name how each secret is kept. |
+| WR-S5 | G | **Secrets have a mechanism.** Full Disclosure is the norm; exceptions are the Sealed Manifest, Intent-Patches, sovereign and tissue locks, clock-speed itself, and the un-indexed Data Graveyards. | Name how each secret is kept. |
 | WR-S6 | G | **Society's leaders have an argument.** The Distributed President, High Clock and Vance are each credibly right about something. | State the argument. |
 
 ### Economy and fleet (`WR-E`)
@@ -99,7 +99,7 @@ These never change. If an idea needs one of them broken, it belongs in a differe
 ### Tone and form (`WR-F`)
 | ID | T | Requirement | How to verify |
 |----|---|-------------|---------------|
-| WR-F1 | G | **Format:** 9:16, about 150 s, photoreal, hook → context → friction → turn. | Check each script. |
+| WR-F1 | G | **Format:** 9:16, about 150 s, photoreal, hook → context → friction → turn. | Check each script. S1E1 is exempt (`Q-75`). |
 | WR-F2 | G | **Register:** *Black Mirror / Silo* cerebral dread; warmth earned, not sentimental. | P7 read. |
 | WR-F3 | S | **The turn lands late and silent** ([seasons audit §5](./audit-reports/AuditReport_seasons-consistency-aha-pacing_d1_20261102.md)). 1: explained / 3: clear / 5: the viewer finishes the sentence. | Read 2:05–2:30. |
 | WR-F4 | G | **Theme is shown, never stated.** | With `STORY-02`. |
@@ -140,7 +140,7 @@ A season passes when every gate is PASS or N/A, with evidence.
 | Season | Promise | Spine | Body | Glyph | Doughnut | Must not happen |
 |--------|---------|-------|------|-------|----------|-----------------|
 | **S1** *The Intention Ledger* | A mind learns to hold joy and pain | Raul descends the tiers | 100→0 | hollow→fractured→solid | **Earned** | President named; Vance appears; Unlisted; Mara named or explained (she may be glimpsed) |
-| **S2** *The Mortal Ledger* | The climb is a trap | Adam ascends | 90→~0→borrowed | absent→hollow→cold→cracked | **Too late** | President's nature; beyond Tier 3 |
+| **S2** *The Mortal Ledger* | The climb is a trap | Adam ascends | 90→~0→borrowed | absent→hollow→cold→cracked | **Too late** | President's nature |
 | **S3** *The Cartographer's Ledger* | The world had an author, and she must die | Mara enters flesh | 0→100 | cold→blank→re-earned | **Incarnate** | A system heals grief |
 | **S4** *The Seed Ledger* | To act you must expose yourself | Kai's forced night | 100→0 | whole→open→cracked→solid | **Held by a fleet** | Aliens shown; landing |
 | **S5** *The Colony Ledger* | The pyramid must invert | *held* | *open* | *open* | *open* | Tested when blueprinted |
@@ -148,7 +148,7 @@ A season passes when every gate is PASS or N/A, with evidence.
 **Cross-season tests**
 | ID | T | Requirement | How to verify |
 |----|---|-------------|---------------|
-| WR-X1 | G | **Release order is S1→S2→S3→S4→S5.** S3 closes the Earth story; S4 runs alongside it ("meanwhile"). | Earth news reaches the fleet late. |
+| WR-X1 | G | **Release order is S1→S2→S3→S4→S5.** S3 closes the Earth story; S4 runs alongside S1E14–17 in real time and is told after S3 ("meanwhile"). | Earth news reaches the fleet late. |
 | WR-X2 | G | **Each season spends the last vault** and keeps its own. | Compare vault tables. |
 | WR-X3 | G | **Each Doughnut is different.** | Compare the table above. |
 | WR-X4 | S | **Long-range payoffs get three touches:** plant, reminder, payoff. | Trace each one. |

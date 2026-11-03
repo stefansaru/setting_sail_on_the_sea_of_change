@@ -23,4 +23,5 @@ time noticing the **walls** of the nursery, and a faint seam of light where they
 squares now glow steadily — he has learned what they're *for*.] Cut to black.
 
 *Canon: bottom Intention squares first become rewarding (validation-seeking, sets up E4); Teddy Bear
-continuity. In-grid eidetic.*
+continuity. In-grid eidetic. Castes (`Q-87`): Teddy is a digital agent (`Q-71`); the infants, Raul and the baby
+with the ball (Jun, E3a) are Shadow children.*

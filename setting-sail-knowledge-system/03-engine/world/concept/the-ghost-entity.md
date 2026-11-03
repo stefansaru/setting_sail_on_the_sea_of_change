@@ -23,7 +23,7 @@ exists exclusively as decentralized cryptographic data running across the
   transition), **or** a [[the-shadow-entity|Shadow's]] body is intentionally unplugged, severing the
   tether for good.
 - **Liberation.** Free of physical decay, biological vulnerability, and geographic anchoring; a Ghost
-  needs no body maintenance and can run at [[velocity-tiers|Tier 3]] **indefinitely** with no pod to
+  needs no body maintenance and can run at [[velocity-tiers|Tier 3]] **indefinitely** with no capsule to
   decay. *(Both castes can reach high tiers while connected — the Ghost's edge is needing no body, not
   exclusive tier access; S-03.)* And with **no biological cache**, a Ghost has **perfect recall
   always** — but **no blurry fallback** ([[the-memory-substrate]]).

@@ -5,7 +5,7 @@
 > digital → warm **Caravaggio** chiaroscuro. 9:16 · ~2.5 min. He steps off the Grid.
 
 **HOOK (0:00–0:05).** A heavy airlock cycles. Raul — now a Ghost wearing a cyborg shell, fresh from his
-death in E17 — **steps out at real-time (1:1)** and the frantic UI hum drops to **silence.** Raw,
+death in E17 — **steps out at real-time (1:1)** and the constant UI hum drops to **silence.** Raw,
 un-simulated daylight hits the lens for the first time.
 
 **ACT I — CONTEXT (0:05–1:15).** He steps onto the actual Earth: dirt, wind, weeds through cracked
@@ -22,8 +22,10 @@ Raul has no answer. He, who can no longer forget anything, looks at people who w
 die, and feels something the Grid never priced.
 
 **RESOLUTION / CLIFFHANGER (2:15–2:30).** Raul lowers his hand from a half-raised diagnostic gesture and,
-deliberately, doesn't scan them. [UI: the modules dim toward transparency; the fractured glyph holds,
+deliberately, doesn't scan the child (Adam, about 8, `Q-81`). [UI: the fractured glyph holds,
 quiet.] He walks toward the warm light. Cut to black. *(Into E19.)*
 
-*Canon: 0% organic Ghost-in-shell (post-E17); clinical→Caravaggio register shift; Purists introduced
-([[setting-sail-tier-descent]] / [[the-medical-sanctuary|cf Nia]]). Sets up E19's flagship.*
+*Canon: 0% organic Ghost in a shell (post-E17); clinical→Caravaggio register shift; Purists introduced
+([[setting-sail-tier-descent]] / [[the-medical-sanctuary|cf Kavana]]). Sets up E19's flagship. The shell is the
+proxy he died in at E17, now a Ghost's shell (`Q-69`). Castes (`Q-87`): Raul is a Ghost in a shell; the child (Adam)
+and the villagers are Purists, with no Lens (`WR-L2`); every tag is Raul's.*

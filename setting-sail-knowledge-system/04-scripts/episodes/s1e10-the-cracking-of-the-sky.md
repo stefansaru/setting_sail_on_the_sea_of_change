@@ -14,7 +14,7 @@ wireframe. Raul looks up at the wound in the sky — and feels the surge come **
 [[the-shadow-entity|tether]].** Far away, in a capsule, his sleeping biological body convulses; the power
 spike is **cooking his nervous system.**
 
-**ACT II — FRICTION (1:15–2:15).** Agony Raul has never known floods both worlds. Automated medical pods
+**ACT II — FRICTION (1:15–2:15).** Agony Raul has never known floods both worlds. Automated surgical rigs
 seize his real body; on-Grid, his avatar **buckles** as limbs go dark. The system **amputates** the
 ruined organic parts — spine, lungs — and bolts in cybernetics to save him. And the glyph: his **hollow
 Camel's Doughnut FRACTURES** — the serene inherited balance splitting down the middle as a raw, weeping
@@ -27,4 +27,4 @@ seam** now, and won't unsee it. He flexes a new chrome hand where flesh used to 
 **fractured**; the Pain circle pulses, permanent.] *He is 70% organic, and awake.* Cut to black.
 
 *Canon: solar-storm payoff (E9); first amputation → **70%** ([[progressive-digitalization]]); the **glyph
-fractures** (`Q-12`); Pain circle + diagnostic widget; Phase A→B turn. The keystone.*
+fractures** (`Q-12`); Pain circle + diagnostic widget; Phase A→B turn. The keystone. After this Raul runs at Tier 0, like most cyborgs (`Q-46`). Castes (`Q-87`): the screaming citizens are Shadows.*

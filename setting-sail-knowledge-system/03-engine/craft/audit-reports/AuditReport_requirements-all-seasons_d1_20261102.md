@@ -88,7 +88,7 @@ own lines:** E3a's "Here, we encourage breaking free of negative loops" and E3b'
 - **Requirements:** S1's "must not happen" corrected: Mara may appear unnamed (E3b); she can't be named or explained.
 
 ## 4. Decisions for the author, most important first
-**Decided 2026-11-02:** rows 1, 2, 5, 6 and 7, each as recommended (`Q-48` to `Q-52`). The season counts in §1 predate them and have not been re-run.
+**Decided 2026-11-02:** rows 1, 2, 5, 6 and 7, each as recommended (`Q-48` to `Q-52`), then rows 3, 4 and 15 (`Q-54`, `Q-57`–`Q-59`). The season counts in §1 predate them and have not been re-run.
 
 | # | Decision | Recommendation |
 |---|----------|----------------|

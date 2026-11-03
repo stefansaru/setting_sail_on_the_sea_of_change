@@ -42,7 +42,7 @@ crossing into it is the birth. (This is the rule the S1E1 dialogue turns on — 
 ## In the world / look
 The cold, real **capsule bay** (`FCT-009`) against the warm, golden **Tier-3 preserve** — the dichotomy that
 opens the whole series in **S1E1**: parents walking a flawless simulated meadow while a real, newly-born
-fetus sleeps wired in a pod a world away. The first instance of the Grid's defining gap between the real body
+fetus sleeps wired in a capsule a world away. The first instance of the Grid's defining gap between the real body
 and the lived simulation (the seed of [[the-ageless-default|substrate dysmorphia]]).
 
 ## Story role

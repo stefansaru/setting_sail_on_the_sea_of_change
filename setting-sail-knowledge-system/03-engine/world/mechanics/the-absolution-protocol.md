@@ -52,7 +52,7 @@ you lack the biological capacity to drop it — the [[the-macro-doughnut|Macro-D
 sentence.
 
 ## Open questions
-- Who *judges* the Ledger as sufficient — the Pastors, an algorithm, or the Macro-Doughnut telemetry
+- Who *judges* the Ledger as sufficient — the Intercessors, an algorithm, or the Macro-Doughnut telemetry
   itself? (Sets whether the system can be gamed or appealed.)
 
 ## Related

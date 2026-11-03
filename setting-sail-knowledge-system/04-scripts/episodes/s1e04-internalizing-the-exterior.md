@@ -1,6 +1,6 @@
 # Script — S1E4: "Internalizing the Exterior"
 
-> [[setting-sail-tier-descent]] S1E4 · Act I (Phase A) · **→Tier 1** · Raul **100% organic** (adolescent) ·
+> [[setting-sail-tier-descent]] S1E4 · Act I (Phase A) · **Tier 2** (`Q-75`) · Raul **100% organic** (adolescent) ·
 > POV: teen Raul · register: **high-key saturated neon**. 9:16 · ~2.5 min · photoreal.
 > Theme: [[internalizing-the-exterior]] / [[societal-values|the camel]] — values inherited, unquestioned.
 
@@ -27,4 +27,5 @@ The frame is flawless, saturated, airless. [UI: every circle maxed, nothing to w
 long on the perfection — until it reads as a cage. Cut to black.
 
 *Canon: toxic-positivity utopia (Phase A); the glitch foreshadows E10. Raul still in-grid, eidetic,
-100% organic. Theme dramatized (he suppresses the glitch), not stated.*
+100% organic. Theme dramatized (he suppresses the glitch), not stated. Castes (`Q-87`): the peer is a Shadow
+child, like Raul; so is everyone riding the city.*

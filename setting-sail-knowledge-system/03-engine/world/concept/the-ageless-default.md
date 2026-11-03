@@ -20,7 +20,7 @@ In the simulation tiers, looks are not a fact of biology but a **render setting*
 psychologically stable inside a digital environment — and to prevent rejection of the illusion — the
 [[the-distributed-president|AI President]] enforces a standardized visual baseline for any human-facing
 interaction. The result is a world that has abolished the *visual* markers of class, illness, and age,
-while the bodies those minds left behind keep aging and failing in their stasis pods. The half of the
+while the bodies those minds left behind keep aging and failing in their stasis capsules. The half of the
 **Aesthetic Dichotomy** about *bodies* (its sibling, [[asymmetric-perspective]], covers *spaces*).
 
 ## Rules / mechanics
@@ -62,7 +62,7 @@ canon (`VIS-13`): the imperfection is achieved **photoreally**, never as a "grit
 ## Story role
 The tragic irony of the whole series, made literal on the body: in-grid, humanity achieves an absolute
 ageless utopia — and pays for it by living a lie they can never fully inhabit, since the flesh keeps the
-real score in the pod. **Substrate dysmorphia** is the wound — loving a face that the body underneath has
+real score in the capsule. **Substrate dysmorphia** is the wound — loving a face that the body underneath has
 already outlived. It is the [[progressive-digitalization|body-clock]] seen from the outside in.
 
 ## Open questions

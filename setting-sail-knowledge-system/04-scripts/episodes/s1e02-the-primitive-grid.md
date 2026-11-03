@@ -13,8 +13,9 @@ knowing why. Blurred high-contrast primitives drift out of focus: a dark circle 
 (right), a square (below). He fixes on the circle — the music seems to come from it.
 > **RAUL (V.O., grown, looking back, wonder):** I remember all of it. Shadows first… and then — *music.*
 
-**ACT II — FRICTION/FORM (1:15–2:15).** The primitives slide together and **become** something: the
-**Teddy Bear** (`CHR-03`) — it spins, sings, opens its arms. Raul laughs. There is no fear here, only
+**ACT II — FRICTION/FORM (1:15–2:15).** Raul's eyes drift off the circle — and the music **stops.** Silence,
+one beat. His face crumples toward a wail. Then the primitives slide together and **become** something: the
+**Teddy Bear** (`CHR-03`) — it spins, and the music comes back *from it*: it sings, opens its arms. Raul laughs. There is no fear here, only
 warmth — the purest [[the-doughnut-principle|Feel-Good arrow]], a baseline the series will spend 18
 episodes complicating.
 > **THE GUIDE (Teddy Bear, warm):** Very good. You're doing great. `[CHIT-CHAT: praise for nothing; the Grid's first reward]`
@@ -25,4 +26,8 @@ squares flicker on for the first time — empty, waiting.] Cut to black on the T
 clap.
 
 *Canon: in-grid → eidetic memory but pre-language infant render (blur is developmental, not lossy);
-`CHR-03` introduced. Sets up E3.*
+`CHR-03` introduced. Sets up E3. The child's mind wakes here at Tier 2; E1's Tier 3 was the parents' birth
+grant (`Q-85`). The music-drop is the reel's friction (`WR-F1`): the first loss, and the Bear is what ends it.
+Writers' room: the Bear owns the song from the first minute, the thread a-ha #1 pays in S3 (the song as its
+reminder, the clip at S3E19). Castes (`Q-87`): Teddy is a digital agent (`Q-71`); Raul and the other little ones
+are Shadow children.*

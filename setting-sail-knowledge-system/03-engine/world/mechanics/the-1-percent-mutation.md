@@ -23,9 +23,9 @@ indefinitely.
 - **99% success / 1% catastrophe.** The treatment is highly stable, but the 1% failure manifests
   as spectacular, fatal genetic collapse — an absolute real-world limit of **24 hours to live**.
 - **The Apex Escape Loop.** A 1% victim can apply for an emergency transfer to a **Tier 3 (Day
-  Velocity)** pod ([[velocity-tiers]]). Hope's credit buys about **2.4 outside hours** of it: a subjective **24-year
+  Velocity)** capsule ([[velocity-tiers]]). Hope's credit buys about **2.4 outside hours** of it: a subjective **24-year
   lifetime** inside — long enough to run complex biochemical models and **invent a customized
-  cure**, then execute it in the physical world via automated robotic medical pods.
+  cure**, then execute it in the physical world via automated surgical rigs.
 - **The cost of surviving:** they return to the outside as a **heavily modified cyborg body**,
   keeping only a few original parts — the very fate the purist path tried to avoid.
 - **If the Loop fails** (no cure found in time, or a catastrophic collapse), the body dies and the
@@ -43,7 +43,7 @@ A clean ticking-clock engine (24 hours / 24 years) with a bitter irony at the en
 who survives becomes the cyborg they refused to be. Strong material for a single-protagonist short.
 
 ## Open questions
-- Is the Apex transfer guaranteed on failure, or rationed/contested (who gets a scarce pod)?
+- Is the Apex transfer guaranteed on failure, or rationed/contested (who gets a scarce capsule)?
 
 ## Related
 - [[velocity-tiers]] — the Apex that the loop exploits.

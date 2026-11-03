@@ -13,8 +13,9 @@ setting he has never opened: he is a **[[the-shadow-entity|Shadow]]**. His mind 
 body sleeps in a capsule on Earth**, the tether-line its lifeline. He has *always* had a body out there. He just
 never looked.
 
-**ACT II — FRICTION (1:15–2:15).** Raul pulls up the feed: a stranger's face in a stasis pod — slack,
-breathing, *his.* Vertigo. He reaches toward the screen; the tether-line tightens warningly.
+**ACT II — FRICTION (1:15–2:15).** Raul pulls up the feed: a stranger's face in a stasis capsule — slack,
+breathing, *his.* Inches from it, at the edge of the feed, a second capsule. No tag. The camera doesn't stay on
+it. Vertigo. He reaches toward the screen; the tether-line tightens warningly.
 > **RAUL:** That's… me? Thirty-four years, I'm asleep down there?
 > **COLLEAGUE (shrug):** Nobody opens that. You're up *here*. The meat's just an antenna. Don't overthink it.
 But he can't stop thinking it — the [[the-ghost-entity|Ghosts]] passing by have no such line, and they
@@ -25,4 +26,7 @@ that isn't here, that's a world away. On the feed, under the grown stranger's fa
 misses. [UI: *Host age: 14 weeks.*] He has lived thirty-four years. Hold on the number. Cut to black.
 
 *Canon: Shadow reveal ([[the-shadow-entity]]); [[the-quickening]], unexplained until the world earns it; brain-as-antenna ([[the-memory-substrate]]); hollow glyph
-established for the adult. 100% organic. Subtext: the question, not a lecture.*
+established for the adult. 100% organic. Subtext: the question, not a lecture.
+Plant (`Q-88`, a-ha #15): the untagged second capsule. Reminder S1E17 (one frame); payoff S2E7, where both
+capsules stand empty, tagged VESPER and RAUL (`Q-92`). Never tag or name it in S1. Castes (`Q-87`): the colleague
+is a Shadow; the passers-by without a line are Ghosts.*

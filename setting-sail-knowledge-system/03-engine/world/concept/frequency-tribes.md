@@ -28,11 +28,11 @@ context. Drift to a different tier and you drift, permanently, into a different 
 - **The slang vernacular** (caste shorthand, for punchy 2.5-min dialogue):
   - **Glacials / Lag-Brains** — high-tier Ghosts' insult for biological Purists / Tier-0 workers
     (crawling at 1:1 = frozen in ice).
-  - **Vapor / Spooks** — surface Cyborgs' & Purists' slur for disembodied [[the-ghost-entity|Ghosts]]
+  - **Smoke / Spooks** — surface Cyborgs' & Purists' slur for disembodied [[the-ghost-entity|Ghosts]]
     (skin discarded, just drifting data).
 
 ## The Proximity Illusion (story role)
-The signature tragedy: **Raul (`CHR-02`) and Vesper (`CHR-05`)** lie in stasis pods *bolted inches apart*
+The signature tragedy: **Raul (`CHR-02`) and Vesper (`CHR-05`)** lie in stasis capsules *bolted inches apart*
 — *"our biological capsules are right next to each other"* — but the monitors tell the truth. Raul's
 reads **Tier 0 (1:1)**; Vesper's pulses ice-blue at **Tier 2 (1s = 1hr)**. While Raul lives one outside
 day, Vesper lives **~10 subjective years** in her high-speed tribe. To Vesper, Raul is a frozen statue she

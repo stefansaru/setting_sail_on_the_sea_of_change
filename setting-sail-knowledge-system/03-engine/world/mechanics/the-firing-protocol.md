@@ -7,7 +7,7 @@ status: draft
 tags: [fleet, shield, laser, fuel, vulnerability, season-4]
 related: [the-seed-fleet, the-sealed-manifest, the-lure-beacon, the-doughnut-principle, velocity-tiers]
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-11-03
 ---
 
 > To destroy a rock ahead, the fleet must drop its shield and hold a long lock — so the cheapest way to
@@ -20,26 +20,30 @@ disturbs the formation; firing costs almost nothing. So the fleet fires, **often
 **window**.
 
 ## Rules / mechanics
-- **Cost of deflecting:** fuel × hulls, plus the re-forming burn. Fuel is the voyage's one unrenewable
-  budget. Over a crossing, deflection is the expensive option nearly every time.
+- **Cost of deflecting:** fuel × hulls, plus the re-forming burn. Fuel is part of the hull's chemistry, loaded once (`Q-70`): every steering burn spends the stock a body would. Over a crossing, deflection is the expensive option nearly every time.
 - **Cost of firing:** the **window.** The forward screen ([[the-seed-fleet]]) scatters the beam, so it must
-  **drop** for a clear line of sight. Targets are far — a lock on a rock a thousand kilometres out takes real
-  **seconds to minutes** — and the screen stays down for the whole lock and the shot.
+  **drop** for a clear line of sight. Targets are far — a lock on a rock twenty million kilometres out takes real
+  **seconds to minutes** — and the screen stays down for the whole lock and the shot. *(Physics: at a tenth of light
+  speed the hull closes twenty million kilometres in about eleven minutes, and the shot needs about a minute of light
+  time to arrive, so a minute's lock leaves margin. Two million kilometres would leave none. The screen goes back up
+  before the hull crosses the dust.)*
 - **The lock is the exposure.** During the window the hull is naked to anything on the bore's line that the
   catalogue did not predict. The protocol accepts this because the catalogue has never been wrong.
 - **Decision authority:** the High Clock (`FAC-05`) votes deflect-or-fire at Apex speed — a debate that
   takes them an afternoon and the base a blink ([[velocity-tiers]]).
 - **Limit:** the laser only kills what it can *see* and *lock*. An object that is **Unlisted**, or that
   **moves**, is outside the protocol's assumptions.
-- **Consequence (established, S4E10):** having been *given* the fleet's vector ([[the-lure-beacon]]), the
-  Unlisted place debris on its track. The fleet chooses *fire*, as it always does. Hull Four is struck head-on
-  *through its own open window*. The log says *sensor fault*. The fleet's first reading is that the array
-  missed a rock. The last log, read at Apex speed, says the object **changed course** — toward the burst a
-  base worker sent (S4E19). **The protocol was not broken. It was used.**
+- **Consequence (established, S4E10, `Q-66`, `Q-111`):** the fleet chooses *fire* on debris ahead, as it always does.
+  During Hull Four's lock, a gram-scale grain of natural rock, too small for any catalogue, comes through the open
+  window on the bore's line. At a tenth of light speed a gram hits like about 107 tonnes of TNT. The log says
+  *sensor fault*. Read at Apex speed (S4E19), the last log shows only an order of events: the hit's timestamp sits
+  under the burst a base worker sent the night before ([[the-lure-beacon]]). It never says *because*, and light-lag
+  says the beacon couldn't have answered in time (bible only). **The protocol was not broken. It was trusted** on a
+  day the fleet had been told to stay silent.
 
 ## In the world
 Firing days are the fleet's weather: the base-tier colonists watch the screen drop and the bore flash the
-way one watches lightning. Children count the lock. Nobody at the base has ever thought of it as *danger*;
+way one watches lightning. Crews count the lock. Nobody at the base has ever thought of it as *danger*;
 the High Clock has, and files it under acceptable.
 
 ## Story role

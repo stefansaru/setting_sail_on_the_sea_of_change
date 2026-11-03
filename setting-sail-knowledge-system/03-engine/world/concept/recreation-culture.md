@@ -33,8 +33,7 @@ Raves), a slow-time indulgence (Historical Parsing), and a physical detox (the G
   spends *an unhurried summer* inside a high-resolution sim of ancient Earth oceans or classical
   architecture — all within a single real-world lunch hour. Leisure as **time arbitrage.** (And, per
   [[the-memory-substrate]], it's kept in eidetic 4K — unlike a mortal vacation, it never fades.)
-- **The Glacial Vacation (physical detox).** The bodily counterpart: a citizen spends the [[velocity-
-  tiers|velocity credits]] for a [[tether-decay|Sub-Velocity Sabbatical]] and travels to a **physical
+- **The Glacial Vacation (physical detox).** The bodily counterpart: a citizen spends the [[velocity-tiers|velocity credits]] for a [[tether-decay|Sub-Velocity Sabbatical]] and travels to a **physical
   surface sanctuary** — protected wilderness zones, the **lunar polar-crater resorts** — to buy the
   *luxury of slowness.* Turn off the antenna, stand on un-optimized organic dirt, and let the biological
   cache do the one thing the Grid forbids: **forget** ([[the-memory-substrate]]).
@@ -58,7 +57,7 @@ survival clock or the identity it's stabilizing, which keeps even the leisure be
 §6) — surface only if a slot opens.
 
 ## Open questions
-- Is there a leisure form for the *poor* (a [[the-ghost-brokers|Ghost Broker]]'s "fun"), or is
+- Is there a leisure form for the *poor* (a [[the-clock-brokers|Clock Broker]]'s "fun"), or is
   decompression itself a luxury the underclass can't afford — making burnout structural?
 
 ## Related

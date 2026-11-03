@@ -5,7 +5,7 @@ type: mechanics
 canon: MAG-21
 status: draft
 tags: [exploit, crime, cvp, intent, antagonist]
-related: [compliance-validation-protocol, the-perspective-lens-ui, intention-in-context-law, the-personal-blockchain, the-ghost-brokers]
+related: [compliance-validation-protocol, the-perspective-lens-ui, intention-in-context-law, the-personal-blockchain, the-clock-brokers]
 created: 2026-06-05
 updated: 2026-06-05
 ---
@@ -20,7 +20,7 @@ physical act ([[intention-in-context-law]]), the system can be spoofed at the **
 under extreme optimization anxiety buy **Intent Patches** to do it.
 
 ## Rules / mechanics
-- **The supply.** Patches are manufactured and sold on the black market by the [[the-ghost-brokers|Ghost
+- **The supply.** Patches are manufactured and sold on the black market by the [[the-clock-brokers|Ghost
   Brokers]] (the desperate end) and wielded with surgical polish by merit-holders like Vance (the elite end).
 - **The hack.** Before an unauthorized transaction or malicious data-copy, the user runs a black-market
   script that hooks their [[the-perspective-lens-ui|Perspective Lens UI]] and forces the bottom
