@@ -34,7 +34,7 @@ datacenters.
   - **The Merge** — fuse both ledgers into one identity, integrating two whole lifetimes of
     experience (and the psychological identity-friction that comes with it).
   - **The Branch** — stay separate, legally splitting into two distinct individuals with an
-    identical past but entirely separate futures.
+    identical past but entirely separate futures. Canon cases: Rafe (S1E16, `Q-14`; his Earth copy branches at S3E20, `Q-99`) and the second Kai (S4E15, `Q-31`). A dying hull can pause a mind while it has minutes left (`Q-55`).
 - **The biological tether risk.** If a physical body waits in an Earth capsule (medical stasis)
   while the mind travels, a **corrupted or lost** deep-space stream leaves that body an empty,
   brain-dead vessel that must eventually be **unplugged**.
@@ -49,7 +49,7 @@ with your past but not your future) are each a complete dramatic premise; the te
 clean mortality stake.
 
 ## Open questions
-- After a Branch, do both inherit the same `Q-04` rights/legacy, or does the Earth original retain
+- After a Branch, do both inherit the same rights/legacy, or does the Earth original retain
   primacy? (Legal/identity rules undecided.)
 
 ## Related

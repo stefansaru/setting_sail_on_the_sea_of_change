@@ -41,7 +41,7 @@ here it's promoted to constitutional law.)*
 ## Story role
 The **conflict engine** for the meritocracy: a high-merit challenger (**Vance**, `CHR-04`) versus a
 citizen's Proven-in-Use record. The series' diagram literally pits *"Raul's historical sins"* against
-the law database — so **Vance can come for Raul**, and Raul's defense is whether his intentions have, in
+the law database — so **Vance can come for Adam** (S2E12–15; his S3 stake in Raul is still open, `Q-10`), and Raul's defense is whether his intentions have, in
 fact, aligned. (Helps answer audit S-09: an opposing-worldview antagonist.)
 
 ## Open questions

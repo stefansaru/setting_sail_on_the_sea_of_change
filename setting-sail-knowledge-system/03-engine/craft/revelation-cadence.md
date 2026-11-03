@@ -84,11 +84,11 @@ shadow. (Per-season; this is the Season-1 vault.)
 | [[intention-in-context-law]] (`MAG-18`) + merit-keys; **Vance** (`CHR-04`) + [[intent-patch]] (`MAG-21`) | none — Vance is bible-only, absent from all 20 | the antagonist/Law strand is the S2 engine (`Q-10`) |
 | [[the-personal-blockchain]] (`MAG-11`) · [[compliance-validation-protocol]] (`MAG-20`) | one **teaser** only — E12 *"…want your chain made public? Just in case." / "I'll think about it."* | seed the apparatus; don't run it until S2 (see F-1) |
 | [[standardized-vices]] (`WLD-15`) · [[intimate-commerce]] (`WLD-16`) | none | adult-society texture, off the descent's spine |
-| [[frequency-tribes]] (`WLD-17`) Dunbar/Proximity Illusion; **Vesper** (`CHR-05`) | caste **slang** only (E8); her untagged capsule (E6, and one frame in E17, `Q-88`) | the Proximity-Illusion / Vesper reel is unslotted (`Q-11`) — a held reunion thread |
-| [[tether-decay]] (`MAG-22`) TTD / dreamless insomnia; the **Dream Hunger** | none | a standalone candidate, not on the S1 line |
+| [[frequency-tribes]] (`WLD-17`) Dunbar/Proximity Illusion; **Vesper** (`CHR-05`) | caste **slang** only (E8); her untagged capsule (E6, and one frame in E17, `Q-88`) | the Proximity-Illusion / Vesper reel is slotted to S2E7 (`Q-11`); the reunion is spent in S3E14 (`Q-121`) |
+| [[tether-decay]] (`MAG-22`) TTD / dreamless insomnia; the **Dream Hunger** | none | slotted to S2E6 (`Q-11`) |
 | [[data-graveyards]] (`PLC-09`) Data Dementia | none | a place for a later descent |
 | [[the-absolution-protocol]] (`MAG-16`) church-prison sentence | only Hope's **medical** side shows (E11–13) | the carceral half of [[the-ministry-of-hope]] is held |
-| [[parallel-pedagogy]] (`WLD-18`) the Merging, dramatized | carried **implicitly** by the hollow "Camel's Doughnut" glyph; the [[the-split-mirror|Split Mirror]] origin is unslotted | the glyph *is* the reveal; don't flash back to explain it |
+| [[parallel-pedagogy]] (`WLD-18`) the Merging, dramatized | carried **implicitly** by the hollow "Camel's Doughnut" glyph; the [[the-split-mirror|Split Mirror]] is slotted to S2E9 (`Q-11`); the forks begin just after E3b (`Q-119`) | the glyph *is* the reveal; don't flash back to explain it |
 | [[the-one-in-n-rule]] (`MAG-32`) ratings, batches, failed forks | collar tags (`1:30`) as unexplained throwaways; at most one spoken line (E10) | S2 pays it (E12–14); that Mara wrote the creed and never took the test is S3 |
 
 ### S3 reserve — culture/etiquette beats deferred past S2

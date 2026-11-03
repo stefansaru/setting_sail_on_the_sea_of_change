@@ -26,7 +26,7 @@ awareness).*
 ## Rules / mechanics
 - **Penitents.** Inmates are styled *Penitents*; there are **no fixed sentences** — release is earned,
   not served, via [[the-absolution-protocol]].
-- **The Intercessors (clerical guard caste).** Not wardens — **Intercessors / Intercessors** in white or
+- **The Intercessors (clerical guard caste).** Not wardens — **Intercessors** (Ghosts in shells, `Q-87`) in white or
   slate-grey cybernetic clerical vestments, carrying **digital Intercessor staffs** that double as
   *frequency-disruption keys* (pause a Penitent's processing speed, dampen emotional output). They run
   confessionals and daily structural reviews with an aura of total empathy and calm — which makes
@@ -50,8 +50,7 @@ operating a morally-grey [[the-medical-sanctuary]] in its depths. The book's pen
 made architecture. The season's **middle arc**: after the Ep 10 crisis Raul walks in as a voluntary Seeker (`Q-09`).
 
 ## Open questions
-- Is the protagonist **sentenced** to Hope (rehabilitation after Ep 10), a **Seeker**, or only a
-  visitor to the medical wing? → `Q-09`.
+- ~~Sentenced, Seeker or visitor?~~ **Seeker** (`Q-09`): no sentence, since the world has no police (`WR-S6`); Adam mirrors it as a voluntary Penitent at S2E15 (`Q-116`).
 
 ## Related
 - [[the-absolution-protocol]] — how a Penitent earns release.

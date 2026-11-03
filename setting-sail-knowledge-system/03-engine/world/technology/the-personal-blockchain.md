@@ -40,7 +40,7 @@ without being lost or deleted.
 
 ## In the world
 A **Cultural Chain-Check** custom has emerged: because high-risk activities carry a probability of
-permanent deletion, peers playfully or cynically press each other to unlock (disclose) their
+permanent deletion, peers playfully or cynically press the few who opted out (`Q-124`) to re-open their
 ledgers before dangerous tasks.
 > *"Hey, you're tracking a 99% success rate on that DNA rewrite today. Are you sure you don't want
 > your chain to become public? Just in case?"* / *"I'll think about it."*

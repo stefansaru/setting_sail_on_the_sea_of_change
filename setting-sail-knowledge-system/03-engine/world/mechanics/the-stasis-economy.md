@@ -43,13 +43,13 @@ population.
   between watches too, or the voyage would last millennia at speed. Shadows attend the bays at Tier 0 by proxy.
 - **The ramp.** As the destination's resources are confirmed by the array, the fleet begins to **synthesize
   bodies** ([[capsule-birth]] — IVF embryo → capsule → Grid, at the far end of the voyage) for minds that
-  crossed as Ghosts. These bodies are [[the-quickening|Quickened]], with the same short lives. Once grown they are
+  crossed as Ghosts, who wake into them as the **Woken** (`Q-124`). These bodies are [[the-quickening|Quickened]], with the same short lives. Once grown they are
   stilled in deep stasis, so their decade starts at landfall, not on the ramp. The biological population is scaled to the **resources near the destination**, not to
   Earth's loadout. The ship arrives with "several colonists" and becomes the colony's headquarters.
 - **The standing reserve (`Q-112`).** One embryo slot on Hull One is held for a claim not yet made. Its clause in
   the manifest carries a tissue lock (`Q-110`, [[the-sealed-manifest]]). It costs nothing until it is claimed. Bible
   (`Q-119`): it holds a stilled copy of the President's genome, stored before launch; the claim is S3E20's
-  `Outbound · 4.4 ly`, which lands about T+43.
+  `Outbound · 4.4 ly`, which lands about T+43 carrying the god's remainder (`Q-125`).
 - **The inversion is a running cost (S5).** Quickened bodies are barren and last about a decade (`WR-B2`), so a
   colony of them can't grow its own bodies. More bodies than Ghosts holds only while the ramp keeps growing them,
   every decade, on the planet's chemistry.

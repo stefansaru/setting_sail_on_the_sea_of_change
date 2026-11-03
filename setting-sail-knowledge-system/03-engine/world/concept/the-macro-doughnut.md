@@ -31,7 +31,7 @@ goal of the *evolutionary child* inside the simulation (see [[child-phase]] /
   graduate at [[parallel-pedagogy|the Merging]] — the *shape* of balance, **inherited and untested**
   ([[societal-values]] Phase A). The **solid / filled** Macro-Doughnut is the **earned** one — authored,
   tested, load-bearing (Phase D). Raul's whole arc is one glyph: **hollow → fractured (the descent) →
-  solid (Ep 20).**
+  solid (Ep 20).** Adam's S2E20 glyph cracks to the Mortal Doughnut instead (`Q-19`).
 
 ## In the world / look
 Rendered as the **Unified Equilibrium** production-design metaphor (`VIS-11`): a rustic, ochre stone

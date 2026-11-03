@@ -18,7 +18,7 @@ updated: 2026-06-06
 ## Concept
 In the simulation tiers, looks are not a fact of biology but a **render setting**. To keep minds
 psychologically stable inside a digital environment — and to prevent rejection of the illusion — the
-[[the-distributed-president|AI President]] enforces a standardized visual baseline for any human-facing
+[[the-distributed-president|President]] enforces a standardized visual baseline for any human-facing
 interaction. The result is a world that has abolished the *visual* markers of class, illness, and age,
 while the bodies those minds left behind keep aging and failing in their stasis capsules. The half of the
 **Aesthetic Dichotomy** about *bodies* (its sibling, [[asymmetric-perspective]], covers *spaces*).

@@ -23,6 +23,6 @@ Intercessor drapes a simple cloth over the discarded flesh. [UI: a clean new dia
 purist, now a cyborg.] Raul's fractured glyph aches in sympathy. Cut to black.
 
 *Canon: cyborg branch of the 1% ([[the-1-percent-mutation]]/[[the-medical-sanctuary]]); the tragic
-irony (purist → chrome). Raul 70% organic, witness. Closes the Kavana arc; mirrors Raul's descent. Timing (`Q-80`): she left the Apex with about 21.5 hours on the clock; the rigs spent them building the body, and the hook joins them at nine seconds left, for the transfer. Castes (`Q-87`): Kavana, Purist → cyborg (8%);
+irony (purist → chrome). Raul 70% organic, witness. Closes the Kavana arc; mirrors Raul's descent. Timing (`Q-80`): she left the Apex with about 21.5 hours on the clock; the rigs spent them building the body, and the hook joins them at nine seconds left, for the transfer. Castes (`Q-87`): Kavana, Purist → Shadow (Apex) → cyborg (8%);
 the Intercessor is a Ghost in a shell; Raul is a cyborg by proxy. Plant: her formula, the cure she wrote, is the
 medicine labelled KAVANA in E20 (`Q-88`, a-ha #9), paid in S2E16.*

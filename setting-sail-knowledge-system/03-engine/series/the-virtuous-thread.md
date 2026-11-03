@@ -1,7 +1,6 @@
 # Thread Map — The Virtuous, across the seasons
 
-> *(Status: **DRAFT, 2026-11-01; partly placed 2026-11-03 under `Q-84`; S3 rows re-placed 2026-11-03 under `Q-98..Q-108`.** S1 rows are proposals: no S1 script has
-> been changed for this map. In S2–S4, rows marked **✅ placed** now sit in the season blueprint's episode text; rows
+> *(Status: **DRAFT, 2026-11-01; partly placed 2026-11-03 under `Q-84`; S3 rows re-placed 2026-11-03 under `Q-98..Q-108`.** S1 rows are proposals, except E3a–b (scripted) and E20 (ruled, `Q-119`). In S2–S4, rows marked **✅ placed** now sit in the season blueprint's episode text; rows
 > marked *not placed* stay proposals, with the reason. The a-ha list these beats share is in
 > `AuditReport_seasons-consistency-aha-pacing_d1_20261102` §4.)*
 >
@@ -33,7 +32,7 @@ Sources: [[the-virtuous]] · [[the-one-in-n-rule]] · [[the-pattern-detector]].
 | E2 | Adam's first Lens: a thread draws between him and Naomi, tagged **LOOP FORMING**. It is love. The machine can't tell. **✅ placed** (a-ha #8). | 🪞 |
 | E5 | Converts arrive past the nursery with alignment on by default. He never had an eight-year-old's choice. *Not placed:* E5 now carries Naomi's barrenness line; E2's thread implies alignment is on. | 🌱 |
 | E9 | The Merging: forks fuse. Adam sees a batch that doesn't. *Not placed:* E9 is the Merging's own reveal. | 🌱 |
-| E12 | Vance's merit key is a **rating**: `1:10000`. The Validation is named; the honest road to the cure's merit is to take one. **✅ placed.** | 🌱 |
+| E12 | Vance's merit key is a **rating**: `1:10000`. The Validation is named; the honest road to the cure's merit is to take one. **✅ placed.** Mirrors Raul's voluntary Seeker, S1E11–13 (`Q-09`). | 🌱 |
 | E13 | The patch fakes Proven-in-Use (the CVP); Kavana's public chain is the honest baseline that shows it. **✅ placed** (a-ha #10). The forged batch record moved to E14. | 💥 |
 | E14 | **The Data Graveyards hold failed forks** (`Q-37`). Minds looping one frame carry the names of Earth's merit-holders. One row is empty: Vance's. He never failed anything. **✅ placed** (the Validation's turn). | 💥 |
 | E15 | Adam takes Vance's keys knowing they are a forger's (`Q-61`), and never takes the Validation himself. **✅ placed.** The candle-vs-rating mirror is left to the existing Absolution candle. | 🪞 |

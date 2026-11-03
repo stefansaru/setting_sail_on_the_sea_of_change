@@ -23,7 +23,7 @@ nod to 20th-century cyberpunk, reworded to invoke the homage while sidestepping 
 - A shell alone is **empty, cold, and dead** — a mere casing.
 - Meaning, animation, and life appear **only** when an autonomous Ghost downloads its **active
   context** into the shell's processing core.
-- Embodiment is temporary/leased — a Ghost can occupy, leave, or swap shells.
+- Embodiment is temporary/leased — a Ghost can occupy, leave, or swap shells. A shell may be flesh (`Q-87`). Shadows lease proxies, Ghosts shells (`Q-69`); Raul's E17 proxy becomes his E18 shell (`Q-115`).
 
 ## In the world / social friction
 The caste line runs straight through this idiom:
@@ -33,7 +33,7 @@ The caste line runs straight through this idiom:
 
 ## Story role
 The embodiment theme of the series: what is a self without a body — and is borrowing one nostalgia,
-necessity, or weakness? The Phase-D crossover (a Ghost donning a shell to save an organic colony) is
+necessity, or weakness? The Phase-D crossover (a Ghost donning a shell to walk among a mortal colony it cannot save, and should not) is
 the [[setting-sail-tier-descent|voyage's]] climax.
 
 ## Open questions

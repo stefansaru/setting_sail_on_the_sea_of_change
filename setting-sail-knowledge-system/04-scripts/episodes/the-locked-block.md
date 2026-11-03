@@ -54,5 +54,5 @@ lesson forever. Fade on omniscience meeting the one wall it cannot pass: **a man
   [[the-personal-blockchain]] (two-key sovereignty). Registers per `VIS-14` + Caravaggio (`VIS-15`).
 - **Story role:** the door Adam passes at S2E15 and Mara opens in S3 (`Q-67`, `Q-119`); and the law **Vance** (`CHR-04`) abuses to
   bury patched code where the President can't reach ([[intent-patch]]).
-- **Audit:** `STORY-07`, `WORLD-01/02/03`, `CINE-16`, `VIS-14/15`; Hope placement `Q-09`. Slot S2E15 (`Q-77`):
+- **Audit:** `STORY-07`, `WORLD-01/02/03`, `CINE-16`, `VIS-14/15`; Hope placement settled (`Q-09`, `Q-77`). Slot S2E15 (`Q-77`):
   plants the tissue lock S3 needs (`Q-67`).

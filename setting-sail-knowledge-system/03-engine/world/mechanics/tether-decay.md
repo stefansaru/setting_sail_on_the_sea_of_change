@@ -65,10 +65,9 @@ Hunger]]** reel); the quantification of Tether Sickness; and the rising pressure
 death/transition land as *earned*, not arbitrary.
 
 ## Open questions
-- Could an antagonist (**[[intent-patch|Vance]]**) **sabotage a citizen's TTD frequency** to force them
-  into becoming a disembodied Ghost? (No: Vance profits from it but never causes it, `Q-15`.)
+- ~~Could an antagonist (**[[vance|Vance]]**) sabotage a citizen's TTD frequency?~~ No: Vance profits from it but never causes it (`Q-15`).
 - Do the [[setting-sail-tier-descent|Natural Purists]] read the Dream Hunger as proof the Grid is
-  fundamentally *unnatural*? (Their ideology's strongest argument.)
+  fundamentally *unnatural*? Yes: they cite it in S2E6 (`Q-15`).
 
 ## Related
 - [[the-shadow-entity]] — Tether Sickness, now quantified. · [[the-ghost-entity]] — the only escape from TTD.

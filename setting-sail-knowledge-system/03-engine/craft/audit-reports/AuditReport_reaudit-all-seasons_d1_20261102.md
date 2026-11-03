@@ -116,3 +116,23 @@ Five independent read-only audits (one per season, one for both cuts), then fixe
 - Link check: 18 non-story placeholders, no undefined `Q-` or `WR-` references, 52 `WR` rules.
 - **Still open:** the Braided Cut's folded reels exceed one major reveal (needs re-scripting or the 45-reel version, `Q-41`);
   `Q-09` (Hope placement), `Q-15`, `Q-18`, `Q-19`; S5's packet contents and who pays its Apex pack.
+
+## 8. Knowledge-system audit, 2026-11-04 (after the author's Q-09…Q-41 answers)
+Three read-only audits (world pages; craft, series and prompts; `04-scripts/`) plus a mechanical sweep of all 465
+files, including `01-codex`, `brain` and `library`.
+
+- **Sweep:** no retired terms or stale `Q-` references outside the story layers; 18 non-story placeholder links; no
+  undefined `Q-`/`WR-` references; 52 `WR` rules.
+- **World pages (54 edits):** birth wakes in the Tier-2 nursery (`FCT-013`); the vat clone retired for capsule growth;
+  the 1% mutation is a dying Purist's last resort, never agelessness (`Q-74`); "AI President" → "the President"
+  (`Q-98`); the encrypted-block page rebuilt around the tissue lock and the welded door; Woken, Tier-1 packing and Full
+  Disclosure opt-out carried through; resolved questions struck; eight pages added to the world index.
+- **Craft and series (49 edits):** registry fact rows synced with resolved rulings; glossary castes and first
+  appearances (Woken has no S4 instance; ramp bodies stay stilled); three new interface rows; cadence vault and ledger
+  rows for the slotted reels; blueprint ruling lists; `audit-script.md` now takes `world-requirements`, glossary and
+  cadence as inputs and runs P10–P11.
+- **Scripts and sheets (27 edits):** Q-09 Seeker notes in S1E11 and Raul's sheet; Kavana's Shadow hours; Vesper's
+  bursts; Mara's remainder; Teo; cast table and readable list. No on-screen line changed except the prose's "visiting
+  the wing" (matches S1E11).
+- Delegated calls logged as `Q-126`. **Still open (author):** `Q-20`–`Q-22` (S3 title, lead, Rafe ally or rival) and
+  `Q-36` (the Hull Cut's status). All belong to S3/the cuts, not S1–S2.

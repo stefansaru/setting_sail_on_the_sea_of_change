@@ -35,11 +35,11 @@ A named or labelled character. Season is in the first two columns; caste follows
 | **Jun** | Raul's friend from the nursery. He fights Raul at eight, then slips into a Ghost in E7. | S1E3a; as an unnamed baby S1E3 | none assigned (logged) [[jun]] | — | Shadow child → cyborg in the flesh at Tier 0 → Ghost (S1E7) | Japanese 順 "obedient", 純 "pure" |
 | **Kai** | A maintenance worker in stasis on Hull Four who forces the Slip in one night and is beamed out. S4 lead. Pronouns stay open. | S4E1 | `CHR-08` [[kai]] | "the Sleeper" (bible only). **Not a homophone of "key":** it rhymes with "sky". | Shadow → cyborg by severance, the stacks taking what the body lets go (S4E13–14) → Ghost (S4E15) | Hawaiian and Japanese "sea"; Greek *kai*, "and" |
 | **Kai, the second** | The copy left running in Hull Four's servers when Kai's beam fires, because the last beam can't pause. | writers' room until S5; S4E15 shows only the disc still ticking | `CHR-08` · `Q-31` | "a second Kai" | Ghost | As Kai |
-| **Mara** | The woman who built HELM to avoid one grief. She is the Distributed President, and incarnates in S3 to grieve and die. | name from S3E3; `// M.C.` first shown unread in S2E11, read from S3E1; **HELD**. S1E3b shows a woman with an un-run clip (logged). | `CHR-01` [[mara]] | the Cartographer, `// M.C.`, `mara.c`, `M. Cartographer`. "The Architect" appears with the root key. | Ghost as the President (`Q-98`) → Purist from S3E10; never a Lens (`Q-101`) | Hebrew "bitter" (Ruth 1:20) |
+| **Mara** | The woman who built HELM to avoid one grief. She is the Distributed President, and incarnates in S3 to grieve and die. | name from S3E3; `// M.C.` first shown unread in S2E11, read from S3E1; **HELD**. S1E3b shows a woman with an un-run clip: the President as a Ghost, bible only (`Q-124`). | `CHR-01` [[mara]] | the Cartographer, `// M.C.`, `mara.c`, `M. Cartographer`. "The Architect" appears with the root key. | Ghost as the President (`Q-98`) → Purist from S3E10; never a Lens (`Q-101`) | Hebrew "bitter" (Ruth 1:20) |
 | **The mining worker** | An orbital worker who audits a life and turns Ghost in the half second before death. | reel: The Chronological Sanctuary (standalone, `Q-76`); S2E16's lead is Adam | `Q-08` | — | Shadow → Ghost | A role label |
 | **Naomi** | Adam's mother, a Purist. She gives Raul "eleven good ones", breaks her vow for Adam, and dies mortal and whole in S2E20. | S2E1; unnamed "the mother" in S1E19–20 | `CHR-11` [[naomi]] | the mother, the Purist mother, THE MOTHER (script label). Never Ruth. | Purist | Hebrew "pleasantness" |
 | **Naomi, the child** | The mortal child Mara becomes. Ruth names her for the woman she buried, reversing "call me Mara". | S3E10 | `CHR-01` · `Q-23` | "the child" until she needs the name | Purist | Hebrew "pleasantness" |
-| **Kavana** | An old Purist who takes Hope's DNA rewrite, draws the 1%, and survives as the cyborg she refused to be. | S1E11 | none assigned (logged) [[kavana]] | Was "Nia" (`Q-69`). | Purist → Shadow (Apex, E11–13) → cyborg (8% organic, S1E13) | Hebrew *kavanah*, "intention" |
+| **Kavana** | An old Purist who takes Hope's DNA rewrite, draws the 1%, and survives as the cyborg she refused to be. | S1E11 | none assigned (logged) [[kavana]] | Was "Nia" (`Q-69`). | Purist → Shadow (Apex hours, E12–13) → cyborg (8% organic, S1E13) | Hebrew *kavanah*, "intention" |
 | **The partner in the mirror reel** | A woman whose hand Raul holds in-grid. She is revealed as a Shadow whose body looks sixty. | reel: The Mirror Asymmetry (unslotted) | `WLD-22` (unnamed) | — | Shadow | Unnamed |
 | **The Intercessor** | The gentle Hope cleric at Kavana's bedside and in the Apex. | S1E11 | `FAC-03` (unnamed; `CHR-?` in script) | See Group: the Intercessors. | Ghost in a shell (`Q-87`) | Latin "one who goes between" |
 | **The Patron** | A high-tier elite forced into a Sabbatical, undone by a real meal. | reel: The First Supper (unslotted) | `WLD-19` (unnamed, `Q-08`) | —. | Shadow (carries a TTD) | A title |
@@ -54,10 +54,10 @@ A named or labelled character. Season is in the first two columns; caste follows
 | **The Smuggler** | A gaunt Clock Broker who locks a block of his ledger and is held forever. | reel: The Locked Block (standalone, `Q-76/77`); S2E15 shows one welded door | `FAC-04` (unnamed, `Q-08`) | — | Shadow | A role label |
 | **SYSTEM** | The flat voice that delivers rulings and warnings. It has no name in S1. | S1E5 | `WLD-11` (vault) | "the flat system voice" | None: an AI | A role label |
 | **The tech** | The technician who sells Raul the upgrade in E14. | S1E14 | none | — | Cyborg at Tier 0 (`Q-87`) | A role label |
-| **Teo** | Kai's kind young bay-mate, who decodes the last layer and sends the fleet's vector. In S4 he never learns that his burst sits in the log just above the hit (`Q-111`). | S4E6 | `CHR-09` · `Q-35` open [[teo]] | "the Hero" (bible only). `Q-35` may fold him into Kai. | Shadow | *Theodoros*, "gift of God"; the same name as Teddy |
+| **Teo** | Kai's kind young bay-mate, who decodes the last layer and sends the fleet's vector. In S4 he never learns that his burst sits in the log just above the hit (`Q-111`). | S4E6 | `CHR-09` · `Q-35` [[teo]] | "the Hero" (bible only). Sends the burst (`Q-35`). | Shadow | *Theodoros*, "gift of God"; the same name as Teddy |
 | **The tiny girl** | The nursery child who tells the boys they were statues. | S1E3a | none | — | Shadow child (`Q-87`) | A role label |
 | **Vance** | A merit-holder who believes mortality is a bug. He tempts Adam and later hunts the root key. Absent from S1. His record claims a batch of 10,000 with no failed fork filed (S2E14); his S3 case: "A world with no author is a world no one answers for" (`Q-103`). | S2E12; **HELD** in S1 | `CHR-04` [[vance]] | — | Ghost (`Q-90`) | Old English *fenn*, "marsh" |
-| **Vesper** | Raul's partner, lost to the Proximity Illusion: capsules inches apart, clocks lifetimes apart. | S2E7; her capsule, untagged, in S1E6 and S1E17 (`Q-88`); **HELD** by name in S1 | `CHR-05` [[vesper]] | Retired: Maya. | Shadow (Tier 2) → Ghost between S1 and S2 (`Q-92`) | Latin "evening", the evening star |
+| **Vesper** | Raul's partner, lost to the Proximity Illusion: capsules inches apart, clocks lifetimes apart. | S2E7; her capsule, untagged, in S1E6 and S1E17 (`Q-88`); **HELD** by name in S1 | `CHR-05` [[vesper]] | Retired: Maya. | Shadow (Tier 2) → Ghost between S1 and S2 (`Q-92`) → Ghost in a leased shell (S3E14, `Q-121`) | Latin "evening", the evening star |
 | **The oldest elder** | The Purist elder who wants the pregnancy cut out (S3E8) and, dying, offers to be Mara's donor (S3E20). | S3E8 | `Q-106` `WR-B8` | — | Purist | Unnamed by design |
 
 ## Caste
@@ -71,7 +71,7 @@ A way of existing (`WR-B1`). Every person has exactly one at any point.
 | **Purist** | A person in a whole body with no Grid and no Lens. | S1E11 | `FAC-02` | Natural Purist. Grid insult: Glacial, Lag-Brain. | Mortal, unrushed, can conceive and carry | No Lens and no UI in their POV (`WR-L2`). Ages and forgets. |
 | **Shadow** | A mind on the Grid with its body in a capsule. | S1E6 | `WLD-08` [[the-shadow-entity]] | "tethered" | A Quickened body in a capsule | Can't leave its node for long. Earth capsules hold any tier; fleet stasis holds Tier 0–1, rarely Tier 2. Attends Tier 0 by telepresence or leased proxy only. |
 | **Digital agent** | A made mind that was never a person: Teddy, Decimus. | S1E2 | `Q-71` `WR-B1` | — | Its makers | No rights of a person |
-| **Woken (caste)** | A Ghost woken into a ramp-grown body, which is Quickened like every Grid body. | S4E18 | `Q-71` `Q-124` [[the-quickening]] | woken colonist; was "Quickened (caste)" | A ramp slot | About a decade of flesh |
+| **Woken (caste)** | A Ghost woken into a ramp-grown body, which is Quickened like every Grid body. | writers' room until S5 (ramp bodies stilled to landfall, `Q-118`); their Quickened nature is S4E18's reveal | `Q-71` `Q-124` [[the-quickening]] | woken colonist; was "Quickened (caste)" | A ramp slot | About a decade of flesh |
 
 ## Group
 A faction or institution.
@@ -91,7 +91,7 @@ A faction or institution.
 | **The Natural Purists** | The people who refuse the Grid and live and die unmodified at Tier 0. | S1E11 by name; as a people S1E18 | `FAC-02` | the Purists. See Caste: Purist. | To live and die unmodified | Mortality is what gives a life meaning |
 | **The Intercessors** | Hope's clerical guards, in vestments, carrying staffs. Gentle, and in total control of an inmate's time. | S1E11 | `FAC-03` | — | To bring each Penitent to reckoning | Patience is mercy |
 | **Penitents** | Hope's inmates, forced or voluntary, on no fixed sentence. | S2E15; **HELD** in S1 | `FAC-03` | Inmates. See Seekers. | Release | Not a faction; no argument of its own |
-| **The Seekers** | Volunteers who check into Hope to detox their values. | bible only so far | `FAC-03` · `WLD-12` | Voluntary Cloistering | To reset their compass | The outer Grid's positivity is unbearable |
+| **The Seekers** | Volunteers who check into Hope to detox their values. | S1E11–13 (Raul, the word unspoken) | `FAC-03` · `WLD-12` · `Q-09` (Raul, S1E11–13) | Voluntary Cloistering | To reset their compass | The outer Grid's positivity is unbearable |
 | **The Substrate Olympics** | The Games, split by substrate physics into two brackets. | reel: The Substrate Paradox (unslotted) | `WLD-21` [[the-substrate-olympics]] | Substrate Olympic Games, the Games | A fair contest across speeds | A shared race is impossible without a shared clock |
 | **The Unlisted** | The alien antagonists. Never shown in S4: only a beacon's voice and one log line (`WR-R2`). Nature, number and intent are held. | word from S4E10; **HELD**, as beings from S5 | `FAC-06` · `Q-30` | Same word as the sensor slang (see Slang; `WR-N2` logged). | Undefined (logged) | Undefined (logged) |
 | **The Virtuous** | The people raised in the virtuous principles: in effect, everyone on the Grid and aboard the fleet. | S1E3a | `WLD-25` [[the-virtuous]] | Same word as the creed (logged). | To break negative loops | You are at fault for staying in a loop, and nobody leads without proof |
@@ -247,7 +247,7 @@ Something that happens to people.
 | **Physical Lockdown** | The real half of a Velocity-Brake: Intercessors reach the capsule and lock the body. | reel: The Locked Block (standalone, `Q-76/77`); S2E15 shows one welded door | `MAG-24` | — | A CVP flag | Neural stasis |
 | **Policy Update** | A lesson harvested from a Penitent's ledger, shipped to the whole law. | reel: The Locked Block (standalone, `Q-76/77`); S2E15 shows one welded door | `MAG-25` | — | A Proven-in-Use release | Needs the inmate's data |
 | **Progressive Digitalization** | A body's organic share falling through waypoints: Raul 100→70→30→0; Adam 90→60→30→~0; Kai the same as Raul in a night (`WR-B3`). | S1E10 | `MAG-15` [[progressive-digitalization]] | body clock, Organic-to-Synthetic Ratio | Damage, wear or purchase | Flesh, and the tissue that could forget |
-| **The Quickening** | Capsules force a body's growth to keep up with its mind. Everyone on the Grid is Quickened. | effect S1E6; the word is unassigned (logged) | `MAG-34` [[the-quickening]] | Quickened. Slang: the Quick, the Hurried. | Capsule birth | Short-lived (about ten real years), worn, a hollow cache, growing pains, barren |
+| **The Quickening** | Capsules force a body's growth to keep up with its mind. Everyone on the Grid is Quickened. | effect S1E6; the word from S4E18, the manifest's line (`Q-124`) | `MAG-34` [[the-quickening]] | Quickened. Slang: the Quick, the Hurried. | Capsule birth | Short-lived (about ten real years), worn, a hollow cache, growing pains, barren |
 | **The ramp** | The fleet's late-voyage growing of bodies for crossing minds. | S4E4 | `WLD-23` | synthesis ramp | Destination resources confirmed | Chemistry; ramp bodies are Quickened (sealed) |
 | **Deep stasis** | Fleet storage that pauses a body's clock until it wakes. | S4E2 | `Q-52` [[the-stasis-economy]] | stasis | A bay and a chemistry line | A trickle of chemistry; the decade starts on waking |
 | **Packing** | Preparing a mind to be beamed. | S4E15 | `Q-50` [[the-cyborg-slip]] | pack the self | Time, or the Apex | Short of time, only a Ghost can finish |
@@ -284,7 +284,7 @@ A law of the world or of society.
 | **Dynamic Environmental Legislation** | Law enacted automatically from measured damage to a region. | S2E11; **HELD** in S1 | `WLD-11` | — | The Distributed President |
 | **Encrypted Block Paradox** | A locked block in living tissue can't be read without destroying the brain, so the inmate can never be released. | reel: The Locked Block (standalone, `Q-76/77`); S2E15 shows one welded door | `MAG-25` [[the-encrypted-block-paradox]] | sovereign lock, the locked block, tissue lock (set by a body; answers only to tissue, `Q-67`, `Q-110`) | The President's own safety core |
 | **The Fluid Code** | A law weighs intent and environment, not the bare act. | S2E11; **HELD** in S1 | `MAG-18` | — | The CVP |
-| **Full Disclosure** | The norm that a citizen's record and intent are open to the network (`WR-S5`). At death, Read-Keys are broadcast and the Identity Key is wiped. | S2E13; **HELD** in S1 | `MAG-11` [[the-personal-blockchain]] | Full Disclosure Clause. Pages call it opt-in (logged). | The Personal Blockchain and the CVP |
+| **Full Disclosure** | The norm that a citizen's record and intent are open to the network (`WR-S5`). At death, Read-Keys are broadcast and the Identity Key is wiped. | S2E13; **HELD** in S1 | `MAG-11` [[the-personal-blockchain]] | Full Disclosure Clause. Default with an opt-out (`Q-124`). | The Personal Blockchain and the CVP |
 | **Glacial Stutter** | The taboo against speaking across tiers without a buffer. | **HELD** to S3 reserve | `WLD-20` [[cultural-taboos]] | — | Social disgust |
 | **Golden Baseline** | The default in-grid look: late 20s, flawless, ageless. | seen S1E1; the name is bible only | `WLD-22` [[the-ageless-default]] | Ageless Default | The Distributed President |
 | **Intention-in-Context Law** | Law coded as principles plus their intent and context. Verified live, with no police and no retroactive trials (`WR-S4`). | S2E12; **HELD** in S1 | `MAG-18` [[intention-in-context-law]] | the Law, law database | The CVP |
@@ -387,8 +387,11 @@ Something seen in the Lens.
 | **Key: tissue** | The lock tag on Mara's clip. | S3E13 | `Q-67` | — | Only her body opens it |
 | **Requires 1 : all** | What the author-seat asks. | S3E15 | `WR-S2` | — | No rating can meet it |
 | **Treatable · donor required** | Mara's illness, read in Raul's Lens. | S3E16 | `WR-B8` `Q-106` | — | The cure's price, again |
-| **Outbound · 4.4 ly** | A packet leaving at Mara's death. | S3E20 | `Q-112` · a-ha #12 | — | Unexplained |
+| **Outbound · 4.4 ly** | A packet leaving at Mara's death. | S3E20 | `Q-112` `Q-125` · a-ha #12 | — | Unexplained on screen; bible: the god's remainder |
 | **Slip: none** | Rafe's own record: he left his body by beam and never felt the itch. | S3E16 | a-ha #14 · `WR-B7` | — | Pays S1E15's *Body: none* and S2E18's third glyph |
+| **VESPER · Tier 0** | Vesper's tag in Raul's Lens at the fire: she has slowed to his clock. | S3E14 | `Q-121` · a-ha #15 | — | Raul's Lens | No line spoken |
+| **DORMANT UNTIL WINDOW CLOSES / VALIDATE 1:10 NOW** | Decimus's bay-board prompts. | S4E9a | `MAG-32` [[decimus]] | — | The bay board | — |
+| **"help" square** | The beacon's one legible word, in the bottom square. | S4E9 | `MAG-31` [[the-lure-beacon]] | — | The array feed | The lure's hook |
 
 ## Slang
 Words characters use. These are the only permitted synonyms (`WR-N2`).
@@ -523,6 +526,7 @@ Words that must not reach a new script or blueprint. Each points to the current 
 | **Ghost Brokers** | Clock Brokers | They are Shadows, not Ghosts; renamed 2026-11-03 (`Q-69`) | Pages, reels |
 | **Pastor** | Intercessor | One rank word; collided with Patron (`Q-69`) | S1E11–13, reels |
 | **pod** | capsule; *surgical rigs* for the medical machines | One word for the body's tank (`Q-69`) | Everywhere |
+| **Quickened (as a caste)** | Woken | `Q-124`: "Quickened" means only the fast-grown body | `Q-71` text |
 | **Rushed body, rushed-body process** | The Quickening | Named 2026-11-02 | — |
 | **The S1–S2 mother "Ruth"** | Naomi | `Q-44` split | Hull Cut keeps one Ruth by design |
 | **Sea-gray palette, water and sail motif** | Doughnut color vectors, doughnut and arrow | `VIS-01..07` superseded | Registry legacy rows |

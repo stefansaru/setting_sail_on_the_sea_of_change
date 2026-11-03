@@ -30,13 +30,16 @@ INPUTS
 - REQUIREMENTS:    03-engine/craft/writing-requirements.md   (the GATE/SCORED spec + IDs)
 - CANON:           03-engine/craft/canon-registry.md         (source of truth for consistency)
 - CRAFT GUIDE:     03-engine/craft/fantasy-writing.md        (the §N rationale, read as needed)
+- WORLD RULES:     03-engine/craft/world-requirements.md     (WR-* gates + season tests; rank above CANON)
+- TERMS:           03-engine/craft/glossary.md               (one word per meaning; retired terms)
+- CADENCE:         03-engine/craft/revelation-cadence.md     (ledgers + reserve vaults)
 - PREVIOUS REPORT: {{path to the last AuditReport for this target, or "none"}}  (for trend)
 
 ═══════════════════════════════════════════════════════════════════════
 PHASE 0 — Setup
 - Capture AUDIT_START (wall-clock) now; it names the report file and headers it.
 - Read REQUIREMENTS, CANON, and the TARGET script in full. Read PREVIOUS REPORT if any.
-- Determine applicable layers: a single short runs STORY·CHAR·WORLD·THEME·SCENE·PAGE·CINE
+- Determine applicable layers: a single short runs STORY·CHAR·WORLD·THEME·SCENE·PAGE·CINE·DIAL
   (+ ANTH-01/02/03 consistency checks against CANON). "ANTHOLOGY" runs the full ANTH layer
   across all shorts plus a roll-up of each short's latest scorecard. Run CINE only when the
   TARGET carries visual intent (scene directions / shotlist / storyboard); skip with a note
@@ -68,7 +71,7 @@ Each perspective also writes its filled requirement rows + findings to a scratch
 (audit-reports/.audit_draft_P<n>.md) so nothing is lost to context compaction.
 
 PHASE 3 — Editor (synthesiser)
-Read all nine scratch files + the previous report. Produce:
+Read all eleven scratch files + the previous report. Produce:
 - SCORECARD: gates passed/applicable (+ list FAILs); the 1–5 rollup per layer
   (mean of that layer's scored items) and OVERALL (mean of rollups). Fill the
   writing-requirements.md scorecard block.
@@ -144,7 +147,7 @@ OUTPUT DISCIPLINE
 3. **✅ Resolved since last draft** — every previously-open item now fixed, one-line proof (omitted if no prior report). *Placed early so progress is visible first.*
 4. **Findings table** — all unique findings sorted P0→P3, columns: `# · Req id · Finding · Evidence · Severity · Disposition`.
 5. **Pre-flight inventory** — scene/POV/effects/claims list (verbatim).
-6. **Perspective findings** — one section per P1–P9: 3-sentence summary + its requirement statuses + findings.
+6. **Perspective findings** — one section per P1–P11: 3-sentence summary + its requirement statuses + findings.
 7. **Cross-cutting concerns** — issues raised by 2+ perspectives.
 8. **Trend** — per-layer ↑/↓/= vs the previous draft; are gates closing, scores rising?
 9. **Remediation clusters** — 4–8 self-contained, paste-ready prompts, each tagged AUTO/CLARIFY/OWNER (+ execution order for AUTO), priority mix, effort S/M/L.
@@ -178,5 +181,5 @@ OUTPUT DISCIPLINE
   direction that **contradicts `VIS-*`** (palette, motif, light/motion grammar) — everything
   else (composition, wonder beats, VFX) is handed back as OWNER/CLARIFY. The CINE rationale
   lives in [[scifi-cinematography]].
-- **Keep AGENTS' rule:** the registry wins on contradictions unless you rule otherwise; the
+- **Keep AGENTS' rule:** precedence is dated rulings → world-requirements → registry → world pages → scripts; the
   loop only appends to it.

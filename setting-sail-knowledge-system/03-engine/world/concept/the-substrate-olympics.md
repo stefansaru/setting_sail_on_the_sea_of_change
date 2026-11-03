@@ -33,9 +33,9 @@ only). Sport became a public referendum on what a "body" even is.
 
 ## Rules / mechanics — the Tier-Reality Paradox
 The defining law of the Games: a champion of a [[velocity-tiers|Tier 1 (60×)]] or **Tier 2 (3,600×)**
-digital athletic tribe will **fail catastrophically** if they download into a biological body to compete
+digital athletic tribe will **fail catastrophically** if they download into a biological body (a flesh shell, `Q-87`) to compete
 in the **Tier 0 (1:1)** Mortal Baseline. The *advantage inverts.*
-- **The Neurological Desync.** Inside the Grid the champion's mind runs up to 60× faster than the
+- **The Neurological Desync.** Inside the Grid the champion's mind runs 60× to 3,600× faster than the
   physical world. Downloaded into flesh, consciousness perceives the race in **hyper-slow motion** — they
   see the finish line and map a perfect kinematic trajectory.
 - **The Biological Failure.** But motor nerves, lactic-acid build-up, muscle-fibre twitch speed and raw

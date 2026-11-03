@@ -62,7 +62,7 @@ organic dream.
   merit ([[velocity-tiers]]), not the skull.
 - **S-04** — *birth:* when a child's mind is generated in an incubator (Ep 2), a Tier-0 cloning vat
   **grows a matching biological body** in parallel; mind educated in-grid, body matured outside →
-  **born a true tethered Shadow.**
+  **born a true tethered Shadow.** *(Amended 2026-11-04, `Q-126`: the body is the IVF embryo grown in the capsule, rushed to keep up, not a vat clone; [[capsule-birth]], `FCT-012`.)*
 - **S-05** — *velocity credits* are temporary processing allocations (compress a project into a
   fraction of a second), **not** purchases of a permanent tier/class.
 - **S-10 / S-12** — closed at their home pages: the Identity-Key / Read-Key split

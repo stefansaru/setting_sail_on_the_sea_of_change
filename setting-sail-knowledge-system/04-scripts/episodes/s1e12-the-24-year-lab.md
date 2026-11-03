@@ -29,4 +29,4 @@ at it with exhausted triumph and grief: it will save her body by making it no lo
 *Canon: subjective clock (serene, [[velocity-tiers]]); Disruptive Algorithm + Chain-Check/Proven-in-Use
 ([[disruptive-algorithms]], [[compliance-validation-protocol]]); Sublime register. Sets up E13. Castes (`Q-87`):
 the Intercessor is a Ghost in a shell, visiting as an avatar at the sanctuary's Tier-0 clock (hence two hours to
-her twenty years); Kavana is a Purist by birth and, for these 2.4 Apex hours, a Shadow: body in Hope's clinic, mind at Tier 3, her one time on the Grid, the road Adam climbs in S2.*
+her twenty years); Kavana is a Purist by birth and, for these 2.4 Apex hours, a Shadow: body in Hope's clinic, mind at Tier 3, her one time on the Grid, the road Adam climbs in S2. Full Disclosure is the default; Kavana is one of the few who opt out, which is why the Intercessor presses her (`Q-124`).*

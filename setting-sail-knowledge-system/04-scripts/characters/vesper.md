@@ -23,7 +23,7 @@ time drifting lifetimes apart. Was "Maya" (renamed 2026-11-02).
 ## Caste
 - **S1:** a **Shadow** at Tier 2, her body in the capsule beside Raul's.
 - **Between S1 and S2:** her Quickened body fails (about ten real years is all a Grid body gets, `WR-B2`) and she
-  **goes Ghost** (`Q-92`). She keeps running at Tier 2.
+  **goes Ghost** (`Q-92`). She keeps running at Tier 2, in bursts, paused between them (`Q-121`).
 - **S2E7:** a **Ghost**. Both capsules are empty, still tagged **VESPER** and **RAUL** (Raul's body died in S1E17).
 
 ## Arc
@@ -34,7 +34,7 @@ time drifting lifetimes apart. Was "Maya" (renamed 2026-11-02).
   lifetimes from the man she loved**; **Adam** crosses her path. On her old capsule feed the two capsules sit
   inches apart, both empty, tagged VESPER and RAUL (a-ha #15, payoff). Seduction: belonging; cost: it's an
   illusion of closeness.
-- **S3:** the reunion with **Raul**, now a Ghost in a shell among the Purists at Tier 0: in S3E14 she arrives in a leased shell at the fire, slowed to his clock, and says nothing (`Q-121`).
+- **S3:** the reunion with **Raul**, now a Ghost in a shell among the Purists at Tier 0: in S3E14 she arrives in a leased shell at the fire, tagged `VESPER · Tier 0` in his Lens, slowed to his clock, and says nothing (`Q-121`).
 
 ## Want · Fear · Lie · Truth
 - **Want:** closeness. **Lie:** that being *near* is the same as being *with.* **Truth:** simultaneity, not
@@ -49,7 +49,7 @@ S1E6 and S1E17 (her capsule only, untagged); S2E7; S3E14 (the reunion).
 ## Open questions
 - ~~Whether she and Raul reunite~~ — S3E14 (`Q-121`). Her clock: she ran Tier 2 only in bursts and paused between them, so her "lifetimes" are a few, not thousands (`Q-121`).
 - Her clock since S1 in subjective years: "lifetimes" on screen. At a steady Tier 2, eleven real years would be
-  about 40,000 years, so she must have paused between runs; the bible doesn't yet say how often.
+  about 40,000 years, so she paused between runs (`Q-121`); how often stays unsaid.
 
 ## Related
 - Canon: `CHR-05` in [[canon-registry]]. World: [[frequency-tribes]] · [[velocity-tiers]] · [[the-quickening]].

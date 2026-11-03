@@ -26,7 +26,7 @@ from hardcoded programming.
 - **Season 1 (lead) — the descent (Tier 3 → 0).** The child in the capsule (E1) → infant consciousness waking
   (E2) → child taught to chase the metric (E3, E3a–b, E4) → adult down-clocked out of his job (E5) → the **Shadow
   reveal** and the caste fault line (E6–9) → **the Cracking of the Sky** (E10: solar storm cooks his body,
-  first amputation, he becomes a cyborg) → witnesses Kavana's tragedy and **forks himself** for deep space
+  first amputation, he becomes a cyborg) → walks into Hope on his own, a voluntary Seeker (`Q-09`), and witnesses Kavana's tragedy and **forks himself** for deep space
   (E11–16) → **dies and becomes a Ghost**, snapping to the eidetic curse (E17) → steps onto the real surface
   among the Purists (E18–19) → **holds the mother's paradox** at the finale, his glyph at last solid (E20).
 - **Season 2 (guide).** A 0%-organic **Ghost in a shell**, embedded with the Purists, mentoring **Adam** as
@@ -38,7 +38,7 @@ from hardcoded programming.
 ## Body-clock & glyph
 - **Body (S1):** 100% organic (Act I) → **70%** (E10 amputation) → **30%** (E14 neural-synthetic upgrade) →
   **0% Ghost** (E17 death). See [[progressive-digitalization]].
-- **Caste (`WR-B1`):** Shadow (E1–E9) → cyborg (E10, at Tier 0 from here, `Q-46`) → Ghost (E17) → Ghost in a shell
+- **Caste (`WR-B1`):** Shadow (E1–E9) → cyborg (E10, at Tier 0 from here, `Q-46`, save about four real days at Tier 1 in his Earth capsule to pack for the E14 beam, `Q-124`) → Ghost (E17) → Ghost in a shell
   (E18). At Tier 0 he attends real places by **leased proxy** (E7, E8, E11–13, E14, E17; `Q-86`); the proxy he dies
   in at E17 is the shell he walks out in at E18.
 - **Body clock (real time):** about 20 real hours at E3a–b (he is 8 inside); 14 weeks at E6 under 34 lived years;

@@ -39,7 +39,7 @@ hard-coded at the top and bottom edges; the central 9:16 real estate is the cine
   icons **pulse** to show the active internal alignment vector deployed in the current context.
 - **Custom Lenses.** Every citizen's avatar has customizable lenses, and the audience views the
   episode *through* them — so **different characters facing the same scene show completely different
-  top/bottom UI**. The format renders the Doughnut Principle directly.
+  top/bottom UI**. The format renders the Doughnut Principle directly. **No Lens, no UI (`WR-L2`):** Purist POV has no bars; Raul's Lens goes off in S1E19 and back on in E20, with alignment off (`Q-119`); Mara never wears one (`Q-101`).
 
 ## In the world / look
 Diegetic, always-on chrome (`VIS-08`): circles read as soft loops, squares as sharp directives —

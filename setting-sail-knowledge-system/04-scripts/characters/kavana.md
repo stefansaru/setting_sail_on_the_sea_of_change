@@ -33,7 +33,7 @@ Ministry of Hope's desperate bargain.
   and that chrome is the boy's implants. S2E3 shows the credit, `KAVANA · PUBLIC` (#9 reminder; #10: she published);
   S2E12–13 set her honest chain beside Vance's (#10 payoff); Adam's lab is built on it in S2E16 (#9 payoff).
 
-**Caste (`WR-B1`):** Purist → Shadow (Apex, E11–13) → cyborg, 8% organic (E13). Her one time on the Grid is the Apex, paid by Hope
+**Caste (`WR-B1`):** Purist → Shadow (Apex hours, E12–13) → cyborg, 8% organic (E13). Her one time on the Grid is the Apex, paid by Hope
 (`WR-T5`); she leaves it with about 21.5 hours left, which the surgical rigs spend building her body (`Q-80`).
 
 ## Want · Fear · Lie · Truth

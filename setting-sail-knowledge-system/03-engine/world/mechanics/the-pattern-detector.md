@@ -23,7 +23,7 @@ on their behalf and carry it out, aligning the act with [[the-virtuous|the Virtu
 - **Always-on is expensive.** Continuous analysis of a person's connections costs real compute. *"We can't do
   this for everyone all the time."* Teddy asks for it as a special measure.
 - **The on-demand trigger.** The cheap version wakes only when stress is high. Officials call it a **cortisol
-  trigger**, but real cortisol peaks 20–30 real minutes after a stressor, about 20 subjective hours at Tier 1.
+  trigger**, but real cortisol peaks 20–30 real minutes after a stressor, about 50 subjective days at Tier 2, where the trigger is installed (S1E3b).
   So the trigger actually reads a fast **stress marker over the [[the-shadow-entity|tether]]**. "Cortisol" is
   just what people call it.
 - **The Ghost gap.** No body means no tether and no trigger. A [[the-ghost-entity|Ghost]] gets the detector

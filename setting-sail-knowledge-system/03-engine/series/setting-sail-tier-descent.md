@@ -110,7 +110,7 @@ Organic-to-Synthetic countdown in their stasis capsule. The descent of the *mind
 cyborg at Tier 0, Intercessors Ghosts in shells; a shell may be flesh (the Substrate Paradox Champion). Each script
 header or note states its roles' castes.*
 
-*After Ep 10 Raul runs at **Tier 0**, like most cyborgs ([[velocity-tiers]]), which is how he can wait years for
+*After Ep 10 Raul runs at **Tier 0**, like most cyborgs, except about four real days at Tier 1 to pack for E14's beam (`Q-124`) ([[velocity-tiers]]), which is how he can wait years for
 the clone's reply (E14→E16). Real-time reference: [[the-quickening]]. On the series clock (T = real years after
 E14, table in [[the-seed-fleet]]): E1–E3b fall in the first day of his body, E14 is T = 0, E16 about T+8.2, E17 about
 T+8.5, E18–20 about T+8.5–8.6 (Adam about 8).*
@@ -184,8 +184,7 @@ TikTok/YouTube retention curve.
 ### Act III — The Ledger Paradoxes (Ep 11–15) · *high-stakes identity (Phase C)*
 *Middle-arc location: **[[the-ministry-of-hope|the Ministry of Hope]]** — the church-prison introduced
 after the Ep 10 crisis. The 1%-trial strand (Ep 11–13) happens in its [[the-medical-sanctuary|Medical
-Sanctuary]]; whether the protagonist is **sentenced there** (rehab), checks in as a **Seeker**, or only
-visits: he comes as a voluntary Seeker (`Q-09`). S1 keeps only the Sanctuary-Void look (`VIS-14`); Parish Metrics are held to S2E15.*
+Sanctuary]]; the protagonist walks in on his own as a voluntary **Seeker** (`Q-09`), with no sentence. S1 keeps only the Sanctuary-Void look (`VIS-14`); Parish Metrics are held to S2E15.*
 11. **The 1% Fault Line** — *Tier 0 · [[the-medical-sanctuary|Hope's Medical Sanctuary]].* A side
     character takes Hope's desperate bargain — an experimental DNA-telomere rewrite — and hits the
     catastrophic **1% failure**: 24 hours to live. *UI:* clinical high-contrast under the Sanctuary-Void

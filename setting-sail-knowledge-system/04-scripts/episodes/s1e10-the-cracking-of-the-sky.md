@@ -27,4 +27,4 @@ seam** now, and won't unsee it. He flexes a new chrome hand where flesh used to 
 **fractured**; the Pain circle pulses, permanent.] *He is 70% organic, and awake.* Cut to black.
 
 *Canon: solar-storm payoff (E9); first amputation → **70%** ([[progressive-digitalization]]); the **glyph
-fractures** (`Q-12`); Pain circle + diagnostic widget; Phase A→B turn. The keystone. After this Raul runs at Tier 0, like most cyborgs (`Q-46`). Castes (`Q-87`): the screaming citizens are Shadows.*
+fractures** (`Q-12`); Pain circle + diagnostic widget; Phase A→B turn. The keystone. After this Raul runs at Tier 0, like most cyborgs (`Q-46`), save four real days at Tier 1 to pack for E14 (`Q-124`). Castes (`Q-87`): the screaming citizens are Shadows.*

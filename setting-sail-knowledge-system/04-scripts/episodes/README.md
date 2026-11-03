@@ -20,7 +20,7 @@ scripts** live here; this file is the **index**.
   Latest pass: `audit-reports/AuditReport_s1-revelation-cadence_20260605` — **PASS** (one OWNER item: E12).
 
 > **Season 1 status: 22 scripts, all full drafts (✅): E1–20 plus lettered E3a–b (`Q-39`).** Open items are author calls
-> (Raul comes to Hope as a voluntary Seeker, `Q-09`), not gaps.
+> (`Q-09` settled 2026-11-04: Raul comes to Hope as a voluntary Seeker), not gaps.
 
 ## Act I — The Accelerated Utopias (Phase A) · Raul **100% organic**
 | Ep | Title | Tier | ✓ | File |
@@ -84,4 +84,4 @@ scripts** live here; this file is the **index**.
 **22 / 22 full S1 scripts drafted (E1–20 plus lettered E3a–b); last audit: the 2026-11-03 fix-and-audit round
 (rulings `Q-85`–`Q-89` applied: E1 birth grant; E14/E17 by leased proxy; minor castes in every header; the E6/E17
 capsule and the E20 KAVANA vial; three standalones retimed). Every S1 reel now carries hook / context / friction /
-turn timecodes except E1 (`Q-75`).** Next passes: slot the standalones (`Q-11`), then a per-episode line-polish + shotlist before render.
+turn timecodes except E1 (`Q-75`).** Next pass: a per-episode line-polish + shotlist before render.

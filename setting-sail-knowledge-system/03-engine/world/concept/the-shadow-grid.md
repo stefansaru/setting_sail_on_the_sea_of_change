@@ -29,7 +29,7 @@ run at different clock rates across the [[velocity-tiers]].
   is what makes the [[the-cosmic-clone-paradox|biological tether risk]] and the [[the-cyborg-slip]]
   possible, and gates memory fidelity ([[the-memory-substrate]]).
 - **Birth & tethering.** A new citizen is *both* generated and grown: the mind is cultivated in a
-  dilated incubator sim while a **Tier-0 cloning vat grows a matching biological body** in parallel —
+  dilated incubator sim while a **capsule grows the IVF embryo's body, rushed to keep up** ([[capsule-birth]], `FCT-012`; [[the-quickening]]) in parallel —
   so a child is **born a true tethered [[the-shadow-entity|Shadow]]** (resolves audit S-04).
 - **Heat is the limit.** Tier-dilation generates massive heat, managed entirely by the cosmic and
   subterranean geography of the [[the-shadow-grid-cooling|cooling architecture]].

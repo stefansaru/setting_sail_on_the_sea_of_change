@@ -67,7 +67,7 @@ T is real years from Raul's beam in S1E14. Cruise is about 10% of light speed, t
 | S3E1, Rafe's Earth copy woken (E2) | ~+20.5 | | Paused about 12 years; Ruth and Adam about 20 |
 | S3E10, Mara born | ~+21.5 | | Ruth about 21 |
 | S3E20, Mara dies; `Outbound · 4.4 ly`; Rafe's Earth copy branches | ~+38.5 | | Mara about 17; Ruth and Adam about 38 |
-| News of Mara's death reaches the colony | ~+43 | 4.4 ly | About 33 years after landfall (a-ha #12; S5 must span it or jump). The `Outbound` beam is the standing reserve's claim |
+| News of Mara's death reaches the colony | ~+43 | 4.4 ly | About 33 years after landfall (a-ha #12; S5 must span it or jump). The `Outbound` packet carries the god's remainder to claim the reserve slot (`Q-125`) |
 
 So Hull Four's strike happens *before* S1 ends, and Earth learns of it in S1E16, inside Rafe's reply copy (S1E15: "the night the Station is holed"). A
 Base Shadow lives only a few subjective years of the crossing, by roster. The High Clock stands short watches: a
@@ -86,7 +86,7 @@ The hull makes every world rule *heavy*: a tier costs watts, a body costs mass, 
 
 ## Open questions
 - *(Resolved as author leans, 2026-10-12:)* **seven** numbered hulls (`Q-32`); this **is** the Alpha Centauri
-  expedition (`PLC-07`, `Q-28`); **in flight through S1, landed before S2**, Earth's news arriving by beam years late (`Q-29`).
+  expedition (`PLC-07`, `Q-28`); **in flight through S1, landed before S2**, Earth's news arriving by beam years late (`Q-29`, overridden by `Q-52`: landfall about ten years before S2E20).
 - Whether the numbered hulls ever earn names in the scripts.
 
 ## Related

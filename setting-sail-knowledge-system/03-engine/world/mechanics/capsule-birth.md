@@ -17,7 +17,7 @@ updated: 2026-06-07
 ## Concept
 In this world, **conception and birth are real-world, physical, clinical events; *life* — experience,
 learning, identity — begins in the simulation.** To be *born* is to be placed in the capsule and connected;
-to *live* is to wake in the Tier-3 sim. There is no "alive but unborn" limbo: the capsule is the cradle, and
+to *live* is to wake in the Tier-2 nursery (S1E2; E1's Tier-3 preserve is the parents' birth grant, `Q-85`, `FCT-013`). There is no "alive but unborn" limbo: the capsule is the cradle, and
 crossing into it is the birth. (This is the rule the S1E1 dialogue turns on — *"And our baby… it's born?" /
 "Yes. Inside the capsule. Safe, warm, learning."*)
 
@@ -27,8 +27,8 @@ crossing into it is the birth. (This is the rule the S1E1 dialogue turns on — 
 - **Birth (real world).** The fetus is placed into a real-world clinical **capsule** (the same class of
   stasis bay the parents occupy, `FCT-009`) and **connected to the [[the-shadow-grid|Grid]]**. *This
   placement is the birth* — a physical, real-world act (`FCT-012`).
-- **First life (in-sim).** The newborn's mind boots inside the simulation at the most dilated tier
-  ([[velocity-tiers|Tier 3]]) — *"safe, warm, learning"* (`FCT-010`) — guided from the first moment by the AI
+- **First life (in-sim).** The newborn's mind boots inside the simulation in the nursery tier
+  ([[velocity-tiers|Tier 2]], `FCT-013`) — *"safe, warm, learning"* (`FCT-010`) — guided from the first moment by the AI
   Guide / Teddy Bear ([[the-perspective-lens-ui]], `FCT-011`). The body rests in the capsule; the self grows
   on the Grid.
 - **Quickened.** The capsule forces the body's growth to keep up with the mind, and the cost is real
@@ -58,6 +58,6 @@ a Shadow** (S1E1–2) and spends the season learning what the capsule cost.
 
 ## Related
 - Facts: `FCT-009` (parents in capsules) · `FCT-010` (the child in the capsule, in-sim) · `FCT-012` (the
-  birth model). [[the-shadow-entity]] — born a Shadow · [[velocity-tiers]] — born at Tier 3 ·
+  birth model). [[the-shadow-entity]] — born a Shadow · [[velocity-tiers]] — born into the Tier-2 nursery ·
   [[parallel-pedagogy]] — what childhood becomes after birth.
 - Canon: `MAG-28` in [[canon-registry]].

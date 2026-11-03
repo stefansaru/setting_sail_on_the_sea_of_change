@@ -187,7 +187,7 @@ one major reveal per reel ([[revelation-cadence]]); the aliens are **never shown
 4. **The Ramp** — *Hull Four's synthesis bay, Kai by proxy.* The star is brighter; the first new bodies are being **grown** for
    voyage-long Ghosts ([[capsule-birth]]). Kai meets a Ghost waiting to *wake into flesh*. She is Rafe's partner, unnamed here (a-ha #6). The promise of
    the voyage, made visible. On the fleet-wide ramp board, one embryo slot on Hull One reads only **RESERVED**: a
-   standing reserve with no name on it, kept for a claim not yet made (`Q-112`; plants a-ha #12). Nobody in the bay
+   standing reserve with no name on it, kept for a claim not yet made (`Q-112`; a-ha #12, after S3E20's `Outbound · 4.4 ly`). Nobody in the bay
    looks twice. *UI:* a new Intention square — **"arrive."**
 5. **The High Clock** — *the Apex, glimpsed.* Kai is sent up one tier, to Tier 1, to deliver a fault report and sees,
    for a moment, the council that runs everything — an afternoon of theirs passes in about ten of Kai's seconds. They are
@@ -265,7 +265,7 @@ one major reveal per reel ([[revelation-cadence]]); the aliens are **never shown
     someone with a body, and a Ghost's hand passes through it (`Q-110`). It is filed against Hull One's RESERVED
     slot from E4 (a-ha #12 reminder). Viewers who saw the welded door (S2E15) and the un-run clip (S3E13, E19)
     know what kind of hand opens such a lock (`Q-67`); nobody says whose. *(Writers' room, `Q-119`: the President's, set
-    while she still had her body at launch; the slot holds a copy of her genome.)* Its content is the vault's "clause behind
+    while she still had her body at launch; the slot holds a copy of her genome, and S3E20's packet, her remainder, is bound for it, `Q-125`.)* Its content is the vault's "clause behind
     the clause", paid in S5. *UI:* the Albers law-chamber archways, nested, with the base's tiny frame at the centre.
 19. **Sensor Fault** — *the fleet's shared array, still on Rafe's ration.* Kai pulls Hull Four's last log at Apex
     speed and reads what no one at the base could have read. What came through the window was a grain of natural
@@ -353,7 +353,7 @@ Audit each drafted S4 script with [`../prompts/audit-script.md`](../prompts/audi
 compressed but in the canonical four waypoints; the **disc-and-bore glyph** as the `VIS-12` motif; the
 **9:16 UI** (`VIS-08`); the **rendering style** (`VIS-13`); the palettes (`VIS-15`: Turrell for the Apex,
 Flavin for the server decks, Rothko for the hit, Albers for the manifest, Caravaggio for the lifeboat bays).
-`Q-` state (2026-11-03): **Resolved** — `Q-26` title · `Q-30` heard only · `Q-35` Teo · `Q-27` Kai · `Q-34` Teo · `Q-109` Rafe pays E18–20 · `Q-110` tissue
+`Q-` state (2026-11-04): **Resolved** — `Q-26` title · `Q-30` heard only · `Q-35` Teo · `Q-27` Kai · `Q-34` Teo · `Q-109` Rafe pays E18–20 · `Q-110` tissue
 lock · `Q-111` correlation only · `Q-112` standing reserve. **Resolved as author leans** — `Q-28` Centauri (yes) ·
 `Q-29` in flight through S1, landed before S2 · `Q-31` Branch (a second Kai runs on) · `Q-32` seven numbered hulls + the
 screen · `Q-33` Part 2 = S5.

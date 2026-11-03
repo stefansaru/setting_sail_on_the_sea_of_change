@@ -30,7 +30,7 @@ texture, even what another person is *wearing*) is rendered locally and is **non
         +--------+--------+
         |                 |
         v                 v
-  [ RAUL'S VIEW ]   [ VANCE'S VIEW ]
+  [ RAUL'S VIEW ]   [PARTNER'S VIEW]
   - Josef Albers    - Mark Rothko
   - Rigid lines     - Bleeding color
   - Logic focus     - Emotion focus

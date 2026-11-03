@@ -43,7 +43,7 @@ drawn in Raul's; the President speaks to the village through **Raul's shell**.
   planted by S3E20's `Outbound · 4.4 ly`, sealed in S4E4, reminded S4E18, paid S5. *Bible (`Q-119`):* the President
   still had her body at the fleet's launch, about T−36. With that hand she set the clause's tissue lock (`Q-110`,
   `Q-118`) and stored a copy of her genome in the slot, the same genome S3's child is cloned from. The beam leaves at
-  her death (≈ T+38.5) and lands about T+43. S4 never says her name.
+  her death (≈ T+38.5) and lands about T+43. S4 never says her name. The beam carries the god's remainder, the quiet shard that never dissolved, packed and paid on her own Apex (`WR-M5`, `WR-T5`); landing on her stored genome, the god could be born a second time on the colony, S5's threat (`Q-125`).
 
 ## Body-clock & glyph
 - **Body (S3):** **0% → 100% organic** — the *incarnation*, the inverse of Raul's decay and Adam's purchase.
@@ -66,7 +66,7 @@ drawn in Raul's; the President speaks to the village through **Raul's shell**.
 A glimpse in S1 (E3b); deuteragonist (and the buried mystery) in S3.
 
 ## Open questions
-- ~~`Q-23`~~ Naomi (provisional), named by Ruth. ~~`Q-24`~~ freed: no one on Earth can hold the seat; the fleet's genome copy is S5's (`Q-120`).
+- ~~`Q-23`~~ Naomi (provisional), named by Ruth. ~~`Q-24`~~ freed: no one on Earth can hold the seat; the fleet's genome copy, and the remainder beamed to it, are S5's (`Q-120`, `Q-125`).
 
 ## Related
 - Canon: `CHR-01` in [[canon-registry]]. World: [[the-distributed-president]] · [[the-memory-substrate]].

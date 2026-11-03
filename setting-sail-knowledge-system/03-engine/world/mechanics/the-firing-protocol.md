@@ -54,7 +54,7 @@ The disc with the bore is the series' doughnut-and-arrow (`VIS-12`); the open wi
 
 ## Open questions
 - Exact window length and lock mechanics for the scripts (seconds vs minutes — the countdown's grammar).
-- Whether a firing can be *refused* from below (does the base have any veto?) — feeds `Q-30`.
+- Whether a firing can be *refused* from below (does the base have any veto?) — held for S5 (`Q-30`).
 
 ## Related
 - [[the-seed-fleet]] — the screen and the bore. [[the-sealed-manifest]] — "sensor fault."

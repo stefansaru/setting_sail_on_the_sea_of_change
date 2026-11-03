@@ -1,8 +1,7 @@
 # Series — *Intention in Context* · **ALT CUT: "The Braided Ledger"** *(S1–S4 intercut, 33 episodes)*
 
 > *(File slug `setting-sail-the-braided-ledger`. **An alternate cut, not a replacement.** The four canonical
-> seasons stay as they are, and so does the [[setting-sail-the-hull-ledger|Hull Cut]]. Display title
-> provisional, `Q-41`. **Status: DRAFT, 2026-11-01; `Q-114` applied 2026-11-03** (S1E15 moved to a cold open,
+> seasons stay as they are, and so does the [[setting-sail-the-hull-ledger|Hull Cut]]. A non-canon drawer (`Q-41`, 2026-11-04). **Status: DRAFT, 2026-11-01; `Q-114` applied 2026-11-03** (S1E15 moved to a cold open,
 > everything after it renumbered; Ep 7 and 8 of the old order swapped). No canon rows beyond those in [[the-virtuous-thread]].)*
 
 > **The thesis.** The Hull Cut merges by removing Earth. This one keeps Earth *and* the fleet and cuts between

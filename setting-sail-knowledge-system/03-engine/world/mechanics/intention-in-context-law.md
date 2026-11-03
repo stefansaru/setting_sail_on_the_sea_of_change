@@ -29,7 +29,7 @@ intention-in-context**, evaluated dynamically rather than applied rigidly.
   **cryptographic signature key.**
 - **The Legislative Chain.** Every optimization or patch is **permanently signed and logged** to a
   global governance blockchain ([[the-personal-blockchain|ledger]] family) — absolute transparency,
-  making **corruption mathematically impossible.**
+  making **corruption mathematically impossible**, the claim Vance's forged batch breaks (S2E14, `Q-90`).
 
 ## In the world
 Law is living code that good citizens *commit to*; the right to legislate is earned, not elected.

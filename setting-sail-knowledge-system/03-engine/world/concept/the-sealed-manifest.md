@@ -61,7 +61,7 @@ fleet scale.
 - Who else sits on the High Clock? [[the-centauri-clone|Rafe]] does, by default from S4E16 (`Q-28`, `Q-45`, `Q-64`);
   the rest of the council is open.
 - ~~Whose hand set the tissue lock, about 36 real years before S1E14?~~ **Bible (`Q-119`):** the President's, while
-  she still had her body at launch (`Q-67`, `Q-98`); the slot holds a copy of the genome S3's Mara is cloned from.
+  she still had her body at launch (`Q-67`, `Q-98`); the slot holds a copy of the genome S3's Mara is cloned from. S3E20's `Outbound` packet carries her remainder to it (`Q-125`).
   S4 never says Mara; S5 pays it.
 - ~~Discovered or expected?~~ Suspected: part of why the manifest is sealed (`Q-30`).
 - Would telling the base **why** to stay silent have stopped Teo? (The season's quiet indictment.)

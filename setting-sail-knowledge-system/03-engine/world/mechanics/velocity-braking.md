@@ -4,7 +4,7 @@ title: Velocity-Braking (The Spectacular Takedown)
 type: mechanics
 canon: MAG-24
 status: draft
-tags: [enforcement, security, takedown, velocity, pastors, crime]
+tags: [enforcement, security, takedown, velocity, intercessors, crime]
 related: [compliance-validation-protocol, velocity-tiers, the-ministry-of-hope, inter-tier-travel, tether-decay, the-clock-brokers]
 created: 2026-06-05
 updated: 2026-06-05
@@ -35,7 +35,7 @@ strike across both substrates so the biological host can't trigger an emergency 
 
 **Cost / limit.** The Brake is a brute, non-consensual override that inflicts real cognitive trauma —
 it is enforcement *as injury*, not arrest. It depends on knowing the host's physical location (the
-Intercessors must arrive in the flesh), so it can be defeated by truly un-locatable, fully-digital
+Intercessors must arrive in person, in their shells (`Q-87`)), so it can be defeated by truly un-locatable, fully-digital
 [[the-ghost-entity|Ghosts]] — and it can only fire once the CVP has already flagged the act.
 
 ## In the world / look

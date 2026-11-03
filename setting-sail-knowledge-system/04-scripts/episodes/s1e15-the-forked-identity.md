@@ -25,7 +25,7 @@ She calls him **Rafe** now; *Raul* was somebody else's name. He turns to her, aw
 original — now drawn in **different shapes.**] Cut to black. *(The choice is E16.)*
 
 *Canon: interstellar fork → branched personality ([[the-cosmic-clone-paradox]]); contradicting Intention
-squares. The clone is bodiless, a Ghost by beam; Earth-Raul is 30% organic. Sets up the E16 collision. Timing: lands T+3.9 real years; accident about T+4.2, four real months later, lived as years on rostered watches (Tier 2: a real day is about ten years), paid in Hull Four's watts (`WR-E1`), the budget the Open Window will spend. The sync request left Earth by about T+0.3.
+squares. The clone is bodiless, a Ghost by beam; Earth-Raul is 30% organic. Sets up the E16 collision. Timing: lands T+3.9 real years; the night the Station is holed, about T+4.2, four real months later, lived as years on rostered watches (Tier 2: a real day is about ten years), paid in Hull Four's watts (`WR-E1`), the budget the Open Window will spend. The sync request left Earth by about T+0.3.
 Writers' room only: "the Station" is **Hull Four**, and the night it is holed is S4E10, the Open Window (`Q-45`). Never state it in S1.
 Castes (`Q-87`): Rafe is a Ghost, bodiless by beam (`WR-B7`); his partner is a Ghost (the one waiting for a body
 in S4E4, a-ha #6). *Body: none* is a minor UI plant for a-ha #14: the first Raul without a body never felt the itch

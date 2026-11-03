@@ -125,11 +125,11 @@ own (see *Reserve Vault — S3*).
    *"Go home, Rafe"*).
 2. **The Sea Beneath** — *the oldest stratum.* Raul needs an engineer for a dive that reads at 1:1, and the only mind
    he trusts is his own: he wakes the paused file. **Rafe** returns (S2 vault spent), knowing nothing past the weeks
-   after the "station accident". They go down together to the founding layer, where a grey palette surfaces under the
+   after the night the Station was holed. They go down together to the founding layer, where a grey palette surfaces under the
    Doughnut world (legacy `VIS-01` re-cast as the deepest fossil layer) and one old logo, a sail on grey water, carries
    a single legible word: **SEA** (`WLD-01`, a wonder beat, unexplained). *UI:* the turn — Rafe's squares relight
    as S1E15 left them, *stay · build · love*, and the last one greys: `Recipient: 4.4 ly`. She is with the other one
-   (a-ha #6 plant, paid S4E4/E17).
+   (a-ha #6 reminder: plant S1E15, paid S4E4/E17).
 3. **The Cartographer's Trace** — *following the breadcrumbs.* Mara's traces surface and cohere
    (`FCT-001..008`, re-homed): a foghorn that is a recorded voice; an un-taggable photo; the `mara.c`
    account with **no score**. The god has a **name** and a **grief.** *UI:* the one object the Grid cannot
@@ -287,7 +287,7 @@ and their ledger logs no visit. *Recall cue (≤ 2 s):*
 The triptych is closing, but the world stays larger than the frame:
 - **What the released Grid *becomes*** once its founding grief is metabolized — a tool, or something new — is
   left to the audience (permanent).
-- **Whether the still-distributed President-remainder fully dissolves** at the finale, or a quiet shard persists.
+- **Where the President-remainder goes:** a quiet shard persists (`Q-125`).
   E20's `Outbound · 4.4 ly` keeps the question open while planting a-ha #12 (S4E4's sealed slot, S4E18, paid S5; `Q-112`).
   It leaves at about T+38.5 and lands on the colony about T+43, some 33 years after landfall. It carries the god's remainder, packed and paid on her own Apex, bound for the slot that holds her genome (`Q-125`); what it does there is S5's.
 
@@ -301,7 +301,7 @@ Audit each drafted S3 script with [`../prompts/audit-script.md`](../prompts/audi
 *inverted-inverted* valence: 0→100% organic), the **glyph** (god cold-complete → emptied → re-earned mortal),
 the **9:16 UI** (`VIS-08`; Mara never has a Lens, so every UI hook on her, E7 onward, is drawn in Raul's, `WR-L2`; the
 President speaks through Raul's shell and the clip reaches her on a physical screen, `Q-101`), and the **rendering style** (`VIS-13`) consistent (`ANTH-06`).
-Rulings applied 2026-11-03: `Q-53..Q-108` as they touch S3 (see the clock table, E1–E20). New `Q-`: `Q-20`
+Rulings applied 2026-11-03: `Q-53..Q-108`, `Q-117`, `Q-119..Q-121`, `Q-125` as they touch S3 (see the clock table, E1–E20). New `Q-`: `Q-20`
 S3 title · `Q-21` Raul-as-lead confirm · `Q-22` Rafe ally vs. rival · ~~`Q-23`~~ Naomi (provisional) · ~~`Q-24`~~ freed: no one on Earth can hold the seat; the fleet's genome copy is S5's (`Q-120`).
 
 ## Related

@@ -40,6 +40,8 @@ re-legislates, and an ordinary citizen's life is reorganized without a villain. 
 uncontrollable* (climate, the [[you-are-the-sailor-not-the-wind|Sea of Change]]) and only adjusts the
 response — the book's thesis as a constitution.
 
+**Held to S3 (`WR-R5`):** the President is a Ghost, Mara (`Q-01`, `Q-98`). She locked her memory in tissue while embodied (`Q-67`) and stored her genome on Hull One before launch (`Q-119`), and her remainder rides `Outbound` after S3E20 (`Q-125`).
+
 ## Open questions
 - Can citizens contest a President ruling, or only **patch the law** afterward via merit
   ([[intention-in-context-law]])? (Sets whether there's any appeal.)

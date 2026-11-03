@@ -62,10 +62,12 @@ World pages are checked under the **WORLD** layer (rules, consistency, lived-in 
 - [[the-shadow-entity]] (`WLD-08`) — tethered consciousness (body in stasis); Tether Sickness.
 - [[the-ghost-entity]] (`WLD-09`) — purely digital, ledger-only soul; free but key-fragile.
 - [[shells-with-ghosts-within]] (`WLD-10`) — leased physical hosts; the caste idiom & friction.
+- [[the-ageless-default]] (`WLD-22`) — ageless avatars; substrate dysmorphia.
+- [[the-sealed-manifest]] (`WLD-24`) — the High Clock's protective secrecy; the tissue-locked clause.
 - [[the-ministry-of-hope]] (`FAC-03`) — the church-prison; accountability + a grey-line hospital.
 - [[the-clock-brokers]] (`FAC-04`) — the overclocked criminal underclass; steal velocity credits to survive; Tether Sickness.
 - [[the-medical-sanctuary]] (`MAG-17`) — Hope's experimental trials (99% cyborg / 1% ghost).
-- [[the-distributed-president]] (`WLD-11`) — AI governance; law from real-time planetary status.
+- [[the-distributed-president]] (`WLD-11`) — governance; law from real-time planetary status.
 - [[the-post-labor-economy]] (`WLD-12`) — automation safety net: hospitality baseline OR Hope cloister.
 - [[societal-values]] (`WLD-13`) — **the thematic skeleton**: the values matrix (today→future), System 1→2.
 - [[the-memory-substrate]] (`WLD-14`) — **brain as lossy cache**: perfect recall in-grid, forgetting outside (closes S-01–05).
@@ -95,12 +97,18 @@ World pages are checked under the **WORLD** layer (rules, consistency, lived-in 
 - [[the-one-in-n-rule]] (`MAG-32`) — responsibility for N people requires passing a 1-in-N test; forks, ratings, ad-hoc succession.
 - [[the-quickening]] (`MAG-34`) — capsules rush the body to keep up; the side-effects of rushing; the S1 real-time chronology.
 - [[the-pattern-detector]] (`MAG-33`) — the Lens warning of a negative loop; the stress trigger; the alignment setting.
+- [[the-stasis-economy]] (`WLD-23`) — watts vs chemistry; the fleet pyramid; the ramp.
+- [[asymmetric-perspective]] (`MAG-27`) — shared coordinates, private renders.
+- [[capsule-birth]] (`MAG-28`) — IVF → capsule; birth into the Tier-2 nursery.
+- [[the-firing-protocol]] (`MAG-30`) — the open window.
 
 ### technology/
 - [[the-personal-blockchain]] (`MAG-11`) — consciousness ledger; Full Disclosure; Chain-Check.
 - [[the-cosmic-clone-paradox]] (`MAG-12`) — data-beaming; interstellar fork; Merge/Branch; tether risk.
 - [[the-perspective-lens-ui]] (`MAG-14`) — the **9:16 UI grammar**: Context circles / Intention squares; custom lenses.
 - [[flavor-scripts]] (`MAG-26`) — digital gastronomy: taste as a software packet; the room morphs color to the flavor.
+- [[the-seed-fleet]] (`MAG-29`) — seven hulls; the two-clock T table.
+- [[the-lure-beacon]] (`MAG-31`) — the false supernova.
 
 ### environment/
 - [[the-shadow-grid-cooling]] (`PLC-03/04/05`) — frozen lunar servers, the Mirror Constellation, terrestrial vaults.

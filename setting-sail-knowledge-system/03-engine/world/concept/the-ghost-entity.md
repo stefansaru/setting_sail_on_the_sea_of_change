@@ -21,7 +21,7 @@ exists exclusively as decentralized cryptographic data running across the
 ## Rules / mechanics
 - **Genesis (two ways):** a [[the-cyborg-slip|Cyborg's]] final organic cell dies (the "Slight Itch"
   transition), **or** a [[the-shadow-entity|Shadow's]] body is intentionally unplugged, severing the
-  tether for good.
+  tether for good, **or** a mind beamed with no body arrives as one (Rafe, `Q-45`).
 - **Liberation.** Free of physical decay, biological vulnerability, and geographic anchoring; a Ghost
   needs no body maintenance and can run at [[velocity-tiers|Tier 3]] **indefinitely** with no capsule to
   decay. *(Both castes can reach high tiers while connected — the Ghost's edge is needing no body, not
@@ -39,8 +39,7 @@ flesh behind them through a digital sky.
 
 ## Story role
 Freedom bought with absolute fragility — eternity that one corrupted key can erase. The climactic
-Phase-D choice of the [[setting-sail-tier-descent|voyage]] is whether to cross fully into a Ghost (a
-"[[shells-with-ghosts-within|Ghost in a Shell]]") to save an organic purist colony.
+Phase-D choice of the [[setting-sail-tier-descent|voyage]] is crossing fully into a Ghost (E17) and walking a Purist village in a "[[shells-with-ghosts-within|Ghost in a Shell]]" (E18–20), where nothing he can offer is wanted (`Q-86`, `Q-115`).
 
 ## Open questions
 - Is there any Ghost backup/escrow, or is key-loss always final? (Sets how lethal the threat model is.)

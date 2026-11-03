@@ -18,7 +18,7 @@ updated: 2026-06-05
 ## Concept
 The [[the-absolution-protocol|Absolution Protocol]] doesn't just punish — it **harvests**. When an
 inmate's [[the-personal-blockchain|ledger]] proves their infraction was an innovative necessity, the
-[[the-distributed-president|AI President]] extracts the lesson and ships a global **Policy Update** so
+[[the-distributed-president|President]] extracts the lesson and ships a global **Policy Update** so
 no one is punished for that context again (the **"Proven-in-Use" release**). The system *needs* the
 data. The Encrypted Block Paradox is the loophole that breaks this loop — the one place the omniscient
 state goes blind.
@@ -30,7 +30,7 @@ state goes blind.
   lesson, then permanently wipes the malicious entity. A Ghost is all data; the state can always read it.
 - **The biological loophole.** A tethered [[the-shadow-entity|Shadow]] can exercise a sovereign right
   to **permanently encrypt and lock a specific block** of their personal blockchain. Because the
-  living lesson resides in **disconnected human brain tissue**, the AI President **cannot extract it
+  living lesson resides in **disconnected human brain tissue**, the President **cannot extract it
   without destroying the brain** — which violates its own core safety parameters. So it can't.
 - **The standoff.** The locked block produces a three-way deadlock: (1) the AI can't pull the data;
   (2) the systemic exploit the inmate discovered remains an **open blindspot** in the global law; (3)
@@ -44,16 +44,13 @@ The Intercessors tend them with total empathy and zero power. It is the one room
 serene omniscience curdles into helplessness.
 
 ## Story role
-The hardest knot in the world's logic, and pure dramatic fuel. It hands **Vance** (`CHR-04`) a way to
-bury malicious code behind sovereign-encryption law where the AI President can't reach it
-([[intent-patch]]), and gives **Raul** a brutal legal-ethical maze: the only thing standing between an
-inmate and freedom is a key only they hold — and they'd rather rot than turn it. The classic scene: an
+The hardest knot in the world's logic, and pure dramatic fuel. It is the one door **Vance** (`CHR-04`) can't use: a Ghost has no tissue to lock, so his forgery hides in the un-indexed Graveyards instead (`Q-90`, `Q-116`). It gives S2E15 its welded door (`Q-77`) and the rule behind the President's tissue lock (`Q-67`), which S3 turns and S4's sealed clause repeats (`Q-110`). The classic scene: an
 investigator trying to convince a gaunt, un-synced biological smuggler to unencrypt their ledger before
 their failing body dies and seals the blindspot forever. It also answers the
 [[the-personal-blockchain|ledger]]'s open question — **sovereignty is absolute, and that is the horror.**
 
 ## Open questions
-- Does a locked block die *with* the body (the lesson lost forever), or does Full Disclosure on death
+- ~~Does a locked block die *with* the body~~ Yes for a tissue lock: the root key dies with Mara's tissue (`Q-67`, `Q-24`, `Q-117`). (the lesson lost forever), or does Full Disclosure on death
   override the lock? Sets whether the AI can simply outwait the mortal.
 - Is there a legal lever — a merit-holder challenge — that can compel a Read-Key without touching the
   tissue, or is the loophole truly closed?

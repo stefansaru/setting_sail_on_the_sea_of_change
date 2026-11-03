@@ -19,8 +19,7 @@ updated: 2026-11-03
 the kind worker is what the bear raised. A stasis
 [[the-shadow-entity|Shadow]] on **Hull Four**, Kai's bay-mate on the maintenance rota, younger in the
 voyage, never promoted a tier. The exact mind the [[the-lure-beacon|lure]] was built for: hopeful,
-under-informed, and told *what* but never *why*. *(`Q-35`: the author may fold this role into **Kai**, which
-would make Kai's E19 silence self-protection as well as mercy.)*
+under-informed, and told *what* but never *why*. *(`Q-35`, resolved 2026-11-04: Teo sends the burst; Kai's E19 silence is mercy.)*
 
 ## Arc
 - **Season 4.** Watches the "supernova" with the whole base (E6) → is moved to tears by *"we're just like

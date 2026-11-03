@@ -69,8 +69,7 @@ Mara's incarnation can then be read as the rating she owed: a fork into flesh, o
 
 ## Open questions
 - Must a branch consent, and who pays to keep it running on the way to the graveyard?
-- How a person takes the Validation in branches, given the human single run above. Draft reading, now relied on
-  by `Q-90`: a person who has gone digital (a Ghost) can branch; anyone still tied to a body gets one run.
+- ~~How a person takes the Validation in branches~~ **Resolved (`Q-116`):** Ghosts may batch; bodies get one run.
 - How harsh adult preparation may be.
 - Who sets each test, and can a test be *real life*? (Must the Grid credit Kavana's 1% survival?)
 

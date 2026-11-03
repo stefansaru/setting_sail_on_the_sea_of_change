@@ -31,7 +31,7 @@ to digital that this path produces.
   the dilated simulators and eventually **merge into the main Grid** — so the "purist physical"
   path quietly feeds the network anyway.
 
-- **The forced Slip (`Q-50`).** Any mind can be beamed given time, and Raul had it in S1E14. Packing a mind takes
+- **The forced Slip (`Q-50`).** Any mind can be beamed given time, and Raul had it in S1E14: about four real days at Tier 1 in his Earth capsule (`Q-124`). Packing a mind takes
   longer than a dying hull has left unless it runs at the Apex, and aboard the fleet only a Ghost reaches the
   Apex. So Kai has to finish the Slip first (S4E13–15). Packing takes about eight subjective months: four real days at Tier 1, under two hours at Tier 2, four minutes at the Apex.
   Hull Four has 81 hours, under three and a half days, so Tier 1 can't do it; Tier 2 is refused to a Shadow while

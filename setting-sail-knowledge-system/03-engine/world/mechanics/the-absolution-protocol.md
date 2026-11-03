@@ -43,7 +43,7 @@ cross/scales (emotional equilibrium) — the Parish Metrics of `VIS-14`.
 ## Story role
 Accountability *is* the lock and the key — there is no escaping yourself. The dramatic cruelty is the
 **patience**: time itself is the punishment, weaponized through dilation. A self-contained episode
-engine (a Penitent's reckoning) and a possible cage for the protagonist post-Ep 10 (`Q-09`).
+engine (a Penitent's reckoning) and the road Raul walks by choice after Ep 10, a voluntary Seeker (`Q-09`).
 
 **Recall as penance ([[the-memory-substrate]]).** Because an in-grid Penitent **cannot forget**, Hope
 denies them the mercy of time healing the wound — they relive their crime in eidetic 4K, indefinitely.

@@ -18,7 +18,7 @@ updated: 2026-06-05
 The high-tech crook of the [[the-shadow-grid]], living at **Tier 0 real-time** in the underclass.
 Clock Brokers are physically desperate, hollowed-out people who pay catastrophic biological costs to
 run crimes inside the higher [[velocity-tiers|velocity tiers]]. They are the human face of the world's
-crime tier — the opposite of [[intent-patch|Vance]]'s polished high-merit corruption: the same system's
+crime tier — the opposite of [[vance|Vance]]'s polished high-merit corruption: the same system's
 floor, where survival itself is illegal.
 
 ## Rules / mechanics — how they live and what it costs
@@ -30,7 +30,7 @@ floor, where survival itself is illegal.
   tremors, and dangerously low **TTD timers**. They are dying in the flesh to keep the avatar alive.
 - **The trade.** They harvest velocity credits from high-tier citizens and **manufacture black-market
   [[intent-patch|Intent-Patches]]** to mask systemic crimes from the watching
-  [[the-distributed-president|AI President]]. They are also the typical vector behind a
+  [[the-distributed-president|President]]. They are also the typical vector behind a
   [[chromatic-tears|Chromatic Tear]].
 - **Motive (the limit on sympathy/villainy).** Goals are rarely material — they steal to *survive*,
   which makes them tragic; but the theft accelerates *other* citizens' decay, which keeps them

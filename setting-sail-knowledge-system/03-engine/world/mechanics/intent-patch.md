@@ -20,8 +20,7 @@ physical act ([[intention-in-context-law]]), the system can be spoofed at the **
 under extreme optimization anxiety buy **Intent Patches** to do it.
 
 ## Rules / mechanics
-- **The supply.** Patches are manufactured and sold on the black market by the [[the-clock-brokers|Ghost
-  Brokers]] (the desperate end) and wielded with surgical polish by merit-holders like Vance (the elite end).
+- **The supply.** Patches are manufactured and sold on the black market by the [[the-clock-brokers|Clock Brokers]] (the desperate end) and wielded with surgical polish by merit-holders like Vance (the elite end).
 - **The hack.** Before an unauthorized transaction or malicious data-copy, the user runs a black-market
   script that hooks their [[the-perspective-lens-ui|Perspective Lens UI]] and forces the bottom
   **Intention Squares `[▢]`** to broadcast a mathematically flawless signature of **"Structural Balance"
@@ -42,8 +41,7 @@ trusts the *signal* of intention; the show insists on the *substance* — the [[
 be spoofed, only the metric can.
 
 ## Open questions
-- Does the AI President ever learn to detect Intent-Patches (an arms race), and can Raul expose Vance's
-  patched record as the season's climax?
+- Does the President ever learn to detect Intent-Patches (an arms race)? ~~Can Raul expose Vance's patched record?~~ Adam finds the forged batch in S2E14 (`Q-90`); Vance's keys carry a patch on Adam's own squares, E15–19 (`Q-96`).
 
 ## Related
 - [[compliance-validation-protocol]] — the system it defeats. · [[the-doughnut-principle]] — real intent

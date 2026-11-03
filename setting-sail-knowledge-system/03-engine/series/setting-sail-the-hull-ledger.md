@@ -178,7 +178,7 @@ Format per episode: **Setting · Plot · UI/Visual hook.** 4-beat template; one 
 ## Audit & consistency note
 Same canon, same rows, no new IDs. *(The 2026-11-02 split of Ruth/Naomi, `Q-44`, is not applied here: this cut
 keeps one Ruth, alive at the end. Fleet decisions in `Q-46`, `Q-50..52`, `Q-55`, `Q-56`, `Q-62`, `Q-63`, `Q-66`,
-`Q-69`, `Q-71`, `Q-78`, `Q-85` (as a fleet birth grant at Tier 2), `Q-111`, `Q-113` and `Q-118` do apply. `Q-119`'s stored genome and `Q-120` are not used: Mara compresses herself to DNA. Rafe, `Q-109` and the manifest's tissue lock
+`Q-69`, `Q-71`, `Q-78`, `Q-85` (as a fleet birth grant at Tier 2), `Q-111`, `Q-113`, `Q-118` and `Q-123` do apply. `Q-119`'s stored genome and `Q-120` are not used: Mara compresses herself to DNA. Rafe, `Q-109` and the manifest's tissue lock
 `Q-110` belong to the canon S4 and are not used here: the founder's chair is this cut's sealed thing.)* Keep tier ratios (`WLD-04`), the body-clock waypoints, the disc glyph
 (`VIS-12`), the 9:16 UI, the palettes (`VIS-15`). The one canon *reading* that changes: the Purists
 (`FAC-02`) are the Wake Deck, and `PLC-06` (the Purist Village) becomes Hull Four's base deck. If this cut

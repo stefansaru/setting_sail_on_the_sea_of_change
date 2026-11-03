@@ -49,7 +49,7 @@ Tier rates are exact; the waypoints are the reference timeline for scripts.
 | Leaves Tier 2 | ~18 | ~2 days |
 | E6, sees the feed (Tier 1) | ~34 | **14 weeks**: adult |
 | E10, the storm | ~40 | ~5 months |
-| After E10 | *drops to Tier 0, as cyborgs do* | subjective now equals real |
+| After E10 | *drops to Tier 0, as cyborgs do* (save ~4 real days at Tier 1 to pack, `Q-124`) | subjective now equals real |
 | E14→E16, waiting for the clone's reply | + about 8 years | ~8.7 real years |
 | E17, the body dies | | about 9 real years |
 
@@ -60,7 +60,7 @@ Host age is on every Shadow's vitals, in a menu no one opens. Asking someone the
 village a chrome stranger is told, kindly, that he looks tired for a child.
 
 **Aboard the fleet** the ramp ([[the-stasis-economy]]) uses the same process, so a body "woken into flesh" is
-Quickened too. The promise of arrival is about a decade long. **That is in the sealed manifest** (S4E18).
+Quickened too; the colonist woken into it is **Woken**, the sixth caste (`Q-71`, `Q-124`). "Quickened" names only the body. The promise of arrival is about a decade long. **That is in the sealed manifest** (S4E18).
 Deep stasis pauses a body's clock (`Q-52`), so the decade starts on waking.
 
 ## Story role

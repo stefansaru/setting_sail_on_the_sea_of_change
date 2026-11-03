@@ -38,7 +38,7 @@ reads **Tier 0 (1:1)**; Vesper's pulses ice-blue at **Tier 2 (1s = 1hr)**. While
 day, Vesper lives **~10 subjective years** in her high-speed tribe. To Vesper, Raul is a frozen statue she
 left an eternity ago; to Raul, Vesper is a blur too fast to hold. *Physically touching, subjectively
 separated by a lifetime.* (Shot in [[chromatic-expressionism|Caravaggio]] chiaroscuro + heavy
-[[negative-space]] — a candidate standalone reel; slot `Q-11`.)
+[[negative-space]] — slotted S2E7 (`Q-11`), recast for Adam (`Q-76`). By then both capsules stand empty, tagged VESPER and RAUL (`Q-92`); her capsule is planted in S1E6/E17 (`Q-88`) and the reunion is spent in S3E14 (`Q-121`).)
 
 ## Open questions
 - Do tribes ever *deliberately* re-sync to reunite (down-clocking to a loved one's speed as the ultimate

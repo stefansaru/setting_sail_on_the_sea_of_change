@@ -40,7 +40,7 @@ Centauri outpost.
   and Raul keeps the ache. S3E16: `Slip: none` (a-ha #14 payoff); he takes the re-merge to the god, not the girl
   (`Q-65`). **S3E20:** S1E16's prompt returns, `MERGE ⟷ BRANCH`, for the beam to the colony, and this time he chooses for
   himself: **Branch**. He stays on Earth as his own person (`Q-99`, `WR-M1`).
-- **S4 (told after S3, "meanwhile"):** the "accident" was **the Open Window** (E10). He survived by beam-out and, as Hull Four's senior surviving Ghost, holds its seat on the **High Clock** by default (`Q-64`), full rank coming during the four-year jump
+- **S4 (told after S3, "meanwhile"):** the night the Station is holed was **the Open Window** (E10). He survived by beam-out and, as Hull Four's senior surviving Ghost, holds its seat on the **High Clock** by default (`Q-64`), full rank coming during the four-year jump
   (`FAC-05`), the Ghost who receives [[kai|Kai]]. His partner is the Ghost waiting for a body (E4). When refugees
   halt the ramp, he votes to keep them alive, against her (E17). **He pays** for Kai's Apex time in E18–19 and the
   watches to E20 (`Q-109`). He beamed out early, while the hull could still pause him, so no Rafe stays behind (`Q-55`).

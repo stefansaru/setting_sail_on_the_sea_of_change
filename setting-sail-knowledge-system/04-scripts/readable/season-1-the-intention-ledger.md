@@ -329,7 +329,7 @@ clinic of the Ministry of Hope, an old woman named Kavana lay dying. She was a N
 biological, and she had taken the Ministry's desperate bargain — an experimental rewrite of her own DNA to
 keep her mortal body alive. She had drawn the one percent. Catastrophic collapse. One day left.
 
-Raul watched from the doorway, a seventy-percent machine looking at a woman dying of being too human.
+Raul, visiting the wing, watched from the doorway, a seventy-percent machine looking at a woman dying of being too human.
 
 An Intercessor knelt beside her, gentle and terrible. The cure could not be finished in a single human day — unless
 she let them put her mind into the Apex, where time ran far faster.

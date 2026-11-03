@@ -14,7 +14,7 @@ updated: 2026-06-04
 > existence *cast by* an organic object, the way a shadow is cast by a thing in the light.
 
 ## Concept
-One of the two **cognitive castes** of the [[the-shadow-grid]] (the other is the [[the-ghost-entity]]).
+One of the six castes (`WR-B1`) of the [[the-shadow-grid]] (the other is the [[the-ghost-entity]]).
 A Shadow's consciousness runs on the Grid while its **living body is preserved in a stasis capsule**
 on Earth or in orbital bays. They are an extension of a biological organism moving through a virtual
 medium — hence the name.

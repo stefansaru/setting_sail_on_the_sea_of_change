@@ -2,7 +2,7 @@
 
 > [[setting-sail-tier-descent]] S1E11 · Act III (Phase C) · **Tier 0 · [[the-medical-sanctuary|Hope's
 > Medical Sanctuary]]** · **KAVANA** = a terminal Natural Purist  · Raul **70% organic**
-> (witness via telepresence/proxy — [[the-shadow-entity]]; Hope relationship `Q-09`) · register: opens on
+> (witness via telepresence/proxy — [[the-shadow-entity]]; a voluntary Seeker at Hope, `Q-09`) · register: opens on
 > **Despair** field → clinical high-contrast. 9:16 · ~2.5 min.
 
 **HOOK (0:00–0:05).** Total black, then a single oxidized-crimson slab of light low in frame — the
@@ -28,6 +28,6 @@ Apex capsule, glowing. The countdown ticks. She reaches for the capsule. [UI: Ra
 recognition — *this is his descent, run in reverse.*] Cut to black.
 
 *Canon: Medical Sanctuary = the 1% trials ([[the-medical-sanctuary]]); Despair filter; 24h countdown.
-Raul 70% organic, peripheral (Q-09 preserved). Sets up E12. The tag is the word "Purist" planted (`Q-82`); it is
+Raul 70% organic, peripheral (a voluntary Seeker, `Q-09`: he walked in on his own after E10; no sentence, `WR-S6`). Sets up E12. The tag is the word "Purist" planted (`Q-82`); it is
 Raul's Lens, since a Purist has none (`WR-L2`). Hope pays for the Apex (`WR-T5`). Castes (`Q-87`): Kavana is a
 Purist; the Intercessor is a Ghost in a shell; Raul is a cyborg by proxy.*

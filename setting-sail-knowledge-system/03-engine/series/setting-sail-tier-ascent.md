@@ -154,7 +154,7 @@ each rung is the episode's **one major reveal**, paid as *seduction, then shown 
    E17 reminder → E19 payoff). → [[the-dream-hunger]].
 7. **The Proximity Illusion** *(standalone slotted, `Q-11`)* — *Tier 2, a [[frequency-tribes|Dunbar-150
    tribe]].* Adam joins a clock-based tribe and meets **Vesper** (`CHR-05`) — **Raul's** long-lost partner,
-   now a **Ghost**: her Quickened body failed years ago and she ran on at Tier 2 (`Q-92`), adrift, lifetimes from
+   now a **Ghost**: her Quickened body failed years ago and she ran on at Tier 2, in bursts, paused between them (`Q-92`, `Q-121`), adrift, lifetimes from
    the man she loved. The **Proximity Illusion:** capsules inches apart, lives lifetimes apart; Adam's rented
    capsule sits inches from a stranger's on another clock, and his tribe is scattered across the city. *(Answers the held Vesper thread.)* Seduction: belonging; cost: it's an illusion
    of closeness. *UI:* tribe-frequency overlay; two clocks that never match. On her old capsule feed, two capsules
@@ -319,7 +319,7 @@ feels larger than it shows ([[market-research]] §2):
 - **Whether Raul's guidance is wholly trustworthy** — the S1 `CHR-03` (AI-Guide) question, now worn by Raul (the `CHR-03` echo; `WR-R3` itself stays on the Guide).
 - **What Adam's cure does to the world** — the finale's loaded gun, held for S3 (paid by `Q-106`).
 - **Why the Hurried can't have children** — Naomi's E5 line plants it; S3E7 spends it (`WR-B2`).
-- **Vesper and Raul** — she learns at E7 that both capsules are empty; whether they meet stays open (S3).
+- **Vesper and Raul** — she learns at E7 that both capsules are empty; they meet in S3E14, at his clock, without a line (`Q-121`).
 
 ## Season-2 Revelation Ledger
 *What the **audience** first receives per episode, in [[revelation-cadence]] §3–4 terms (`REVEAL-05`). `★` = the
@@ -364,7 +364,7 @@ keep the S2 Reserve Vault sealed. The **ascent = reverse tier order** is the `AN
 S1's `TML-03`). Keep the **body-clock** (`progressive-digitalization`, inverted valence), the **glyph**
 (absent→issued→cold-complete→cracked, `Q-12` mirror), the **9:16 UI** (`VIS-08`), and the **rendering style**
 (`VIS-13`) consistent (`ANTH-06`). Resolved 2026-11-04: `Q-18` title · `Q-19` the tragic return. Applied rulings:
-`Q-16/17` (names), `Q-48`, `Q-53`, `Q-57`, `Q-61`, `Q-72`, `Q-74`, `Q-76/77`, `Q-88`, `Q-90..98` (2026-11-03 pass).
+`Q-16/17` (names), `Q-48`, `Q-53`, `Q-57`, `Q-61`, `Q-72`, `Q-74`, `Q-76/77`, `Q-88`, `Q-90..98`, `Q-116`, `Q-119`, `Q-121` (2026-11-03 pass).
 
 ## Related
 - The mirror it inverts: [[setting-sail-tier-descent]] (Season 1). World: [[the-shadow-grid]] ·

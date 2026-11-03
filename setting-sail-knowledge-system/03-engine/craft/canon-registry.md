@@ -103,7 +103,7 @@ The **cost/limit is the failure mode** — the drama.*
 | FAC-03 | **The Ministry of Hope** | Church-prison: rehab + medical refuge; saves souls through absolute accountability while running a grey-line trial hospital. → [[the-ministry-of-hope]] | Middle arc (post-Ep 10) |
 | FAC-04 | **The Clock Brokers** | The overclocked criminal underclass — emaciated Tier-0 scammers who steal velocity credits and manufacture Intent-Patches to survive; the system's floor (vs Vance's elite corruption). → [[the-clock-brokers]] | Middle arc / crime tier |
 | FAC-05 | **The High Clock** *(S4, draft)* | The Apex Ghost council that flies the [[the-seed-fleet|Seed Fleet]] and holds [[the-sealed-manifest|the manifest]]; protective, not malicious — decides deflect-or-fire in a blink and tells the base a kinder story. → [[the-sealed-manifest]] | [[setting-sail-the-seed-ledger\|S4]] E5, E13, E17–19 |
-| FAC-06 | **The Unlisted** *(S4, reserved · `Q-30`)* | Sensor slang for an object the fleet's catalogue does not hold. The alien antagonists — **never shown in S4**, only *heard*: their [[the-lure-beacon\|lure beacon]] (a false supernova; nested layers "help" → "we're just like you" → "send heading, speed, acceleration" → "you can be our hero") fishes the fleet's vector out of a kind base worker, and the strike comes through Hull Four's own firing window. One log line in E19. Nature, number, intent and the boarding of Hull Four are **Part 2 (S5)**. | S4E6–10 (the beacon), E19 (the log); S5 |
+| FAC-06 | **The Unlisted** *(S4, heard only · `Q-30`)* | Sensor slang for an object the fleet's catalogue does not hold. The alien antagonists — **never shown in S4**, only *heard*: their [[the-lure-beacon\|lure beacon]] (a false supernova; nested layers "help" → "we're just like you" → "send heading, speed, acceleration" → "you can be our hero") fishes the fleet's vector out of a kind base worker, and the strike comes through Hull Four's own firing window. One log line in E19. Nature, number, intent and the boarding of Hull Four are **Part 2 (S5)**. | S4E6–10 (the beacon), E19 (the log); S5 |
 | ~~FAC-01~~ | *(legacy)* HELM (the neuro-OS company) | — | HELM era |
 
 ## 6. Character bible (`CHR-`)
@@ -137,7 +137,7 @@ The **cost/limit is the failure mode** — the drama.*
   velocity-drift.
 - **Open:** does Vesper reappear later (decades subjective ahead of Raul), and is the reunion possible?
   **→ S2:** Vesper reappears in [[setting-sail-tier-ascent|S2E7]] ("The Proximity Illusion") — adrift,
-  lifetimes from Raul; **Adam** crosses her path. The reunion with Raul stays open (S3).
+  lifetimes from Raul; **Adam** crosses her path. The reunion is spent in S3E14 as simultaneity, no line (`Q-121`).
 
 ### CHR-06 — Adam *("The Grounded One")* *(S2 protagonist )*
 - **Origin:** the **Purist boy saved in [[setting-sail-tier-descent|S1E20]]** by emergency cyborg implants
@@ -168,7 +168,7 @@ The **cost/limit is the failure mode** — the drama.*
 - **Role:** Adam's betrothed, a young Purist who stays with Naomi when he climbs. Carries Mara's incarnation in S3,
   because only the unrushed can carry ([[the-quickening]]). Names the child Naomi.
 
-### CHR-04 — Vance *(antagonist — provisional)*
+### CHR-04 — Vance *(S2 antagonist, `Q-10`; S3 root-key hunter, `Q-103`)*
 - **Role:** a merit-holder and a **Ghost** (`Q-90`), `1:10000` forged (S2E14) — has earned a cryptographic signature key to challenge (and patch)
   the [[intention-in-context-law|law]]. He **prosecutes** citizens by contesting their
   [[compliance-validation-protocol|Proven-in-Use]] record.
@@ -177,7 +177,7 @@ The **cost/limit is the failure mode** — the drama.*
 - **Worldview (the opposition):** total optimization and strict accountability are *right* — a credible
   "what if Raul is wrong?" counter to Raul's drift toward balance/forgetting. *(Helps answer audit
   S-09.)*
-- **Open:** is Vance a recurring season antagonist or a single-arc challenger? His personal stake in
+- Profits from tether decay, never causes it (`Q-15`). **Open:** his personal stake in
   Raul. → `Q-08`/`Q-10`. **→ S2 (`TML-05`):** Vance is the **Season-2 antagonist** — the tempter who offers
   **Adam** (`CHR-06`) the keys to save Naomi for the last of his flesh (S2E12–13); his [[intent-patch|Intent-
   Patches]] game the [[compliance-validation-protocol|CVP]] in S2E13. Reserved from all of S1 on purpose.
@@ -186,7 +186,7 @@ The **cost/limit is the failure mode** — the drama.*
 - **Role:** the comforting AI archetype that guides the Child; manifests per stage (Ep 2 = a
   fully-rendered Teddy Bear, open-armed, "one step at a time").
 - **Voice:** warm, encouraging, patient; structural safety made friendly.
-- **Open:** does its form evolve as the Child descends (and does it ever stop being trustworthy)?
+- **Form:** Teddy in childhood, the Guide after (`Q-69`); a digital agent (`Q-71`). Its trustworthiness stays open by rule (`WR-R3`).
 
 ### CHR-01 — Mara, "the Cartographer" *(re-homed → **S3 deuteragonist**; was HELM-era)*
 - **Role / status:** HELM's reclusive creator; built the modules for everyone after a loss
@@ -207,7 +207,7 @@ The **cost/limit is the failure mode** — the drama.*
 *(Per-episode protagonists — the crisis-line operator (Ep 1), the widower (Ep 4), etc. — are
 not yet named; add a `CHR-` block as each is written.)*
 
-### CHR-08 — Kai *("The Sleeper" · S4 lead · `Q-27` provisional name)* → [[kai]]
+### CHR-08 — Kai *("The Sleeper" · S4 lead · `Q-27`)* → [[kai]]
 - **Role:** the colonist trapped on **Hull Four** ([[setting-sail-the-seed-ledger|S4]]) — a stasis [[the-shadow-entity|Shadow]]
   at the base of the pyramid who, with life support's hours *known*, is refused a faster clock, forces the
   [[the-cyborg-slip|Slip]] in one night, severs the Key (*"a slight itch, nothing more"*), climbs to the Apex and is
@@ -219,7 +219,7 @@ not yet named; add a `CHR-` block as each is written.)*
   *"I escaped"* and *"my body is dust"*; then *they were right to protect us* and *they never asked.*
 - **Name:** Hawaiian and Japanese *kai* "sea" (the Sea literalized); Greek *kai* "and", the holding of two truths.
 
-### CHR-09 — Teo *("The Hero" · S4 supporting · `Q-34` provisional name · `Q-35` may fold into Kai)* → [[teo]]
+### CHR-09 — Teo *("The Hero" · S4 supporting · `Q-34` · `Q-35`: Teo sends the burst)* → [[teo]]
 - **Role:** Kai's bay-mate on Hull Four — the inexperienced, kind, biological worker the [[the-lure-beacon|lure]] was
   built for. Told to stay silent but not *why*, he decodes the last layer (*"you can be our hero"*) and **sends the
   fleet's vector** (S4E9). His body leaves in a lifeboat (E12); his chemistry halts the ramp on Hull One (E16–17);
@@ -239,7 +239,7 @@ not yet named; add a `CHR-` block as each is written.)*
 | TML-04 | **Season 1 = "The Intention Ledger"** — **20 episodes × 2.5 min** (≈50 min), 4 Acts of 5: I Accelerated Utopias / II Castes of the Grid / III Ledger Paradoxes / IV The Great Descent. Acts map to the 4 Sea-of-Change phases (A → D); mid-season climax = Ep 10 "The Cracking of the Sky". | Season 1 | Ep 1→20 | Blueprint in [[setting-sail-tier-descent]]. |
 | TML-05 | **Season 2 = "The Mortal Ledger"** — the **inverse ascent** (Tier 0 → 3, outside → inside): the Purist boy **Adam** (`CHR-06`), saved by implants in S1E20, climbs the tiers and the climb is a **trap** — each gift subtracts mortality. **20 × 2.5 min**, 4 Acts of 5 (Phase A′→D′); mid-season = Ep 10 "The Hollow Crown". Reverse of `TML-03`; **spends the S1 Reserve Vault** ([[revelation-cadence]] §6). | Season 2 | Ep 1→20 | Blueprint in [[setting-sail-tier-ascent]]. Set after S1 (Raul a Ghost-guide). |
 | TML-06 | **Season 3 = "The Cartographer's Ledger"** — the **origin season**: the [[the-distributed-president|Distributed President]] is revealed to be **Mara**, who **incarnates** into mortal flesh (surrogate **Ruth**, `CHR-07`) to grieve and die and so complete her own Doughnut. Re-homes the legacy **HELM** spine (Sea, 9 modules, Mara, the 8 traces). **20 × 2.5 min**, 4 Acts of 5; spends the S2 Reserve Vault; capstone of the 60-ep triptych. | Season 3 | Ep 1→20 | Blueprint in [[setting-sail-the-cartographers-ledger]]. Set after S2. |
-| TML-07 | **Season 4 = "The Seed Ledger" — Part 1, the Voyage** *(DRAFT, author's seed 2026-10-12)*: a **seed fleet** crossing to a habitable system; the tiers as a **population pyramid** with a power budget ([[the-stasis-economy]]); a routine **firing protocol** opens the shield window and **Hull Four** is struck (mid-season E10); a trapped colonist (**Kai**, `CHR-08`) forces the Slip in one night and is beamed out; the refugees cost the synthesis ramp; the **sealed manifest** is read. Ends when the planet is **within visual range**. **20 × 2.5 min**, 4 Acts of 5 (I The Pyramid / II The Window / III The Countdown / IV The Sealed Manifest). Spends the Centauri strand (`Q-14`/`Q-22` → `Q-28`). | Season 4 | Ep 1→20 | Blueprint in [[setting-sail-the-seed-ledger]]. Placement vs S1–S3: `Q-29`. |
+| TML-07 | **Season 4 = "The Seed Ledger" — Part 1, the Voyage** *(DRAFT, author's seed 2026-10-12)*: a **seed fleet** crossing to a habitable system; the tiers as a **population pyramid** with a power budget ([[the-stasis-economy]]); a routine **firing protocol** opens the shield window and **Hull Four** is struck (mid-season E10); a trapped colonist (**Kai**, `CHR-08`) forces the Slip in one night and is beamed out; the refugees cost the synthesis ramp; the **sealed manifest** is read. Ends when the planet is **within visual range**. **20 × 2.5 min**, 4 Acts of 5 (I The Pyramid / II The Window / III The Countdown / IV The Sealed Manifest). Spends the Centauri strand (`Q-14`/`Q-22` → `Q-28`). | Season 4 | Ep 1→20 | Blueprint in [[setting-sail-the-seed-ledger]]. Placement: in flight from before S1, landfall before S2 (`Q-29` as amended by `Q-52`). |
 | TML-08 | **Season 5 = "The Colony Ledger" (Part 2)** *(held; own season — `Q-33` confirmed 2026-10-12)*: landfall; the hull becomes HQ; rules restated; the ramp resumes and the pyramid **inverts**; the lost hull reappears within sensor range and what boarded it — with a **second Kai** still running (`Q-31` Branch) — transmits signals, reaching **Teo** first, that trigger a **revolt**. | Season 5 | Ep 1→20 | Blueprint to follow. Reserve: [[setting-sail-the-seed-ledger]] §Reserve Vault. |
 | TML-09 | **Fleet chronology** *(draft numbers, 2026-11-02)*: launch about 36 years before S1E14 at about 10% of light speed; the E14 beam lands 3.9 years later; the strike follows about 4 months after that; Earth reads the reply about 8.2 years after E14; landfall about 10 years after E14. | S1–S5 | S1E14–17 · S4 | Table in [[the-seed-fleet]]. `Q-52`. |
 | ~~TML-01~~ | *(legacy)* Episode order = the 8 steps of the operating loop | — | HELM Ep 1→9 | Superseded by TML-03. |
@@ -312,7 +312,7 @@ the director's call (tracked in `Q-`).
 | ~~Q-10~~ | **Vance's role** (`CHR-04`) **RESOLVED (S2):** the **Season-2 antagonist** — the optimization tempter who bargains for Adam's mortality (S2E12–13, [[setting-sail-tier-ascent]]). Reserved from all of S1 by design. | ✅ S2 | His personal stake in *Adam* now (the convert who climbed); S3 stake in Raul still open. |
 | ~~Q-13~~ | **RESOLVED (2026-06-05):** **YouTube = master / funnel home** (long-form, memberships, SEO, lore breakdowns); **TikTok = primary discovery & revenue feeder** (2.5-min → Creator Rewards). | ✅ done | [[market-research]] §6. |
 | ~~Q-11~~ | **Slotting the standalone reels** — **RESOLVED (S2):** all pushed into Season 2 ([[setting-sail-tier-ascent]]): **The Dream Hunger** → S2E6 (TTD), **The Proximity Illusion** → S2E7 (Vesper), **The Split Mirror** → S2E9 (the Merging), **The Chronological Sanctuary** → S2E16 (Apex/outrun-death). | ✅ S2 | The 4th (Proximity Illusion) is a concept in [[frequency-tribes]], scripted fresh for S2E7. |
-| ~~Q-14~~ | **RESOLVED (2026-11-03, delegated): Branch,** as built on by `Q-54`/`Q-99`. **E16 Merge vs Branch** — the scripts resolve it as **Branch** (Raul releases the clone; a 2nd Raul lives on at Centauri → Season-2 thread). Confirm, or switch to Merge. | Story — confirm | In `s1e16-the-ledger-collision.md`. **S2 holds** the Centauri clone in its Reserve Vault for S3. |
+| ~~Q-14~~ | **RESOLVED (2026-11-03, delegated): Branch,** as built on by `Q-54`/`Q-99`. **E16 Merge vs Branch** — the scripts resolve it as **Branch** (Raul releases the clone; a 2nd Raul lives on at Centauri → Season-2 thread). | ✅ done | In `s1e16-the-ledger-collision.md`. **S2 holds** the Centauri clone in its Reserve Vault for S3. |
 | ~~Q-15~~ | **RESOLVED (2026-11-04, author): no weapon.** Vance profits from tether decay, selling to those already decaying, but never causes it, so his argument still stands (`WR-S6`) and his S3 bid for the root key stays an ideology. The Purists do cite the Dream Hunger (S2E6). | ✅ done | [[tether-decay]] · [[vance]] |
 | ~~Q-16~~ | **RESOLVED (2026-11-02): Adam.** Kept by the naming audit. | ✅ done | [[adam]]. |
 | ~~Q-17~~ | **RESOLVED (2026-11-02, supersedes the earlier ruling):** the S1–S2 mother is **Naomi** (`CHR-11`) and she dies in S2E20. **Ruth** (`CHR-07`) is a younger Purist who carries Mara in S3. | ✅ done | `Q-44`. |
@@ -324,13 +324,13 @@ the director's call (tracked in `Q-`).
 | Q-21 | **S3 lead = Raul** (`CHR-02`) — confirm Raul carries S3 (paying off the trust question), Mara as buried deuteragonist. | S3 | Provisional lean. |
 | Q-22 | **The Centauri clone** (`Q-14`) — **ally or rival** in S3? Provisional **rival-engineer** ("a better system" vs. Raul's "no system heals grief"). | S3 | Provisional lean. |
 | ~~Q-23~~ | **RESOLVED, provisional (2026-11-02): Naomi.** Ruth names the child for the woman she buried, reversing "call me Mara". | S3 | [[ruth]]. |
-| ~~Q-24~~ | **RESOLVED (2026-11-03, delegated): freed.** The root key dies with Mara's tissue; `Outbound · 4.4 ly` keeps one shard open for S4–S5. **S3 finale** — does Mara's death **free the Grid** (commit) or stay ambiguous? Blueprint leans *freed, with a possibly-persisting shard*. | S3 — finale | In [[setting-sail-the-cartographers-ledger]] Ep 20. |
+| ~~Q-24~~ | **RESOLVED (2026-11-03, delegated): freed.** The root key dies with Mara's tissue; `Outbound · 4.4 ly` keeps one shard open for S4–S5. No one on Earth can hold the seat (`Q-120`); the persisting shard is the god's remainder in that packet (`Q-125`). | ✅ done | In [[setting-sail-the-cartographers-ledger]] Ep 20. |
 | Q-25 | **The Aesthetic Dichotomy's limits** — can a citizen render their *real* age in-grid (taboo honesty), and can a perspective-mismatch be **weaponized** (gaslighting via render, via [[chromatic-tears]])? | Soft — story | New: [[the-ageless-default]] (`WLD-22`) + [[asymmetric-perspective]] (`MAG-27`). |
 | ~~Q-04~~ | ~~How does the Shadow Grid substrate relate to HELM?~~ **RESOLVED (2026-06-04):** the **Shadow Grid era is canonical**; the HELM anthology is **adapted into it / may be overwritten** (author decision). The thematic spine is now the [[the-doughnut-principle]]; format is **9:16 vertical Reels**. HELM-era rows (`WLD-01/02`, `MAG-01..09`, `FAC-01`, `CHR-01`, `FCT-001..008`, `VIS-01..07`) are **legacy / under adaptation** — superseded where they conflict. | ✅ done | Episode/series rewrite is the next migration step. |
 | ~~Q-26~~ | **RESOLVED (2026-11-04, author):** S4 is **"The Seed Ledger"**; Part 2 stays provisional as "The Colony Ledger". | ✅ done | [[setting-sail-the-seed-ledger]] |
 | ~~Q-27~~ | **RESOLVED (2026-11-02): Kai**, with the meaning corrected: not a homophone of "key". Hawaiian/Japanese "sea"; Greek "and". Pronouns stay open. | ✅ done | [[kai]]. |
 | ~~Q-28~~ | **RESOLVED as author lean (2026-10-12): yes — Centauri.** ~~Is the Seed Fleet the Alpha Centauri expedition~~ (`PLC-07`, the station where Raul's clone forked, S1E15) — making the [[the-centauri-clone\|Centauri Clone]] a High Clock Ghost who receives Kai at the Apex — **or a farther system**? Lean: **Centauri** (it spends the `Q-14`/`Q-22` reserve and gives the Clone his "better system" as a ship). | S4 — story | Changes who sits on the High Clock and what the manifest owes Earth. |
-| ~~Q-29~~ | **RESOLVED as author lean (2026-10-12): in flight throughout.** ~~Timeline placement~~ of S4 vs S1–S3 — launched *before* S1 and in flight throughout (parallel, light-lagged), or *after* S3 (a freed Grid sends a fleet)? Lean: **in flight throughout**, so Earth's news (the Cracking of the Sky, Mara's death) arrives by beam, years late, as Part-2 texture. | S4 — story | Governs whether the manifest's Earth clause ties to Mara / the Distributed President. |
+| ~~Q-29~~ | **RESOLVED as author lean (2026-10-12): in flight throughout.** ~~Timeline placement~~ of S4 vs S1–S3 — launched *before* S1 and in flight throughout (parallel, light-lagged), or *after* S3 (a freed Grid sends a fleet)? Lean: **in flight throughout**, so Earth's news (the Cracking of the Sky, Mara's death) arrives by beam, years late, as Part-2 texture. | S4 — story | Governs whether the manifest's Earth clause ties to Mara / the Distributed President. Landfall amended by `Q-52`; the clause's tissue lock is hers (`Q-119`). |
 | ~~Q-30~~ | **RESOLVED (2026-11-04, author): heard, never shown; the High Clock suspected them.** The Unlisted exist on screen only as the beacon and its effects. The High Clock had suspected something out there, which is part of why the manifest is sealed. Whether the base can refuse a firing stays an S5 question. | ✅ done | [[the-lure-beacon]] · [[the-sealed-manifest]] |
 | ~~Q-31~~ | **RESOLVED (2026-10-12): Branch — a second Kai keeps running in Hull Four.** ~~Kai's beam-out: Merge or Branch?~~ Hull-to-hull hops are "safe" pause-and-wake ([[the-cosmic-clone-paradox]]) — but a *dying* hull may not get to pause. Is a second Kai still running in Hull Four's servers when the aliens board (Part 2's loaded gun)? | S4 — E15 / Part 2 | Mirrors `Q-14`. |
 | ~~Q-32~~ | **RESOLVED (2026-10-12): seven numbered hulls; the scattering screen; the 86,400× + reactor cap.** ~~Fleet size & hull names~~ — provisional **seven hulls**, numbered (**Hull One** lead, **Hull Four** wounded). Also confirm the blueprint's **adjustment 2**: the shield is a **deployable scattering screen** (dust/plasma curtain) that must *drop* to fire, not a plate. | S4 — soon | [[the-seed-fleet]], [[the-firing-protocol]]. |
@@ -426,6 +426,7 @@ the director's call (tracked in `Q-`).
 | ~~Q-123~~ | **RESOLVED (2026-11-03, delegated):** "birth grant" goes on screen first in S3E11, on Raul's parents' ledger (a-ha #13); S1E1 shows the grant without the word. In the Hull Cut, Mara speaks through the Guide, a digital agent she made, and is not the Guide (`Q-71`). Raul's Hull-Cut birth is about T+3. | ✅ done | S3E11 · [[setting-sail-the-hull-ledger]] |
 | ~~Q-124~~ | **RESOLVED (2026-11-03, delegated):** S1 audit calls. (1) The `Q-71` caste is renamed **Woken** (it echoes the Wake Deck); "Quickened" keeps one meaning, the fast-grown Grid body, so S4E18's reveal that ramp bodies are Quickened too still lands (`WR-N2`). (2) Raul packs at Tier 1 in his Earth capsule, about four real days, an exception to `Q-46`'s Tier 0 after E10 (`WR-M5`); Kai lacks those days in S4E13–15. (3) Full Disclosure is the default with an opt-out; E12's Chain-Check presses the few who opt out (`WR-S5` unchanged). (4) In S1E12 Kavana is a Shadow for her Apex hours. (5) The E3b window woman is the President as a Ghost, now, bible only. | ✅ done | `WR-B1` · [[kavana]] · S1E14 · [[the-personal-blockchain]] |
 | ~~Q-125~~ | **RESOLVED (2026-11-04, author): the Outbound packet carries the god's remainder**, the quiet shard of the President that never dissolved. She owns the Apex, so she packs and pays for herself (`WR-M5`, `WR-T5`). It lands about T+43 on Hull One's reserved slot, which holds her own stored genome (`Q-119`): the god could be born a second time, on the colony. That is S5's threat. | ✅ done | S3E20 · S4E4/E18 · [[mara]] · a-ha #12 |
+| ~~Q-126~~ | **RESOLVED (2026-11-04, delegated):** knowledge-system audit calls. The locked [[the-memory-substrate]] S-04 gets a dated amendment: birth is the IVF embryo grown in the capsule (`FCT-012`), not a vat clone. S1's climax is no longer "saving a colony": Raul walks the village as a Ghost in a shell where nothing he offers is wanted (`Q-86`, `Q-115`). [[asymmetric-perspective]]'s example pairs Raul with his partner, not Vance (held from S1). The destination stays unnamed on screen; it is named only by distance (4.4 ly). a-ha #12 is planted by S3E20 and reminded in S4E4. The Cognitive League's tier stays logged, not ruled. | ✅ done | world pages |
 | ~~Q-52~~ | **RESOLVED (2026-11-02):** the fleet runs on a two-clock table. Deep stasis pauses a body's clock, minds pause between watches, bays are attended at Tier 0 by proxy. Dates and speed are draft. Landfall comes about ten years before S2E20, which overrides `Q-29`'s "in flight throughout". | ✅ done | [[the-seed-fleet]] · `WR-T6`. |
 
 ---
@@ -433,7 +434,7 @@ the director's call (tracked in `Q-`).
 ## 11. World substrate — the Shadow Grid era (`WLD-`/`MAG-`/`PLC-`)
 A second body of world lore (provided File 1), expanded as atomic pages in
 [`../world/`](../world/README.md). **Status: DRAFT**, and its relationship to the HELM anthology
-is open (`Q-04`). Index only — depth lives in the linked pages.
+was settled by `Q-04` (Grid canonical; HELM is its fossil layer, S3). Index only — depth lives in the linked pages.
 
 **World laws & thematic core (`WLD-`)**
 | ID | Concept | Page |
@@ -508,6 +509,6 @@ is open (`Q-04`). Index only — depth lives in the linked pages.
 ---
 
 ## Maintenance
-Add a `CHR-` block and any `FCT-` rows each time an episode is drafted; resolve `Q-01`
-before drafting Ep 9. Registry wins on contradictions unless the author supersedes an entry
+Add a `CHR-` block and any `FCT-` rows each time an episode is drafted.
+Dated rulings and [[world-requirements]] outrank this registry; it wins over world pages and scripts unless the author supersedes an entry
 with a dated note. See [[writing-requirements]] `ANTH-01..06` for what is checked against this.

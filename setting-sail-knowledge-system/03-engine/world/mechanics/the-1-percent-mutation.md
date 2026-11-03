@@ -10,14 +10,11 @@ created: 2026-06-04
 updated: 2026-06-04
 ---
 
-> Purist humans rewrite their own DNA to escape both the simulation and cybernetics — a 99%-safe
+> Dying Purists take Hope's DNA rewrite to keep a mortal body alive (Kavana, S1E11) — a 99%-safe
 > procedure whose 1% failures are fatal within 24 hours, and whose only escape is the Apex.
 
 ## Concept
-A faction of **purist humans** rejects both the [[the-shadow-grid|simulation]] and the
-[[the-cyborg-slip|cyborg path]]. To stay biological yet unaging, they use extreme **DNA
-correction** — radiation therapy that rewrites the genetic code and extends telomeres
-indefinitely.
+A **terminal Purist**, who rejects both the [[the-shadow-grid|simulation]] and the [[the-cyborg-slip|cyborg path]], may take Hope's last-resort **DNA correction**: a rewrite of the genetic code and telomeres that buys a mortal body more years, never agelessness (the vow, "One life, kept whole", `Q-74`).
 
 ## Rules / mechanics
 - **99% success / 1% catastrophe.** The treatment is highly stable, but the 1% failure manifests
@@ -35,7 +32,7 @@ indefinitely.
 
 ## In the world
 The risk drives the **Cultural Chain-Check** custom (see [[the-personal-blockchain]]): peers press
-each other to unlock their ledgers before a high-risk DNA rewrite — *"you're tracking a 99%
+the few who opted out of Full Disclosure to re-open their ledgers (`Q-124`) before a high-risk DNA rewrite — *"you're tracking a 99%
 success rate today; sure you don't want your chain public, just in case?"*
 
 ## Story role
