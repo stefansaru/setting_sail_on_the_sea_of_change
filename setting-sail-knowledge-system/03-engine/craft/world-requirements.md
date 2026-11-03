@@ -42,7 +42,7 @@ These never change. If an idea needs one of them broken, it belongs in a differe
 ### Bodies and castes (`WR-B`)
 | ID | T | Requirement | How to verify |
 |----|---|-------------|---------------|
-| WR-B1 | G | **Every person has one caste:** Purist (body, no Grid), Shadow (body in capsule, mind on Grid), cyborg (partly replaced), Ghost (no body), Ghost in a shell (Ghost leasing a machine body), Quickened (a Ghost woken into a ramp body). Made minds that were never people, like Teddy and Decimus, are **digital agents** (`Q-71`). | Each character's caste is stated and valid for that point. |
+| WR-B1 | G | **Every person has one caste:** Purist (body, no Grid), Shadow (body in capsule, mind on Grid), cyborg (partly replaced), Ghost (no body), Ghost in a shell (Ghost leasing a machine body), Woken (a Ghost woken into a ramp body, which is Quickened like every Grid body). Made minds that were never people, like Teddy and Decimus, are **digital agents** (`Q-71`). | Each character's caste is stated and valid for that point. |
 | WR-B2 | G | **Grid bodies are Quickened:** fast-grown, short-lived, worn, barren. Purist bodies are not. | No Grid body lives past about ten real years unaided, not counting time paused in deep stasis; no Grid body conceives or carries. |
 | WR-B3 | G | **Body clocks follow their waypoints:** Raul 100→70→30→0; Adam 90→60→30→~0, then borrowed flesh; Mara 0→100; Kai 100→70→30→0 in one night. | Compare each episode's stated percent. |
 | WR-B4 | G | **Memory follows substrate:** in-grid recall is perfect; a brain forgets; Ghost recall is perfect and permanent. | Forgetting happens only through a brain. |

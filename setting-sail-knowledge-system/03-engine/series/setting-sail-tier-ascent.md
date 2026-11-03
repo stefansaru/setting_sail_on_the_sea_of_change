@@ -69,7 +69,7 @@ Adam's is **purchase**: he spends the very mortality his people died to keep.
 
 | Act | Body state | Trigger |
 |-----|-----------|---------|
-| I (1–5) | **90% organic** (purist + life-saving implants) | the S1E20 implants integrate |
+| I (1–5) | **90% organic** — a Purist-born cyborg (the S1E20 implants) | the S1E20 implants integrate |
 | II (6–10) | **60% organic** | the [[parallel-pedagogy|Merging]] + Tier-2 bandwidth (Ep 9–10) |
 | III (11–15) | **30% organic** | the regrade of his last flesh: the first installment of the Intent-Patch that comes with Vance's keys (Ep 15, `Q-61`, `Q-96`) |
 | IV (16–20) | **→ ~10% at the Apex, ~0% by Ep 19**, then **borrowed flesh** | the patch's installments through the Apex and the descent (Ep 16–19), stopped one cell short when he switches his Lens off (Ep 19, `Q-57`); the cure Naomi refuses, regrown from her cells, leaves him a cyborg of mostly regrown flesh (Ep 20, `Q-98`) |
@@ -110,7 +110,7 @@ finite, flickering arrow appears — **the Mortal Doughnut**, balance held for o
 
 ## Season 2 — "The Mortal Ledger" (20-episode blueprint)
 Format per episode: **Setting · Plot · UI/Visual hook.** Every 2.5-min script keeps the
-[[distribution-strategy]] §3 4-beat template (hook → context → friction → cliffhanger). **Reveal cadence:**
+[[distribution-strategy]] §3 4-beat template (hook → context → friction → turn). **Reveal cadence:**
 each rung is the episode's **one major reveal**, paid as *seduction, then shown hollow*
 ([[revelation-cadence]] — S2 has its own Reserve Vault and its own Revelation Ledger, both below; `REVEAL-01..06`).
 
@@ -316,7 +316,7 @@ feels larger than it shows ([[market-research]] §2):
   Its trace, `// M.C.`, is shown unread at E11.
 - **The tissue lock** — one welded door at E15, never explained; S3 opens it (`Q-67`).
 - **Rafe** (`Q-14`) — at E18 only a paused glyph; the copy waiting on Earth is S3's (`Q-54`), his civilization S4's.
-- **Whether Raul's guidance is wholly trustworthy** — the S1 `CHR-03` (AI-Guide) question, now worn by Raul (`WR-R3`).
+- **Whether Raul's guidance is wholly trustworthy** — the S1 `CHR-03` (AI-Guide) question, now worn by Raul (the `CHR-03` echo; `WR-R3` itself stays on the Guide).
 - **What Adam's cure does to the world** — the finale's loaded gun, held for S3 (paid by `Q-106`).
 - **Why the Hurried can't have children** — Naomi's E5 line plants it; S3E7 spends it (`WR-B2`).
 - **Vesper and Raul** — she learns at E7 that both capsules are empty; whether they meet stays open (S3).
@@ -353,8 +353,7 @@ pair.*
 **Reading the column.** Act I drips the *body* (implants → Lens → capsule → scan → vow); Act II the *gifts*
 (dreams → tribe → vice → fusion → the empty crown); Act III spends the S1 vault one system per reel (President →
 key → patch → Graveyards → Hope), with Ruth's sheet as the people thread through it; Act IV pays (Apex → descent →
-mirror → patch → Doughnut). Every act carries at least one large a-ha, and each is followed by a reel of people or mood. Plants pay at
-least three reels later. The E19→E20 pair is the one adjacency, as S1E19→E20 was: E19 turns on an act (he switches the Lens off),
+mirror → patch → Doughnut). Every act carries at least one large a-ha, and each is followed by a reel of people or mood. Plants pay at least three reels later, except Vance's `1:10000` (E12→E14), reminded by E13's spotless chain. The E19→E20 pair is the one adjacency, as S1E19→E20 was: E19 turns on an act (he switches the Lens off),
 E20 on an image.
 
 ## Audit & consistency note

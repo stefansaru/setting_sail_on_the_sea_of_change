@@ -14,7 +14,7 @@ the **physical body of the Grid** — where *his* mind, and billions of others, 
 satellites** catches raw sunlight and bounces precise beams down into the dark to feed the servers.
 
 **ACT II — FRICTION/AWE (1:15–2:15).** This is the **Rule-of-Wonder** beat — pure scale, almost no
-dialogue. Raul, tiny in his lounge a quarter-million miles away, realizes his entire reality — the neon
+dialogue. Raul, tiny in his lounge, his body a quarter-million miles away, realizes his entire reality — the neon
 city, Jun, his own thoughts — runs on *this:* ice, shadow, and a fragile net of mirrors.
 > **RAUL (quiet):** All of us… in *there.*
 

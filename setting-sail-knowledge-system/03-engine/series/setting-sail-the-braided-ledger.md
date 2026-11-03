@@ -40,7 +40,7 @@ transmitting.
 | 6 | Firing Day | B | S4E1, crews count the lock |
 | 7 | Internalizing | A | S1E4–5 |
 | 8 | The Cyborg Slip | A | S1E6–7 (now ahead of Watts and Chemistry, so Kai's bay doesn't spoil S1E6's body reveal) |
-| 9 | Watts and Chemistry | B | S4E2–5, Decimus at `1:3`; THE STATION stencil (#5 reminder); the RESERVED slot (#12 plant) |
+| 9 | Watts and Chemistry | B | S4E2–5; THE STATION stencil (#5 reminder); the RESERVED slot (#12 plant) |
 
 ### Act II — The Window (Ep 10–17) · *the creed is exploited*
 | # | Title | Strand | Folds |
@@ -76,12 +76,12 @@ transmitting.
 | 30 | The Mortal Doughnut | C | S2E16–20 |
 | 31 | The God's Hole | C | S3E1–6, she never took the test |
 | 32 | The Un-Edited Memory | C | S3E7–19: her touch turns a tissue lock, and the braid viewer remembers Ep 29's clause |
-| 33 | The Incarnate Ring / Visual Range | B+C | S3E20 + S4E20 |
+| 33 | The Incarnate Ring / Visual Range | B+C | S3E20 + S4E20, kept as two halves; no shot links `Outbound` to the RESERVED slot (`Q-119`, `Q-120`) |
 
 ## What it gains and loses
 - **Gains:** one question and one rule, paying off from Ep 5 to Ep 33. Earth keeps its width. Tension is
   carried across strands: a Raul cliffhanger can hang over a Kai episode. Ep 13 and 16 become twin catastrophes.
-  The cold open turns S1E15's quiet "station accident" into a clock the viewer carries through Act II. Ep 32
+  The cold open turns S1E15's quiet "night the Station is holed" into a clock the viewer carries through Act II. Ep 32
   lands a-ha #12's reminder harder than canon can, because S4's clause and S3's lock sit three reels apart.
 - **Loses:** Adam's slow seduction (five reels instead of 20) is the biggest cost, and S3's nine HELM strata
   collapse into one reel. Several rows here fold more into 2.5 minutes than it can hold (Ep 25, 26, 32). Ep 1

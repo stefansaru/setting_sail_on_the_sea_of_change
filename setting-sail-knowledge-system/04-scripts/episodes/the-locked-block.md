@@ -1,6 +1,6 @@
 # Script — "The Locked Block"
 
-> A **standalone correctional reel** (slotted at S2E15, `Q-77`) dramatizing the
+> A **standalone correctional reel** (glimpsed at S2E15 as one welded door, `Q-77`, `Q-116`; this reel stays a standalone short, `Q-76`) dramatizing the
 > [[the-encrypted-block-paradox|Encrypted Block Paradox]] — the one cell the all-seeing AI can neither
 > read nor open. POV: **The Intercessor** (an Intercessor of [[the-ministry-of-hope|Hope]]) facing **The Smuggler**
 > (a gaunt [[the-clock-brokers|Clock Broker]], unnamed) · register: **[[the-ministry-of-hope|
@@ -52,7 +52,7 @@ lesson forever. Fade on omniscience meeting the one wall it cannot pass: **a man
   [[velocity-braking]] (the takedown that delivered him), [[chromatic-tears]] (his signature exploit),
   [[the-ministry-of-hope]] / [[the-absolution-protocol]] (the release loop it jams), and
   [[the-personal-blockchain]] (two-key sovereignty). Registers per `VIS-14` + Caravaggio (`VIS-15`).
-- **Story role:** the legal-ethical maze the world hands Raul; and the law **Vance** (`CHR-04`) abuses to
+- **Story role:** the door Adam passes at S2E15 and Mara opens in S3 (`Q-67`, `Q-119`); and the law **Vance** (`CHR-04`) abuses to
   bury patched code where the President can't reach ([[intent-patch]]).
 - **Audit:** `STORY-07`, `WORLD-01/02/03`, `CINE-16`, `VIS-14/15`; Hope placement `Q-09`. Slot S2E15 (`Q-77`):
   plants the tissue lock S3 needs (`Q-67`).

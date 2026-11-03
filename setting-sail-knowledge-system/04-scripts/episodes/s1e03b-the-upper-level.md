@@ -52,7 +52,7 @@ sets the ball down between them. Teddy **claps**. [UI: **+1 · Virtuous**.] Jun 
 late. He is looking at his hand. **He didn't open it.** Hold one beat too long. Cut to black.
 
 *Castes (`Q-87`): the two officials are Shadows; Raul and Jun are Shadow children; Teddy is a digital agent
-(`Q-71`). The woman in the last window is never given a caste in S1.*
+(`Q-71`). Bible only: the woman in the last window is the President, a Ghost (`Q-98`), shown as she is now, a loop that never runs (S3E4/E13/E19). Never stated on screen in S1.*
 
 *Canon: ★ the [[the-pattern-detector|pattern detector]] and the alignment setting: the Lens can act for you.
 · the officials, unnamed (`WLD-11` stays in the vault). · the **Landing**. · plant → S3: the woman and the

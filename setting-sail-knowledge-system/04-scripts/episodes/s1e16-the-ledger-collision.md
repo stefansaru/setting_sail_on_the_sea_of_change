@@ -30,8 +30,7 @@ without forcing one. [UI: two glyphs, both intact, drifting apart.] Cut to black
 
 *Timing: about 8.2 real years have passed since E14, with Raul at Tier 0, body about 8.7 real years old ([[the-quickening]] chronology).*
 
-*Canon: **Branch** chosen (Earth-Raul releases the clone — proto-balance, seeds S2). `Q-14`: confirm
-Merge-vs-Branch. Raul 30% organic; the glyph's first un-forced steadiness (toward the solid Ep 20).
+*Canon: **Branch** chosen (Earth-Raul releases the clone — proto-balance, seeds S2). `Q-14` resolved 2026-11-03: Branch. Raul 30% organic; the glyph's first un-forced steadiness (toward the solid Ep 20).
 Writers' room (`Q-54`, `WR-M1/M3`): the beam home after "Go home, Rafe" is a long hop, so it forks. One instance
 merges with Rafe after landfall; the other waits on Earth, paused, until S3. Never shown in S1. Castes (`Q-87`):
 Rafe here is the reply copy, a Ghost; Raul is a cyborg.*

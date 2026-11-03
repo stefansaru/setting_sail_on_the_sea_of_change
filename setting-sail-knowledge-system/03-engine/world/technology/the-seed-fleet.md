@@ -37,7 +37,7 @@ seat; **Hull Four** is the one the story breaks.
   **Unlisted** (`FAC-06`). In the whole voyage, nothing has been.
 - **Minds move by beam; bodies move by lifeboat.** Hull-to-hull hops are short, so a mind travels the safe
   interplanetary way ([[the-cosmic-clone-paradox]]: pause here, wake there — one continuous self). *(A dying hull can pause a mind while it has minutes left; only its last beams fork: `Q-55`.)* Bodies can only cross in **lifeboats**: small, slow, chemistry-hungry craft with a handful of bays each, and a small Tier 0 stack, tether-only, for the minds of the bodies aboard (`Q-62`).
-- **Spacing is a cost.** Safe distance means a sister hull is seconds away by light, minutes by beam (pack and send) and **hours** by lifeboat.
+- **Spacing is a cost.** Safe distance means a sister hull is seconds away by light, minutes by beam once packed (packing takes most of a subjective year, so a dying hull's minds pack at the Apex, `WR-M5`) and **hours** by lifeboat.
   Steering the whole formation (to deflect around debris) burns fuel on every hull at once — the arithmetic
   behind [[the-firing-protocol]].
 
@@ -52,7 +52,7 @@ T is real years from Raul's beam in S1E14. Cruise is about 10% of light speed, t
 | The beam lands on Hull Four | +3.9 | ~3.9 ly | Rafe wakes; at Tier 2 a real day is about ten years |
 | S4E1–9 | +3.9 to +4.2 | ~3.9 ly | The star is brightening; the ramp starts. The lure's first light lands (E6) from within about 0.27 ly ([[the-lure-beacon]]) |
 | S4E9, Teo's burst | ~+4.2, the night before the strike | ~3.9 ly | Reaches the beacon about three months later; no reply could arrive before about +4.7 |
-| S4E10, the strike | ~+4.2 | ~3.9 ly | The "station accident": a grain of natural rock (`Q-66`) |
+| S4E10, the strike | ~+4.2 | ~3.9 ly | The night the Station is holed (S1E15): a grain of natural rock (`Q-66`) |
 | S4E11–15, Hull Four's last hours | + 81 hours | | Ghosts beam out by priority, Kai last. At zero the reactor scrams; stacks to reserve (`Q-56`) |
 | Hull Four, dead | +4.2 to +8 | | Should coast alongside at cruise (seen so in E16); by E20 it is astern, and still transmitting on a reserve that can't last four years. Both are S5's first reveal |
 | Reply copy leaves | ~+4.2 | ~3.9 ly | Rafe's reply to Earth |
@@ -69,7 +69,7 @@ T is real years from Raul's beam in S1E14. Cruise is about 10% of light speed, t
 | S3E20, Mara dies; `Outbound · 4.4 ly`; Rafe's Earth copy branches | ~+38.5 | | Mara about 17; Ruth and Adam about 38 |
 | News of Mara's death reaches the colony | ~+43 | 4.4 ly | About 33 years after landfall (a-ha #12; S5 must span it or jump). The `Outbound` beam is the standing reserve's claim |
 
-So Hull Four's strike happens *before* S1 ends, and Earth learns of it as a "station accident" in S1E16. A
+So Hull Four's strike happens *before* S1 ends, and Earth learns of it in S1E16, inside Rafe's reply copy (S1E15: "the night the Station is holed"). A
 Base Shadow lives only a few subjective years of the crossing, by roster. The High Clock stands short watches: a
 real year at the Apex would be 86,400 subjective years, and the reactor could not pay for it.
 

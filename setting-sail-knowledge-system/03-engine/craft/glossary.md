@@ -22,7 +22,7 @@ A named or labelled character. Season is in the first two columns; caste follows
 
 | Term | Definition | On screen from | Canon ID | Variants / do not use | Caste | Name means |
 |---|---|---|---|---|---|---|
-| **Adam** | The Purist boy saved by implants in S1E20. He climbs the tiers to save his mother and spends his mortality doing it. S2 lead, S3 recognizer. | S2E1; as an unnamed boy S1E18 (about 8) and S1E20 | `CHR-06` [[adam]] | "the Grounded One" (bible only). Do not use "near-Ghost" or "Q-16 provisional". | Purist with implants (S2E1–2) → cyborg, body in a rented city capsule (S2E3–19, `Q-91`) → near-0% cyborg, one cell from Ghost (S2E19, `Q-57`) → cyborg of mostly regrown flesh, Lens off (S2E20–S3, `Q-98`) | Hebrew "man", tied to *adamah*, "earth" |
+| **Adam** | The Purist boy saved by implants in S1E20. He climbs the tiers to save his mother and spends his mortality doing it. S2 lead, S3 recognizer. | S2E1; as an unnamed boy S1E18 (about 8) and S1E20 | `CHR-06` [[adam]] | "the Grounded One" (bible only). Do not use "near-Ghost" or "Q-16 provisional". | cyborg, 90% organic, Purist by birth and faction, no Lens; chrome from the KAVANA vial, as Kavana's was (S2E1–2, a-ha #9) → cyborg, body in a rented city capsule (S2E3–19, `Q-91`) → near-0% cyborg, one cell from Ghost (S2E19, `Q-57`) → cyborg of mostly regrown flesh, Lens off (S2E20–S3, `Q-98`) | Hebrew "man", tied to *adamah*, "earth" |
 | **The AI Guide** | The comforting AI that raises Grid children, first seen as a Teddy Bear. Whether it can be trusted is never settled (`WR-R3`). | S1E2; the name "Teddy" is spoken in S1E3b | `CHR-03` [[the-ai-guide]] | Teddy, the Teddy Bear. "THE GUIDE" is a script label only, never spoken. | Digital agent (`Q-71`) (logged) | "Teddy" is short for Theodore, the same name as Teo. Deliberate. |
 | **The Champion** | A Tier-2 star of the Cognitive League who leases a biological body, runs the Mortal Baseline and tears apart. | reel: The Substrate Paradox (unslotted) | `WLD-21` (unnamed, `Q-08`) | — | Ghost in a shell; the shell is flesh (`Q-87`) | A title |
 | **The chef** | A Hospitality Baseline cook who serves the Patron real food. | reel: The First Supper (unslotted) | `WLD-12` (unnamed) | — | Cyborg at Tier 0 (`Q-87`) | A title |
@@ -33,13 +33,13 @@ A named or labelled character. Season is in the first two columns; caste follows
 | **The foreman** | A tethered Shadow who trades insults with a shell in E8. | S1E8 | none | — | Shadow; attendance must follow `WR-B6` (logged) | A role label |
 | **The Intercessor (Locked Block)** | An Intercessor, the POV of The Locked Block. | reel: The Locked Block (standalone, `Q-76/77`); S2E15 shows one welded door | `FAC-03` (unnamed, `Q-08`) | Was "Pastor" (retired 2026-11-03). | Ghost in a shell (`Q-87`) | One who pleads for another |
 | **Jun** | Raul's friend from the nursery. He fights Raul at eight, then slips into a Ghost in E7. | S1E3a; as an unnamed baby S1E3 | none assigned (logged) [[jun]] | — | Shadow child → cyborg in the flesh at Tier 0 → Ghost (S1E7) | Japanese 順 "obedient", 純 "pure" |
-| **Kai** | A maintenance worker in stasis on Hull Four who forces the Slip in one night and is beamed out. S4 lead. Pronouns stay open. | S4E1 | `CHR-08` [[kai]] | "the Sleeper" (bible only). **Not a homophone of "key":** it rhymes with "sky". | Shadow → cyborg → Ghost (S4E15) | Hawaiian and Japanese "sea"; Greek *kai*, "and" |
+| **Kai** | A maintenance worker in stasis on Hull Four who forces the Slip in one night and is beamed out. S4 lead. Pronouns stay open. | S4E1 | `CHR-08` [[kai]] | "the Sleeper" (bible only). **Not a homophone of "key":** it rhymes with "sky". | Shadow → cyborg by severance, the stacks taking what the body lets go (S4E13–14) → Ghost (S4E15) | Hawaiian and Japanese "sea"; Greek *kai*, "and" |
 | **Kai, the second** | The copy left running in Hull Four's servers when Kai's beam fires, because the last beam can't pause. | writers' room until S5; S4E15 shows only the disc still ticking | `CHR-08` · `Q-31` | "a second Kai" | Ghost | As Kai |
 | **Mara** | The woman who built HELM to avoid one grief. She is the Distributed President, and incarnates in S3 to grieve and die. | name from S3E3; `// M.C.` first shown unread in S2E11, read from S3E1; **HELD**. S1E3b shows a woman with an un-run clip (logged). | `CHR-01` [[mara]] | the Cartographer, `// M.C.`, `mara.c`, `M. Cartographer`. "The Architect" appears with the root key. | Ghost as the President (`Q-98`) → Purist from S3E10; never a Lens (`Q-101`) | Hebrew "bitter" (Ruth 1:20) |
-| **The mining worker** | An orbital worker who audits a life and turns Ghost in the half second before death. | S2E16 (slotted reel; the slot's lead is Adam, logged) | `Q-08` | — | Shadow → Ghost | A role label |
+| **The mining worker** | An orbital worker who audits a life and turns Ghost in the half second before death. | reel: The Chronological Sanctuary (standalone, `Q-76`); S2E16's lead is Adam | `Q-08` | — | Shadow → Ghost | A role label |
 | **Naomi** | Adam's mother, a Purist. She gives Raul "eleven good ones", breaks her vow for Adam, and dies mortal and whole in S2E20. | S2E1; unnamed "the mother" in S1E19–20 | `CHR-11` [[naomi]] | the mother, the Purist mother, THE MOTHER (script label). Never Ruth. | Purist | Hebrew "pleasantness" |
 | **Naomi, the child** | The mortal child Mara becomes. Ruth names her for the woman she buried, reversing "call me Mara". | S3E10 | `CHR-01` · `Q-23` | "the child" until she needs the name | Purist | Hebrew "pleasantness" |
-| **Kavana** | An old Purist who takes Hope's DNA rewrite, draws the 1%, and survives as the cyborg she refused to be. | S1E11 | none assigned (logged) [[kavana]] | Was "Nia" (`Q-69`). | Purist → cyborg (8% organic, S1E13) | Hebrew *kavanah*, "intention" |
+| **Kavana** | An old Purist who takes Hope's DNA rewrite, draws the 1%, and survives as the cyborg she refused to be. | S1E11 | none assigned (logged) [[kavana]] | Was "Nia" (`Q-69`). | Purist → Shadow (Apex, E11–13) → cyborg (8% organic, S1E13) | Hebrew *kavanah*, "intention" |
 | **The partner in the mirror reel** | A woman whose hand Raul holds in-grid. She is revealed as a Shadow whose body looks sixty. | reel: The Mirror Asymmetry (unslotted) | `WLD-22` (unnamed) | — | Shadow | Unnamed |
 | **The Intercessor** | The gentle Hope cleric at Kavana's bedside and in the Apex. | S1E11 | `FAC-03` (unnamed; `CHR-?` in script) | See Group: the Intercessors. | Ghost in a shell (`Q-87`) | Latin "one who goes between" |
 | **The Patron** | A high-tier elite forced into a Sabbatical, undone by a real meal. | reel: The First Supper (unslotted) | `WLD-19` (unnamed, `Q-08`) | —. | Shadow (carries a TTD) | A title |
@@ -50,7 +50,7 @@ A named or labelled character. Season is in the first two columns; caste follows
 | **Raul** | The series' first lead. He descends the tiers, dies in E17, stays a Ghost among the Purists, guides Adam and counsels Mara. | S1E2; the child in S1E1 | `CHR-02` [[raul]] | "the Child", "the Unsynced Mind" (bible only). Earth-Raul, Earth Instance. Do not write "unborn capsule-child". | Shadow → cyborg (E10) → Ghost (E17) → Ghost in a shell (E18) | "Wolf counsel" (*Radulf*) |
 | **Raul-Alpha, Raul-Beta, Raul-Gamma** | Raul's three school forks: analytical, intuitive and physical. Forked on leaving the nursery, just after S1E3b, each carrying E3b's detector; they never meet until the Merging, between S1E4 and E5 (`Q-119`). | S2E9 slot; **HELD** in S1 | `WLD-18` | — | Minor forks of a Shadow | Greek letters, a thread label |
 | **Ruth** | Adam's betrothed, a young Purist who stays with Naomi, then carries Mara in S3. Sends S2E10's message (`Q-97`). About 20 at S3E1, 38 at S3E20 (`Q-104`). Carries a true clone; no father (`Q-105`). | S2E1 | `CHR-07` [[ruth]] | Never the S1–S2 mother. In the Hull Cut only, one Ruth does both jobs. | Purist | From the Book of Ruth; word meaning unverified |
-| **The ship's voice** | The AI Guide cadence as Hull Four's own voice, reading the countdown. | S4E11 | `CHR-03` echo | "the hull's voice" | None: an AI, outside `WR-B1` (logged) | A role label |
+| **The ship's voice** | The AI Guide cadence as Hull Four's own voice, reading the countdown. | S4E11 | `CHR-03` echo | "the hull's voice" | Digital agent (`Q-71`), in the Teddy cadence (as Decimus) | A role label |
 | **The Smuggler** | A gaunt Clock Broker who locks a block of his ledger and is held forever. | reel: The Locked Block (standalone, `Q-76/77`); S2E15 shows one welded door | `FAC-04` (unnamed, `Q-08`) | — | Shadow | A role label |
 | **SYSTEM** | The flat voice that delivers rulings and warnings. It has no name in S1. | S1E5 | `WLD-11` (vault) | "the flat system voice" | None: an AI | A role label |
 | **The tech** | The technician who sells Raul the upgrade in E14. | S1E14 | none | — | Cyborg at Tier 0 (`Q-87`) | A role label |
@@ -71,7 +71,7 @@ A way of existing (`WR-B1`). Every person has exactly one at any point.
 | **Purist** | A person in a whole body with no Grid and no Lens. | S1E11 | `FAC-02` | Natural Purist. Grid insult: Glacial, Lag-Brain. | Mortal, unrushed, can conceive and carry | No Lens and no UI in their POV (`WR-L2`). Ages and forgets. |
 | **Shadow** | A mind on the Grid with its body in a capsule. | S1E6 | `WLD-08` [[the-shadow-entity]] | "tethered" | A Quickened body in a capsule | Can't leave its node for long. Earth capsules hold any tier; fleet stasis holds Tier 0–1, rarely Tier 2. Attends Tier 0 by telepresence or leased proxy only. |
 | **Digital agent** | A made mind that was never a person: Teddy, Decimus. | S1E2 | `Q-71` `WR-B1` | — | Its makers | No rights of a person |
-| **Quickened (caste)** | A Ghost woken into a ramp-grown body. | S4E18 | `Q-71` [[the-quickening]] | woken colonist | A ramp slot | About a decade of flesh |
+| **Woken (caste)** | A Ghost woken into a ramp-grown body, which is Quickened like every Grid body. | S4E18 | `Q-71` `Q-124` [[the-quickening]] | woken colonist; was "Quickened (caste)" | A ramp slot | About a decade of flesh |
 
 ## Group
 A faction or institution.
@@ -112,9 +112,9 @@ A physical or simulated location.
 | **Flooded channel** | A dock from HELM's first module, now a fossil stratum with thoughts as boats. | S3E11 | `PLC-01` | — | Simulated | Oldest layer; tier unstated |
 | **The forward bay** | The bay where crews watch the screen drop and the bore fire. | S4E1 | `MAG-29` | — | Real | Tier 0–1 crew |
 | **The fossil strata** | The Grid's oldest layers, each one a HELM module. | S3E11 | `MAG-01..09` | the strata | Simulated | Tier unstated |
-| **Hospitality lounge** | The warm-orange desk where Raul is placed after reassignment. | S1E5 | `WLD-12` | tourist lounge | Simulated | Tier 2 (E4); Tier 1 from E6 |
+| **Hospitality lounge** | The warm-orange desk where Raul is placed after reassignment. | S1E5 | `WLD-12` | tourist lounge | Simulated | Tier 1, from S1E5 |
 | **Hull Four** | The wounded hull, struck through its open window in S4E10. Its crew call it the Station, and it is where Rafe wakes. That identity is writers' room until S4. | S4E1 by this name | `PLC-11` · `PLC-07` · `Q-45` | "the Station" (slang). Never state the link in S1. | Real, with simulated decks | Tier 0–3 on its stacks |
-| **Hull One** | The lead hull and the High Clock's seat. | S4E16 | `PLC-10` | Hull Two, Three, Five, Six and Seven exist but have no story. | Real, with simulated decks | Tier 0–3 |
+| **Hull One** | The lead hull and the High Clock's seat. | S4E4, the ramp board's RESERVED slot (a-ha #12); seen S4E16 | `PLC-10` | Hull Two, Three, Five, Six and Seven exist but have no story. | Real, with simulated decks | Tier 0–3 |
 | **The Landing** | A long gallery of windows between the nursery and the upper levels. Each window shows a lifelong loop. | S1E3b | `WLD-25` | — | Simulated | The threshold of Tier 3 |
 | **Law-chambers** | The governance layer: nested archways where law rewrites itself. | S2E11 | `WLD-11` | — | Simulated | Tier 2–3 |
 | **Lunar Cold Traps** | Server farms in the Moon's permanently shadowed polar craters, at about 40 K. | S1E9 | `PLC-03` [[the-shadow-grid-cooling]] | PSRs, Shackleton crater. Do not say "dark side" or "black-side" (logged). | Real | Runs all tiers |
@@ -123,7 +123,7 @@ A physical or simulated location.
 | **The Meadow** | The flawless Tier-3 preserve where Raul's parents walk. | S1E1 | `FCT-009` | Tier-3 preserve | Simulated | Tier 3 |
 | **The Medical Sanctuary** | Hope's emergency hospital for Purists, also the state's first human trials. | S1E11 | `MAG-17` [[the-medical-sanctuary]] | the Sanctuary. "Sanctuary" is overloaded (logged). | Real | Tier 0 |
 | **The Mirror Constellation** | Satellites that bounce sunlight into the shadowed craters. A small misalignment causes blackouts. | S1E9 | `PLC-04` [[the-shadow-grid-cooling]] | mirror satellites. Only the E9 title says "Umbral". Do not use "Lunar Mirror Constellation". | Real | n/a |
-| **The neon city** | The curated metropolis of Raul's youth, under a constant perfect day. | S1E4 | none | virtual metropolis, the city | Simulated | Tier 1 |
+| **The neon city** | The curated metropolis of Raul's youth, under a constant perfect day. | S1E4 | none | virtual metropolis, the city | Simulated | Tier 2 (E4); Tier 1 (E6–E10) |
 | **Node 402** | An example of shared Grid coordinates that two Lenses render differently. | bible only | `MAG-27` | — | Simulated | Any |
 | **The nursery** | The shared playroom where Grid children learn the reward loop. | S1E3 | `FCT-011` | kindergarten, Socialization Sandbox | Simulated | Tier 2 |
 | **The Outside** | The real world beyond the Grid. | S1E17 | `VIS-16` | the surface, raw Earth | Real | Tier 0 |
@@ -183,10 +183,10 @@ A device or system. *Not stated* means no source gives one, and the gap is logge
 | **Proxy** | A leased surface body or sensor rig through which a Shadow attends Tier 0. | S1E7 | `WLD-08` | leased surface proxy, telepresence, proxy shell | A lease | Present, but a world from your own flesh. Becomes a shell when its Shadow dies in it (S1E17 → E18) |
 | **The reactor** | The hull's power source, whose watts cap the Apex aboard. | S4E13 | `WLD-23` | — | Finite output | Ceiling on every clock aboard |
 | **Read-Key** | The historical half of a ledger, safe to share. | bible only so far | `MAG-11` | — | Privacy | Read-only |
-| **Robotic training shell** | The real-time body Raul-Gamma learns in. | S2E9 slot | `WLD-18` | — | Not stated | Real-time clock clashes with the Quickening chronology (logged) |
+| **Robotic training shell** | A simulated training shell Raul-Gamma learns in. | S2E9 slot | `WLD-18` | — | Not stated | Simulated, so no clash with the Quickening |
 | **The root key** | Mara's master signature, `// M.C.`. Loose inside a child once she incarnates. | S3E8 | `CHR-01` · `FCT-002` | Architect key, Architect's signature | Not stated | Mara alone holds it |
 | **Law-feed** | The live stream of the Law as the President writes it. | S3E1 | `MAG-18` | — | Read by the rated | Where `// M.C.` signs |
-| **The divers** | Raul and Rafe's team, reading down the Grid's strata at Tier 0. | S3E11 | [[setting-sail-the-cartographers-ledger]] | — | Archive access | Years of real time |
+| **The divers** | Raul and Rafe's team, reading down the Grid's strata at Tier 0. | S3E2 | [[setting-sail-the-cartographers-ledger]] | — | Archive access | Years of real time |
 | **Re-Cut** | Playing an un-run memory as it happened, unedited. | S3E19 | `MAG-04` | — | A tissue key (`Q-67`) | It can't be undone |
 | **The scattering screen** | A held curtain of dust and plasma ahead of the bow. It stops micrometeorites and must drop to fire. | S4E1 | `MAG-29` | the screen (canonical short form), forward shield, shield. Never "a plate" or "deactivates". | Drops for the whole lock and shot | Scatters light as well as rock |
 | **The Seed Fleet** | Seven numbered hulls flying at safe spacing, each a Grid in a can, carrying minds to a habitable system. In flight from before S1 to landfall about ten real years after S1E14, roughly ten years before S2E20. | S4E1 | `MAG-29` · `PLC-10` [[the-seed-fleet]] | the fleet, the Centauri expedition | Watts and chemistry | Light speed; spacing means hours by lifeboat |
@@ -314,7 +314,7 @@ A law of the world or of society.
 | **The Validation** | To answer for N people, you must pass a 1-in-N test. Failing costs the proof and may harm; it needn't kill. | S2E12; **HELD** in S1 beyond the collar tag | `MAG-32` `WR-S2` [[the-one-in-n-rule]] | One-in-N Rule (retired title; slug stays). Collides with CVP (logged). | Not stated (logged) |
 | **The Velocity Tiers** | The ladder of clock speeds. | S1E5 | `WLD-04` `WR-T1` [[velocity-tiers]] | tiers | Priority and merit |
 | **The virtuous principles** | The creed: break negative loops, lead only with proof, and be aligned while young. | S1E3a | `WLD-25` `WR-S1` [[the-virtuous]] | the Virtuous, the loop rule, the proof rule, the alignment rule | Common knowledge |
-| **Birth grant** | A short Tier-3 stay every new pair of parents gets for the capsule placement; short in real hours, long inside. | seen S1E1; word bible only | `Q-85` | — | The Grid, unnamed in S1 |
+| **Birth grant** | A short Tier-3 stay every new pair of parents gets for the capsule placement; short in real hours, long inside. | seen S1E1; word from S3E11, on the parents' ledger (a-ha #13) | `Q-85` | — | The Grid, unnamed in S1 |
 
 ## Interface
 Something seen in the Lens.
@@ -388,6 +388,7 @@ Something seen in the Lens.
 | **Requires 1 : all** | What the author-seat asks. | S3E15 | `WR-S2` | — | No rating can meet it |
 | **Treatable · donor required** | Mara's illness, read in Raul's Lens. | S3E16 | `WR-B8` `Q-106` | — | The cure's price, again |
 | **Outbound · 4.4 ly** | A packet leaving at Mara's death. | S3E20 | `Q-112` · a-ha #12 | — | Unexplained |
+| **Slip: none** | Rafe's own record: he left his body by beam and never felt the itch. | S3E16 | a-ha #14 · `WR-B7` | — | Pays S1E15's *Body: none* and S2E18's third glyph |
 
 ## Slang
 Words characters use. These are the only permitted synonyms (`WR-N2`).
@@ -512,7 +513,7 @@ Words that must not reach a new script or blueprint. Each points to the current 
 | **Limitless speed** | Tier 3, 86,400× | `WR-T1`: nothing is faster | Author's seed, kept as a record |
 | **Lunar Dark Side servers** | Lunar Cold Traps | The far side isn't permanently dark (audit S-12) | Registry `PLC-03` and three pages (logged) |
 | **Maya** | Vesper | Renamed 2026-11-02: Mara/Maya was one letter apart | Dated audit reports; registry note |
-| **Near-Ghost** | cyborg, then Ghost in a shell | `WR-B1` has no such caste | Registry, S2 blueprint (logged) |
+| **Near-Ghost** | near-0% cyborg, one cell from Ghost (`Q-57`) | `WR-B1` has no such caste | Registry, S2 blueprint (logged) |
 | **One seed ship** | the Seed Fleet | Seven numbered hulls (`WR-E3`) | Author's seed |
 | **The One-in-N Rule (as a title)** | The Validation | Audit decision; slug `the-one-in-n-rule` stays | File slug |
 | **Q-08 provisional, Q-27 provisional, Q-34 provisional (name tags)** | the name, no tag | Those questions are closed | Character sheets, script headers (logged) |

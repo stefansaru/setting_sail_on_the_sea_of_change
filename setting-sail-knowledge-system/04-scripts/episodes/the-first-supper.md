@@ -6,7 +6,7 @@
 > register: morphing **Caravaggio gold** (scripted) → warm, imperfect **Caravaggio** (real). 9:16 · ~2.5 min.
 >
 > *Castes (`Q-87`): the Patron is a Shadow, here in their own body on a licensed Sabbatical (`Q-72`, the one
-> exception to `WR-B6`); the chef is a cyborg at Tier 0, in the flesh.*
+> exception to `WR-B6`); the chef, and the attendant who supervises the Sabbatical, are cyborgs at Tier 0, in the flesh.*
 
 ## Setup & hook (0:00–0:05)
 The Patron executes a **`Vintage Cabernet`** [[flavor-scripts|Flavor Script]] — no glass, no mouth, just

@@ -50,7 +50,7 @@ setting is simply a cage or simply a gift.
 ## Open questions
 - What exactly is a detector's false-positive rate, and has anyone been forced out of a *justified* fight?
 - ~~Is a child's Merging ([[parallel-pedagogy]]) when alignment turns from default into a choice?~~ **Yes
-  (`Q-119`):** Raul's detector and alignment were installed in E3b on his one pre-fork chain, copied into all three
+  (`Q-119`):** Raul's detector was installed in E3b, with the alignment (on by default, `WR-L4`) acting on it for the first time, on his one pre-fork chain, copied into all three
   school threads, and handed back as one at the Merging, where the default becomes an adult's to switch off. He does
   in E19. In E20 he turns the Lens back on and leaves the alignment off.
 

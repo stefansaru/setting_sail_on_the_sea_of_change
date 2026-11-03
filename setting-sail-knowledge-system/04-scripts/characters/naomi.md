@@ -19,7 +19,7 @@ updated: 2026-11-03
 A **Natural Purist** (`FAC-02`). Unnamed on screen in S1, where she is only "the mother"; she is first named in S2.
 
 ## Arc
-- **S1E19–20:** tells Raul she has eleven good years. Lays a warm hand on his chrome wrist. Then her son falls
+- **S1E19–20:** answers Raul's "eleven years" with "Eleven good ones." Lays a warm hand on his chrome wrist. Then her son falls
   ill and she begs Raul for an answer he won't give.
 - **Season 2:** her eleven years are the season's clock. She ages in real time while Adam dilates away.
   - **E1:** a notch on her lintel for each year since the implants: ten, and room for one more (a-ha #3 plant).

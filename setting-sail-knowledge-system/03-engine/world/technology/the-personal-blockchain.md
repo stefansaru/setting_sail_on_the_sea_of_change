@@ -27,7 +27,7 @@ without being lost or deleted.
   - **Read-Key** — the *historical memory database / life-logs*. Read-only; harmless to share.
 - **Cryptographic sovereignty.** Each individual holds both private keys — innermost thoughts and
   secrets stay private.
-- **The Full Disclosure Clause.** On **permanent deletion or physical death**, an opted-in citizen's
+- **The Full Disclosure Clause.** On **permanent deletion or physical death**, every citizen's (the default; a few opt out, and E12's Chain-Check presses them, `WR-S5`, `Q-124`)
   **Read-Keys only** are broadcast to the public network (so society can harvest their life-history)
   while the **Identity-Key is securely, permanently wiped** — disclosure shares the record, never the
   living self.

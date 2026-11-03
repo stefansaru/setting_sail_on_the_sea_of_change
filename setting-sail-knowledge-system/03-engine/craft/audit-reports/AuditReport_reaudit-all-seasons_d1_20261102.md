@@ -94,3 +94,25 @@ The author delegated the remaining decisions. Round 1 applied rulings `Q-85`–`
 | S4 | 33 / 5 / 9 | 41 / 1 / 8 | glossary rows, now added |
 
 Hull and Braided Cuts pass their internal checks after round 1; neither was re-checked against `Q-119`. Round 2 repaired six cross-season threads (#9, #12, #13, the tissue lock, Raul's Lens, Parallel Pedagogy) and wrote one timeline into [[the-seed-fleet]]. No independent full re-audit has run since round 2.
+
+## 7. Third full audit, 2026-11-03 (after commit 74fb045)
+Five independent read-only audits (one per season, one for both cuts), then fixes applied the same day.
+
+| Target | Pass | Fail | N/A | Season row | `WR-F3` | `WR-X4` | Fails (all fixed) |
+|---|---|---|---|---|---|---|---|
+| **S1** | 42 | 3 | 5 | Pass | 3.7 | 4 | B1 (Kavana, window woman, supper attendant), M5 (packing time), E1 (Rafe's watches unbudgeted) |
+| **S2** | 40 | 1 | 9 | Pass | 4 | 4 | B1 (Adam's caste) |
+| **S3** | 36 | 3 | 11 | Pass | 4 | 4 | N1 (`Slip: none`), N5 ("birth grant"), X2 (Vesper reunion unspent) |
+| **S4** | 39 | 3 | 8 | Pass | 4 | 4 | T4 (Kai's E20 clock), B1 (ship's voice), N1 (Hull One) |
+| **Hull Cut** | | 2 | | Internal test fixed | | | Glyph timeline; audit note; Q-71/Q-69 wording; Raul's T |
+| **Braided Cut** | | 1 | | Order passes | | | Decimus first appearance (fixed); one-reveal-per-reel still fails by design |
+
+- About 75 edits, no misses. Delegated calls logged as `Q-121` (Vesper reunion spent S3E14; her clock ran in bursts),
+  `Q-122` (Kai's E20 clock), `Q-123` ("birth grant" on screen from S3E11; Hull-Cut Guide and Raul's T), `Q-124`
+  (caste renamed **Woken**; Raul packs at Tier 1; Full Disclosure default with opt-out; Kavana a Shadow in the Apex).
+- Contradictions cleaned: stale `Q-14`/`Q-23`/`Q-24`, "station accident" → "the night the Station is holed", SAVE is
+  the patch not the alignment, alignment on by default (not won), the last copy of Mara's genome on Earth, Locked Block
+  as one welded door, Mirror Asymmetry can't air in S1.
+- Link check: 18 non-story placeholders, no undefined `Q-` or `WR-` references, 52 `WR` rules.
+- **Still open:** the Braided Cut's folded reels exceed one major reveal (needs re-scripting or the 45-reel version, `Q-41`);
+  `Q-09` (Hope placement), `Q-15`, `Q-18`, `Q-19`; S5's packet contents and who pays its Apex pack.

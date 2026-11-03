@@ -49,7 +49,7 @@ from hardcoded programming.
   It stays on through S2 (the third glyph, S2E18) and S3 (every UI beat on Ruth and Mara). Adam mirrors him: he
   switches his own off at his mother's bedside in S2E19 and keeps it off.
 - **Parallel Pedagogy (`Q-119`, `WLD-18`):** E3a–b are the nursery's last days, so Raul is still one child there. He
-  forks into Alpha, Beta and Gamma on leaving it, just after E3b, at about 8; the detector and alignment won in E3b
+  forks into Alpha, Beta and Gamma on leaving it, just after E3b, at about 8; the detector won in E3b and the alignment, on by default, acting on it for the first time
   go into all three threads. E4 follows one thread, unlabelled. The Merging falls between E4 and E5 and issues the
   hollow glyph. The forks are never named in S1 (HELD to S2E9).
 - **Glyph:** the inherited **hollow "Camel's Doughnut"** (graduation) → **fractured** (E10) → first

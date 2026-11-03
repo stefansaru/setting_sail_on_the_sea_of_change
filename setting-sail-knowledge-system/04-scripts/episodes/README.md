@@ -20,7 +20,7 @@ scripts** live here; this file is the **index**.
   Latest pass: `audit-reports/AuditReport_s1-revelation-cadence_20260605` — **PASS** (one OWNER item: E12).
 
 > **Season 1 status: 22 scripts, all full drafts (✅): E1–20 plus lettered E3a–b (`Q-39`).** Open items are author calls
-> (Raul↔Hope `Q-09`, Merge/Branch `Q-14`), not gaps.
+> (Raul↔Hope `Q-09`), not gaps.
 
 ## Act I — The Accelerated Utopias (Phase A) · Raul **100% organic**
 | Ep | Title | Tier | ✓ | File |
@@ -65,11 +65,11 @@ scripts** live here; this file is the **index**.
 |-------|-----|---|------|
 | The Chronological Sanctuary | outrun-death; slot **S2E16** (`Q-11`), recast as Adam (`Q-76`) | 📋 wordless, retimed (`Q-89`) | [[the-chronological-sanctuary]] |
 | The Split Mirror | Raul's Merging origin; slot **S2E9** (`Q-11`, `Q-76`) | ✍️ some lines, retimed (`Q-89`) | [[the-split-mirror]] |
-| The Proximity Illusion | Raul & Vesper (backstory); slot **S2E7** (`Q-11`) | 📋 | concept in [[frequency-tribes]] |
+| The Proximity Illusion | Vesper, now a Ghost, met by Adam; slot **S2E7** (`Q-92`) (`Q-11`) | 📋 | concept in [[frequency-tribes]] |
 | The Dream Hunger | TTD countdown; slot **S2E6** (`Q-11`, `Q-76`); outside S1 continuity (`Q-46`) | ✍️ some lines | [[the-dream-hunger]] |
 | The Substrate Paradox | Substrate-Olympics desync (culture; S2 candidate) | ✅ | [[the-substrate-paradox]] |
 | The First Supper | Flavor Scripts vs Hospitality (culture; licensed Sabbatical, `Q-72`) | ✅ | [[the-first-supper]] |
-| The Locked Block | Encrypted-Block Paradox at Hope; **S2E15** (`Q-77`) | ✅ | [[the-locked-block]] |
+| The Locked Block | Encrypted-Block Paradox at Hope; one welded door at **S2E15** (`Q-77`, `Q-116`), recalled S3E13 (`Q-119`) | ✅ | [[the-locked-block]] |
 | The Mirror Asymmetry | Aesthetic Dichotomy demo, split-screen (unslotted) | ✅ wordless by design, retimed (`Q-89`) | [[the-mirror-asymmetry]] |
 
 > **Deferred to S3 reserve** (no S1/S2 home): Turrell Raves & Historical Parsing ([[recreation-culture]]),

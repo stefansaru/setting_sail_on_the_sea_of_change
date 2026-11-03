@@ -144,7 +144,7 @@ TikTok/YouTube retention curve.
      officials and wins a [[the-pattern-detector|pattern detector]]. Back home, Raul's hand opens without him.
      *UI:* the thread, **LOOP FORMING**, a square that fills itself. → script `s1e03b`. *(Numbering: `Q-39`.)*
    - *Parallel Pedagogy (`Q-119`, `WLD-18`):* E3a–b are the nursery's last days, so Raul is still one child. He forks
-     into his three school threads on leaving it, just after E3b; the detector and alignment won in E3b go into all
+     into his three school threads on leaving it, just after E3b; the detector won in E3b and the alignment, on by default, acting on it for the first time go into all
      three. E4 follows one thread, unlabelled; the Merging falls between E4 and E5. The threads stay HELD until S2E9.
 4. **Internalizing the Exterior** — *Tier 2.* Now an adolescent digital entity in a curated virtual
    city, accepting societal rules unquestioningly, sure their [[the-perspective-lens-ui|Lens]] *is*

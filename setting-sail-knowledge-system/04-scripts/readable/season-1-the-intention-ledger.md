@@ -289,7 +289,7 @@ pulled back, and Raul understood what he was looking at: the physical body of th
 mind, and billions of others, actually lived. Above the sunlit crater rim a delicate constellation of mirror
 satellites caught raw sunlight and bounced it down in precise blades to feed the dark.
 
-Tiny in his lounge a quarter-million miles away, he realized that everything — the neon city, Jun, his own
+Tiny in his lounge, his body a quarter-million miles away, he realized that everything — the neon city, Jun, his own
 thoughts — ran on *this*: ice, shadow, and a fragile net of mirrors.
 
 Quietly, he said it aloud: "All of us… in *there.*"

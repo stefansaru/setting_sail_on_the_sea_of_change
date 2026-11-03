@@ -38,7 +38,7 @@ Sources: [[the-virtuous]] · [[the-one-in-n-rule]] · [[the-pattern-detector]].
 | E14 | **The Data Graveyards hold failed forks** (`Q-37`). Minds looping one frame carry the names of Earth's merit-holders. One row is empty: Vance's. He never failed anything. **✅ placed** (the Validation's turn). | 💥 |
 | E15 | Adam takes Vance's keys knowing they are a forger's (`Q-61`), and never takes the Validation himself. **✅ placed.** The candle-vs-rating mirror is left to the existing Absolution candle. | 🪞 |
 | E18 | Raul is confronted as unrated: Adam's Lens tags him **UNRATED**. **✅ placed** as UI, not the spoken line. | 🪞 |
-| E19 | Adam reaches to switch his Lens off and can barely do it. The alignment fills **SAVE** and his hand starts to open. **✅ placed** (a-ha #8). | 🪞 |
+| E19 | Adam reaches to switch his Lens off and can barely do it. The patch's last installment fills **SAVE** (`Q-96`, `Q-116`; not the alignment setting, `WR-L4`) and his hand starts to open. **✅ placed** (a-ha #8). | 🪞 |
 | E20 | One square nothing filled for him: *Choose*. **✅ placed** (a-ha #8). | 🪞 |
 
 ## Season 3 — the exception

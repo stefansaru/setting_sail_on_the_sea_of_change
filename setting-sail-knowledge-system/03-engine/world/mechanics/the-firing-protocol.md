@@ -60,4 +60,4 @@ The disc with the bore is the series' doughnut-and-arrow (`VIS-12`); the open wi
 - [[the-seed-fleet]] — the screen and the bore. [[the-sealed-manifest]] — "sensor fault."
 - [[the-lure-beacon]] — how the Unlisted knew where the window would open.
 - [[the-doughnut-principle]] — the two arrows: deflect / fire.
-- Canon: `MAG-30` in [[canon-registry]]. Season: [[setting-sail-the-seed-ledger]] (E1, E6, E8, E10, E19).
+- Canon: `MAG-30` in [[canon-registry]]. Season: [[setting-sail-the-seed-ledger]] (E1, E6, E9, E10, E19).

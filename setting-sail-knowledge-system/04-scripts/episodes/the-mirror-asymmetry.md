@@ -6,7 +6,7 @@
 > (`VIS-13`); format 9:16 ([[the-perspective-lens-ui]]). Audit with
 > [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md).
 >
-> **Slotting:** unslotted demo of the dichotomy — fits the S1 descent (Raul as Shadow/cyborg in a dreamless
+> **Slotting:** unslotted demo of the dichotomy — Vesper's reel (`Q-115`): can't air in S1 (vault); fits S2 at or after E7 (Raul as Shadow/cyborg in a dreamless
 > sim). Confirm placement (slot open, `Q-11`); the specific partner can be tuned to a stranger or a known
 > thread.
 

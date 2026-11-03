@@ -35,7 +35,7 @@ Purists]] (`FAC-02`). *"I cannot wait to find myself."*
 ### The mechanism — DNA as the lossiest save-file
 A distributed god cannot fit a single body. So embodiment = **compression**, and the ultimate compression of
 a mind is a **genome**. The President is a **Ghost** who once had a body (`Q-98`, `Q-67`); her own genome was kept
-from it. She imprints a **shard** of herself onto a copy of that genome, and a Purist must carry the embryo — a
+from it. She imprints a **shard** of herself onto that genome, the last copy on Earth, and a Purist must carry the embryo — a
 **true clone of herself in flesh** (`Q-105`). Ruth only carries; there is no father. The tissue is the same tissue
 her lock was keyed to (`Q-67`), which is why only the child can open it (E13 → E19). *Bible, never said in S3
 (`Q-119`):* she still had that body when the Seed Fleet launched, about T−36. The same hand set the fleet's
@@ -145,7 +145,7 @@ own (see *Reserve Vault — S3*).
    God chooses flesh. *UI:* source code resolving, line by line, into a **genome helix.**
 
 ### Act II — Writing Herself Into Flesh (Ep 6–10) · *the incarnation · Ruth the surrogate · Mara → fetus, organic clock begins*
-6. **The Genome Translation** — *the mechanism.* She imprints a shard onto a copy of her own kept genome (the lossiest
+6. **The Genome Translation** — *the mechanism.* She imprints a shard onto her own kept genome, the last copy on Earth (the lossiest
    save-file); only a fragment fits; the child will **forget she is God** ([[the-memory-substrate]]). The turn is
    **Rafe's**: the god asks the one mind who has lived as the fork that left whether a fork should be made, and he
    says yes, and packs the shard himself (a fork is a person; he is one). Then the rival-engineer tries to build it
@@ -210,7 +210,7 @@ and their ledger logs no visit. *Recall cue (≤ 2 s):*
     values** by living them, not in any stratum — not knowing she is re-deriving the very ledger she once wrote for
     everyone (the [[camel-lion-child-trilogy|camel→lion→child]] spine; Authorship, `MAG-06`, stays a glimpse).
     **Adam, back in the village, sees what she is looking for.** *UI:* in Raul's Lens, the Standing field over her
-    is blank — the same blank as `mara.c` in E3 (`FCT-005`, internal reminder).
+    is blank — the same blank as `mara.c` in E3 (`FCT-005`, internal reminder). At the fire, a leased shell Raul has never seen; in his Lens its tag reads `VESPER · Tier 0`. She has slowed to his clock. No line (`Q-121`; a-ha #15's last touch).
 15. **The Bliss Door** — *(Module 7 — Bliss; `MAG-07`; T ≈ +37, Mara about 16).* The experience-machine (hedonic
     flatline). **Vance reaches the root chamber first** — he means to *seize* the key and rebuild the
     [[intention-in-context-law|Law]] in his image ([[intent-patch]]). The seat answers for everyone, so it asks a
@@ -228,14 +228,13 @@ and their ledger logs no visit. *Recall cue (≤ 2 s):*
     (reminder of E1's loose cure and S2E18's rule, `WR-B8`). Beside it, Rafe's own record, one line: `Slip: none`.
     He left his body by beam and never felt the itch (a-ha #14).
 17. **Too Late, Reversed** — *the crossing.* **Adam** finds her — the inverse pilgrim. Draft line, echoing Raul's S2E18
-    line back at the next pilgrim (a second on-the-nose line; keep only if it earns a `WR-F4` sign-off like `Q-94`): *"I gave up everything
+    line back at the next pilgrim (a signed `WR-F4` exception, `Q-120`, like `Q-94`): *"I gave up everything
     to feel one mortal thing. You gave up everything to feel all of it — and now you'll lose it too."* He
     tells her what she was: a **deliberate, costed breach** of the tribe's one vow (`Q-60`, `Q-102`). *No UI* (rotated
     ending): Adam's Lens is off (`Q-98`) and she never had one, so the reel plays in raw sight — his hand, chrome seams
     where the S1E20 implants stayed, beside hers, unmarked. At dawn his place at the fire is empty, and his bedroll is
     outside the fence: he has lost his place in the tribe.
-18. **The Root Key** — *Vance forces the question.* The key is in her living tissue, where no rating reaches; it can
-    come back into the Grid only if the shard does. So the **re-merge is put to the god, not the girl** (`Q-65`):
+18. **The Root Key** — *Vance forces the question.* The key is in her living tissue, where no rating reaches; her touch can turn it, but only for herself: the seat takes its author back only if the shard comes home. So the **re-merge is put to the god, not the girl** (`Q-65`):
     pull Mara home (saving the seat, ending her mortality) or let her **stay small**, and the author-seat stays vacant.
     Vance, in a leased shell, makes his case (`Q-103`): *"A world with no author is a world no one answers for."*
     **Ruth objects** (`Q-100`): *"She's seventeen."* **Raul's trust arc climaxes:** he counsels the god to let her
@@ -258,8 +257,7 @@ and their ledger logs no visit. *Recall cue (≤ 2 s):*
     would have, and turned down (S2 vault, `WR-X2`). Having metabolized the
     founding grief **as a mortal,** Mara completes the Doughnut the way godhood never could — holds joy and
     pain at once, then **dies mortal and whole.** In dying she **releases the Grid from its author:** the root key
-    dies with her tissue, so no one on Earth can ever hold the seat (`WR-S2`; the only other copy of that tissue is
-stilled on Hull One, 4.4 light-years and decades away, `Q-119`), and no
+    dies with her tissue, so no one on Earth can ever hold the seat (`WR-S2`; *bible only:* the only other copy of that tissue is stilled on Hull One, 4.4 light-years and decades away, `Q-119`), and no
     longer driven by one buried, unprocessed loss, the system may no longer be a
     runaway grief-engine. The third Doughnut: not Raul's earned **solid**, not Adam's **cracked** too-late,
     but the **Incarnate Ring — a god who became small enough to lose, and so, at last, balanced.** Raul
@@ -280,6 +278,9 @@ stilled on Hull One, 4.4 light-years and decades away, `Q-119`), and no
 | The Distributed President's *ultimate* nature | **It is Mara** — runaway, scaled, automated grief; and she **incarnates.** |
 | **Rafe** (`Q-14`) | The **E16 reply copy**, paused on Earth (`Q-45`, `Q-54`), woken in E2 as the **rival-engineer** — "a better system" vs. "no system heals grief" (shown E12). Ends in a **Branch** at E20 (`Q-99`). |
 | Whether **Raul's** guidance is trustworthy | **Answered:** he was right to counsel the god toward mortality (E18 → E20). |
+| **The Raul–Vesper reunion** (`CHR-05`) | **Spent E14** as simultaneity: she comes down to his clock, no line (`Q-121`). |
+| The **welded door** (S2E15) | The **tissue lock**: `Key: tissue` (E13), Mara's touch (E19) (`Q-67`, `Q-119`). |
+| The **Hurried** (S2E5) | The word turned on Mara's Purist ward (E7). |
 | What **Adam's cure** does to the world | He lives his borrowed mortal life as the **recognizer** of the incarnate god; and the cure, offered to her by a dying elder, is **refused** (E1 plant → E16 reminder → E20 payoff, `Q-106`). |
 
 ## Reserve Vault — Season 3 (what S3 still withholds)
@@ -290,8 +291,7 @@ The triptych is closing, but the world stays larger than the frame:
   E20's `Outbound · 4.4 ly` keeps the question open while planting a-ha #12 (S4E4's sealed slot, S4E18, paid S5; `Q-112`).
   It leaves at about T+38.5 and lands on the colony about T+43, some 33 years after landfall. Which shard it carries,
   the god's remainder or what the girl became, is S5's (`Q-119`).
-- **The Raul–Vesper reunion** (`CHR-05`) — promised open since S2E7; **stays open past S3** (a-ha #15 has paid;
-  the reunion is a separate thread).
+
 - **Rafe's separate civilization** — glimpsed, never toured. *(→ toured, provisionally, as the
   **Seed Fleet** of [[setting-sail-the-seed-ledger|Season 4]] — `Q-28`, added 2026-10-12.)*
 
@@ -303,8 +303,7 @@ Audit each drafted S3 script with [`../prompts/audit-script.md`](../prompts/audi
 the **9:16 UI** (`VIS-08`; Mara never has a Lens, so every UI hook on her, E7 onward, is drawn in Raul's, `WR-L2`; the
 President speaks through Raul's shell and the clip reaches her on a physical screen, `Q-101`), and the **rendering style** (`VIS-13`) consistent (`ANTH-06`).
 Rulings applied 2026-11-03: `Q-53..Q-108` as they touch S3 (see the clock table, E1–E20). New `Q-`: `Q-20`
-S3 title · `Q-21` Raul-as-lead confirm · `Q-22` Rafe ally vs. rival · `Q-23` the incarnate child's mortal
-name · `Q-24` does the finale free the Grid (commit) or leave it ambiguous.
+S3 title · `Q-21` Raul-as-lead confirm · `Q-22` Rafe ally vs. rival · ~~`Q-23`~~ Naomi (provisional) · ~~`Q-24`~~ freed: no one on Earth can hold the seat; the fleet's genome copy is S5's (`Q-120`).
 
 ## Related
 - The triptych: [[setting-sail-tier-descent]] (S1) · [[setting-sail-tier-ascent]] (S2) · this (S3).

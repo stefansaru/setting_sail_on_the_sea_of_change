@@ -29,7 +29,7 @@ black.
 
 *Canon: data-beam/fork ([[the-cosmic-clone-paradox]]); Neural-Synthetic Upgrade → **30%** + wireframe
 glitch ([[progressive-digitalization]]). Sets up E15 (the clone) and E16 (the collision). Staging (`Q-86`,
-`WR-B6`): Raul's body stays in its capsule, where the rigs operate; he attends the launch glass by leased proxy at
+`WR-B6`): Raul's body stays in its capsule, where the rigs operate; Packing (`Q-50`, `WR-M5`, `Q-124`): eight subjective months, run at Tier 1 in his Earth capsule (`WR-B5`), about four real days inside the weeks since E10; the upgrade buys bandwidth, not time. Kai meets the same arithmetic without the time (S4E13–15). He attends the launch glass by leased proxy at
 Tier 0. Castes (`Q-87`): the tech is a cyborg at Tier 0, in the flesh. Want: *Go* is the first square Raul writes
 himself (E5's *Serve* was written for him; E8's *Choose* was the first the system didn't write; a-ha #8), and it is
 the want E17's *reach · feel something real* finishes.*

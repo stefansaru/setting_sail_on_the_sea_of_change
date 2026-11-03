@@ -219,7 +219,7 @@ one major reveal per reel ([[revelation-cadence]]); the aliens are **never shown
    reads loops, not ends (a-ha #8, the thread's last return). **The fleet has given itself away.**
 10. **The Open Window** *(mid-season)* — *Hull Four.* (What hits is a gram-scale grain of natural rock, `Q-66`; the debris scheduled in E9 is unrelated, and the High Clock reads Teo's burst only afterwards.) The firing day: the screen drops, the long lock
     begins, the bore fires, the scheduled rock dies — and in the same open second **something that was not
-    listed comes through the bore's line.** Hull Four is struck head-on (a-ha #5: this is S1E15's "station accident"; never said on screen, the viewer joins it). The log reads *sensor fault*. *UI:*
+    listed comes through the bore's line.** Hull Four is struck head-on (a-ha #5: this is S1E15's "night the Station is holed"; never said on screen, the viewer joins it). The log reads *sensor fault*. *UI:*
     the disc glyph **cracks**; the frame goes to the Rothko **Despair field** and holds. Cut to black.
 
 ### Act III — The Countdown (Ep 11–15) · *Tier 0 → 3 · Kai 100% → 0% · Phase C: the storm inside the hull*
@@ -279,7 +279,7 @@ one major reveal per reel ([[revelation-cadence]]); the aliens are **never shown
     the aliens: a line in a log. Nothing is shown. Writers' room: the beacon sits within about 0.27 light-years, so
     nothing it sent could have reached Hull Four in the days between burst and hit ([[the-lure-beacon]]). The burst
     didn't cause the hit. It gave away the vector, and that bill is S5's.)* *UI:* the disc glyph, **re-drawn solid** — as a Ghost's.
-20. **Visual Range** — *forward bay, Hull One, about four real years later. Kai has stood short watches since E19, on Rafe's ration (`Q-109`).* On the array's feed the destination planet resolves from a point to a disc —
+20. **Visual Range** — *forward bay, Hull One, about four real years later. Kai has stood short watches since E19, on Rafe's ration (`Q-109`): about one real day at Tier 2 across the four years, some ten subjective years, Rafe's own first decade aboard (S1E15) repeated (`Q-122`).* On the array's feed the destination planet resolves from a point to a disc —
     **seen through the bore of the shield**, a world inside a doughnut. The base is told the ramp resumes.
     Kai, who could now wake into flesh only by taking someone's slot, watches the people who will. Rafe's collar,
     blank at E16, now carries a rating; the four years' cost is not shown (`Q-64`, Validation). Last image: far astern,

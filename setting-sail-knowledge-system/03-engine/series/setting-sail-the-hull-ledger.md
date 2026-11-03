@@ -11,7 +11,7 @@
 > still climbs them; Mara still turns out to be the author of the world and still chooses to be born and
 > die; Kai still forces the Slip in one night. But the Grid is **the fleet**, the Purists are **the Wake
 > Deck**, the Distributed President is **the High Clock's founder**, the Cracking of the Sky is **the hit
-> through the open window**, and the Branch is **the copy of Kai that the last beam off a dying hull could not
+> through the open window**, and the Branch is **the second Kai, the fork that the last beam off a dying hull could not
 > pause.** Nothing is beamed from anywhere; everyone is already here. Register unchanged: *Black Mirror /
 > Silo*, claustrophobic and procedural. **20 episodes × 2.5 min**, 4 Acts of 5. *(A 40-episode version —
 > Acts I–II as a season, Acts III–IV as a second — is noted at the end.)*
@@ -28,7 +28,7 @@
 | The Centauri data-beam & Branch (S1E14–16, `MAG-12`) | the **beam-out from a dying hull** — a copy that cannot be paused; a Kai stays on Hull Four |
 | Adam's cure and climb (S2) | Adam, a Wake-Deck boy injured in the hit, saved by emergency implants that **need the stacks** — he climbs for maintenance and the pain stops |
 | Vance (`CHR-04`) | a High Clock Ghost — the optimization voice on the council; bargains Ruth's chemistry for Adam's flesh |
-| The Distributed President = Mara (S3, `TML-06`) | **the fleet's mind = Mara**: the High Clock's founder, the hull's voice (the Teddy-Bear Guide), the author of the pyramid. She incarnates through the **synthesis ramp** — the first body grown near the destination is hers |
+| The Distributed President = Mara (S3, `TML-06`) | **the fleet's mind = Mara**: the High Clock's founder, the mind behind the hull's voice (the Teddy-Bear Guide, a digital agent she made, `Q-71`), the author of the pyramid. She incarnates through the **synthesis ramp** — the first body grown near the destination is hers |
 | Mara's surrogate Ruth (S3) | Ruth, of the Wake Deck, **carries the ramp's first embryo** in her own unrushed body, so the god is born a colonist and not Quickened |
 | The lure, the hit, the Slip, the manifest (S4) | unchanged — the spine of Acts II–III |
 | Part 2 / S5 (the colony, the revolt) | still held; the Hull Cut also ends at **visual range** |
@@ -61,8 +61,7 @@ the subtraction), Mara's (hold the joy and the grief), Kai's (hold *I escaped* a
 - **Mara:** distributed → **compressed to DNA** (E18–19) → **the ramp's first embryo, carried by Ruth** (E20) — 0% to 100%.
 
 ### The glyph
-One icon for all four: the **shield disc with its bore** (`VIS-12`). Whole (Act I) → open (E8–10) → cracked
-(the hit) → re-drawn solid (E20), with the planet inside it.
+One icon for all four: the **shield disc with its bore** (`VIS-12`). Whole (E1–3) → open (E4; again E10) → cracked (the hit) → re-drawn solid (E19), with the planet inside it (E20).
 
 ---
 
@@ -71,10 +70,9 @@ Format per episode: **Setting · Plot · UI/Visual hook.** 4-beat template; one 
 ([[revelation-cadence]]). The aliens are never shown.
 
 ### Act I — The Pyramid (Ep 1–5) · *the descent · Raul 100% · Phase A: the serene dark*
-1. **The Meadow in the Hull** — *Hull One, Tier 2.* Raul is born into a capsule ([[capsule-birth]]) and
+1. **The Meadow in the Hull** — *Hull One, Tier 2.* Raul is born into a capsule ([[capsule-birth]]), about a year before the ramp starts (T ≈ +3) and
    wakes in a meadow that is a sim running at 3,600×, the fleet's birth grant and the fastest clock a body aboard
-   is ever allowed (`Q-85`, `WR-B5`). His parents' bodies rest in bays below. The Guide is
-   a Teddy Bear whose voice is the hull's own. *UI:* the disc glyph, whole; nobody yet calls it a shield.
+   is ever allowed (`Q-85`, `WR-B5`). His parents' bodies rest in bays below. Teddy, a bear, keeps him company. *UI:* the disc glyph, whole; nobody yet calls it a shield.
 2. **Watts and Chemistry** — *the teaching sim.* Raul is taught the pyramid as a kindness: fast minds cost
    light, slow bodies cost chemistry ([[the-stasis-economy]]); the fleet carries its people as minds so it can
    arrive. "Arrive" is the first Intention square he is given. *UI:* the two budgets as two circles.
@@ -147,7 +145,7 @@ Format per episode: **Setting · Plot · UI/Visual hook.** 4-beat template; one 
     pays for Kai's Apex time in E18–19 and the watches to E20. Reading [[the-sealed-manifest]] on it, Kai finds whose
     chair it is: **Mara** — the fleet's mind, the hull's voice, the author of the pyramid — a woman
     who built a world where nobody has to grieve because she could not. And one more line: **the first body
-    the ramp grows is hers.** She has put herself in the queue to be born, forget, and die. Kai hears Raul's last
+    the ramp grows is hers.**  Kai hears Raul's last
     words again, and now knows who they were about. *UI:* Albers archways; the base's tiny frame at the centre.
 19. **Sensor Fault** — *the shared array, on the chair's ration.* Hull Four's last log at Apex speed: a grain of
     natural rock, and its timestamp sits under the burst logged leaving Hull Four in Teo's hand. The log never says
@@ -180,15 +178,14 @@ Format per episode: **Setting · Plot · UI/Visual hook.** 4-beat template; one 
 ## Audit & consistency note
 Same canon, same rows, no new IDs. *(The 2026-11-02 split of Ruth/Naomi, `Q-44`, is not applied here: this cut
 keeps one Ruth, alive at the end. Fleet decisions in `Q-46`, `Q-50..52`, `Q-55`, `Q-56`, `Q-62`, `Q-63`, `Q-66`,
-`Q-85` (as a fleet birth grant at Tier 2), `Q-111` and `Q-113` do apply. Rafe, `Q-109` and the manifest's tissue lock
+`Q-69`, `Q-71`, `Q-78`, `Q-85` (as a fleet birth grant at Tier 2), `Q-111`, `Q-113` and `Q-118` do apply. `Q-119`'s stored genome and `Q-120` are not used: Mara compresses herself to DNA. Rafe, `Q-109` and the manifest's tissue lock
 `Q-110` belong to the canon S4 and are not used here: the founder's chair is this cut's sealed thing.)* Keep tier ratios (`WLD-04`), the body-clock waypoints, the disc glyph
 (`VIS-12`), the 9:16 UI, the palettes (`VIS-15`). The one canon *reading* that changes: the Purists
 (`FAC-02`) are the Wake Deck, and `PLC-06` (the Purist Village) becomes Hull Four's base deck. If this cut
 is ever chosen over the triptych, those two rows get a dated supersede note — not before.
 
 **Requirements set aside:** the Earth setting and `WR-E4` (ruled). Following from those: `WR-B3` for Raul (ends at 30%, `Q-78`) and for Adam (starts at
-100%, no 90→60→30→~0) and Mara's path, `WR-E5`, `WR-X1`, `WR-X2` (one story, one vault), `WR-R3` (the Guide's voice is
-Mara's). `Q-44` is not applied: one Ruth, alive at the end. *(Fixed 2026-11-03: Raul's E1 body no longer runs at
+100%, no 90→60→30→~0) and Mara's path, `WR-E5`, `WR-X1`, `WR-X2` (one story, one vault), `WR-R3` (the Guide speaks for Mara). `Q-44` is not applied: one Ruth, alive at the end. *(Fixed 2026-11-03: Raul's E1 body no longer runs at
 the Apex; the fleet's birth grant is Tier 2, which `WR-B5` allows on rare credit.)*
 
 ## Related

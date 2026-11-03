@@ -30,8 +30,7 @@ drawn in Raul's; the President speaks to the village through **Raul's shell**.
 - **S1 (trace only).** One unnamed image: the woman with the un-run clip at the last window (S1E3b). `// M.C.` shows once, unread, in S2E11; the foghorn, the photo and `mara.c` first surface in S3E1–3.
 - **S2 (trace).** The tissue lock is planted by the Locked Block in S2E15 (`Q-77`), never linked to her.
 - **S3 (deuteragonist) — the incarnation.** The god who wants to die. To complete her own Doughnut she must
-  feel pain and finitude, which a deathless mind never can — so she imprints **a shard of herself onto a copy of
-  her own kept genome** (the lossiest save-file; [[the-memory-substrate]] guarantees the child *forgets she is God*).
+  feel pain and finitude, which a deathless mind never can — so she imprints **a shard of herself onto her own kept genome, the last copy on Earth** (the lossiest save-file; [[the-memory-substrate]] guarantees the child *forgets she is God*).
   The child is a **true clone**; **Ruth only carries** her (`Q-105`). Born mortal among the Purists (E10, about
   T+21.5), named Naomi, never told (`Q-60`). Adam tells her at about 17, a breach that costs him the tribe (E17,
   `Q-102`). The re-merge is put to the **god, not the girl** (`Q-65`); Ruth objects, *"She's seventeen"* (E18,
@@ -67,8 +66,7 @@ drawn in Raul's; the President speaks to the village through **Raul's shell**.
 A glimpse in S1 (E3b); deuteragonist (and the buried mystery) in S3.
 
 ## Open questions
-- The incarnate child's mortal name (provisionally **Naomi**, named by Ruth; `Q-23`). Whether the finale frees the Grid or leaves a persisting shard
-  (`Q-24`).
+- ~~`Q-23`~~ Naomi (provisional), named by Ruth. ~~`Q-24`~~ freed: no one on Earth can hold the seat; the fleet's genome copy is S5's (`Q-120`).
 
 ## Related
 - Canon: `CHR-01` in [[canon-registry]]. World: [[the-distributed-president]] · [[the-memory-substrate]].
