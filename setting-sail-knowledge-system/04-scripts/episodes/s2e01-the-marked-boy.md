@@ -44,8 +44,8 @@ across the ten notches his mother cut, and across the space left for one more.
 
 *Castes (`WR-B1`): Adam is a cyborg, 90% organic, Purist-born, no Lens; Naomi, Ruth and the villagers are Purists,
 with no Lens; Raul is a Ghost in a shell, Lens on, never in POV. Timing (`WR-T4`): Tier 0 throughout, one clock. On
-the series clock this is about **T+19.0**: about 10.5 real years since S1E19–20 (T+8.5), so the lintel holds **ten**
-notches; Adam is about 19 (about 8 at S1E18); Naomi's death (S2E20) is about six real months away (`Q-48`).*
+the series clock this is about **T+19.25**: about 10.75 real years since S1E19–20 (T+8.5), so the lintel holds **ten**
+notches; Adam is about 19 (about 8 at S1E18); Naomi's death (S2E20) is about three real months away (`Q-48`).*
 
 **1 · COLD OPEN — THE LOSSY MEMORY · HOOK (0:00–0:05).** Black, then firelight smeared into streaks. A woman's face
 (NAOMI, ten years younger) far too close, out of focus, her mouth shaping words the audio drops. One fragment
@@ -79,13 +79,13 @@ the loaf on the board in front of Adam instead of into his hand. Nobody remarks 
 Adam's right wrist and knots it. A few of the women see and look away, smiling. Naomi sees, and doesn't smile, and
 doesn't look away either. Ruth keeps her hand on the knot one beat longer than the knot needs.
 
-**7 · THE FIELD AT NIGHT — wide, negative space.** Adam alone at the field's edge, the village glow behind him. Far
-off on the black horizon, a single **cold tower light** blinks, slow and regular: the city. He watches it the way
+**7 · THE FIELD AT NIGHT — wide, negative space.** Adam alone at the field's edge, the village glow behind him. Just
+over the black ridge, a single **cold tower light** blinks, slow and regular: the city. He watches it the way
 you watch weather. RAUL is beside him; we didn't see him arrive.
 
-> **RAUL** *(quiet; the S1E18 question, handed back)*: Are you lost?
+*(RAUL says nothing. He looks where Adam looks.)*
 
-Adam doesn't answer. [SOUND: very faint, under the wind, a high **tick** in time with the tower's blink.]
+Neither speaks. [SOUND: very faint, under the wind, a high **tick** in time with the tower's blink.]
 
 **8 · THE LINTEL · TURN (2:15–2:30, shots 8–9).** Adam comes home in the dark and stops under the doorframe. His
 breath catches. Through the linen over his ribs, the seam **cracks cold blue**, a hard pulse, then another, in
@@ -108,4 +108,4 @@ memory is lossy because it lives in a brain (`WR-B4`); the next time Adam rememb
   lintel notches, a-ha #3 plant · ↩ the E20 choice, a-ha #7).
 - Inventions to log (no ruling covers them): the chrome's location (left ribs/lungs, fitting S1E20's cough); the
   betrothal cord (Ruth's, right wrist); the grace as the unheard vow; the far tower light the implant pulses with;
-  the old man's bread on the board (half-belonging); Raul's "Are you lost?" as the S1E18 line returned.
+  the old man's bread on the board (half-belonging); 

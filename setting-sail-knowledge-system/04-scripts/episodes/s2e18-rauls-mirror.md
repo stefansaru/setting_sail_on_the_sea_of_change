@@ -113,4 +113,4 @@ one. The paused glyph at the edge is a third Raul who never had to choose a body
   open), `REVEAL` budget (★ the cure's limit; minors: `UNRATED`, the third glyph, a-ha #14's reminder).
 - **Logged:** the descent corridor's look (a vertical shaft with a Tier-1 landing), Raul climbing one rung as an avatar
   while his shell waits, the third `REGRADE` installment here, and Adam's wireframe glitch.
-- About 37 spoken words; the signed line is 21 of them.
+- About 35 spoken words; the signed line is 19 of them.

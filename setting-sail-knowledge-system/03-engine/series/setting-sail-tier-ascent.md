@@ -79,7 +79,7 @@ why the Dream Hunger (E6) can reach him and why he cannot simply walk home (`WR-
 on a licensed Sabbatical (`Q-72`).
 
 **The real-time clock (`Q-48`).** S2E1 opens in the last months of Naomi's eleven years. On the series clock (T =
-real years after S1E14, [[the-seed-fleet]]): S1E19's reading was at about T+8.5, so S2E1 is about T+19 and S2E20, her
+real years after S1E14, [[the-seed-fleet]]): S1E19's reading was at about T+8.5, so S2E1 is about T+19.25 (`Q-127`) and S2E20, her
 death, about T+19.5, with Adam about 19. The fleet made landfall about nine and a half years earlier, 4.4 light-years out (`Q-52`). The climb itself fits inside her
 last few months: about 3 months at Tier 1 (~15 years), 3 days at Tier 2 (~30 years), 2.4 hours at the Apex (24
 years). That's about 70 subjective years for him, and one season at a bedside for Ruth. Ruth's E10 message comes
@@ -146,7 +146,7 @@ each rung is the episode's **one major reveal**, paid as *seduction, then shown 
    the audience reads as loss. **End Act I:** the surface — and mortal time — begins slipping away beneath him.
 
 ### Act II — The Gifts That Subtract (Ep 6–10) · *Tier 1 → 2 · → 60% organic · Phase B′: the sweetness*
-6. **The Dream Hunger** *(standalone slotted, `Q-11`)* — *Tier 1/2.* Grid-bound, Adam **stops dreaming**
+6. **The Dream Hunger** *(standalone slotted, `Q-11`)* — *Tier 1.* Grid-bound, Adam **stops dreaming**
    ([[tether-decay|TTD / dreamless insomnia]], `MAG-22`): first a gift (no nightmares, more waking hours),
    then the **hunger** — the brain-cache countdown, the need for Sub-Velocity Sabbaticals. The first gift
    that shows teeth. *UI:* a quiet decay-meter he doesn't yet read; when it dips, the Lens offers

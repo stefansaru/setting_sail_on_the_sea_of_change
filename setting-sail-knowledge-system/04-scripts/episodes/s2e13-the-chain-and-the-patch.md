@@ -13,7 +13,7 @@
 ## Setup & hook
 People first. In the corner of Adam's Lens, the village feed, live and still: Naomi's lintel, the ten notches cut
 one for each year since his implants (E1) and the room for one more, and propped against them now, Ruth's sheet
-from E10, in her own hand: *She's dying. Come home.* A candle flame beside it leans and stays leaning. It isn't a
+from E10, in her own hand: *She's dying. Come home.* A moth on the paper opens its wings and stays open. It isn't a
 photograph. It's twelve minutes of her time, a month of his.
 
 ## Cinematography
@@ -28,7 +28,8 @@ All UI is in Adam's Lens (`WR-L2`; Ruth, Naomi and the Purist patient have none)
 - **Vance's latest act:** a signed block on his public chain: `APEX QUEUE · RE-RANKED · MERIT FIRST`. Vance's squares
   at the moment he signed: perfectly still, one flawless reading, `STRUCTURAL BALANCE · 100%`. `CVP ✓`. Then a seal
   stamps over his whole column: `PROVEN-IN-USE` (the one new word).
-- **The baseline (a-ha #10, serial layer, in the friction):** `KAVANA · PUBLIC`, opened to the block for the same
+- **The baseline (a-ha #10, serial layer, in the friction; the season's only side-by-side, `Q-128`):**
+  `KAVANA · PUBLIC`, crowded with honest `FOLD FAILED` blocks, opened to the block for the same
   thing, `APEX · 2.4 h`, the hours Hope bought her in S1E11. Her squares at that moment are honest and messy: `Live`
   with amber fear flickering around it, and a reading of `99%`. The same act, two records. Hers has a tremor in it;
   his has none.
@@ -59,8 +60,7 @@ Timing (`WR-T4`): about **12 real minutes** since Ruth's sheet (E10), which is *
 village and at Hope, so the patient's 24-hour countdown ticks exactly twice.*
 
 **1 · COLD OPEN — THE FEED (9:16) · HOOK (0:00–0:05).** Lens corner, filling the frame: Naomi's lintel. Ten notches
-and room for one. Ruth's sheet propped against them: *She's dying. Come home.* A candle flame leans, and holds the
-lean. [SOUND: nothing at all from the village; a real second is an hour here.]
+and room for one. Ruth's sheet propped against them: *She's dying. Come home.* A moth on the sheet opens its wings, and holds them open. [SOUND: nothing at all from the village; a real second is an hour here.]
 
 **2 · THE RECORD ROOM · CONTEXT (0:05–1:15, shots 2–4).** Pull out of the corner to ADAM, in the inner arches, the
 pending square from E12 still parked in his bottom row: [UI: `KEYS · VANCE`]. He doesn't take it. He opens the man
@@ -70,8 +70,10 @@ instead. [UI: Vance's public chain, a column of green.]
 moment of signing, Vance's squares read one flawless, unmoving line: `STRUCTURAL BALANCE · 100%`. `CVP ✓`. A seal
 stamps down over his whole column, soft as wax: `PROVEN-IN-USE`.
 
-**4 · ADAM, READING.** Nothing is wrong with it. That is what bothers him. He opens, beside it, the chain he trusts:
-[UI: `KAVANA · PUBLIC`].
+**4 · ADAM, READING.** He holds two fingers up against the flawless line, as if to measure it. His fingers drift a
+hair, the micro-tremor of the flesh he has left; behind them the line doesn't move at all. He lowers the hand and
+opens, beside the column, the chain he trusts: [UI: `KAVANA · PUBLIC`, crowded red and amber, `FOLD FAILED`,
+`FOLD FAILED`, `FOLD FAILED`, year after year.]
 
 **5 · THE BASELINE · FRICTION (1:15–2:15, shots 5–6).** He finds her block for the same act: [UI: `APEX · 2.4 h`].
 Her squares at that moment: `Live`, ringed with amber fear that flickers and won't settle; the reading under it,
@@ -80,7 +82,7 @@ Her squares at that moment: `Live`, ringed with amber fear that flickers and won
 > **THE INTERCESSOR'S VOICE** *(soft, from the archive):* Your intent reads ninety-nine percent clean, Kavana.
 
 He lays the two blocks side by side. `APEX · 2.4 h` over each. Hers trembles. His doesn't. *(Recall cue, ≤ 2 s: the
-gold `Live` square at the foot of her chain, from E12.)*
+gold `Live` square at the foot of her chain, from S1E12.)*
 
 **6 · THE SEAM.** Adam magnifies Vance's squares at the moment of signing, closer, closer, until the flawless line
 fills the frame, and under the bottom row a hairline of gold appears, like a crack mended with gold leaf. [UI tag,
@@ -112,4 +114,7 @@ Kavana, and a gold seam they will see again.)*
   pushes Hope's 1% patients back (the hours his keys offer Adam come from it); "same act, two records" read as two
   blocks for the same act, `APEX · 2.4 h`, one honest (Kavana, 99%) and one patched (Vance, 100%); the UI lines
   `APEX QUEUE · RE-RANKED · MERIT FIRST`, `STRUCTURAL BALANCE · 100%` (from the [[intent-patch]] page's "Structural
-  Balance"), `QUEUED`; the unnamed Purist patient.
+  Balance"), `QUEUED`; the unnamed Purist patient; `FOLD FAILED` on Kavana's chain (moved here from E12).
+- Revised 2026-11-04 (audit d1): this is now the only Vance/Kavana chain comparison (`Q-128`; E12 ends on his column
+  alone); shot 4's stated reaction replaced by an image (his drifting fingers against the unmoving line);
+  `FOLD FAILED` carried over from E12.

@@ -19,7 +19,7 @@ laugh when nothing can hurt you. Nothing does.
 | Element | The arcade and the high (Tier 2, 3,600×) | The village feed (1:1, seen 3,600× slow) |
 |---------|-------------------------------------------|-------------------------------------------|
 | **Lighting** | The arcade: clean **Flavin** bars on brushed white, every door lit the same. The high: **Turrell**: lines dissolve into a borderless field, violet to gold to rose (`VIS-15`), built in camera on a cyclorama with practical colour, never a post filter (`VIS-13`). | **Caravaggio**: one lamp, Naomi's hands, a wooden cup. Through glass, a little soft (E4's feed look). |
-| **Camera** | Gimbal-smooth; in the high, the frame drifts and turns as if weightless, never shaky (`WR-T2`). | Fixed, from the lintel post. Across Adam's whole night, one motion: a cup rising. |
+| **Camera** | Gimbal-smooth; in the high, the frame drifts and turns as if weightless, never shaky (`WR-T2`). | Fixed, facing the lintel. Across Adam's whole night, one motion: a cup rising. |
 | **Sound** | Warm, clean, almost no edges; in the high, a single sustained chord that never resolves and never tires. | The drone of real time: a breath that takes an hour. |
 
 ## UI behavior (the Perspective Lens)
@@ -56,7 +56,10 @@ wall behind him lets go of its corners and **pours into colour**. He laughs.
 
 **2 · THE ARCADE · CONTEXT (0:05–1:15, shots 2–4).** Earlier the same night. A long white arcade at Tier 2, Flavin
 bars, a hundred identical doors, each with its small lit plate. People pass in and out, unhurried, unashamed. A plate
-drifts by on a closed door: **`GHOST INTIMACY · LICENSED`**. Nobody looks at it. Adam doesn't either. [UI: the
+drifts by on a closed door: **`GHOST INTIMACY · LICENSED`**. Nobody looks at it. Adam doesn't either. As he walks,
+the arcade's far wall turns to glass for a few steps (≤ 2 s): beyond it, deep in the background and soft, a city
+work floor, rows of identical desks, and at one of them a young man **with Adam's face** in a plain work tunic, bent
+over his work, not looking up. The camera doesn't rack to him; the glass passes; nobody comments. No tag. [UI: the
 village feed in the lower corner, as always: NAOMI sitting up in bed under wool, a wooden cup in both hands in her lap;
 RUTH beside her on a stool. Both still as a painting.]
 
@@ -86,9 +89,9 @@ covered ✓` · `logged ✓`.] The colour field deepens, perfect, and holds him 
 wrong. He looks almost disappointed. [UI, lower corner: the feed. Naomi's cup has risen an inch from her lap. Her hands
 shake. Ruth's hand has come up under hers.]
 
-**7 · THE MORNING THAT ISN'T.** The room returns to white. Adam sits up, clear-eyed, rested, nothing aching, nothing
-fogged, nothing to regret and nothing to half-remember. He could replay every second of the night in perfect detail.
-He doesn't.
+**7 · THE MORNING THAT ISN'T.** The room returns to white. Adam sits up, clear-eyed. Out of a village habit his hand
+goes to his temple, bracing for the ache. He presses. Presses harder. Nothing. On the wall the whole night waits,
+paused on its first violet frame, sharp to the last pixel. He gets up and leaves it running behind him.
 
 **8 · THE ROW · TURN (2:15–2:30, shots 8–9).** Close on the frame's edge. [UI: the ledger, complete: a long green
 column, every act of the night ticked, covered, logged. Then, for the first time, the camera finds the **bottom row**:
@@ -101,7 +104,9 @@ shaking hands on it and RUTH's hand under both. She drinks. Nothing ticks. Cut t
 
 *(Theme in subtext, never stated: every pleasure licensed, consented, covered and kept, so nothing can go wrong and
 nothing can go anywhere; the ledger answers *what* and *whether*, and the row that would say *why* stays dark. The only
-act in the frame with a cost is a dying woman drinking water with help. The viewer finishes the sentence.)*
+act in the frame with a cost is a dying woman drinking water with help. The viewer finishes the sentence. The second
+Adam glimpsed through the glass at a work desk, thread α, is an unlabelled plant: we are following thread β, and
+E9's Merging pays it.)*
 
 ## Still to write / next
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md):
@@ -116,3 +121,6 @@ act in the frame with a cost is a dying woman drinking water with help. The view
   "Yes."; the ledger as a green column of rows (`consent ✓`, `licence ✓`, `liability: covered ✓`, `logged ✓`,
   `run 2 ✓`, `dose ✓`); the licence card's wording; the algorithm as a Turrell colour field that replays
   identically; the dose slider that never refuses; Naomi's cup, with Ruth's hand under hers, as the night's counterweight.
+- Revised 2026-11-04 (audit d1): ≤ 2 s unlabelled plant of thread α (a second Adam at a city work desk, deep
+  background, shot 2; `Q-128`, paid in E9); shot 7's stated moral replaced by images (the temple pressed for an
+  ache that isn't there; the paused night left running).

@@ -63,7 +63,7 @@ it. Adam works on. People pass behind him, bright, rested, unhurried. Nobody yaw
 [UI: the care chart at the frame's edge, `Organic: 90%`; under it, `Wakefulness: 10 yrs`.] He reads the line the way
 you read a mileage, and is quietly pleased.
 
-**3 · THE FEED.** In the corner of his frame, the village feed, from the lintel post: night at Tier 0, a single banked
+**3 · THE FEED.** In the corner of his frame, the village feed, facing the lintel: night at Tier 0, a single banked
 fire. NAOMI asleep on the bench by the door under wool; RUTH asleep sitting up against the post beside her, her head
 fallen to one side. At his clock they have been asleep for days. They are the only people he has seen sleep in ten
 years. He looks at them a long moment, the way you look at animals.
@@ -84,7 +84,7 @@ Adam reads it. He doesn't answer. On the feed, Naomi lies back down; it takes a 
 colleague's face as she passes; a **child's hand** in a woman's hand; the hearth again, nearer, so warm the gold room
 looks cold beside it. [UI: `TTD` slides into amber, and a card blooms in the bottom row: **SABBATICAL · 1:1 ·
 LICENSED**.] Adam looks at it properly for the first time. As his eyes rest on it, a hairline of **cold blue** runs
-at his collarbone, the implant-light of E1, and under the room tone the old **ache tone** of E1–E2 returns, faint, the
+along his left ribs, the implant-light of E1, and under the room tone the old **ache tone** of E1–E2 returns, faint, the
 first time since he crossed up. His jaw sets against it from memory.
 
 **7 · THE WAVE.** He lifts two fingers and waves the card off. It folds into the edge of the frame and stays there,

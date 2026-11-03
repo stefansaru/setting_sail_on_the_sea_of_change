@@ -130,6 +130,7 @@ A physical or simulated location.
 | **The Purist Village** | The Natural Purists' surface settlement. | S1E18 | `PLC-06` | the village | Real | Tier 0 |
 | **The root chamber** | The core Vance reaches first, seat of the root key. | S3E15 | `CHR-04` | the author-seat | Simulated | Read at 1:1; the seat asks `Requires 1 : all` |
 | **The Shadow Grid** | The network that runs humanity's minds. The brain is an antenna and a lossy cache. | "the Grid" from S1E2 (title); the full name is bible only | `WLD-03` [[the-shadow-grid]] | the Grid | Simulated, on real servers | All tiers |
+| **Sector nine** | A city block the Distributed President reassigns to Tier 1 by ruling. | S2E11 | `WLD-11` | — | Simulated | Tier 1 after the ruling |
 | **Silence Cloisters** | Hope's teal lowest cells, holding locked-block inmates. | S2E15, one welded door, unexplained | `MAG-25` | — | Not stated | Not stated |
 | **The stasis bays** | Fleet decks of bodies, each on a chemistry line. | S4E2 | `MAG-29` | bay, Kai's bay | Real | Tier 0–1 minds |
 | **The Studio core** | The stratum holding Mara's un-run memory. | S3E13 | `MAG-04` | the Studio Floor | Simulated | Tier unstated |
@@ -169,7 +170,7 @@ A device or system. *Not stated* means no source gives one, and the gap is logge
 | **HELM** | Mara's "operating system for the mind", and the root of the Grid. | S3E1 onward; **HELD** | `Q-04` · `TML-06` | — | Each module's cost is its failure mode | Can't metabolize grief |
 | **Horizon** | HELM module: an honest life-countdown. Held. | S3E16; **HELD** | `MAG-09` | — | Postponing your own horizon | Reveals finitude; adds no time |
 | **Identity Key** | The live loop that runs a self. Losing it is true death. | UI line from S2E16; **HELD** in S1 | `WR-M4` · `MAG-11` | Identity-Key, identity-key, "the Key" (`WR-M4` spelling wins) | True death on loss or corruption | Singular and fragile |
-| **Intent-Patch** | A black-market script that makes the squares broadcast a perfect false signal. | S2E13; **HELD** in S1 | `MAG-21` [[intent-patch]] | Intent Patch, patch | Black-market price | Fakes Proven-in-Use, not the Validation |
+| **Intent-Patch** | A black-market script that makes the squares broadcast a perfect false signal. | S2E13; **HELD** in S1 | `MAG-21` [[intent-patch]] | Intent Patch, patch. UI caps form `INTENT-PATCH` (the S2E13 seam tag). | Black-market price | Fakes Proven-in-Use, not the Validation |
 | **The Lens** | The interface every Grid mind sees through: circles on top, squares below, 9:16. | S1E2 | `MAG-14` [[the-perspective-lens-ui]] | Perspective Lens, custom Lens, UI (`WR-L1`) | Keeps you inside a metric | Purists have none. Renders privately. |
 | **Lifeboat** | A small, slow craft that carries bodies between hulls. | S4E6 | `MAG-29` | — | Chemistry, and hours of travel | Handful of bays each |
 | **The lure beacon** | An alien satellite beaming in all directions, disguised as a supernova. Four nested layers fish for the fleet's vector. | S4E6 as a star; S4E7 as a beacon | `MAG-31` [[the-lure-beacon]] | the false supernova, the lure, the beacon | Answering gives away the fleet | Can't find a silent fleet |
@@ -179,7 +180,7 @@ A device or system. *Not stated* means no source gives one, and the gap is logge
 | **The pattern detector** | A Lens warning that a negative loop is forming, drawn as an amber thread. | S1E3b | `MAG-33` [[the-pattern-detector]] | automatic pattern detector, the detector | Expensive always-on; cheap on the stress trigger | Warns of loops, not outcomes. Absent for Ghosts unless paid for. |
 | **The Personal Blockchain** | The immutable ledger of a mind: in-grid memory itself. | "chain" S1E12; the full name is bible only | `MAG-11` [[the-personal-blockchain]] | ledger, chain, blockchain, Master Blockchain Ledger, Core Blockchain Ledger (`WR-N2`, logged) | Your past can't be erased | Can be sealed or disclosed, not rewritten |
 | **Planetary Status Engine** | The sensor net feeding the President the planet's real-time state. | S2E11 | `WLD-11` | — | Not stated (logged) | Measures only what it senses |
-| **Proven-in-Use token** | The cryptographic token the CVP mints for a clean record. | S2E13; **HELD** in S1 | `MAG-20` | compliance token | None for the holder | A patch can mint a false one |
+| **Proven-in-Use token** | The cryptographic token the CVP mints for a clean record. | S2E13; **HELD** in S1 | `MAG-20` | compliance token. UI caps form `PROVEN-IN-USE` (the S2E13 seal). | None for the holder | A patch can mint a false one |
 | **Proxy** | A leased surface body or sensor rig through which a Shadow attends Tier 0. | S1E7 | `WLD-08` | leased surface proxy, telepresence, proxy shell | A lease | Present, but a world from your own flesh. Becomes a shell when its Shadow dies in it (S1E17 → E18) |
 | **The reactor** | The hull's power source, whose watts cap the Apex aboard. | S4E13 | `WLD-23` | — | Finite output | Ceiling on every clock aboard |
 | **Read-Key** | The historical half of a ledger, safe to share. | bible only so far | `MAG-11` | — | Privacy | Read-only |
@@ -200,6 +201,7 @@ A device or system. *Not stated* means no source gives one, and the gap is logge
 | **Transit beam** | A ride through the neon city, seen once. Otherwise undefined (logged). | S1E4 | none | — | Undefined | Undefined |
 | **Velocity credits** | Temporary processing allocations, earned and spent like money. | reel: The Locked Block (standalone, `Q-76/77`); S2E15 shows one welded door | `WLD-04` | credits | Earned by merit; stolen by Brokers | Not a permanent tier |
 | **Scram** | The reactor's emergency shutdown at zero; the stacks fall to reserve and keep transmitting. | S4E11 | `Q-56` `MAG-29` | stacks on reserve | Life support at zero | Reserve can't run for years unaided (S5) |
+| **The village feed** | A camera Raul fixed on the post across Naomi's yard, facing her door and its notches, streamed into Adam's Lens. | S2E2 | `Q-128` (5) | the feed, feed window | Its audio arrives as drone across a clock gap | One fixed angle; real time only, so it looks frozen from a high tier |
 | **KAVANA (vial)** | The sealed medicine at the Purist bedside: Kavana's formula. With no donor it makes chrome, so given to the boy it became his implants (S2E3). | S1E20 | `Q-88` · a-ha #9 · `Q-119` | — | Hope's cure | Never administered on screen |
 
 ## Process
@@ -323,12 +325,12 @@ Something seen in the Lens.
 |---|---|---|---|---|---|
 | **+1 · Resilience** | A reward token when Raul stands up. | S1E3 | none | — | A metric paid for effort |
 | **+1 · Virtuous** | A reward token after the setting opens Raul's hand. | S1E3b | `MAG-33` | — | A metric paid for an act the system did |
-| **1:N rating tag** | A rating worn openly, like rank. Teddy wears `1:30`. | S1E3a (collar tag, unexplained) | `MAG-32` | collar tag, rating. `1:2`, `1:3`, `1:10`, `1:30`. | What the wearer is validated to answer for |
+| **1:N rating tag** | A rating worn openly, like rank. Teddy wears `1:30`. | S1E3a (collar tag, unexplained) | `MAG-32` | collar tag, rating. `1:2`, `1:3`, `1:10`, `1:30`, `1:100` (S2E12 gate, S2E14 row plates), `1:1000` (S2E14 row plates), `1:10000` (Vance's collar, S2E12). | What the wearer is validated to answer for |
 | **Advanced Cellular Decay** | A red-yellow scan tag on Purists. | S1E19 | `VIS-08` | Cellular decay — advanced (S2E4). Also Untreated Osteoarthritis, Life Expectancy: Limited. | The body as a failing machine |
 | **"arrive" square** | Kai's Intention square for reaching the planet in a body. | S4E4 | `WLD-23` | — | The promise of a waking |
 | **BRANCH — confirmed** | The resolved E16 prompt. | S1E16 | `MAG-12` | — | The legal split |
 | **Camel's Doughnut** | The hollow glyph issued at the Merging: balance inherited and untested. The name is bible only; the image is on screen. | image S1E6; name bible only | `Q-12` [[parallel-pedagogy]] | hollow glyph, "the issued ring" | Factory-default balance |
-| **Choose** | An unrecognized square lighting faintly in E8. | S1E8 | none | — | Raul's first free intention |
+| **Choose** | An unrecognized square lighting faintly in E8. Pays in S2E20: the one square nothing fills, lit unpowered in Adam's dead Lens as he chooses. | S1E8; payoff S2E20 | `Q-127` (6) · a-ha #8 | — | Raul's first free intention; Adam's own, with the patch off |
 | **Context circles** | The top row of round icons. | S1E2 | `MAG-14` | `[◯]`, top circles | The scene's active realities |
 | **Diagnostic widget** | A cold readout clamped to the frame edge after E10. | S1E10 | `MAG-15` | — | Battery, hydraulic pressure |
 | **Disc glyph** | Kai's glyph: the shield seen head-on, a disc with a bore. | S4E1 | `VIS-12` | — | whole → open → cracked → solid as a Ghost's |
@@ -337,8 +339,8 @@ Something seen in the Lens.
 | **Host vitals** | The Shadow's body-health readout. | S1E6 | `WLD-08` | See "host" (logged). | The body's status |
 | **Intention Split** | A two-panel frame of dark and light arrows through one doughnut. | bible only so far | `VIS-10` | — | Two arrows in one event |
 | **Intention squares** | The bottom row of square icons. | S1E2 | `MAG-14` | `[▢]`, bottom squares | The character's active intention |
-| **Live** | Kavana's locked square as she finishes the formula. | S1E12 | none | — | Her final intention |
-| **LOOP FORMING** | The tag on the amber thread. | S1E3b | `MAG-33` | — | A negative loop is emerging |
+| **Live** | Kavana's locked square as she finishes the formula. Recalled as the gold block at the foot of her public chain. | S1E12; recalled S2E13 | none | — | Her final intention |
+| **LOOP FORMING** | The tag on the amber thread. In S2E2 it draws from Adam's chest down the village feed to Naomi. | S1E3b; S2E2 | `MAG-33` | — | A negative loop is emerging; love misread (S2E2) |
 | **MERGE ⟷ BRANCH** | The blunt E16 prompt. | S1E16 | `MAG-12` | "Merge / Branch" prompt (E15) | The choice |
 | **Reply copy received. Sent years ago.** | The small E16 tag: the clone on screen is a copy, not a live link. | S1E16 | `Q-14` `WR-T3` | — | Marks the light lag |
 | **UNRATED** | The Lens tag on anyone without a Validation rating. | S2E18 | `WR-S2` [[the-one-in-n-rule]] | — | A person never validated |
@@ -349,13 +351,13 @@ Something seen in the Lens.
 | **Organic mass: 0% · Tether: severed · Ghost profile: ACTIVE** | Raul's death readout. | S1E17 | `WLD-09` | Reel variant: `Tether Disconnected · Identity-Key Secure · Profile Updated to Ghost` | The caste change |
 | **Pain/Chaos circle** | A weeping Context circle that opens for the first time in E10. | S1E10 | `Q-12` | the Pain circle | Pain as a reality in context |
 | **Parish Metrics** | Hope's UI: a candle for Absolution %, an open book for exit progress, a cross or scales for equilibrium. | S2E15; **HELD** in S1 | `VIS-14` | — | Progress to release |
-| **Safe** | The first Context circle a child ever sees. | S1E2 | none | — | All is well |
+| **Safe** | The first Context circle a child ever sees. Adam's first circle too, at his first Lens. | S1E2; S2E2 (held S2E3) | none | — | All is well |
 | **Serve** | A square Raul didn't choose. | S1E5 | `WLD-12` | — | His new function |
 | **Solar weather advisory — elevated** | A telemetry line that scrolls past unremarked. | S1E9 | `PLC-04` | — | The coming storm |
 | **System Alert: Forced Real-Time Diagnostic** | The alarm that ends the mirror reel's render. Also `Default Render Terminated`. | reel: The Mirror Asymmetry (unslotted) | `VIS-16` | — | Node disconnect |
 | **Tether line** | A thin glowing line at the frame edge. | S1E6 | `WLD-08` | tether-line | The body's link and health |
 | **TIER 2 · 3,600× · UNDEFEATED** | The Champion's caption. | reel: The Substrate Paradox (unslotted) | `WLD-21` | — | Rank |
-| **TTD timer** | The Time to Decay countdown in the Lens. | S2E6 | `MAG-22` | TTD | Time until the brain-cache collapses |
+| **TTD timer** | The Time to Decay countdown in the Lens. | S2E6 | `MAG-22` | TTD; TTD bar (the frame-edge bar, S2E6–S2E17) | Time until the brain-cache collapses |
 | **Twenty-four-hour countdown** | The real clock stamped over Kavana's dying. | S1E11 | `MAG-13` | — | Her mortal day |
 | **Utopia Score** | A swollen top-circle number the citizen can turn up. No page defines it (logged). | S1E4 | none | "Utopia" metrics | Society's approval |
 | **Vertical ruler** | The Lens's pyramid, with Kai pinned to the base. | S4E3 | `WLD-23` | — | Rank by clock |
@@ -389,6 +391,30 @@ Something seen in the Lens.
 | **Treatable · donor required** | Mara's illness, read in Raul's Lens. | S3E16 | `WR-B8` `Q-106` | — | The cure's price, again |
 | **Outbound · 4.4 ly** | A packet leaving at Mara's death. | S3E20 | `Q-112` `Q-125` · a-ha #12 | — | Unexplained on screen; bible: the god's remainder |
 | **Slip: none** | Rafe's own record: he left his body by beam and never felt the itch. | S3E16 | a-ha #14 · `WR-B7` | — | Pays S1E15's *Body: none* and S2E18's third glyph |
+| **UP-CLOCK · PERMANENT** | The amber Context circle offering to make Adam's residency clock permanent at Tier 1. | S2E5 | `Q-127` (2) · `MAG-34` | — | The temporary made permanent |
+| **Wakefulness: 10 yrs** | A care-chart line under `Organic: 90%`: years the brain has gone without sleep. | S2E6 | `MAG-22` [[tether-decay]] | — | Dreamless years, counted |
+| **TRIBE · 150** | The tribe overlay: a ring of 150 lights pulsing in one beat; two fingers scatter it to show the bodies far apart. | S2E7; recalled S2E10 | `WLD-17` [[frequency-tribes]] | tribe ring | Belonging as a shared clock |
+| **VESPER · Ghost / VESPER · paused** | Vesper's tag in Adam's Lens while her burst runs, then when it ends. | S2E7 | `CHR-05` `Q-92` `Q-121` | Distinct from S3E14's `VESPER · Tier 0` and from the physical capsule labels VESPER / RAUL. | Her caste, then her pause |
+| **consent ✓ · licence ✓ · liability: covered ✓ · logged ✓ · run 2 ✓ · dose ✓** | The ledger: a compliance-green column at the frame edge, one tick per licensed act. | S2E8 | `WLD-15` [[standardized-vices]] | the ledger; `run 3 ✓` also appears | Every act covered; the row that would say why stays dark |
+| **Disruptive Algorithm · licensed** | The licence card the Host slides across the counter. | S2E8 | `MAG-19` | — | A licensed high |
+| **Consent required (adult)** | The prompt that halts the Merging countdown at `T−10 s`. | S2E9 | `WR-M1` `WLD-18` `Q-128` (9) | — | An adult's forks merge by consent |
+| **cure her** | The first square Adam writes himself in S2: self-written, but serving the climb. | S2E10; carried S2E11–S2E12, S2E15 | `Q-127` (6) | Kept distinct from `SAVE` (S2E19) and *Choose* (S2E20). | His want, pointed up |
+| **PLANETARY STATUS** | The top circle in the law-chambers, swirling with sensor threads. | S2E11 | `WLD-11` | See Planetary Status Engine (Technology). | The planet's live state |
+| **APEX · 2.4 h · PENDING** | Adam's grey request line for Apex time. | S2E11 | `MAG-13` | — | A request logged, unanswered |
+| **APEX · 2.4 h · MERIT KEY REQUIRED / VALIDATION · 1:100 · ONE RUN** | The Apex gate's two lines: the key it asks for, and the honest road to one. | S2E12 | `MAG-18` `MAG-32` `WR-S2` `Q-116` | The Validation, never the CVP (`Q-73`). | What the gate demands |
+| **KEYS · VANCE** | The pending square Vance's signature chain parks in Adam's bottom row. | S2E12; carried S2E13, S2E15–S2E16 | `MAG-18` `CHR-04` | Gains the line `EXIT · APEX · 2.4 h` (S2E15). | An offer not yet taken |
+| **VANCE · 1:10000** | Vance's public chain header: every block spotless green, not one failure. | S2E12 (alone); beside Kavana's chain S2E13 | `CHR-04` `MAG-32` `Q-128` (2) | `VANCE · 1:10000 · BATCH 10,000` (S2E14) | A record with no failures |
+| **FOLD FAILED** | The honest failure blocks crowding Kavana's public chain. | S2E13 | a-ha #10 | — | Years of honest failure |
+| **APEX QUEUE · RE-RANKED · MERIT FIRST** | Vance's signed block: the merit-key re-ranking of the Apex queue. | S2E13 | `Q-127` (9) `MAG-18` | — | The patched act |
+| **STRUCTURAL BALANCE · 100%** | Vance's flawless reading at signing. Kavana's for the same act reads `99%`. | S2E13 | `MAG-21` [[intent-patch]] | — | A missing tremor |
+| **QUEUED** | The tag on a dark Apex capsule beside a pushed-back patient. | S2E13 | `MAG-13` | — | The hours taken |
+| **PENITENT · VOLUNTARY / ABSOLUTION 0%** | Hope's cloister tags: Adam's status on entry, and the candle's reading. | S2E15 | `PLC-08` `VIS-14` | `ABSOLUTION 3%`, `ABSOLUTION 4%`. See Parish Metrics. | Release withheld |
+| **EXIT · APEX · 2.4 h** | The line under `KEYS · VANCE` when Vance returns at the cloister grille. | S2E15 | `MAG-18` | — | Vance's keys as the only exit |
+| **TIER 3 · 2.4 h · KEYS · VANCE** | The arrival tag at the Apex: who pays. | S2E16 | `WR-T5` | Recasts the standalone's `TIER 3 · OFF-SHIFT · hazard bonus`. | Who pays |
+| **REAL +2:24:00** | The second clock at the Apex; only its thousandths move. | S2E17 | `WR-T1` `WR-T4` | — | Real time spent |
+| **Apex credit counter** | Adam's remaining Apex credit, rolled to zero to buy the Sabbatical. | S2E17 | `WLD-04` | — | What Vance's keys bought, spent |
+| **3 → 2 · RELEASE APEX / 2 → 1 · RELEASE MERGED SPEED / 1 → 0 · RESTORE PAIN** | The descent's consent ledger, one line per rung; the first signature starts the fall. | S2E17; `RESTORE PAIN` recalled S2E19 | `Q-93` | — | A gift taken back per tier |
+| **RENTED · SABBATICAL · 1:1 · LICENSED** | The tag over Adam's opening capsule as the licensed Sabbatical is spent. | S2E19 | `Q-72` `Q-91` `Q-128` (7) | Joins `RENTED` (S2E3) and `SABBATICAL · 1:1 · LICENSED` (S2E6). | The body let out |
 | **VESPER · Tier 0** | Vesper's tag in Raul's Lens at the fire: she has slowed to his clock. | S3E14 | `Q-121` · a-ha #15 | — | Raul's Lens | No line spoken |
 | **DORMANT UNTIL WINDOW CLOSES / VALIDATE 1:10 NOW** | Decimus's bay-board prompts. | S4E9a | `MAG-32` [[decimus]] | — | The bay board | — |
 | **"help" square** | The beacon's one legible word, in the bottom square. | S4E9 | `MAG-31` [[the-lure-beacon]] | — | The array feed | The lure's hook |
@@ -453,7 +479,7 @@ A recurring image or line. Quoted lines match the live scripts as of this page's
 | **"I cannot wait to find myself."** | The god, awaiting her birth. | S3E9 | `CHR-01` | — | Pilgrimage into forgetting |
 | **"I escaped" / "my body is dust"** | Kai's two truths. | S4E19 | `CHR-08` | — | S4's Doughnut |
 | **"I'll never forget that."** | Raul's first words as a Ghost. | S1E17 | `WLD-14` | — | Tender, and a life sentence |
-| **"I'll stay."** | Raul to the mother in E20. | S1E20 | `CHR-02` | — | Presence over answers |
+| **"I'll stay."** | Raul to the mother in E20. Adam says it to Naomi in S2E20, and she answers with her S1E19 "I know." | S1E20; echo S2E20 | `CHR-02` | — | Presence over answers |
 | **"I'll think about it."** | Kavana's answer to the Chain-Check. Adam echoes it in the Hull Cut. | S1E12 | `MAG-11` | — | Refusal without refusing |
 | **"I'm not the file they beamed."** | Rafe claims his years. Check against the current script. | S1E15 | `Q-14` | — | A copy becomes a person |
 | **Incarnate Ring** | Mara's Doughnut: a god small enough to lose. | S3E20 | `TML-06` | — | S3's Doughnut |
@@ -490,6 +516,9 @@ A recurring image or line. Quoted lines match the live scripts as of this page's
 | **"We kept them safe" / "we never asked them"** | The High Clock's two truths. | S4E18 | `WLD-24` | — | Protection as control |
 | **"We're just like you"** | The beacon's second layer. | S4E7 | `MAG-31` | — | Virtue used as bait |
 | **"Where you go I will go" / "call me Mara"** | The Book of Ruth lines behind S2–S3. | bible only so far | `CHR-07` | — | Who stays; who turns bitter |
+| **"Residency approved. Temporary. For ongoing care." / "Residency complete. Returning to real time." / "Request logged."** | SYSTEM's flat, kind voice: Adam's residency begun (S2E3), ended (S2E5), and his Apex request taken (S2E11). | S2E3, S2E5, S2E11 | `Q-127` (2) | — | Care as procedure |
+| **"Did I pass?"** | A failed fork's looping question, half a second behind her lips. | S2E14 | `MAG-32` `PLC-09` | — | What a 1:N rating leaves behind |
+| **"Are you lost?"** | A Purist child to a chrome stranger at the village edge: Raul in S1E18, Adam in S2E19. | S1E18; echo S2E19 | `PLC-06` | — | The returner seen by a child |
 | **"Who is this?"** | Kavana, looking at her chrome hand. | S1E13 | none | — | The cure kept the body, not the woman |
 | **"Who started it?" / "Who ends it?" / "I do."** | The teens' creed chant. | S1E4 | `WLD-25` | — | Values worn as gospel |
 | **"Who started that one?"** | Raul at the last window. Teddy dodges. | S1E3b | `FCT-004` | — | A plant for S3 |

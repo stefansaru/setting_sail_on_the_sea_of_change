@@ -42,7 +42,7 @@ young face at year one and year twenty-four. Nothing on him records the time. Wa
 ## Philosophical climax
 The Grid keeps its promise. He outruns death: he gets a whole working life between two of his mother's
 breaths, and he spends it, faithfully, on her. Everything he climbed for arrives at once (time without
-limit, a mind without fatigue, the work done), and the glyph that stayed hollow for ten reels finally closes.
+limit, a mind without fatigue, the work done), and the glyph that stayed hollow for seven reels finally closes.
 The horror is how little it weighs. The ring is complete because nothing in it moves. He has achieved the
 shape of balance without the weight that makes it balance: the thud of a heartbeat once a day, which he
 has stopped looking up for. The sanctuary of the standalone hid a man from his own death; this one hides
@@ -60,7 +60,7 @@ through the feed, so every tag is Adam's (`WR-L2`). Kavana (cyborg) appears only
 the key that pays. Clocks (`WR-T1`, `WR-T4`): Tier 3, 86,400×. One real second is one of his days, so each of Naomi's
 heartbeats (about one a second) lands once a subjective day; the drop's half-second fall is twelve hours. The reel spans
 his 24 subjective years = 2.4 real hours (2 h 24 min) on the feed. On the series clock it is about T+19.5, Naomi's last
-afternoon: the reel opens about three real hours before her death and ends about forty-five minutes before it.*
+afternoon: the reel opens about three hours and ten real minutes before her death and ends about forty-five minutes before it.*
 
 **1 · TIER 0 — CLOSE, handheld · HOOK (0:00–0:05).** Lamplight. Naomi's chest falls. [SOUND: one heartbeat, heavy,
 organic.] Ruth's hands wring a cloth over a bowl; a drop leaves it —

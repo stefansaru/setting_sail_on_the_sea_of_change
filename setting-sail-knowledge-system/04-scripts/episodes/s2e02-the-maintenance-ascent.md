@@ -27,7 +27,7 @@ up; and for the first time since he was eight, nothing hurts.
 - **First circle (shot 5):** a single **Context circle** blooms over the raw clinic ceiling: *Safe*, the same first
   circle a Grid infant sees (S1E2). The bottom **Intention squares** appear empty and stay empty all reel.
 - **No glyph.** The ring at the frame's heart is **absent**; the Grid doesn't issue him one until the Merging (E9).
-- **The village feed (shots 7–8):** a window in the central view onto the camera Raul fixed to Naomi's lintel post.
+- **The village feed (shots 7–8):** a window in the central view onto the camera Raul fixed to the post across the yard, facing her lintel.
   At Tier 1 it runs **sixty times slow**.
 - **The thread (turn):** Adam's stress spikes; the **stress trigger** wakes the detector over his tether (`WR-L3`),
   and an **amber thread** draws itself from his chest down the feed to Naomi. Small tag: **LOOP FORMING**. It warns
@@ -42,12 +42,12 @@ the way he sees.
 ## Script (draft v1)
 > 9:16 vertical · ~2.5 min · cinematic photoreal · *Black Mirror / Silo* register. **ADAM** (`CHR-06`), about 19;
 > **NAOMI** (`CHR-11`); **RUTH** (`CHR-07`); **RAUL** (`CHR-02`), Ghost in a shell; **THE CLINIC TECH**, who services
-> Adam's implants. About 20 spoken words.
+> Adam's implants. About 10 spoken words.
 
 *Castes (`WR-B1`): Adam is a cyborg, 90% organic, Purist-born; no Lens until shot 5, then a Lens. Naomi and Ruth are
 Purists, no Lens. Raul is a Ghost in a shell, Lens on, never in POV. The clinic tech is a cyborg at Tier 0 (as
 S1E14's tech, `Q-87`). Adam's body rests in the clinic's service capsule while his mind is up; the rented city
-capsule comes in E3 (`Q-91`). Timing (`WR-T4`): shots 1–5 at Tier 0, one clock, the morning after E1 (about T+19.0; the walk to the city takes the day).
+capsule comes in E3 (`Q-91`). Timing (`WR-T4`): shots 1–5 at Tier 0, one clock, the morning after E1 (about T+19.25; the airlock is a short walk over the ridge, as in S1E18).
 From shot 6, two clocks at Tier 1 (60×): the service takes **one real hour = 60 hours for Adam** (two and a half
 days without pain); on the feed, **one real second = one minute** for him.*
 
@@ -55,8 +55,8 @@ days without pain); on the feed, **one real second = one minute** for him.*
 blue pouring through the linen in a pulse that won't stop. He can't finish a breath. NAOMI's hands come into frame
 and have nothing to do. [SOUND: the ache tone, loud; the digital tick, fast.]
 
-**2 · THE LINTEL · CONTEXT (0:05–1:15, shots 2–5).** RAUL, on a stool, fixes a small camera to Naomi's lintel post,
-just under the ten notches. A pinhead light comes on. NAOMI watches him do it the way she'd watch someone nail a
+**2 · THE LINTEL · CONTEXT (0:05–1:15, shots 2–5).** RAUL, on a stool, fixes a small camera to the post across the yard,
+facing her door and its ten notches. A pinhead light comes on. NAOMI watches him do it the way she'd watch someone nail a
 thing to her door.
 
 > **NAOMI:** Will he see me?
@@ -86,7 +86,7 @@ fades: stops. Silence so clean it rings. Adam's hand goes to his ribs and finds 
 once, and the laugh breaks, and he cries, and keeps his hand there as if the pain might come back if he moves it.
 [Camera: gimbal-smooth, slow; the golden-white render, shadowless.] He doesn't say "it stopped." He doesn't have to.
 
-**7 · THE FEED.** [UI: a window opens in the central view: the village feed, the lintel post, the notches.] NAOMI
+**7 · THE FEED.** [UI: a window opens in the central view: the village feed, her door, the notches.] NAOMI
 stands under the lintel, looking straight into the camera, at him. She is lifting her hand toward the notches, and
 at his clock the lift takes **a full minute**. Her mouth moves; what reaches him is a slow sub-bass groan, a voice
 pulled out of shape by the clock. Behind her a chicken hangs in mid-step. The fire's smoke stands like carved stone.
@@ -114,6 +114,6 @@ write.)*
   `WR-T4` (both clocks from shot 6), P9 (★ the first ascent, the pain stops, a Purist's first Lens · LOOP FORMING
   over love, a-ha #8).
 - Inventions to log: the clinic (unnamed, at the city's surface edge) and its service capsule; THE CLINIC TECH as a
-  new role label (cyborg, Tier 0); Raul fixing the feed camera to Naomi's lintel post (the "village feed" of E10/E13);
+  new role label (cyborg, Tier 0); Raul fixing the feed camera to the post across the yard (`Q-128`) (the "village feed" of E10/E13);
   real audio arriving as an unintelligible drone across the clock gap (why Ruth writes in E10); *Safe* reused as
   Adam's first circle; Ruth's own bare wrist.

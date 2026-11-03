@@ -96,7 +96,7 @@ close on the prompt together. The count resumes.
 **8 · THE FUSION · TURN (2:15–2:30, shots 8–9).** Zero. The horizontal dividers **vibrate and dissolve** into
 bleeding fields of amber and violet; the bottom band's firelight goes out mid-flicker; the frame lines collapse inward.
 A fast **push-in** drives the three faces into one point. [SOUND: a high data tone; then silence.] Snap to a single,
-high-contrast 9:16 portrait: **ADAM opens his eyes.** Calm, whole, enormous, every one of forty years at once behind
+high-contrast 9:16 portrait: **ADAM opens his eyes.** Calm, whole, enormous, every one of thirty-five years at once behind
 them. [UI: his circles and squares settle into one shape at the frame: the **hollow outline of a ring**, issued.]
 
 **9 · FINAL IMAGE.** He closes his eyes, the way anyone does to see someone they love. What comes is not the firelit
@@ -107,7 +107,9 @@ troubled. That is the cut.
 *(Theme in subtext, never stated: the Merging gives cognition, not balance, and for a convert it is a choice, made by
 the two selves who are awake for the one who is asleep and dreaming of home. The fused man remembers everything his
 threads lived; what the brain was holding in the dark never reaches the ledger. He reaches for his mother and the
-system hands him her diagnosis. The ring is issued empty.)*
+system hands him her diagnosis. The ring is issued empty. A serial viewer has already seen α once, through the glass
+at a work desk in E8, unlabelled; this reel pays that plant. The body's "…and I'm home" is ironic by placement: it
+comes from a rented box, a ridge away from home, and it is the one voice with no vote.)*
 
 ## Still to write / next
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md):
@@ -118,6 +120,10 @@ system hands him her diagnosis. The ring is issued empty.)*
 - **The glyph:** issued hollow here (`Q-12` mirror); E10 must keep it hollow, and he notices. The name "Camel's
   Doughnut" stays bible only.
 - **Continuity:** E7–E8 followed β, unlabelled, as S1E4 followed one of Raul's threads. Logged in E7's notes.
+  **Plant paid (`Q-128`):** E8 shot 2 glimpses α (a second Adam at a city work desk, ≤ 2 s, no tag) through the
+  arcade glass; the top band's first shot here should echo that desk's framing so the match lands.
+- Revised 2026-11-04 (audit d1): notes now reference E8's α plant; "…and I'm home" kept, as ironic in context
+  (spoken by the sleeping body in a rented capsule).
 - Inventions to log: Adam forked into two threads at the Tier-2 up-clock, by consent, as the convert's road (an
   adult's Parallel Pedagogy); α as the city's work, β as the tribe; the body as the third band, at 1:1, frozen, with no
   vote; the hold at `T−10 s` and the prompt `Consent required (adult)`; the Neural-Synthetic Upgrade as the Merging's

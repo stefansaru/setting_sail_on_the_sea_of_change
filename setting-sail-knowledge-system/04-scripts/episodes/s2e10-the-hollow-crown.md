@@ -68,8 +68,8 @@ anyone else has noticed. THE TRIBE turns toward him and lifts its cups in **one 
 Someone's hand on his shoulder. He walks among them, laughing on the beat. [UI: every top circle lit, warm, full. The
 care chart, small: `Organic: 60%`.] Nothing hurts. Nothing is hungry. Nothing is afraid. Nobody has slept.
 
-**3 · THE SKY.** He looks up. A perfect sky, gold to blue, and not a seam in it anywhere. Nothing up here will ever
-crack.
+**3 · THE SKY.** He looks up. A perfect sky, gold to blue, without one cloud, one bird, one seam, and it stays
+exactly so, unchanging to the last shade, for as long as he looks.
 
 **4 · THE RING · FRICTION (1:15–2:15, shots 4–6).** [UI: the full circles' light gathers and runs down the frame
 toward the ring, sweeps once around its outline, and **slides off**, like water off glass. Hollow.] It happens again.
@@ -79,7 +79,7 @@ pulse his own light in the ring falls **off the beat**, then rejoins.] He doesn'
 
 **5 · THE VILLAGE — real time, raw, no UI.** Handheld, close, the breathing camera of E1. One lamp. RUTH at a table, a
 pencil stub, a sheet of paper, writing slowly, carefully, pressing hard. Behind her, in shadow, NAOMI in bed, her
-breath catching. Ruth stands, goes out to the lintel post, looks up at the small camera fixed there, and raises the
+breath catching. Ruth stands, crosses the yard to the post, looks up at the small camera fixed there, and raises the
 sheet in **both hands**.
 
 **6 · THE SHEET.** Adam's frame. [UI: in the lower corner, the feed: a white rectangle where the lintel was.] He sees
@@ -117,3 +117,5 @@ since he came up points up, not down. The viewer finishes the sentence.)*
   off the tribe's beat for one pulse (an echo of Vesper's, E7); the sky with no seam; the feed's own real-time stamp
   counting the ten seconds; Ruth writing with a pencil stub by one lamp; the E1 handheld camera returning for the
   village; the reel wordless but for the sheet; `cure her` first lit here, written by Adam (E11 carries it).
+- Revised 2026-11-04 (audit d1): shot 3's told line ("Nothing up here will ever crack") turned into an image (a
+  sky that stays unchanged to the last shade for as long as he looks).

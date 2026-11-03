@@ -79,9 +79,9 @@ gimbal-smooth, locked.] On the path a Purist child stops and stares, with curios
 
 He has no answer. He was the last child to ask a chrome stranger that.
 
-**3 · THE VILLAGE — handheld, warm chiaroscuro.** The long table from S1E19, set and empty, the food cooling. Everyone
+**3 · THE VILLAGE — handheld, warm chiaroscuro.** The long table from S1E19, set and empty, the food cooling. At the edge of the crowd an old woman murmurs: *"Hurried."* Everyone
 is at one door. Above it, the lintel: eleven notches, and Ruth's sheet. RUTH stands in the doorway. She looks at him a
-long time. Then she takes the sheet down, folds it once, and steps aside. [UI: scanning NAOMI in the bed beyond; red
+long time. Her eyes go to his chrome wrist: her cord, still knotted. Then she takes the sheet down, folds it once, and steps aside. [UI: scanning NAOMI in the bed beyond; red
 and yellow pulse: *Advanced Cellular Decay · Life Expectancy: Limited*.]
 
 **4 · TWO-SHOT · FRICTION (1:15–2:15, shots 4–5).** The bedside. Chrome and flesh in one frame; Ruth on the far side,

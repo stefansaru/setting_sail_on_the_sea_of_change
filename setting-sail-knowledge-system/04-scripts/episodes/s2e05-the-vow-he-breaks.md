@@ -25,7 +25,7 @@ cold blue light. The Grid offers to make it stop, for good.
 
 ## UI behavior (the Perspective Lens)
 Adam's Lens. **No glyph** (absent until E9).
-- **The clock (shots 2–5):** a small numeral at the top edge counting his rate down: **60×**, **30×**, **8×**,
+- **The clock (shots 2–5):** a small numeral at the top edge counting his rate down: **60×**, **40×**, **12×**, **8×**, **4×**,
   **2×**, approaching **1:1**. *(Both clocks on screen.)*
 - **The care chart:** *Organic: 90%* holds; the compound line under it flickers amber as the rate falls.
 - **The offer (shot 6):** a Context circle, amber, at the top of the frame: **UP-CLOCK · PERMANENT**. Below, a
@@ -48,7 +48,7 @@ vial, for him.
 
 *Castes (`WR-B1`): Adam is a cyborg, 90% organic, Lens on, body in his rented city capsule (`Q-91`); Naomi and Ruth
 are Purists with no Lens, seen on the feed (`WR-L2`). SYSTEM is a voice. Timing (`WR-T4`): about **six real weeks**
-into the residency (about T+19.1) = **about 2,520 days, nearly seven years, for Adam** (42 × 60); his body is 19, his
+into the residency (about T+19.37) = **about 2,520 days, nearly seven years, for Adam** (42 × 60); his body is 19, his
 mind about 26. The buffer brakes him from 60× toward 1:1 over about **twenty real seconds** (several minutes for him,
 shrinking toward real as he slows); at about 1.5×, Naomi's **four-second** line lasts about **six** seconds for him,
 nearly her own pace, the only time in Act I he hears her. After the turn he is at Tier 1 **for good**: the rest of

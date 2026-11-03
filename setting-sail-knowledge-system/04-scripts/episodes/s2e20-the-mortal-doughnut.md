@@ -75,11 +75,15 @@ ring **cracks**.
 > **NAOMI:** I know. *(beat)* Give me your hand.
 
 **5 · HER CHOICE.** She takes the vial from the table, breaks its seal, and presses it to the inside of her own wrist,
-then into the seam of his chrome wrist, her hand closed over both. [VISUAL: a thin warm thread of red runs out of her,
-through the vial, into the seam. Where it enters, the chrome's edge **blushes**: a rim of new skin, pink and wet.]
+then into the seam of his chrome wrist, her hand closed over both. [VISUAL, one locked insert, both wrists in the same
+frame, no cut: a thin warm thread of red runs out of her, through the vial, into the seam. Where it enters, the
+chrome's edge **blushes**: a rim of new skin, pink and wet.]
 
-**6 · THE COST.** As the rim of skin spreads on him, her hand **pales**. Adam understands a beat late and tries to pull
-away. She holds on. Ruth holds her. No one says what it is.
+**6 · THE COST.** Hold the same insert. The lamp-warm colour **leaves her** in a visible tide: from her fingertips, up
+the back of her hand, to the wrist and the vial, the flush draining as it goes, her skin turning to paper-white
+behind it; and in exact step, the pink rim on him **widens** by the same distance, as if one colour were being poured
+from her hand into his. Her hand pales; his flesh warms. Adam sees it a beat late, and tries to pull away. She holds
+on. Ruth holds her. No one says what it is.
 
 **7 · ONE BREATH · TURN (2:15–2:30, shots 7–8).** Adam's chest, chrome to the collarbone, **rises**: a breath, drawn by
 flesh that wasn't there a minute ago. For that one breath he is simply there, in her time, ageing. In the
@@ -101,5 +105,8 @@ of it and keeps the crack. The first frame was a heartbeat; the last frame is th
 - **Logged:** *"I'll stay"* as Raul's S1E20 line returned in Adam's mouth, and *"I know"* as Naomi's S1E19 answer
   returned; the cure administered through the vial's seal from her wrist into his seam; the glyph and *Choose* drawn
   in a dark Lens (see UI); the first breath as the image of "for one breath he ages".
+- Revised 2026-11-04 (audit d1): the donor transfer (shots 5–6) made readable on first viewing, still wordless: one
+  locked insert with both wrists in frame, her colour draining from fingertips to wrist in exact step with the new
+  skin spreading at his seam.
 - **Seeds S3 (held):** the cure exists and the vial is spent; the Law stands; Rafe waits (E18); what Adam does with
   one borrowed mortal life. What the cure does to the world stays in the S2 vault (paid by `Q-106`).

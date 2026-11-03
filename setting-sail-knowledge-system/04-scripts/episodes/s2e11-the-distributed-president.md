@@ -91,9 +91,9 @@ Through the glass: a city block's lights step down a shade. At one desk a woman'
 room around her smears, then settles, and a warm-orange lounge blooms where her office was. *(The S1E5 image,
 happening to a stranger. No one here did it; no one could undo it.)* The green ticks fall on her too.
 
-**6 · ADAM, WAITING.** He stands. His request is still grey. [UI: `APEX · 2.4 h · PENDING`.] Around it, the green rain
-keeps falling, steady and fair and indifferent. He opens the planetary view wider with two fingers, looking for the
-one place he cares about.
+**6 · STILL GREY.** The stranger's ruling took seconds. His own line hasn't moved. [UI: `APEX · 2.4 h · PENDING`.] Green
+ticks land on her new lounge, on the block, on everything below the glass; none lands on his grey line. He opens the
+planetary view wider with two fingers, looking for the one place he cares about.
 
 **7 · THE MAP · TURN (2:15–2:30, shots 7–8).** The whole planet, every act ticking green, a world of tiny lights; and
 there, on a dark coast, one small patch where **nothing ticks at all.** No data, no law, no rain. [UI: the planetary
@@ -116,3 +116,6 @@ sentence: nobody up here will save her, so he will have to buy it, which is E12'
   (kept distinct from E19's `SAVE`, which the patch writes); the village as an un-ticked patch on the planetary view
   (Purists keep no chain, so the CVP has nothing to check there).
 - `// M.C.` appears once, unread, in shot 3; no later reel in S2 may point back at it.
+- Revised 2026-11-04 (audit d1): shot 6's filler ("ADAM, WAITING") given a job: the stranger's ruling lands in
+  seconds while his request stays grey, ticks falling on everything but his line; "steady and fair and indifferent"
+  cut.

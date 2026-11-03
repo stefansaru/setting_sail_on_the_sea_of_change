@@ -18,7 +18,7 @@ everything: as a set of readings.
 | Element | Adam, Tier 1 | The village, on the feed (1:1, seen at 60× slow) |
 |---------|---------------|--------------------------------------------------|
 | **Lighting** | High-key gold, shadowless; his face lit evenly from nowhere (`VIS-16`). | Caravaggio, as in E1, but **through glass**: a slight video sheen, compressed blacks, the warmth one step removed. |
-| **Camera** | Gimbal-locked, slow push toward the feed window. | The feed's own fixed wide from the lintel post: never moves, never cuts. |
+| **Camera** | Gimbal-locked, slow push toward the feed window. | The feed's own fixed wide facing the lintel: never moves, never cuts. |
 | **Motion** | Normal, calm (`WR-T2`). | A **frieze**: smoke like poured glass, a hand lifting over a minute, birds hung in the air. |
 | **Sound** | Clean room tone. | The **sub-bass drone** of real voices slowed sixty times (from E2): grief-shaped, wordless. |
 
@@ -48,7 +48,7 @@ her refusal. It's that the tag on her outlasts the sight of her, and he leaves i
 *Castes (`WR-B1`): Adam is a cyborg, 90% organic, Lens on, body in his rented city capsule at 1:1 (`Q-91`), mind at
 Tier 1. Naomi, Ruth and the villagers are Purists with no Lens: every tag is in Adam's Lens, on a feed (`WR-L2`).
 Raul is a Ghost in a shell at Tier 0, Lens on, never in POV. Timing (`WR-T4`): about **four real weeks** into the
-residency (about T+19.1) = **about 1,680 days, roughly four and a half years, for Adam** (28 × 60). His body is 19,
+residency (about T+19.33) = **about 1,680 days, roughly four and a half years, for Adam** (28 × 60). His body is 19,
 his mind about 23. On the feed, one real second = one minute for him: Naomi's **five-second** answer lasts **five
 minutes** at his clock; the door's closing, about **three real seconds**, takes three.*
 
@@ -75,7 +75,7 @@ On the feed, RAUL, by the fire, receives it instantly, lifts his head, and cross
 clock it takes Raul a long time to cross. Raul stops before her and speaks; the drone of his voice, slow, wordless.
 RUTH is at the long table behind them, a bowl in her hands, stopped.
 
-**6 · HER ANSWER — locked on the feed.** NAOMI looks past Raul, straight up into the camera on her post, at her son.
+**6 · HER ANSWER — locked on the feed.** NAOMI looks past Raul, straight across the yard into the camera, at her son.
 She answers. It takes her five seconds. It takes Adam five minutes, and he watches all of them: her lips crawling
 through a sentence he can't hear, a drone like something underwater. He doesn't look away. He doesn't move. [UI: one
 plain line of text arrives from Raul.]
@@ -83,7 +83,7 @@ plain line of text arrives from Raul.]
 > **RAUL** *(text, in Adam's Lens)*: She says she has a bed.
 
 **7 · RUTH.** On the feed, RUTH sets the bowl down, crosses to the lintel, and sits on the step at Naomi's feet,
-her back against the post, under the camera, under the notches. It takes her a long time, at his clock, to sit. She
+her back against the doorpost, under the notches. It takes her a long time, at his clock, to sit. She
 doesn't look up at the lens. She doesn't need to.
 
 **8 · THE DOOR · TURN (2:15–2:30, shots 8–9).** NAOMI turns and goes inside. Ruth rises and follows her. The door

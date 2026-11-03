@@ -45,7 +45,7 @@ doesn't feel, and the cord on a wrist six floors down that still does.
 
 *Castes (`WR-B1`): Adam is a cyborg, 90% organic, Purist-born, Lens on; from shot 1 his body rests in a rented city
 capsule while his mind runs at Tier 1 (`Q-91`; `WR-B6`: he can't simply walk home). SYSTEM is a voice, not a person. The people
-in the plaza are Shadows (`Q-87`); the sleepers in the bay are their bodies. Timing (`WR-T4`): the residency starts about T+19.0, the start of his roughly three real months at Tier 1 (`Q-48`).
+in the plaza are Shadows (`Q-87`); the sleepers in the bay are their bodies. Timing (`WR-T4`): the residency starts about T+19.25, the start of his roughly three real months at Tier 1 (`Q-48`).
 This reel spans its **first real week = about 420 days, roughly fourteen months, for Adam** (7 × 60). In the bay,
 the hook and the turn are about **seven real days apart**; on the city's clock, a year and two months. His body stays
 19; his mind turns about 20.*
@@ -82,7 +82,7 @@ edge of frame its answer is already arriving: a warm cup set down; a door slidin
 never had, offered before he could have them. His face, which held a brace against pain for ten years, has nothing
 left to brace against. It smooths.
 
-**7 · THE SAME PLAZA, LATER.** A year and more has passed for him (seven days, below). Adam sets the yoke down
+**7 · THE SAME PLAZA, LATER.** A year and more has passed for him: the plaza's trees have turned and greened again. Adam sets the yoke down
 without thinking of it. He looks well. He looks like everyone else.
 
 **8 · THE WRIST · TURN (2:15–2:30, shots 8–9).** A small habitual gesture: Adam's left hand goes to his right wrist,

@@ -27,9 +27,8 @@ They never will. Their hands are a forearm's length apart.
 ## UI behavior (the Perspective Lens)
 Adam's Lens throughout (`WR-L2`). **No glyph** (absent until E9).
 - **Top circle (Context) — the tribe overlay:** `TRIBE · 150`, a ring of 150 small lights pulsing **in one beat**,
-  his own among them, at last on the beat. Two fingers open it into a map of the city: the 150 bodies scattered across
-  every district, Ghosts as hollow dots with no body anywhere; the nearest capsule to his own is **not one of
-  them**.
+  his own among them, at last on the beat. Two fingers scatter it into 150 lights far apart; the one beside his own
+  is grey, **not one of them** (kept to that single read: the Proximity Illusion; no districts, no Ghost markers).
 - **The tether line (from S1E6):** at his frame edge, as on every Shadow-bodied mind. The Ghosts around him have none.
 - **Vesper's tag:** `VESPER · Ghost`. Her light in the ring pulses **off the beat**: two clocks that never match.
   When her burst ends, the tag turns to `VESPER · paused`.
@@ -68,10 +67,9 @@ joins it and **locks on the beat**.] Someone says something we don't hear, and *
 the same instant, perfectly in step. Adam laughs with them. His face opens. It is the first time since the village
 that he has been inside a *we*.
 
-**3 · THE MAP.** Later, still glowing, he idly spreads the circle with two fingers. [UI: the ring unfolds into a map of
-the city at night: 150 lights scattered across every district, miles apart; a few hollow dots with no body at all.
-His own light blinks in a bay on the far side of the river. The nearest light to his is grey, not tribe: the
-stranger.] He looks at the map a beat too long, and closes it.
+**3 · THE MAP.** Later, still glowing, he idly spreads the circle with two fingers. [UI: the ring scatters into 150
+lights, far apart on the dark. The one light beside his own is grey, not tribe: the stranger.] He looks a beat too
+long, and closes it.
 
 **4 · VESPER ARRIVES.** In the ring a single light **comes on off the beat**. Among the tribe a woman is suddenly
 there who wasn't: VESPER, ageless, mid-step, as if she has walked in from another room that is centuries away. [UI:
@@ -120,10 +118,13 @@ before anyone could tell her.)*
 - **Thread plant (for the E9 writer, not on screen):** from the up-clock to Tier 2 Adam runs as forked threads (adult,
   by consent; `WR-M1`, ended by the Merging in E9). E7 and E8 follow **one thread, unlabelled**, as S1E4 followed one
   of Raul's. Nothing here marks it.
-- **Open for S3E14 (logged, not ruled):** whether Adam recognized the name. The reel leaves it on his parted lips.
+- **Ruled (`Q-127` (7)):** Adam recognizes the name and never tells Raul. The reel leaves it on his parted lips.
 - Inventions to log: the stranger in the neighbouring capsule, a worn Shadow at Tier 1, and the two capsule displays
   (`Tier 2` / `Tier 1`); the tribe overlay `TRIBE · 150` as a ring of lights pulsing in one beat, which unfolds into a
   city map; Vesper's light off the beat and her `VESPER · Ghost` / `VESPER · paused` tags; the synced laugh; Vesper
   noticing his tether line; the three lines ("Where are you?" / "Next to a stranger." / "Mine was next to—"); her feed
   shared into his view; the capsule lids up, both empty; a pause shown as a frozen avatar. Adam's up-clock to Tier 2
   at about thirteen real weeks (end of `Q-48`'s three months) falls between E6 and E7.
+- Revised 2026-11-04 (audit d1): shot 3's map lightened to one read (150 lights far apart; the grey one beside his is
+  the stranger); districts, river and Ghost dots cut for the minor-detail budget. Vesper and the two empty capsules
+  kept. Note: the thread plant is now on screen in E8 (one unlabelled frame of α, `Q-128`).

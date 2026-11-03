@@ -16,7 +16,7 @@
 ## Setup & hook
 The **Sanctuary Void**: a white wall so tall the top is lost, a figure at its foot no bigger than a thumbnail. Adam,
 in a plain Penitent's grey, crossing a threshold. In the lower corner of his Lens the village feed, which has been
-there since E10, flickers once and goes dark.
+there since E4, flickers once and goes dark.
 
 ## Cinematography
 | Element | Hope, carceral half | The cloisters' one door · the capsule |
@@ -34,7 +34,7 @@ All UI is in Adam's Lens (`WR-L2`). Inside Hope it shifts to **Parish Metrics** 
 - **Bottom of frame:** the candle, `ABSOLUTION 0%`. It moves twice in the reel: to `3%` across weeks, and to `4%` once.
   It never fills.
 - **Bottom squares (Intention):** his own, `cure her`, and, returning when Vance appears at the grille, the pending
-  `KEYS · VANCE` (E12), now reading `EXIT · APEX 2.4 h`.
+  `KEYS · VANCE` (E12), now reading `EXIT · APEX · 2.4 h`.
 - **The door:** every cell door in the cloister carries a small candle tag; one door carries none.
 - **The turn (`Q-96`):** as he signs, a thin gold seam draws itself under his bottom row of squares, the seam he
   magnified under Vance's in E13, tagged `REGRADE`. The first installment is taken: `Organic: 30%`. Not the alignment
@@ -100,9 +100,9 @@ is doing.
 > **THE INTERCESSOR** *(warm, meaning it):* Good. *(beat)* Again tomorrow.
 
 **6 · THE GRILLE.** The visiting grille, a lattice of white stone. VANCE on the other side, unlit, at ease. [UI: the
-pending square returns to Adam's bottom row: `KEYS · VANCE`, and under it now, `EXIT · APEX 2.4 h`.]
+pending square returns to Adam's bottom row: `KEYS · VANCE`, and under it now, `EXIT · APEX · 2.4 h`.]
 
-> **VANCE:** Hope will wait a thousand years for the rest of that sentence. *(beat)* Will she?
+> **VANCE:** Hope will wait a thousand years for the rest of that sentence. *(beat)* Will your mother?
 
 *(Recall cue, ≤ 2 s: the empty frosted row from E14, `10,000` over it. He knows what he's signing.)* Adam looks at
 the dark corner of his Lens where the feed used to be.
@@ -133,5 +133,5 @@ left.)*
 - **Invented here, to log:** the Intercessor's question "Why did you climb?" and Adam's "It stopped hurting." (the E2
   relief, confessed); Hope's cloister running at his clock, so he stays at Tier 2 (`Q-48`); the village feed going
   dark inside Hope; the cell doors' candle tags, and the welded door carrying none; the UI lines
-  `PENITENT · VOLUNTARY`, `ABSOLUTION 0% / 3% / 4%`, `EXIT · APEX 2.4 h`, `Organic: 30%`; the candle going out as he
+  `PENITENT · VOLUNTARY`, `ABSOLUTION 0% / 3% / 4%`, `EXIT · APEX · 2.4 h`, `Organic: 30%`; the candle going out as he
   leaves; the regrade carried out by surgical rigs at his rented capsule.
