@@ -185,7 +185,7 @@ TikTok/YouTube retention curve.
 *Middle-arc location: **[[the-ministry-of-hope|the Ministry of Hope]]** — the church-prison introduced
 after the Ep 10 crisis. The 1%-trial strand (Ep 11–13) happens in its [[the-medical-sanctuary|Medical
 Sanctuary]]; whether the protagonist is **sentenced there** (rehab), checks in as a **Seeker**, or only
-visits is `Q-09`. S1 keeps only the Sanctuary-Void look (`VIS-14`); Parish Metrics are held to S2E15.*
+visits: he comes as a voluntary Seeker (`Q-09`). S1 keeps only the Sanctuary-Void look (`VIS-14`); Parish Metrics are held to S2E15.*
 11. **The 1% Fault Line** — *Tier 0 · [[the-medical-sanctuary|Hope's Medical Sanctuary]].* A side
     character takes Hope's desperate bargain — an experimental DNA-telomere rewrite — and hits the
     catastrophic **1% failure**: 24 hours to live. *UI:* clinical high-contrast under the Sanctuary-Void

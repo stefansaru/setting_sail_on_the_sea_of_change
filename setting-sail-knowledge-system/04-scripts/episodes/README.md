@@ -20,7 +20,7 @@ scripts** live here; this file is the **index**.
   Latest pass: `audit-reports/AuditReport_s1-revelation-cadence_20260605` — **PASS** (one OWNER item: E12).
 
 > **Season 1 status: 22 scripts, all full drafts (✅): E1–20 plus lettered E3a–b (`Q-39`).** Open items are author calls
-> (Raul↔Hope `Q-09`), not gaps.
+> (Raul comes to Hope as a voluntary Seeker, `Q-09`), not gaps.
 
 ## Act I — The Accelerated Utopias (Phase A) · Raul **100% organic**
 | Ep | Title | Tier | ✓ | File |

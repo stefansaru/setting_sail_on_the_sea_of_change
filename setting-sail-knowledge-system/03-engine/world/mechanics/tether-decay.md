@@ -66,7 +66,7 @@ death/transition land as *earned*, not arbitrary.
 
 ## Open questions
 - Could an antagonist (**[[intent-patch|Vance]]**) **sabotage a citizen's TTD frequency** to force them
-  into becoming a disembodied Ghost? (A clean weaponization → `Q-15`.)
+  into becoming a disembodied Ghost? (No: Vance profits from it but never causes it, `Q-15`.)
 - Do the [[setting-sail-tier-descent|Natural Purists]] read the Dream Hunger as proof the Grid is
   fundamentally *unnatural*? (Their ideology's strongest argument.)
 

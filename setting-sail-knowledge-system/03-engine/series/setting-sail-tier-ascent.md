@@ -1,7 +1,7 @@
 # Series — *Intention in Context* · **Season 2: "The Mortal Ledger"**
 
 > *(File slug `setting-sail-tier-ascent` — the deliberate mirror of [[setting-sail-tier-descent|Season 1's
-> tier-descent]]. Display title **Intention in Context — Season 2: The Mortal Ledger** (`Q-18` provisional).)*
+> tier-descent]]. Display title **Intention in Context — Season 2: The Mortal Ledger** (`Q-18`).)*
 
 > **The inverse season.** Season 1 ran a mind *down* the [[velocity-tiers]] (Tier 3 → 0), trading speed for
 > weight until it earned the [[the-macro-doughnut|Macro-Doughnut]]. **Season 2 runs the other way:** a
@@ -363,7 +363,7 @@ Audit each drafted S2 script with [`../prompts/audit-script.md`](../prompts/audi
 keep the S2 Reserve Vault sealed. The **ascent = reverse tier order** is the `ANTH-05` throughline (mirror of
 S1's `TML-03`). Keep the **body-clock** (`progressive-digitalization`, inverted valence), the **glyph**
 (absent→issued→cold-complete→cracked, `Q-12` mirror), the **9:16 UI** (`VIS-08`), and the **rendering style**
-(`VIS-13`) consistent (`ANTH-06`). Open `Q-`: `Q-18` S2 title · `Q-19` the finale's exact ending. Applied rulings:
+(`VIS-13`) consistent (`ANTH-06`). Resolved 2026-11-04: `Q-18` title · `Q-19` the tragic return. Applied rulings:
 `Q-16/17` (names), `Q-48`, `Q-53`, `Q-57`, `Q-61`, `Q-72`, `Q-74`, `Q-76/77`, `Q-88`, `Q-90..98` (2026-11-03 pass).
 
 ## Related

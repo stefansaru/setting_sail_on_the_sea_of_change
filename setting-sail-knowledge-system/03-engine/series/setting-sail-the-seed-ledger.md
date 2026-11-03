@@ -3,9 +3,9 @@
 > *(File slug `setting-sail-the-seed-ledger` — the **far panel** beyond the Ledger triptych:
 > [[setting-sail-tier-descent|S1 "The Intention Ledger"]] · [[setting-sail-tier-ascent|S2 "The Mortal
 > Ledger"]] · [[setting-sail-the-cartographers-ledger|S3 "The Cartographer's Ledger"]] · **S4 "The Seed
-> Ledger."** Display title **Intention in Context — Season 4: The Seed Ledger** (`Q-26` provisional).
+> Ledger."** Display title **Intention in Context — Season 4: The Seed Ledger** (`Q-26`).
 > **Status: DRAFT / author's seed — 2026-10-12; author's answers folded in the same day** (`Q-28/29/31/32/33`
-> resolved as leans; `Q-34/35` added). Still open: `Q-26`, `Q-30`, `Q-35`. **Updated 2026-11-03:** `Q-109`–`Q-112`
+> resolved as leans; `Q-34/35` added). `Q-26`, `Q-30`, `Q-35` resolved 2026-11-04. **Updated 2026-11-03:** `Q-109`–`Q-112`
 > applied; the S5 outline carries its watch items.)*
 
 > **The voyage season.** S1 ran a mind *down* the [[velocity-tiers]], S2 ran one *up*, S3 ran *back to the
@@ -102,7 +102,7 @@ The seed is, almost rule for rule, the Shadow Grid put inside a hull. **Reused, 
 - `PLC-10` the Seed Fleet · `PLC-11` **Hull Four** (the wounded ship) · `PLC-12` the destination system.
 - `CHR-08` **[[kai|Kai]]** — the trapped colonist.
 - `MAG-31` **[[the-lure-beacon]]** — the false supernova; the four nested layers; the burst.
-- `CHR-09` **[[teo|Teo]]** — the base worker who answers it (`Q-35` may fold into Kai).
+- `CHR-09` **[[teo|Teo]]** — the base worker who answers it (`Q-35`: Teo).
 
 **Two adjustments to the seed, for canon fit** (**confirmed by the author 2026-10-12**, `Q-32`):
 1. *"Limitless" speed at the top* → **capped at the Apex (86,400×)** and, aboard, further capped by the
@@ -310,7 +310,7 @@ Per the [[revelation-cadence]] firewall, S4 keeps the hull larger than the frame
 - **The aliens — "The Unlisted" (`FAC-06`).** Never *shown*; S4 gives them only a **voice** — the
   [[the-lure-beacon|beacon]]'s four layers (E6–9) — and one log line (E19: the first pattern they matched was a packet
   from Earth). Their nature, number, intent, whether they had any hand in the hit, and the boarding of Hull Four are
-  Part 2. *(`Q-30` — visibility and register still open.)*
+  Part 2. *(`Q-30`: heard, never shown; the High Clock suspected them.)*
 - **Hull Four's fate** — still transmitting (Ep 20). What, and to whom, is Part 2's engine.
 - **Rafe's "better system"** — the High Clock *is* his civilization (`Q-28`); whether
   it was a better system is the colony's question, not the voyage's.
@@ -353,8 +353,7 @@ Audit each drafted S4 script with [`../prompts/audit-script.md`](../prompts/audi
 compressed but in the canonical four waypoints; the **disc-and-bore glyph** as the `VIS-12` motif; the
 **9:16 UI** (`VIS-08`); the **rendering style** (`VIS-13`); the palettes (`VIS-15`: Turrell for the Apex,
 Flavin for the server decks, Rothko for the hit, Albers for the manifest, Caravaggio for the lifeboat bays).
-`Q-` state (2026-11-03): **open** — `Q-26` title · `Q-30` the aliens' visibility/register ·
-`Q-35` Teo-or-Kai sends the burst. **Resolved** — `Q-27` Kai · `Q-34` Teo · `Q-109` Rafe pays E18–20 · `Q-110` tissue
+`Q-` state (2026-11-03): **Resolved** — `Q-26` title · `Q-30` heard only · `Q-35` Teo · `Q-27` Kai · `Q-34` Teo · `Q-109` Rafe pays E18–20 · `Q-110` tissue
 lock · `Q-111` correlation only · `Q-112` standing reserve. **Resolved as author leans** — `Q-28` Centauri (yes) ·
 `Q-29` in flight through S1, landed before S2 · `Q-31` Branch (a second Kai runs on) · `Q-32` seven numbered hulls + the
 screen · `Q-33` Part 2 = S5.

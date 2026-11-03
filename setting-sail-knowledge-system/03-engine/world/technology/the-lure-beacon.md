@@ -67,8 +67,8 @@ leaves it undefended. The Doughnut: *the message was a lie / the person who answ
 mode:** a hero.
 
 ## Open questions
-- Who sends the burst — a supporting character (**Teo**, `CHR-09`) or **Kai** themself (`Q-35`)?
-- Register of the Unlisted beyond the beacon (`Q-30`): shown in Part 2, or only ever heard?
+- ~~Who sends the burst~~: **Teo** (`Q-35`).
+- ~~Register of the Unlisted~~: only ever heard; the High Clock suspected them (`Q-30`).
 - *(Resolved, `Q-66`:)* the array logs the burst at once, but the High Clock reads it only after the hit, and buries
   the pairing under "sensor fault" to prevent a lynching at the base.
 - Whether the Unlisted had any hand in the hit at all (S5; light-lag says not by answering the burst).

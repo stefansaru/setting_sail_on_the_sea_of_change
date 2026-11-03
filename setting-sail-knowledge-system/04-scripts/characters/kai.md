@@ -53,7 +53,7 @@ on to **arrive in a body**. *(Pronouns left open in the blueprint.)*
 
 ## Relationships
 - **Teo** ([[teo]]) — bay-mate on Hull Four; the friend who answered the lure. Kai knows what he sent. The
-  friendship is the season's quiet bill. *(`Q-35`: the author may fold Teo's act into Kai.)*
+  friendship is the season's quiet bill. *(`Q-35`: the act stays Teo's.)*
 - **The High Clock** (`FAC-05`) — the institution that refused the climb, then received the Ghost. Not an
   enemy; worse — a guardian.
 - **The ship's voice** — the [[the-ai-guide]] archetype as Hull Four's own voice, reading the countdown in
@@ -74,7 +74,7 @@ Season 4 (lead). Part 2 (held).
 
 ## Open questions
 - Pronouns. Role confirmed: a **worker** (maintenance rota). Branch confirmed (`Q-31`): the
-  second Kai is S5's. Whether Teo's act is Kai's own (`Q-35`).
+  second Kai is S5's. Teo's act stays his (`Q-35`).
 
 ## Related
 - Canon: `CHR-08` in [[canon-registry]]. Body/glyph: [[progressive-digitalization]] · [[the-cyborg-slip]] ·

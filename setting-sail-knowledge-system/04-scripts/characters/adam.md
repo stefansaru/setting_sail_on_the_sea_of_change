@@ -61,7 +61,7 @@ an un-mediated mind, a grounded community) and gives it away rung by rung for gi
 Unnamed child in S1E18 (about 8) and S1E20; lead in S2; the recognizer in S3.
 
 ## Open questions
-- The finale's exact ending (`Q-19`).
+- ~~The finale's exact ending~~: the tragic return (`Q-19`).
 
 ## Related
 - Canon: `CHR-06` in [[canon-registry]]. Season: [[setting-sail-tier-ascent]]. Inverts: [[raul]].

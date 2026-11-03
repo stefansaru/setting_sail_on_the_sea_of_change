@@ -289,8 +289,7 @@ The triptych is closing, but the world stays larger than the frame:
   left to the audience (permanent).
 - **Whether the still-distributed President-remainder fully dissolves** at the finale, or a quiet shard persists.
   E20's `Outbound · 4.4 ly` keeps the question open while planting a-ha #12 (S4E4's sealed slot, S4E18, paid S5; `Q-112`).
-  It leaves at about T+38.5 and lands on the colony about T+43, some 33 years after landfall. Which shard it carries,
-  the god's remainder or what the girl became, is S5's (`Q-119`).
+  It leaves at about T+38.5 and lands on the colony about T+43, some 33 years after landfall. It carries the god's remainder, packed and paid on her own Apex, bound for the slot that holds her genome (`Q-125`); what it does there is S5's.
 
 - **Rafe's separate civilization** — glimpsed, never toured. *(→ toured, provisionally, as the
   **Seed Fleet** of [[setting-sail-the-seed-ledger|Season 4]] — `Q-28`, added 2026-10-12.)*

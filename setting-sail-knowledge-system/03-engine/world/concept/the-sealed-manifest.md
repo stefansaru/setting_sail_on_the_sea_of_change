@@ -63,7 +63,7 @@ fleet scale.
 - ~~Whose hand set the tissue lock, about 36 real years before S1E14?~~ **Bible (`Q-119`):** the President's, while
   she still had her body at launch (`Q-67`, `Q-98`); the slot holds a copy of the genome S3's Mara is cloned from.
   S4 never says Mara; S5 pays it.
-- Is *the Unlisted* a thing the High Clock discovered — or a thing it already knew to expect (`Q-30`)?
+- ~~Discovered or expected?~~ Suspected: part of why the manifest is sealed (`Q-30`).
 - Would telling the base **why** to stay silent have stopped Teo? (The season's quiet indictment.)
 
 ## Related

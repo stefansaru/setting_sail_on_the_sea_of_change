@@ -1,7 +1,7 @@
 ---
 id: teo
 name: Teo
-canon: CHR-09 (Q-35 may fold into Kai)
+canon: CHR-09 (Q-35: Teo sends the burst)
 role: Season 4 supporting — "The Hero"; the base worker who answers the lure
 status: provisional
 seasons: [S4, S5 (Part 2)]
@@ -57,7 +57,7 @@ catastrophic thing anyone does in the season.
 Season 4 (E6–12, E16–17). Part 2 (held).
 
 ## Open questions
-- Fold into Kai (`Q-35`)? Does he learn the truth in Part 2, and from whom? And which truth: the log's order of
+- ~~Fold into Kai~~: no, Teo keeps the act (`Q-35`). Does he learn the truth in Part 2, and from whom? And which truth: the log's order of
   events, or the vector?
 
 ## Related

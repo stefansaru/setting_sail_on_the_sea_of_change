@@ -47,7 +47,7 @@ figures swallowed by towering white sanctuary walls). See [[lighting]] / [[negat
 ## Story role
 A beautiful thematic conflict: an institution that *saves your soul through accountability* while
 operating a morally-grey [[the-medical-sanctuary]] in its depths. The book's penitence/accountability,
-made architecture. Likely the season's **middle arc** (introduced after the Ep 10 crisis — `Q-09`).
+made architecture. The season's **middle arc**: after the Ep 10 crisis Raul walks in as a voluntary Seeker (`Q-09`).
 
 ## Open questions
 - Is the protagonist **sentenced** to Hope (rehabilitation after Ep 10), a **Seeker**, or only a
