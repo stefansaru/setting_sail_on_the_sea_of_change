@@ -31,7 +31,7 @@ Centauri outpost.
 - **S1E14–16:** beamed from Earth. Over years of lag he diverges: survives the night the Station is holed, grieves crewmates,
   **falls in love.** Refuses the merge: *"I'm not the file they beamed."* Raul lets him live.
 - **S2 (touch):** a third glyph, far off and a different shape, at the edge of Raul's Lens in S2E18 (a-ha #14).
-- **S3 (provisional `Q-22`):** the **E16 reply copy** (`Q-54`). The beam back after "Go home, Rafe" (≈ T+8.2) forks: one instance lands at the colony about T+12.6, after landfall, and merges with Rafe; the other stays on Earth, paused for about twelve years (T ≈ +8.2 → +20.5), the third instance, and knows nothing past the weeks after the strike. A Ghost, in a leased shell in the village.
+- **S3 (rival-engineer, `Q-22`):** the **E16 reply copy** (`Q-54`). The beam back after "Go home, Rafe" (≈ T+8.2) forks: one instance lands at the colony about T+12.6, after landfall, and merges with Rafe; the other stays on Earth, paused for about twelve years (T ≈ +8.2 → +20.5), the third instance, and knows nothing past the weeks after the strike. A Ghost, in a leased shell in the village.
   **Planted** S3E1 (`REPLY COPY · PAUSED · 12 yrs` in Raul's Lens); **woken** S3E2 by Raul for a dive that reads at
   1:1, where his *love* square greys: `Recipient: 4.4 ly` (a-ha #6 plant for S4E4/E17). **His turn** S3E6: asked
   whether a fork should be made, he says yes, packs the god's shard himself, and fails to make the memory fit. He works
@@ -58,7 +58,7 @@ Centauri outpost.
 S1E14–16; S3; S4.
 
 ## Open questions
-- Ally or rival in S3 (`Q-22`). His partner's name.
+- ~~Ally or rival in S3~~: rival (`Q-22`). His partner's name.
 
 ## Related
 - Canon: the **Branch** of `Q-14` ([[the-cosmic-clone-paradox]]); origin self [[raul]].

@@ -77,7 +77,7 @@ ends S1 not by solving the mother's paradox but by *staying inside it* with her.
 All three seasons (lead in S1 & S3, guide in S2).
 
 ## Open questions
-- Name resolved (`Q-08`). S3-lead confirm (`Q-21`).
+- Name resolved (`Q-08`). S3 lead confirmed (`Q-21`).
 
 ## Related
 - Canon: `CHR-02` in [[canon-registry]]. Body/glyph: [[progressive-digitalization]] · [[the-macro-doughnut]].

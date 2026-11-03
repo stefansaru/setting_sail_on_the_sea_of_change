@@ -4,8 +4,7 @@
 > seasons — [[setting-sail-tier-descent|S1]] · [[setting-sail-tier-ascent|S2]] ·
 > [[setting-sail-the-cartographers-ledger|S3]] · [[setting-sail-the-seed-ledger|S4]] — stay as they are. This
 > page asks: what if there were **no Earth at all**, and the descent, the ascent, the origin and the voyage
-> were **one story on one fleet**? Display title **Intention in Context — The Hull Ledger** (`Q-36`
-> provisional). **Status: DRAFT, 2026-10-12; `Q-113` applied 2026-11-03.** It reuses every canon row; it adds none.)*
+> were **one story on one fleet**? Display title **Intention in Context — The Hull Ledger** (a non-canon drawer, `Q-36`). **Status: DRAFT, 2026-10-12; `Q-113` applied 2026-11-03.** It reuses every canon row; it adds none.)*
 
 > **The thesis, compressed.** Four voyages become one hull. Raul still descends the [[velocity-tiers]]; Adam
 > still climbs them; Mara still turns out to be the author of the world and still chooses to be born and

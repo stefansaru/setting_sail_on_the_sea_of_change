@@ -3,7 +3,7 @@
 > *(File slug `setting-sail-the-cartographers-ledger` — the third panel of the Ledger triptych:
 > [[setting-sail-tier-descent|S1 "The Intention Ledger"]] · [[setting-sail-tier-ascent|S2 "The Mortal
 > Ledger"]] · **S3 "The Cartographer's Ledger."** Display title **Intention in Context — Season 3:
-> The Cartographer's Ledger** (`Q-20` provisional).)*
+> The Cartographer's Ledger** (`Q-20`).)*
 
 > **The origin season.** S1 ran a mind **down** the [[velocity-tiers]]; S2 ran one **up.** S3 runs neither
 > way along the tiers — it runs **back, to the source.** The whole world — the Grid, the Lens, the tiers,
@@ -90,14 +90,14 @@ also why Vance, a Ghost, can't outrun the divers (`WR-T4`).
 S1E20 (switched back on for the sick boy, `Q-119`) and alignment off since S1E19; Rafe, a Ghost, in a leased shell when he is in the village; Vance, a **Ghost** (`Q-90`).
 
 ## Principals
-- **Raul** (`CHR-02`) — **S3 lead at last** (`Q-21` provisional). The Ghost who went to the bottom and back,
+- **Raul** (`CHR-02`) — **S3 lead at last** (`Q-21`). The Ghost who went to the bottom and back,
   who guided Adam. S3 detonates and **answers** the held question — *was his counsel ever trustworthy?* He
   becomes the one who argues the world must let its god stay mortal.
 - **Mara** (`CHR-01`) — re-homed from legacy-trace to the buried **deuteragonist**: the Distributed President
   *and* the forgetting mortal child Ruth carries. The author finally sailing her own Sea.
 - **Ruth** (`CHR-07`) — the surrogate; the Book-of-Ruth vessel; the moral center of the Purist village. She carries a
   true clone, not her own child (`Q-105`), and is the one who objects when the re-merge is put to the god (E18, `Q-100`).
-- **Rafe** (`Q-14`, `Q-22` provisional) — the **E16 reply copy** (`Q-54`), kept paused on Earth since then, since the
+- **Rafe** (`Q-14`, `Q-22`: rival-engineer) — the **E16 reply copy** (`Q-54`), kept paused on Earth since then, since the
   original is with the fleet, 4.4 light-years out, and light-lag rules out live talk. **Rival-engineer** (provisional lean): the
   one mind who has lived as the fork that left, who believes the fix is a *better-built system* — the foil to
   Ghost-Raul's hard-won truth that **no system metabolizes grief** (shown in E12, never spoken). Planted E1, woken E2,
@@ -301,8 +301,7 @@ Audit each drafted S3 script with [`../prompts/audit-script.md`](../prompts/audi
 *inverted-inverted* valence: 0→100% organic), the **glyph** (god cold-complete → emptied → re-earned mortal),
 the **9:16 UI** (`VIS-08`; Mara never has a Lens, so every UI hook on her, E7 onward, is drawn in Raul's, `WR-L2`; the
 President speaks through Raul's shell and the clip reaches her on a physical screen, `Q-101`), and the **rendering style** (`VIS-13`) consistent (`ANTH-06`).
-Rulings applied 2026-11-03: `Q-53..Q-108`, `Q-117`, `Q-119..Q-121`, `Q-125` as they touch S3 (see the clock table, E1–E20). New `Q-`: `Q-20`
-S3 title · `Q-21` Raul-as-lead confirm · `Q-22` Rafe ally vs. rival · ~~`Q-23`~~ Naomi (provisional) · ~~`Q-24`~~ freed: no one on Earth can hold the seat; the fleet's genome copy is S5's (`Q-120`).
+Rulings applied 2026-11-03: `Q-53..Q-108`, `Q-117`, `Q-119..Q-121`, `Q-125` as they touch S3 (see the clock table, E1–E20). Resolved: ~~`Q-20`~~ title · ~~`Q-21`~~ Raul leads · ~~`Q-22`~~ Rafe the rival · ~~`Q-23`~~ Naomi (provisional) · ~~`Q-24`~~ freed: no one on Earth can hold the seat; the fleet's genome copy is S5's (`Q-120`).
 
 ## Related
 - The triptych: [[setting-sail-tier-descent]] (S1) · [[setting-sail-tier-ascent]] (S2) · this (S3).
