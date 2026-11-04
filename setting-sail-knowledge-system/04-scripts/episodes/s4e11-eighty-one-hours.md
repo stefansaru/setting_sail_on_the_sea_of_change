@@ -29,8 +29,7 @@ Kai's Lens only (`WR-L2`).
   recomputes as the brake lands: `TIME LEFT, INSIDE · 202 d → 81 h`.
 - **Decimus's tag** sits on the bay board: `DECIMUS · 1:10 · BAY C`. Rated people assume empty roles automatically
   (`WR-S2`), and it has.
-- **The lists:** on the corridor wall, `BEAM-OUT · BY PRIORITY`, names scrolling; a short block near the top is
-  greyed out, `FWD STACKS · LOST`. In the bay, the lifeboat roster: `BOAT 1 · C-01 02 03 04` · `BOAT 2 · C-05 06 07
+- **The lists:** on the corridor wall, `BEAM-OUT · BY PRIORITY`, names scrolling. In the bay, the lifeboat roster: `BOAT 1 · C-01 02 03 04` · `BOAT 2 · C-05 06 07
   08` · `BOAT 3 · C-09` · and on its own line, **`C-10 · HOLD`**.
 
 ## Philosophical climax
@@ -50,7 +49,7 @@ time, and that means people are getting away, and it also means the town is empt
 (`WR-B6`). Decimus and the ship's voice are digital agents (`Q-71`). The minds on the beam queue are Ghosts, the
 base's many (`Q-68`), and the High Clock above them (Ghosts, the Apex) is felt only as the order of the list. Clocks
 (`WR-T1`, `WR-T4`, `WR-T6`): the reel opens at the strike plus a few minutes, about **T+4.2**, and spans roughly the
-first three real hours of the 81 (`81:00:00` → `78:14:09`). Kai's mind is braked from Tier 1 to Tier 0 in shot 4, so
+first three real hours of the 81 (`81:00:00` → `78:14:09`). In the minutes after the hit the hull lifts Kai, the bay's maintenance hand, to Tier 1 for damage triage; the brake in shot 4 takes Kai back to Tier 0, so
 after that the reel runs on one clock. The card's arithmetic: 81 real hours at Tier 1 would be 81 × 60 = 4,860 h ≈
 **202 subjective days**; at Tier 0 they are 81 hours. Hull time: the 81 hours are just under three and a half days
 ([[the-seed-fleet]] table, "+81 hours"). Spends (`WR-E1`): the coolant venting through the holed bow is chemistry,
@@ -64,7 +63,7 @@ hull can still pause them until arrival is confirmed (`Q-55`, `WR-M3`); senior G
 > **THE SHIP'S VOICE** *(warm, unhurried, to everyone):* Eighty-one hours.
 
 **2 · BAY C — LOW, among the cradles · CONTEXT (0:05–1:15, shots 2–5).** Emergency red. Ten capsules, amber lines.
-Kai's proxy gets up off the deck where E10 left it. Teo's proxy is already on its feet, checking 09's line with
+Kai's proxy takes its hand off capsule 10's glass, where E10 left it. Teo's proxy is already on its feet, checking 09's line with
 shaking care. [UI, one Context circle: `REACTOR · COOLANT VENTING · SCRAM AT 00:00:00`.]
 
 > **THE SHIP'S VOICE:** At zero the reactor will rest. Everyone will be looked after. In order.
@@ -82,8 +81,7 @@ the card the line recomputes and settles: `TIME LEFT, INSIDE · 202 d → 81 h`.
 
 **5 · THE SERVER DECK — the long track.** Kai's proxy walks the corridor under the stacks. Flavin tubes overhead,
 row after row. Ahead, a row goes dark with a soft *click*. Then the next. Each one is a Ghost paused here and woken
-on another hull. On the wall, `BEAM-OUT · BY PRIORITY`, names scrolling up and away. Near the top, one short
-block sits greyed and still: `FWD STACKS · LOST`. Kai stops at it for one beat, then walks on.
+on another hull. On the wall, `BEAM-OUT · BY PRIORITY`, names scrolling up and away.
 
 **6 · BACK IN BAY C · FRICTION (1:15–2:15, shots 6–8).** The lifeboat roster posts on the board. Teo reads it first
 and his whole proxy loosens: `BOAT 3 · C-09`.
@@ -112,10 +110,10 @@ through the ceiling grille, a row of Flavin light goes out. *Click.* Cut to blac
 
 *(Theme in subtext, not stated: the system is fair and its fairness has a shape, and Kai is at the bottom of it.
 Decimus's first act with the authority it bet itself for is to say "I'll tell you when I know." The kindest voice
-in the hull is the one reading the number. The greyed block on the queue is the night's other dead, and nobody
-stops to read it.)*
+in the hull is the one reading the number.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Kai lifted to Tier 1 for damage triage, braked back to Tier 0 (`Q-132` (4)); proxy starts with its hand on capsule 10's glass; `FWD STACKS · LOST` cut (E16's roster carries the dead).
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-T4` (the
   down-clock arithmetic), `WR-E1` (coolant as chemistry; watts to the queue), `WR-E3` (minds by beam, bodies by
   boat), `WR-S2` (Decimus assumes the bay automatically), `REVEAL` budget (★ life support finite and known, the
@@ -124,7 +122,7 @@ stops to read it.)*
   a new system).
 - **Logged for the glossary (`WR-N1`):** `REACTOR · COOLANT VENTING · SCRAM AT 00:00:00`; `DOWN-CLOCK · TIER 1 →
   TIER 0 · WATTS → BEAM-OUT`; `TIME LEFT, INSIDE · 202 d → 81 h`; `DECIMUS · 1:10 · BAY C`; `BEAM-OUT · BY PRIORITY`;
-  `FWD STACKS · LOST`; the lifeboat roster lines and `C-10 · HOLD`. Line: *"Ten of you. Rated for ten."* (a
+  the lifeboat roster lines and `C-10 · HOLD`. Line: *"Ten of you. Rated for ten."* (a
   deliberate echo of the glossary's `1:3` line).
 - **New detail to confirm:** the cause of the 81 hours is coolant venting through the holed bow (chemistry). The
   blueprint gives only "life support finite".

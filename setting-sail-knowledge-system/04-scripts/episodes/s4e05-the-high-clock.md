@@ -107,7 +107,7 @@ lips move.
 
 > **KAI** *(soft, impressed, to nobody):* One in two thousand.
 
-A small smile. Kai touches Kai's own collar, absently. Nothing there. [SOUND: the slate's tick as the report closes.]
+A small smile. Kai touches the bare collar, absently. Nothing there. [SOUND: the slate's tick as the report closes.]
 
 **6 · DOWN · TURN (2:15–2:30, shots 6–7).** The buffer in reverse: the Lens jitters and re-seats. [UI: `T1 → T0`.]
 Raw glass: the stasis row, the grey proxy stirring where it was left. Kai goes to capsule 07 to count. The drip falls. Then
@@ -125,6 +125,7 @@ in unison are order restored by a kind hand from above, and the season will spen
 that is care or control.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** collar touch made pronoun-free ("the bare collar").
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp. `WR-T1`/`WR-T4`
   (1,440× and the light-lag, both clocks), `WR-T5` (who pays for the Apex), `WR-B5` (Kai's ceiling is Tier 1), `WR-S2`/
   `WR-S6` (collar tags unexplained; the council credibly right), `WR-T3` (no live talk across the lag: the reply is a

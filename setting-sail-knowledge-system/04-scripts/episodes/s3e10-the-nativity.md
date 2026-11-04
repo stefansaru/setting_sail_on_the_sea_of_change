@@ -60,8 +60,8 @@ by blood (`Q-105`); Adam is a cyborg of mostly regrown flesh, Lens off (`Q-98`);
 distributed, still running: the **two Maras** are now a planet and a newborn. Timing (`WR-T4`): the birth-house runs
 at Tier 0, one long night to dawn, about T+21.5, about nine months after the transfer (E7); Ruth and Adam are about 21.
 Rafe reads the strata at 1:1 (`Q-117`), so his cut is the same moment as hers. Vance comes down from the law-chambers'
-Tier 2 (3,600×) through the buffer to **1:1**: from here on, a real year is a year to him too, which is why a Ghost
-can't outrun the divers. The child dies at about 17, about T+38.5 (`Q-58`), outside this reel and outside her
+Tier 2 (3,600×) through the buffer to **1:1**: from here on, a real year is a year to him too. Speed buys him nothing
+down here; he reaches the seat first (E15) only because he reads nothing on the way (`Q-129` (11)). The child dies at about 17, about T+38.5 (`Q-58`), outside this reel and outside her
 knowledge.*
 
 **1 · THE HEARTBEAT · HOOK (0:00–0:05).** Black. A fast, small heartbeat, insistent. [SOUND: only that.] Then a woman's cry
@@ -80,7 +80,7 @@ OLDEST ELDER stands with his arms folded. He doesn't come closer. He doesn't lea
 Lens that runs ahead of him into the dark. [UI: the `// M.C.` trace, pointing down.]
 
 **5 · VANCE.** Same moment. VANCE at the last Albers arch, where gold-grey gives way to fossil grey. He steps down into
-it. [UI: his clock numeral falling, past `60×`, past `2×`, to `1:1`, and locking.] His collar: `1:10000`. He starts to
+it. [UI: his clock numeral falling, from `3,600×`, past `60×`, to `1:1`, and locking.] His collar: `1:10000`. He starts to
 walk, at the same pace as everybody else.
 
 **6 · LABOUR · FRICTION (1:15–2:15, shots 6–9).** Close on Ruth's hands gripping a woman's forearms; the old woman's low
@@ -116,6 +116,9 @@ never at the bottom. Ruth gives the god the name the god's own name was once tak
 needs to hear that name is the one she looks at.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Vance's step-down now reads from `3,600×`, past `60×`, to `1:1` (Tier 2 has no
+  `2×` rung); the "can't outrun the divers" note replaced: speed buys him nothing, and he reaches the seat first only
+  because he reads nothing on the way (`Q-129` (11)).
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): esp.
   `WR-B2` (a Purist birth), `WR-B3` (Mara's 0 → organic clock begins), `WR-L2`/`Q-101` (no UI on Ruth or the child:
   every tag is Raul's, through the doorway), `WR-T4` (one real night; Rafe and Vance at 1:1, Vance braked from Tier 2),

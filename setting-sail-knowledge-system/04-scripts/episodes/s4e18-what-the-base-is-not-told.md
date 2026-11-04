@@ -12,7 +12,7 @@
 
 ## Setup & hook
 Extreme close on a **ration tag** forming in violet light, letter by letter: *TIER 3 · 10 s REAL · RATION: RAFE*.
-Pull back into the Apex, the Turrell void, and Kai arriving in it for the second time in their life (the first was
+Pull back into the Apex, the Turrell void, and Kai arriving in it for the second time (the first was
 packing a self on a dying hull, E15). This time there's no countdown: Rafe has bought ten real seconds, which up here is
 ten days, so one person from Hull Four can read what he reads. The manifest is architecture: **Albers** archways nested
 inside each other, flat colour on flat colour, and at the very centre a tiny frame with the base in it.
@@ -63,7 +63,7 @@ Apex ration on Hull One's reactor; Rafe pays (`Q-109`). Body 0%.*
 RATION: RAFE*.] [SOUND: almost nothing.]
 
 **2 · PULL BACK — the Apex · CONTEXT (0:05–1:15, shots 2–5).** KAI stands in the void, arrived. The last time Kai was
-this fast, a hull was dying under them. Nothing is dying now. [UI: *REAL +0:00:00*, the thousandths creeping.] RAFE is
+this fast, a hull was dying underfoot. Nothing is dying now. [UI: *REAL +0:00:00*, the thousandths creeping.] RAFE is
 already there, waiting, unhurried, his collar frame empty. He doesn't explain. He turns, and the first archway is behind
 him.
 
@@ -112,6 +112,7 @@ firewall is the clock, but this one isn't, and every hand at the Apex is made of
 tissue *recall S2E15 and S3E13 for the viewer who saw them; the reel never says whose hand would work.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** pronoun-free: "dying underfoot", "for the second time".
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-T1/T4/T5`
   (ten real seconds = ten Apex days, paid by Rafe), `WR-B2` (≈10 years from waking), `WR-S5` (two mechanisms on screen:
   the sealed manifest and a tissue lock), `WR-R1` (the S4 vault: the clause stays sealed, its setter unnamed; S4 never

@@ -46,8 +46,8 @@ rest? Freedom, if no one. Chaos, if no one. The reel doesn't answer.
 > shell in his voice (script label **// M.C.**). About thirty spoken words.
 
 *Castes (`WR-B1`): Ruth is a Purist, no Lens; Raul is a Ghost in a shell, Lens on (`Q-119`); the President is a Ghost
-(`Q-98`), distributed across every tier, here speaking through a leased shell that isn't hers. The child is a fetus with
-no caste yet (`Carrying: 1 · Caste: —`). Timing (`WR-T4`): the house runs at Tier 0, about T+21.2, two months before the
+(`Q-98`), distributed across every tier, here speaking through a shell that isn't hers. The child is a fetus with
+no caste yet (`Carrying: 1 · Caste: —`). Timing (`WR-T4`): the house runs at Tier 0, about T+21.35, two months before the
 birth; Ruth is about 21 (she turns 21 during Act II; about 20 at E1, `Q-104`). The part of the President in the shell
 speaks at 1:1. The parts of her at the Apex live a day in every real second (86,400 s = 24 h), so Ruth's silences are
 days long to them, and the nine months of the pregnancy, about 274 days, are about **65,000 years** (274 × 236.6). Hence
@@ -117,6 +117,8 @@ the god's mouth, are left for the viewer to place. Raul's question, whether a wo
 jailer, lives only in a skipped frame.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** T stamp → about T+21.35 (two months before the E10 birth at about T+21.55);
+  Raul's shell no longer called leased.
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): esp.
   `WR-L2`/`Q-101` (Ruth has no Lens; the god speaks only through Raul's shell; all UI is Raul's), `WR-T4` (1:1 in the
   shell, Apex elsewhere: the 65,000-year figure stays off screen), `WR-F4` ("I cannot wait to find myself" is the signed

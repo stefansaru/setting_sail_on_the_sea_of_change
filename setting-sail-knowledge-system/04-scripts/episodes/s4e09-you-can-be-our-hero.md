@@ -57,7 +57,7 @@ firing is scheduled for **09:40**, about **7.5 real hours** later. One clock in 
 log: the High Clock stands short watches, and 7.5 real hours at the Apex would be about **74 subjective years** (7.5 h ×
 3,600 days), so the council is paused between watches (`Q-66`: it reads the burst only after the hit). The firing's
 physics ([[the-firing-protocol]]): at 0.1 c the hull closes 20 million km in about **11 minutes** (2 × 10⁷ km ÷ 30,000
-km/s ≈ 667 s), and the shot's light takes about **67 s** each way, so a lock of about a minute leaves margin. Acceleration
+km/s ≈ 667 s), and the shot lands about **55 s** after firing, its flash back 55 s later (E1), so a lock of about a minute leaves margin. Acceleration
 reads zero: the fleet is coasting; deceleration begins about T+8 (E20). Light-lag (bible only, [[the-lure-beacon]]): the
 burst reaches a beacon about **0.25 ly** out about **three months** later (about T+4.45); no reply could reach the fleet
 before about **T+4.7**. Tomorrow's hit is not its answer (`Q-66`, `Q-111`). Spend (`WR-E1`): the burst draws **1.2 MW for
@@ -126,6 +126,7 @@ doing a good thing. The cold viewer knows he just gave the fleet away. The seria
 until it's too late, and that the person beside him is the one who eventually will.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** shot timing matched to E1: lands ≈55 s after firing, flash back 55 s later.
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp.
   `WR-L3` (no thread: the detector reads loops, not ends), `WR-B6` (Teo acts through a proxy's hands), `WR-E1`/`WR-E2` (the
   burst's watts; fire vs deflect), `WR-R2`, `WR-T3` (light-lag, bible only), `REVEAL` (one major: the burst; minors: the

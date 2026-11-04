@@ -65,7 +65,7 @@ beamed out earlier by priority, has already gone down to the base's clock, Tier 
 of Kai's subjective days, which is 72 real seconds (259,200 s ÷ 3,600); Boat 3's last approach and clamp take those 72
 seconds. A half-second blink lasts half an hour at Tier 2, so every cut catches the docking light mid-blink. Series
 clock: about T+4.2. Bay C's three boats left Hull Four about 32 real hours after the strike (E12) and dock in turn; Boat
-3 docks about 85 hours after the strike, some four real hours after Hull Four's zero and Kai's beam. Spends (`WR-E1`):
+3 docks about 85 hours after the strike, some four real hours after Hull Four's zero and Kai's beam; Kai's packed beam waits unopened in Hull One's receive queue and is unpacked about 72 real seconds before the clamps close. Spends (`WR-E1`):
 Kai's clock and Rafe's session in watts, from Hull One's reactor; each received body in chemistry; each boat's crossing
 in chemistry (fuel and breath). Body 0%.*
 
@@ -86,7 +86,7 @@ body, empty, tagged [UI: *C-10*]. Kai counts, a finger on the glass, the way Kai
 
 **5 · THE BOARD.** Kai turns to the ramp board on the deck wall: the `HULL FOUR` column dark from end to end. In the
 `HULL ONE` column, the bottom eight slots dark. A little above them, freshly chalked: [UI: *21 · KAI · QUEUED*.] Kai
-looks at their own name for a long beat.
+looks at the name for a long beat.
 
 **6 · RAFE · FRICTION (1:15–2:15, shots 6–9).** A man stands at the far end of the deck, reading. RAFE. A column of
 names hangs in front of him, almost all grey. Behind him, on a raised gallery, figures stand very still in good light,
@@ -128,6 +128,7 @@ collar and his grey column are the High Clock's whole argument in one man: no on
 it anyway. The dark hull at Δv 0 is correct today, and the reel lets it sit unremarked; E20 is the reminder.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Kai's beam waits unopened in Hull One's receive queue, unpacked ≈72 real s before the clamps close (`Q-132` (5)); no pronoun for Kai.
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-T1/T4` (72 real
   s for three Tier-2 days), `WR-B1` (castes), `WR-E1/E3` (spends named; bodies by boat, minds by beam), `WR-L2`, `WR-T5`
   (Hull One's allowance pays Kai's clock). `REVEAL` budget: ★ the refugee shock (each body received darkens a ramp
@@ -142,4 +143,4 @@ it anyway. The dark hull at Δv 0 is correct today, and the reel lets it sit unr
 - Rafe's partner stays unnamed (glossary: name undefined). She is placed here, in Rafe's open window on the commons,
   so E17's vote has a face. **Invented:** Hull One's Tier-2 allowance is for reception; received Ghosts then go down to
   the base's clock, which is why Kai's later Tier-2 watches need Rafe's ration (E20, `Q-109`).
-- Kai's pronouns stay open: the script uses "Kai" and, once, "their own name".
+- Kai's pronouns stay open: the script uses "Kai"; no pronoun is used.

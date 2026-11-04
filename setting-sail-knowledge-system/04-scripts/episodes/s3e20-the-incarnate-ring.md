@@ -14,7 +14,7 @@
 
 ## Setup & hook
 Lamplight at first grey of a spring dawn. A blanket. On it, side by side: an old wrist, spotted and thin, laid palm-up
-beside a young one; and between them, where S1E20's and S2E20's vials stood, a sealed vial.
+beside a young one; and between them, where S1E20's, S2E20's and E7's vials stood, a sealed vial.
 
 ## Cinematography — one clock, many hands
 | Element | The hut (Mara, Ruth, the oldest elder, Raul, Rafe) | Raul's Lens |
@@ -29,9 +29,10 @@ beside a young one; and between them, where S1E20's and S2E20's vials stood, a s
 - **The countdown (E16 → here):** over Mara, in the founding stratum's grey, `HORIZON · 0 d`. It doesn't change again.
 - **The elder:** the old pulse over the oldest elder, *Advanced Cellular Decay · Life Expectancy: Limited* (E16's plant
   paid): a willing, dying donor. Under the vial, nothing new: E16's `Treatable · donor required` is now simply true.
-- **Rafe's Lens (one POV insert, the prompt's return):** S1E16's `MERGE ⟷ BRANCH`, for the beam to the colony. Below it
-  his squares as S1E15 left them, *stay · build · love*, the last one greyed, `Recipient: 4.4 ly` (E2). He chooses:
-  `BRANCH — confirmed`. Then his first square, *stay*, brightens. Nothing else changes.
+- **Rafe's Lens (one POV insert, the prompt's return):** first the dim line from E16 and E18, now
+  `BEAM WINDOW · COLONY · CLOSING`; then S1E16's `MERGE ⟷ BRANCH`, for the beam to the colony. Below it his squares as
+  S1E15 left them, *stay · build · love*, the last one greyed, `Recipient: 4.4 ly` (E2). He watches the window line
+  close and go out (`Q-131` (3)). Then: `BRANCH — confirmed`. Then his first square, *stay*, brightens. Nothing else changes.
 - **The law-feed (the release):** at the edge of Raul's frame, lines of law going *down*, each signed `// M.C.` (E1). As
   her pulse slows, the signature on each line **thins**; beside it, the seat from E15 and E18, `Requires 1 : all` over
   an empty chair, its lock `Key: tissue · author only` dimming beat by beat.
@@ -58,14 +59,16 @@ the song back to her. One line leaves the Earth at the moment the god does. We a
 ## Script (draft v1)
 > 9:16 vertical · ~2.5 min · cinematic photoreal · *Black Mirror / Silo* register. **MARA** = the mortal child
 > (`CHR-01`), about 17, dying; **RUTH** (`CHR-07`); **THE OLDEST ELDER** (`Q-106`), dying; **RAUL** (`CHR-02`); **RAFE**
-> (`Q-22`) in a leased shell; **ADAM** (`CHR-06`) beyond the fence. About 10 spoken words. The donor is an offer and a
+> (`Q-22`) in a leased shell; **ADAM** (`CHR-06`) beyond the fence. About 11 spoken words. The donor is an offer and a
 > refusal, never explained; the packet is a line of text, never explained (`Q-119`, `Q-125`).
 
 *Castes (`WR-B1`): Mara is a Purist, 100% organic, no Lens (`Q-101`); she dies mortal and whole, never chrome. Ruth and
 the oldest elder are Purists; the elder is willing and dying, and gives nothing (`WR-B8`). Raul is a Ghost in a shell,
-0% organic, Lens on, alignment off (`Q-119`). Rafe is a Ghost, the E2 reply copy (`Q-54`), in a leased shell, Lens on;
-he ends in a Branch (`Q-99`). Adam is a cyborg of mostly regrown flesh, Lens off (`Q-98`), outside the fence. The
-President is a Ghost (`Q-98`), present only as the law-feed's signature. Every tag is in Raul's or Rafe's Lens
+0% organic, Lens on, alignment off (`Q-119`). Rafe is a Ghost, the S1E16 reply copy, woken E2 (`Q-54`), in a leased shell, Lens
+on; he ends in a Branch (`Q-99`) by letting the colony beam window close: bible only, the colony original already
+merged with the homebound copy at about T+12.6 (`Q-54`); never stated. Adam is a cyborg of mostly regrown flesh, Lens off (`Q-98`), outside the fence. The
+President is a Ghost (`Q-98`), present only as the law-feed's signature; she runs on as automated law, and the
+author-seat has stood empty since E10 (`Q-131` (5)). Every tag is in Raul's or Rafe's Lens
 (`WR-L2`). Timing (`WR-T1`, `WR-T4`): Tier 0, 1×, for everyone in the hut, one clock: the reel cuts across the last
 hours of Mara's life at dawn, about T+38.5 real years; Mara about 17, Ruth and Adam about 38. No one in the hut runs at
 60×, 3,600× or 86,400×. Light-lag (`WR-T3`): the `Outbound` line needs about 4.4 real years to arrive, so nothing comes
@@ -91,9 +94,10 @@ turns it over, palm down, into her own.
 
 The elder sits. Ruth moves the vial to the shelf, out of the frame.
 
-**4 · RAFE — his Lens, one POV insert.** In the doorway, RAFE. [UI, Rafe's Lens: `MERGE ⟷ BRANCH`. Under it, *stay ·
-build · love*, the last greyed: `Recipient: 4.4 ly`.] He looks at the girl whose shard he packed (E6). [UI: `BRANCH —
-confirmed`. His first square, *stay*, brightens.] He comes in and sits on the floor by the door, with the Purists.
+**4 · RAFE — his Lens, one POV insert.** In the doorway, RAFE. [UI, Rafe's Lens: at the frame edge, the dim line from
+E16 and E18, now `BEAM WINDOW · COLONY · CLOSING`. Then `MERGE ⟷ BRANCH`. Under it, *stay · build · love*, the last
+greyed: `Recipient: 4.4 ly`.] He looks at the girl whose shard he packed (E6). He doesn't touch the prompt. He watches
+the window line close, and go out. [UI: `BRANCH — confirmed`. His first square, *stay*, brightens.] He comes in and sits on the floor by the door, with the Purists.
 
 **5 · THE LAST HOUR · FRICTION (1:15–2:15, shots 5–7).** The dawn coming in. The elder's hand in Mara's; Mara's other
 hand in Ruth's. Mara's breath shortening. Ruth, without deciding to, begins to **hum**: the nursery song the girl
@@ -108,13 +112,18 @@ the frame: `Outbound · 4.4 ly`.] Raul doesn't watch it go. He watches her.
 **7 · THE FENCE.** Raw sight, through the doorway and the slats: ADAM outside on his bedroll, standing up as the humming
 stops.
 
-**8 · THE RING · TURN (2:15–2:30, shots 8–9).** Close on Mara, Ruth's cheek against her hair. [UI, Raul's Lens, last time:
+**8 · THE RING · TURN (2:15–2:30, shots 8–9).** Close on Mara, Ruth's cheek against her hair.
+
+> **RUTH** *(into her hair, barely):* Naomi.
+
+[UI, Raul's Lens, last time:
 the ring **completes**, both arrows held.] [SOUND: her heartbeat. One more, at peace.] Then it doesn't come. Hard cut
 to black and the silence where the next beat should be.
 
 **9 · FINAL IMAGE.** Raw sight, daylight. By her still hand on the blanket, E19's slate lights once by itself: the
 old logo the divers found in E2, a sail on grey water, the word **SEA**, and under it, legible at last, the line no one
-has ever been able to read: *Accept the sea. Choose the heading.* Hold. The glass goes dark. End of the Earth story.
+has ever been able to read: *Accept the sea. Choose the heading.* Hold. The glass goes dark. Through the doorway, on the post across the yard,
+the old feed camera Raul fixed there for Adam (S2E2; facing this door in E1): its pinhead light, still on. End of the Earth story.
 
 *(Theme in subtext, not stated: the god who could hold every joy dies holding a dying enemy's hand and the hand of the
 woman who carried her, grief in her and a song over her. The cure is offered by the person with the most reason to
@@ -123,6 +132,11 @@ Rafe's square says what he never could: he stays. Something leaves the planet at
 and the reel lets it go without looking. The last line is not spoken by anyone. It is just finally legible.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** hook vial line now recalls S1E20's, S2E20's and E7's vials; Rafe is "the S1E16
+  reply copy, woken E2"; his Branch is played as `BEAM WINDOW · COLONY · CLOSING` going out before
+  `BRANCH — confirmed` (planted E16, E18; bible: the colony original merged at T+12.6, `Q-131` (3)); Ruth says "Naomi"
+  once, at the turn (`Q-131` (4)); the last frame adds the S2E2 feed camera's pinhead light, still on (`Q-131` (6));
+  castes note: the President runs on as automated law, the seat empty since E10 (`Q-131` (5)).
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md) — esp. `Q-106` and
   `WR-B8` (a willing, dying donor offers; she refuses; no flesh is regrown), `Q-120` and `WR-S2` (no one on Earth can hold
   the seat: shown as the lock going dark, never said), `Q-99` and `WR-M1` (Rafe's Branch, in his own Lens), `Q-119` /

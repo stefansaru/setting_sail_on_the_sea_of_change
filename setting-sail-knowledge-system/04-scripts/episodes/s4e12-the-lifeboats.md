@@ -73,7 +73,7 @@ toward the dock.
 open under one warm overhead light, the Caravaggio resurrection. A gasp, wet and loud. A body coughing up years of
 stillness. Then the next.
 
-**4 · TEO WAKES.** Boat 3. Teo's capsule clears. His real face, which we have never seen, is thinner and plainer than
+**4 · TEO WAKES.** Boat 3. Teo's capsule clears. His real face, which we have only seen asleep under frost, is thinner and plainer than
 his proxy's. He breathes for the first time in years, badly, then better. His hand finds the edge of the bay. He
 turns his head and sees the bay beside him: lit, empty, tagged `C-10`.
 
@@ -114,6 +114,7 @@ told through glass, the same act the High Clock commits all season, made small a
 is the last warm thing he gives anyone in S4, and he doesn't know what he gave the night before.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Teo's face "only seen asleep under frost".
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-M5` (the
   table carries the rule: short of time, pack at the Apex; aboard, only a Ghost gets there), `WR-B5` (Tier 2 is rare
   credit for a fleet Shadow), `WR-B6` (Kai by proxy; Teo woken in the flesh, mind on the boat stack), `WR-E1`/`E3`

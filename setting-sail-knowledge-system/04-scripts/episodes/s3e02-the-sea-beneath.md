@@ -78,7 +78,7 @@ trace opens under his hands, a thread going straight down, no bottom.
 
 > **RAFE:** That's older than the tiers.
 >
-> **RAUL:** Then it plays at one to one.
+> **RAUL:** Then it only plays at our speed.
 
 Rafe looks at him: *you woke me for this.* Raul holds the look. Rafe goes back to the thread.
 
@@ -100,8 +100,8 @@ the first time: the bottom squares, dark until now, begin to relight.] *stay*. T
 **8 · THE SQUARE · TURN (2:15–2:30, shots 8–9).** Rafe's Lens, POV, the SEA logo filling the frame behind the squares.
 *love* lights, and then, quietly, **greys**. Under it a field resolves: `Recipient: 4.4 ly`. His hands stop.
 
-**9 · FINAL IMAGE.** Two-shot, wide, the grey sea-wall over them. Rafe doesn't ask. Raul doesn't tell. They stand on the
-oldest floor in the world, one of them having just learned that the other half of his life went home without him.
+**9 · FINAL IMAGE.** Two-shot, wide, the grey sea-wall over them. Rafe doesn't ask. Raul doesn't tell. They stand on a
+floor older than the tiers, one of them having just learned that the other half of his life went home without him.
 Hard cut to black on the grey square.
 
 *(Theme in subtext, not stated: "go home" had two halves, and Rafe is the half that stayed. Raul woke him because he
@@ -110,13 +110,15 @@ everything, the one word the series has been sailing toward: the sea, the part y
 is the sea for him: real, read-only, 4.4 light-years wide.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** "oldest floor in the world" → "a floor older than the tiers" (the founding
+  floor isn't the oldest layer, E11); Raul's line → "Then it only plays at our speed."
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-T3` (the
   recipient is a distance, never a link), `WR-T4` (both clocks; 1:1 in the old layer), `WR-M1` (this Rafe is a fork of
   Rafe whose outcome comes at E20, `Q-99`; the merge of his other instance stays bible), `WR-F4` (nobody says "fork",
   "copy" or "sea"), `REVEAL` budget (★ the grey world under the Grid, the founding layer; the S2 vault spend: Rafe
   returns; minors: the SEA logo, `Recipient: 4.4 ly`).
 - **Invented here, to log:** Rafe wakes in the Synchronization Node, where S1E16 left him; `RESUMING`; the two-glyph
-  beat (solid vs his own) as how he learns time passed; "That's older than the tiers" / "Then it plays at one to one";
+  beat (solid vs his own) as how he learns time passed; "That's older than the tiers" / "Then it only plays at our speed";
   the descent drawn as a vertical fall through worn gold; the sail painted on every door; about three real days of
   reading; Rafe's squares dark from the pause and relighting as he works.
 - **Kept unexplained:** the logo's worn line (it becomes legible only in E20, `WLD-02`); where the thread ends; what

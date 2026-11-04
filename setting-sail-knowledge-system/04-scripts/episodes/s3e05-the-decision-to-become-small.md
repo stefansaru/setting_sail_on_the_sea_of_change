@@ -57,7 +57,7 @@ machine body, his first time in the village (the blueprint's "leased shell when 
 cyborg of mostly regrown flesh, Lens off (`Q-98`). Ruth, the mother, her baby, the child, the old woman and the
 villagers are Purists, no Lens (`WR-L2`). The President is a Ghost (`Q-98`), present only as code. Clocks (`WR-T1`,
 `WR-T4`): the village is **Tier 0**, one real clock. The helix forms above, where she runs up to Tier 3: it takes about
-40 real seconds of the reel, which is about **40 of her days** (40 × 86,400 s). Series clock: T ≈ +20.5, the close of
+15 real seconds of the reel (the 2:15–2:30 turn), which is about **15 of her days** (15 × 86,400 s). Series clock: T ≈ +20.5, the close of
 Act I, about a real month after E1; the pregnancy and the birth (E6–E10) fall inside the next year, T +20.5 → ≈ +21.5.*
 
 **1 · THE PART · HOOK (0:00–0:05).** Rafe's Lens, locked: in his open palm a grey sphere, flawless, turning. [UI: *fit:
@@ -111,8 +111,10 @@ self to the fire and let him watch. God chooses flesh, and the last thing on scr
 baby.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** helix timing matched to the turn: about 15 real seconds (2:15–2:30), about 15 of
+  her days, not 40.
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-L2` (no UI on
-  or from the Purists), `WR-T4` (40 real seconds = 40 of her days), `WR-F4` (no line says "born", "flesh", "pain" or
+  or from the Purists), `WR-T4` (15 real seconds = 15 of her days), `WR-F4` (no line says "born", "flesh", "pain" or
   "die"), WR Part 1 §6 (the better system is refused, never argued down), the S3 season test (*a system heals grief*
   must not happen: Rafe's part is returned unopened), `REVEAL` budget (★ the decision: the god will enter the world as
   a genome; minors: `RETURNED`, `NOT APPLICABLE`; the old woman's "Smoke" is idiom, `WR-N2`).

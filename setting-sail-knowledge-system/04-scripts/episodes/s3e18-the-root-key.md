@@ -12,7 +12,7 @@
 
 ## Setup & hook
 Raul's Lens POV, night, rain on a thatched eave. At the foot of his frame, where his own shell's speaker tag has read
-`RAUL` all season, the letters flip: `// M.C.` Something else is wearing him. In the doorway, rain on its shoulders, a
+`RAUL` since E9, the letters flip: `// M.C.` Something else is wearing him. In the doorway, rain on its shoulders, a
 leased shell with a collar tag: `VANCE · 1:10000`.
 
 ## Cinematography — one room, two rings
@@ -28,13 +28,15 @@ E16. Vance has come to the same answer for a different reason. They don't look a
 ## UI behavior (the Perspective Lens)
 - **The speaker tag (the bracket):** `RAUL` → `// M.C.` at the hook; `// M.C.` → `RAUL` at the turn, and it **stays**.
 - **The seat, shown by Vance:** he opens it between them in Raul's Lens, the root chamber's empty seat from E15:
-  `Requires 1 : all` over it (`WR-S2`); beside it, his own collar, `1:10000`, short of it. Under the seat, the lock:
-  `Key: tissue` (E13's tag) and a second line, `author only`. The key turns for the one it was cut from, and for no
+  `Requires 1 : all` over it (`WR-S2`); beside it, his own collar, `1:10000`, short of it. Under the seat, a second lock:
+  `Key: tissue`, the same key as E13's clip on a second lock (`Q-131` (8)), and a second line, `author only`. The key turns for the one it was cut from, and for no
   one else (the major).
 - **Two rings (the choice):** high in the frame, the god's cold-complete ring, the President, everywhere; low, over
   the hanging cloth, a warm, finite ring, the girl's. While the god wears the shell, the cold ring **drifts down**
   toward the warm one: the pull home. At Raul's line it **stops**. Then it rises, slowly, back to the top of the frame,
   and the warm ring is left where it was.
+- **Rafe's Lens, once:** a dim `BEAM WINDOW · COLONY` at his frame edge, unremarked (E16 → here → closes E20,
+  `Q-131` (3)).
 - **No prompt.** The `MERGE ⟷ BRANCH` prompt is not drawn here; it belongs to E20.
 
 ## Philosophical climax
@@ -54,11 +56,11 @@ he says is his own, unrated, unvalidated, his. The god hears it, and goes, and d
 > 9:16 vertical · ~2.5 min · cinematic photoreal · *Black Mirror / Silo* register. **RAUL** = the lead (`CHR-02`),
 > whose shell the President wears for most of the reel; **THE PRESIDENT** speaks no line; **VANCE** (`CHR-04`) in a
 > leased shell; **RUTH** (`CHR-07`); **RAFE** (`Q-22`), silent; **MARA** (`CHR-01`), asleep behind a cloth, unseen but
-> for her hand. About 25 spoken words; Vance's case (`Q-103`) and Ruth's objection (`Q-100`) are ruled lines.
+> for her hand. About 17 spoken words; Vance's case (`Q-103`) and Ruth's objection (`Q-100`) are ruled lines.
 
 *Castes (`WR-B1`): Raul is a Ghost in a shell, 0% organic, Lens on, alignment off (`Q-119`); the President, a Ghost
 (`Q-98`), speaks through his shell (`Q-101`) and is otherwise only a ring in his Lens. Vance is a Ghost (`Q-90`) in a
-leased shell. Rafe is a Ghost (the E2 reply copy, `Q-54`) in a leased shell. Ruth and Mara are Purists with no Lens
+leased shell. Rafe is a Ghost (the S1E16 reply copy, woken E2, `Q-54`) in a leased shell. Ruth and Mara are Purists with no Lens
 (`WR-L2`); every tag is in Raul's Lens. Adam, a cyborg of mostly regrown flesh, Lens off (`Q-98`), is glimpsed outside
 the fence. Timing (`WR-T1`, `WR-T4`): Tier 0, 1×, in the hut. The seat Vance shows is read at 1:1, as the oldest strata
 only play (E2, `Q-117`), so a Ghost gains nothing by speed there; no one runs at 60×, 3,600× or 86,400× in this reel.
@@ -68,7 +70,8 @@ One night, about T+38.2; Mara about 17, `HORIZON` (E16) at about 110 days, unsho
 → `// M.C.` In the doorway, rain on its shoulders: a leased shell. [UI: `VANCE · 1:10000`.]
 
 **2 · THE HUT — handheld on Ruth · CONTEXT (0:05–1:15, shots 2–4).** Lamplight. RUTH on a stool by the hanging cloth. A
-girl's breathing behind it, uneven. Against the far wall, RAFE, in his shell, arms folded, eyes down. Through the door
+girl's breathing behind it, uneven. Against the far wall, RAFE, in his shell, arms folded, eyes down. [UI, one beat of Rafe's own POV: at the frame edge, dim, `BEAM WINDOW ·
+COLONY`. He doesn't look at it.] Through the door
 behind Vance, past the fence, a rolled bedroll on wet grass, a man sitting on it in the rain (E17). Vance doesn't come
 in. He looks past Ruth to Raul's shell, and he knows whom he's looking at.
 
@@ -107,8 +110,8 @@ of the frame, and stays there, distant, complete. The warm ring stays where it w
 tag reads `RAUL`. It stays.] Vance looks at Raul a beat longer than he needs to, then turns and goes out into the rain,
 past the man on the bedroll, without a word.
 
-**9 · FINAL IMAGE.** Raw sight: the girl's hand under the edge of the cloth. Ruth's hand comes down over it. Hard cut to
-black.
+**9 · FINAL IMAGE.** Raw sight: the girl's hand under the edge of the cloth, unmarked, still. The lamp gutters. Hard cut
+to black.
 
 *(Theme in subtext, not stated: three people in the room want the god to come home, for an argument, for a seat, for
 mercy; one woman says an age; one man takes his own mouth back from God to say four words. The Lens can show that no
@@ -116,6 +119,10 @@ system wrote them; it cannot show whether he was right. The god leaves his voice
 she made of herself stays a person. The key goes back to sleep in a girl's hand, where nothing can turn it but her.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** the seat's `Key: tissue` is the same key as E13's clip, on a second lock
+  (`Q-131` (8)); Rafe is "the S1E16 reply copy, woken E2"; the tag has read `RAUL` "since E9"; the closing image no
+  longer copies E9's hand-over-hand (now the girl's hand alone, unmarked, still; the lamp gutters); header ≈ 17 spoken
+  words; one beat of Rafe's POV with a dim `BEAM WINDOW · COLONY` (`Q-131` (3)).
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md) — esp. `Q-65` (put
   to the god, not the girl: she sleeps through it), `Q-100` and `Q-103` (ruled lines, verbatim), `WR-S6` (Vance credibly
   right), `WR-M1` (Branch: the god declines), `WR-M2` (the minor is never asked to fork or merge), `WR-R3` (Raul's trust

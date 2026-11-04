@@ -37,7 +37,7 @@ same file differently (`VIS-08`, `VIS-17`).
 - **The village, final shots:** Raul's Lens, surfaced into his shell. Nothing fills; the bottom square is still dark.
 
 ## Philosophical climax
-Two men with one past and one set of parents look at the same file. One of them has spent decades building better
+Two men with one past and one set of parents look at the same file. One of them has spent his whole second life building better
 systems, and his system works: the grief drains out of the record cleanly, and his face eases, and something has gone out
 of it. The other turns the tool off and keeps the ache, because the ache is what he has of them. Neither is wrong out loud;
 they just stop walking in the same frame. Meanwhile a five-year-old who blames herself for a broken bowl is not fixed by
@@ -89,7 +89,8 @@ past: drowned faces, tags blinking over them, too small and too soft to read. *(
 
 **7 · RUTH · TURN (2:15–2:30, shots 7–8).** The hut, night. Ruth comes in behind the child and doesn't take the shards away.
 She sits down on the floor and pulls Mara into her lap, shards and all. Nothing measures it. The bowl stays broken on the
-stones. Against Ruth's shoulder Mara's breathing slows, and she begins to **hum**: a small, sweet, simple tune. At the open
+stones. Over Ruth's shoulder, through the open door, past the last hut: at the village's edge a plain grey leased shell
+stands still, as if it has stood there a long time. Raw sight; nothing names it. Mara looks at it. Against Ruth's shoulder Mara's breathing slows, and she begins to **hum**: a small, sweet, simple tune. At the open
 door, Raul's shell, just surfaced, stops. It is the nursery song: the one Teddy sang in S1E2, still playing when the boys
 came back in S1E3b.
 
@@ -99,9 +100,13 @@ nothing. He doesn't open it. The hum goes on. Cut to black on the tune, mid-phra
 *(Theme in subtext, never stated: a better tool can empty a grief out of a record, and the man who uses it looks lighter and
 less. The man who refuses keeps the ache, because it is what remains of the people. Neither says so, and the frame simply
 stops being one frame. In the village no tool is offered: a woman holds a child who blames herself, and the bowl stays
-broken. The tune is the undertow: a serial viewer knows where it was sung, and that no Purist could have taught it.)*
+broken. The tune is the undertow: a serial viewer knows where it was sung, and that no Purist could have taught it. The grey
+shell at the village's edge, unnamed and untagged, is the E14 plant: Vesper, waiting at Raul's clock, `Q-131` (1).)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Vesper planted (`Q-131` (1)): in shot 7, a plain grey leased shell at the village's
+  edge, unnamed, untagged in raw sight, and five-year-old Mara looks at it (E14 brings it in); Rafe's "decades" → "his
+  whole second life".
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp.
   `WR-F4` and the S3 season test ("a system heals grief" must not happen: `Charge: 0` reads as loss, not cure); `REVEAL`
   (one major: the Helm thesis image; minors: the song as an a-ha #1 reminder, the Clarity glimpse); `REVEAL-04` (the

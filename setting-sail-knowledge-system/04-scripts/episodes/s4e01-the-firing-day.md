@@ -36,7 +36,7 @@ Kai's Lens only (`WR-L2`); the crew's tags are what Kai's Lens draws over them.
 
 ## Philosophical climax
 The protocol is the Doughnut built as engineering: **to act you must expose yourself.** The fleet could steer
-around the rock and pay in every hull's stock, or drop its shield and pay a minute of nakedness. It pays the minute,
+around the rock and pay in every hull's stock, or drop its screen and pay a minute of nakedness. It pays the minute,
 every time, because the minute has never cost anything. The reel shows the cost as nothing: a count, a shove, a
 joke. The two crew counting the lock squabble like boys, and one of them says the oldest line in the series (a-ha #16
 reminder). Nobody looks up from the squabble, and when the rock's death finally arrives as light, two minutes late,
@@ -116,6 +116,7 @@ the adults don't notice they said it. The rock's death arriving two minutes late
 image: out here, everything you see has already happened.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** "shield" retired for "screen" (`Q-132`).
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp. `WR-E2` (the
   screen is down for the whole lock and the shot), `WR-B6` (everyone at Tier 0 attends by proxy), `WR-F4`, and the
   `REVEAL` budget: ★ the firing protocol (to fire, the screen drops); · the disc glyph; · "He started it" (a-ha #16

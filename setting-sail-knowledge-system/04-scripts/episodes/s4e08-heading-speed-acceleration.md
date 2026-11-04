@@ -51,7 +51,7 @@ that the message isn't finished.
 
 *Castes (`WR-B1`): the councillors are Ghosts at the Apex (Tier 3; the fleet's Apex is Ghosts only, `WR-B5`); Teo and Kai
 are Shadows, 100% organic, bodies in deep stasis in this bay, minds at **Tier 0** attending the bay through leased
-maintenance proxies (`WR-B6`); the beacon's makers are heard, never shown (`WR-R2`). Timing (`WR-T4`): about **T+4.17**,
+maintenance proxies (`WR-B6`); the beacon's makers are heard, never shown (`WR-R2`). Timing (`WR-T4`): about **T+4.19**,
 **day 16** after first light (E6). Layer three decodes at the base at Tier 0. The council's afternoon, about **four
 subjective hours**, is **0.17 real seconds** (4 × 3,600 s ÷ 86,400): one blink at the base. Kai and Teo live it at 1×, so
 for them the order arrives the moment the question does. The order's draft is dated voyage year 9; the fleet launched about
@@ -125,6 +125,7 @@ answer without the reason; the reason was ready for thirty-two years. The base's
 long. The one man who reads the square as kindness is the one still decoding.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** series clock T+4.17 → T+4.19.
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp.
   `WR-T1`/`WR-T2` (the afternoon is 0.17 s; the Apex feels unhurried), `WR-T5` (who pays the session), `WR-S5` (the secret's
   mechanism: the clock gap, then the sealed order), `WR-S6` (the High Clock's argument stands), `WR-E1` (fuel named as

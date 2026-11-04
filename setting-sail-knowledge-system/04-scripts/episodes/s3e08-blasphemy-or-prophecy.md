@@ -46,12 +46,12 @@ holds. The Grid's doesn't.
 > 9:16 vertical · ~2.5 min · cinematic photoreal · *Black Mirror / Silo* register. **THE OLDEST ELDER** (Purist, `Q-106`,
 > unnamed by design); **THE OLD WOMAN** (Purist; the S2E19 woman who murmured "Hurried"); **RUTH** (`CHR-07`), about
 > four months pregnant; **ADAM** (`CHR-06`); **RAUL** (`CHR-02`), in the corner; **VANCE** (`CHR-04`), in-grid;
-> **ELDERS**. About forty spoken words.
+> **ELDERS**. About twenty-five spoken words.
 
 *Castes (`WR-B1`): the oldest elder, the old woman, Ruth and the elders are Purists, no Lens; Adam is a cyborg of mostly
 regrown flesh, Lens off (`Q-98`); Raul is a Ghost in a shell, Lens on, his chain open by default (Full Disclosure has an
 opt-out he never took, `Q-124`); Vance is a Ghost (`Q-90`), collar `1:10000` (forged, S2E14). Mara: the President is a
-Ghost (`Q-98`); the fetus has no caste yet. Timing (`WR-T4`): the village runs at Tier 0, about T+20.9, Ruth about four
+Ghost (`Q-98`); the fetus has no caste yet. Timing (`WR-T4`): the village runs at Tier 0, about T+21.1, Ruth about four
 months along, Ruth and Adam about 20. Vance reads in the law-chambers at Tier 2 (3,600×): his whole scene, about twenty
 seconds of screen, is about **six real milliseconds** (20 ÷ 3,600 ≈ 0.0056 s), cut into the village's argument at the
 moment the room is loudest.*
@@ -115,6 +115,8 @@ village to be among people who don't record, has been recording all along; his c
 vault's question, takes its first hit from his own Lens. Nobody in the reel says the word "secret".)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** T stamp → about T+21.1 (four months after the E7 transfer); header word count
+  → about twenty-five.
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): esp.
   `WR-S5` (the vow is kept by people off the Grid; the leak runs through Raul's open chain, the default under Full
   Disclosure), `WR-S6` (both elders credibly right; Vance's argument is held to E18), `WR-L2` (no UI on Purists; the two

@@ -53,16 +53,16 @@ gives its origin, and no verdict.
 ## Script (draft v1)
 > 9:16 vertical · ~2.5 min · cinematic photoreal · *Black Mirror / Silo* register. **MARA** = the mortal child
 > (`CHR-01`), about 17, ill; **RAUL** = the lead (`CHR-02`); **RUTH** (`CHR-07`); **THE WOMAN** (V.O., in the clip):
-> unseen, the memory's owner. **ADAM** is glimpsed beyond the fence. About 15 spoken words, under the flagship ceiling;
+> unseen, the memory's owner. About 15 spoken words, under the flagship ceiling;
 > *"One step at a time"* is the clip's, and is the reel.
 
 *Castes (`WR-B1`): Raul is a Ghost in a shell, 0% organic, Lens on, alignment off (`Q-119`). Mara is a Purist, 100%
 organic, no Lens (`Q-101`); Ruth is a Purist; both see the slate in raw sight, and every tag is in Raul's Lens
-(`WR-L2`). Adam is a cyborg of mostly regrown flesh, Lens off (`Q-98`), outside the fence. The woman in the clip is the
+(`WR-L2`). The woman in the clip is the
 President as she was in her body (bible only; now a Ghost, `Q-98`, `Q-124`); the small child and the bear are only
 what she saw. Timing (`WR-T1`, `WR-T4`): Tier 0, 1×, in the hut; the clip is an un-edited memory and plays at 1:1, as
 it happened, about forty seconds of it. No one runs at 60×, 3,600× or 86,400× in this reel. One evening, about T+38.3;
-Mara about 17; Ruth and Adam about 38. The clip's own date stays unstated.*
+Mara about 17; Ruth about 38. The clip's own date stays unstated.*
 
 **1 · THE FINGERTIP (9:16) · HOOK (0:00–0:05).** Extreme close: black glass, one small clip blinking in it. A thin
 fingertip hovers over it. [UI, Raul's Lens, over the glass: `Key: tissue`.]
@@ -103,9 +103,8 @@ it. Her hand still on the glass. Ruth doesn't say anything. Ruth just holds her:
 the clip **melts from the inside out**, slowly, with each of her breaths, until nothing holds it at all. The clip lies
 in the glass, open, unlocked, still. It doesn't blink.
 
-**9 · FINAL IMAGE.** Raw sight. The slate's light fails. In the dark glass, the girl's wet face and Ruth's, reflected;
-beyond them, through the doorway and the fence slats, a man sitting outside on a bedroll, who has watched the light go
-out. Hard cut to black.
+**9 · FINAL IMAGE.** Raw sight. The slate's light fails. In the dark glass, the girl's wet face and Ruth's, reflected.
+Hard cut to black.
 
 *(Theme in subtext, not stated: the god built a world so that she would never have to watch forty seconds of a child
 learning to walk. Every child on that world was raised by her line and her child's bear, and none of them knew. The
@@ -115,6 +114,8 @@ it, only the origin. The clip ends on an empty chair, the way every loop on the 
 that anyone grieved.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** the closing beat of Adam on his bedroll past the fence is cut (E18 and E20 keep
+  it); the final image ends on the two faces in the dark glass. Adam is no longer in the cast.
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md) — esp. `Q-101`
   (physical screen; no Lens on Mara), `Q-67`/`Q-119` (her living touch turns the tissue lock, for herself only, per
   E18), `WR-R3` (the bear's origin, no verdict on the Guide), `WR-F4` (no one says what the clip means; "It's yours."
@@ -124,6 +125,6 @@ that anyone grieved.)*
   first-person at floor height, the woman's face never seen, her voice cast to match Mara's older; the bear carries a
   music box playing the nursery song (S1E2/S1E3b/S3E12); the clip ending on a small empty chair (the S1E3b Landing
   motif); `Key: tissue` replaced by `Re-Cut` at the touch; the block drawn as a frost-white seam that thaws inward-out;
-  Raul's "It's yours." (S2E18's last line, reused); Adam watching the light from outside the fence.
+  Raul's "It's yours." (S2E18's last line, reused).
 - **Bible only, never on screen:** who the child was, what happened to it, and that the woman is the President in her
   body (`Q-124`).

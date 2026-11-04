@@ -90,10 +90,10 @@ His *build* square brightens.
 
 **8 · THE WRIST · TURN (2:15–2:30, shots 8–9).** Raul doesn't answer. He looks at her arrow striking the grey, and his
 chrome hand goes, slowly, to his own chrome wrist, where a mortal woman's hand once lay and he couldn't feel it (S1E19).
-He holds it there. At the edge of his Lens, E1's request waits: [UI: `→ Tier 0 · sector: unmeasured · PENDING`.]
+He holds it there. At the edge of his Lens, E1's request waits: [UI: `// M.C. → Tier 0 · sector: unmeasured · PENDING`.]
 
 **9 · FINAL IMAGE.** The ring, locked, frontal: the gold half lit, the grey half dead, the arrow striking. *Click.*
-*Click.* Hard cut to black on the click, and one second of silence where the next should be.
+*Click.* Hard cut to black on the click.
 
 *(Theme in subtext, not stated: the woman who gave the world a law of balance can't balance; deathlessness is the
 one thing omniscience can't buy past. She answers for everyone and was never asked to prove it. Rafe sees a part to
@@ -101,6 +101,8 @@ build, and Raul, who paid for his second half with his death, puts his hand on t
 beside E1's request, the grey sphere says what nobody does: she is asking to be somewhere she can lose.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** the final cut ends on the click, without the second of silence (E20 owns that
+  device); the turn's clause line carries its full `// M.C.` prefix.
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-S2` (the blank
   tag: the seat's holder never took a test; no rating reaches her), `WR-S6` (her argument stands elsewhere; this reel
   shows only her hole), `WR-T4` (one click per real second = one of her days), `WR-F4` (no one says "die" or "pain"),

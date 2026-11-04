@@ -2,7 +2,7 @@
 
 > Detailed production/cinematography breakdown for [[setting-sail-the-cartographers-ledger]] **Season 3, Episode 3**
 > (Act I, *The God's Hole*). **The grey layer under the Grid**, Tier 0, **T ≈ +20.5**. Following E1's thread down,
-> **Raul** (`CHR-02`) and **Rafe** find the breadcrumbs a person left in the world's oldest floor, re-homed from the
+> **Raul** (`CHR-02`) and **Rafe** find the breadcrumbs a person left in a floor older than the tiers, re-homed from the
 > legacy traces (`FCT-001`, `FCT-003`, `FCT-005`): a foghorn that is a **recorded voice**; a photo the Lens **cannot
 > tag**; an account, `mara.c`, with **no score**. Both divers know the face: the woman behind the last window, seen at
 > eight (S1E3b, a-ha #1 reminder). The god has a **name** and a **grief**. The bear and the line stay unexplained until
@@ -66,7 +66,7 @@ RAUL has heard it too. Neither says anything. The thread from E1 runs on down th
 **3 · THE CORRIDOR.** Machine-smooth track: white metal, water stains, a small sail on every door. A week of this, in
 cuts: the same two figures, smaller each time, further down.
 
-**4 · THE ROOM.** The thread ends at a door with the sail on it. Inside: a long desk; on every wall, maps, hand-drawn,
+**4 · THE ROOM.** The thread runs to a door with the sail on it, and on beneath it. Inside: a long desk; on every wall, maps, hand-drawn,
 coastlines and soundings in fine ink. [UI, Raul's Lens: `desk` · `chair` · `glass` · `map` · `map` · `map`.]
 
 **5 · THE PHOTO · FRICTION (1:15–2:15, shots 5–7).** On the desk, face-down, a frame. Raul turns it over. [UI: the tag
@@ -94,16 +94,18 @@ again, and this time we hear the breath in it without anyone slowing it down. Ha
 
 *(Theme in subtext, not stated: the Grid can tag every object in the world but the one its maker kept. The god turns
 out to be a person who drew maps, left her voice in a foghorn, and never let anyone score her. Her grief is
-shown only as an edge: a photograph cut below her eyes, at whatever she was laughing at. Two forks of one boy
+shown only as an edge: a photograph cut along its lower edge, at whatever she was laughing at. Two forks of one boy
 recognize her at once, because a fork keeps the past it was made from; that is all they share now.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** the photo is cut along its lower edge, not below her eyes, so shot 5's laugh stays
+  visible; the thread no longer ends at the workroom door: it runs on beneath it (E4 and E11 go deeper).
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-B4` (both
   recall the window perfectly), `WR-F4` (no one explains the photo, the horn or the blank), `REVEAL` budget (★ the god
   has a name and a grief; minors: the foghorn's voice, the blank score; recall: S1E3b's window), the a-ha #1 guard:
   **no bear, no child, no "One step at a time"** (E19 pays them).
 - **Invented here, to log:** Rafe slowing the foghorn to find a breath; the workroom of hand-drawn maps (the
-  Cartographer's craft made literal); the photo face-down on the desk, the print cut below her eyes; the accounts
+  Cartographer's craft made literal); the photo face-down on the desk, the print cut along its lower edge, her laugh left in; the accounts
   terminal with an unnamed score column; "The last window" / "We were eight"; Raul saying "Mara" once;
   `signer: mara.c`.
 - **Kept off screen:** the flooded channel and its boats (`PLC-01`, E11); the module names; what was cut from the photo.

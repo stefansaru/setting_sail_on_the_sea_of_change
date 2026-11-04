@@ -25,7 +25,7 @@ Nobody in the bay looks up. It's firing day, and firing days are weather.
 ## UI behavior (the Perspective Lens)
 Kai's Lens only (`WR-L2`; Kai is a Shadow, attending by proxy).
 - **The glyph:** whole → **open** as the screen drops → **cracked** at the hit. The crack runs from the bore to the rim.
-- **The lock:** a small counter on the board, `LOCK 00:00` counting up. It is the only number on screen until the hit.
+- **The lock:** a small counter on the board, `LOCK 00/60`, ticking. It is the only number on screen until the hit.
 - **A flick in the corner (Decimus):** the bay safeguard's rating tag `DECIMUS · 1:3` turns to `1:10` in the flash
   frame. Unexplained here: it is E9b's pass, landing in the same second as the hit (Validation, `WR-S2`).
 - **Late lines:** after the hit the board keeps posting, in order: `TARGET · KILL CONFIRMED`, then the array's own
@@ -47,14 +47,15 @@ again. Kai sees it, for one second.
 > ([[fantasy-writing]] §10/§20).
 
 *Castes (`WR-B1`): Kai and Teo are Shadows, bodies in deep stasis in bay C (capsules 10 and 09), minds attending the
-bay at Tier 0 by leased proxy (`WR-B6`). The proxies are plain maintenance rigs. The other eight capsules hold Shadows
+bay at Tier 0 by leased proxy (`WR-B6`); Teo's mind, paused overnight, is woken for the firing watch at the 09:40:00
+screen drop (E9a, `Q-132`). The proxies are plain maintenance rigs. The other eight capsules hold Shadows
 of the same rota group, asleep between watches. Decimus is a digital agent (`Q-71`). The High Clock (Ghosts, the Apex)
 is felt only as the one blink of a status light. Clocks (`WR-T1`, `WR-T4`): Kai and Teo run at Tier 0, so the reel
 runs on one clock, real = subjective. Decimus spends the same lock at Tier 2 (60 s real = 60 h inside, E9b). The
 High Clock's blink is an afternoon: about 4 h at 86,400× is a sixth of a real second. Series clock: about **T+4.2**,
 the day after Teo's burst ([[the-seed-fleet]] table). Window: the screen drops; a **60 s lock**; the bore fires; the
 grain arrives in the same second. The target sits about 20 million km out, so its kill is confirmed by light about
-**2 min 13 s** after the shot (67 s out, 67 s back). The hull is still 11 minutes short of the dust, so the margin
+**about 1 min 50 s** after the shot (55 s out, 55 s back; E1). The hull is still about nine minutes short of the dust, so the margin
 holds (`MAG-30`). Spends (`WR-E1`): firing costs watts, the bore's pulse off the reactor. Not steering saves fuel,
 which is chemistry (`Q-70`). The grain's cost lands in the next reel. Bible only: a gram at a tenth of light speed
 hits like about 107 tonnes of TNT.*
@@ -65,20 +66,20 @@ thins to an outline; the bore stands open.]
 
 **2 · BAY C — WIDE, locked · CONTEXT (0:05–1:15, shots 2–4).** Ten capsules on their cradles under frost glass,
 amber lines pulsing beneath them. Over the bay doors, the crew's worn stencil: **THE STATION**. KAI's proxy kneels at
-capsule 10 with a line tester, working, not watching. TEO's proxy leans on capsule 09, slow, a little glazed.
+capsule 10 with a line tester, working, not watching. TEO's proxy, woken from its cradle for the firing watch as the screen drops, leans on capsule 09, slow, a little glazed.
 
 > **KAI** *(not looking up):* You sleep?
 >
 > **TEO** *(a small, private smile):* Some.
 
-**3 · THE BOARD — insert.** `LOCK 00:00` begins to count up. In the corner, small and steady: `DECIMUS · 1:3`, its
+**3 · THE BOARD — insert.** `LOCK 00/60` begins to tick. In the corner, small and steady: `DECIMUS · 1:3`, its
 status light flickering faster than anything else in the room (E9b's sixty hours, seen from outside as one minute).
 
 **4 · THE COUNT.** Teo counts the lock under his breath, the way every crew does (E1). Kai, still working, taps the
 seconds on the glass of capsule 10 with one proxy finger, out of habit. Under the frost, a sleeping face we can't
 make out. [Camera: a slow push on Teo's mouth.] *"…forty-one. Forty-two."*
 
-**5 · THE FLASH · FRICTION (1:15–2:15, shots 5–7).** *"Fifty-nine."* On the board the bore **fires**, a white
+**5 · THE FLASH · FRICTION (1:15–2:15, shots 5–7).** *"Fifty-nine. Six—"* On the board the bore **fires**, a white
 needle down the open bore. In the same frame the corner tag flicks `1:3` → **`1:10`**. In the same frame the hull
 **rings**, once, like a struck bell. Whiteout. [SOUND: cut to nothing.] [UI: the glyph **cracks**, bore to rim.]
 
@@ -88,7 +89,7 @@ proxy is on the deck. Kai's proxy is on one knee, a hand flat on capsule 10's gl
 pump on capsule 10 misses a beat, then finds it.]
 
 **7 · THE BOARD, LATE.** The board, cracked across one corner, keeps posting in order, as if nothing happened.
-`TARGET · KILL CONFIRMED`. Two minutes and thirteen seconds after the shot, the rock they aimed at is dust.
+`TARGET · KILL CONFIRMED`. A minute and fifty seconds after the shot, the rock they aimed at is dust.
 
 > **TEO** *(from the floor, dazed, almost proud):* …We got it.
 
@@ -105,12 +106,13 @@ for one second, and the season's other wound is that it was replaced by a kind o
 line under the bell; the cold viewer only needs the window.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Teo woken at the 09:40:00 screen drop; count "Fifty-nine. Six—"; `LOCK 00/60`; kill confirm ≈1 min 50 s; dust ≈9 min out (`Q-132` (1)–(3)).
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-E2` (the
   screen is down for the whole lock and the shot, and the grain arrives inside it), `WR-R2` (the Unlisted not shown: the word is
   sensor slang on a tag, from S4E10 per the [[glossary]]), `WR-S5` (the secret's mechanism: the High Clock's choice
   of words), `REVEAL` budget (★ the strike through the open window; minors: `UNLISTED` → `SENSOR FAULT`, the cracked
   glyph. Decimus's `1:10` and the THE STATION stencil are recalls).
-- **Logged for the glossary (`WR-N1`):** the board lines `LOCK 00:00`, `TARGET · KILL CONFIRMED`,
+- **Logged for the glossary (`WR-N1`):** the board lines `LOCK 00/60` (ticking to `59/60`), `TARGET · KILL CONFIRMED`,
   `FWD · OBJECT · UNLISTED`, `FWD ARRAY · SENSOR FAULT`. **Bay C** and capsule numbers `C-01`–`C-10` (Kai is 10, Teo
   09) are new labels.
 - **Plants for this act:** capsule 10's buckled cradle (pays E12: the body can't be moved); the red flicker on its

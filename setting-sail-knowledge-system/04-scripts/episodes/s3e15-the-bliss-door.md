@@ -60,7 +60,8 @@ the divers have read for about 16.5 real years since E2. Everyone on screen runs
 here. He stepped down into the strata at the birth (E10, T ≈ +21.5), a year after the divers, and walked at 1:1 for
 about 15.5 real years; he got to the chamber first because he read nothing on the way. No one runs Tier 1 (60×) or Tier 2 (3,600×). The seat
 has been empty since the birth (T ≈ +21.5): about 15.5 real years, "sixteen" in Vance's mouth, rounded to the girl's
-age.*
+age. The President runs on as automated law (the law-feed keeps scrolling); the author-seat has been empty since E10:
+the seat is authorship, not operation (`Q-131` (5)).*
 
 **1 · THE RIVER · HOOK (0:00–0:05).** Real time, summer. MARA, about sixteen, sprints the length of a flat rock and throws
 herself off it, slow motion, arms wide, into cold green water. She comes up gasping, then laughing, hair across her face.
@@ -114,6 +115,8 @@ for everyone. A cold viewer sees a man fail to sit in a chair. A serial viewer r
 down at the girl with the water.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** castes/timing note adds that the President runs on as automated law while the
+  author-seat stands empty from E10 (`Q-131` (5)).
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp.
   `REVEAL` (one major: the root chamber and the seat's `Requires 1 : all`; minors: the Sea-logo door, the Systems
   glimpse); `REVEAL-04` (Systems unnamed; the tissue key is not said, only implied by E13); `WR-S2` (rated people assume

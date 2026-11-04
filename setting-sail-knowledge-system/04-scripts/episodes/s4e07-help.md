@@ -50,11 +50,11 @@ beacon's makers are heard, never shown (`WR-R2`, `Q-30`). Timing (`WR-T4`): abou
 (E6), the analysts flag the repeating tooth; on **day 4** layer one decodes after about **nine subjective days** of Tier-1
 watches (216 h ÷ 60 = **3.6 real hours**); on **day 6** layer two. The reel cuts between the two days. At Tier 1 a real
 minute is a subjective hour. The Apex insert takes **under a real second**: one real second there is a subjective day,
-so the base's whole hour on the deck would be about **ten Apex years** (3,600 days), more than any council watch runs;
+so one real hour of the deck's work would be about **ten Apex years** (3,600 days), more than any council watch runs;
 the council stands short watches on the reactor's ration (`WR-T5`). Light-time: bible only, the signal left a beacon about
 0.25 ly out about three months earlier; every hull's copy matches within seconds. Spend (`WR-E1`): the deck runs four
 analyst minds at Tier 1, about **240 kW** (4 × 60 kW, the drafted 1 kW-per-mind-at-1× scale); the array's watts for the
-hull-by-hull comparison. No chemistry.*
+hull-by-hull comparison; the base's gathering, a few hundred minds at Tier 1, about 18 MW while it stays, rides rostered watch watts. No chemistry.*
 
 **1 · COLD OPEN — EXTREME CLOSE (9:16) · HOOK (0:00–0:05).** A waveform of light, all noise. A hand pulls it apart; under it,
 the same notch repeating. The notches settle into four letters.
@@ -110,6 +110,7 @@ built for. The red band is radiation to a cold viewer and a fingerprint to a ser
 time at all, and the reel lets that stillness be either wisdom or a missing organ.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** one real hour of the deck's work; the base's gathering (≈18 MW at Tier 1) on rostered watch watts.
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp.
   `WR-R2` (voice only; no image of a sender), `WR-L2` (the mouths and the band are in Kai's Lens), `WR-T1`/`WR-T4` (the
   Apex insert's second against the deck's days), `WR-S6` (the council's stillness is shown, not judged), `REVEAL` (one

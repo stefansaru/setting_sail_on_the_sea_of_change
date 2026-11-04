@@ -4,16 +4,17 @@
 > **T ≈ +35.5**; **Mara** (`CHR-01`) is about **fourteen**. The divers pass HELM's **Standing** module (`MAG-05`): a
 > visible score over every person, and its failure, the shame spiral that mistakes earned respect for given worth. The
 > mortal Mara faces the tribe's judgment and **authors her own values by living them**, not in any stratum, without
-> knowing she is re-deriving the ledger she once wrote for everyone ([[camel-lion-child-trilogy|camel→lion→child]];
-> *glimpse, ≤ 2 s, unnamed:* Authorship, `MAG-06`). **Adam** (`CHR-06`) sees what she is looking for. In Raul's Lens the
-> Standing field over her is blank, the same blank as `mara.c` in E3 (`FCT-005`). And at the fire, a leased shell Raul
-> has never seen: `VESPER · Tier 0`. She has slowed to his clock. **No line** (`Q-121`; a-ha #15's last touch; spends the
+> knowing she is re-deriving the ledger she once wrote for everyone ([[camel-lion-child-trilogy|camel→lion→child]]).
+> **Adam** (`CHR-06`) sees what she is looking for. In Raul's Lens the Standing field over her is blank, the same blank
+> as `mara.c` in E3 (`FCT-005`). And at the fire, the grey leased shell that has stood at the village's edge since she
+> was five (E12), brought in at last: `VESPER · Tier 0`. She has slowed to his clock. **No line** (`Q-121`; a-ha #15's last touch; spends the
 > S2 vault's reunion, `WR-X2`). World: [[frequency-tribes]] · [[velocity-tiers]] · [[shells-with-ghosts-within]] ·
 > [[the-ghost-entity]] · [[the-perspective-lens-ui]].
 
 ## Setup & hook
 The child's clock first. Night, the village fence. A fourteen-year-old girl comes in through the gate from the dark,
-leading someone by the hand: a plain grey leased shell, a machine body, walking carefully, like a guest. Around the fire
+leading someone by the hand: the plain grey leased shell that has stood at the village's edge for years, walking
+carefully, like a guest. Around the fire
 every Purist face turns, and the talk stops.
 
 ## Cinematography
@@ -34,8 +35,6 @@ Purists.
   no score, the same blank as `mara.c` (E3). He doesn't close it, and it fades.
 - **The shell's tag:** `VESPER · Tier 0`. Nothing else: no caste line, no clock line. Distinct from S2E7's `VESPER · Ghost` /
   `VESPER · paused` and from the physical capsule label VESPER (glossary).
-- **The glimpse (≤ 2 s):** at the stratum's lowest edge, a long ranked list re-ordering itself line by line, unreadable.
-  Not named.
 
 ## Philosophical climax
 Standing put a number over everyone and taught them that their worth was the number. Its fossils still shrink under it. In
@@ -61,27 +60,24 @@ fossil citizens are archive renders. Timing (`WR-T4`, `WR-T1`): T ≈ +35.5, abo
 read for about fifteen real years since E2. Raul, Rafe, the village and the strata run Tier 0, 1×. Vesper's clock: she ran
 Tier 2 (3,600×) in bursts, paused between them (`Q-121`); at Tier 2 one real minute by this fire would be 60 hours to her.
 Tonight she runs at Tier 0, 1×, his clock: a minute is a minute for both of them. How long she lived between S1 and tonight
-stays unsaid. No one runs Tier 1 (60×) or Tier 3 (86,400×). Raul's body died in S1E17 (T ≈ +8.5), so his and her capsules have
-stood empty for about 27 real years.*
+stays unsaid. No one runs Tier 1 (60×) or Tier 3 (86,400×). Raul's body died in S1E17 (T ≈ +8.5), so his capsule (hers at an unstated date,
+`Q-92`) has stood empty for about 27 real years.*
 
 **1 · THE GATE · HOOK (0:00–0:05).** Night. The village fence, the gate open on darkness. MARA, about fourteen, comes in
 through it walking backwards, leading someone by the hand: a plain **grey leased shell**, rental seam at its collar, stepping
-carefully over the threshold. Beyond them the fire, and around it every Purist head turning. The talk stops. [SOUND: fire;
+carefully over the threshold. Behind them, outside the fence, the spot where it has stood since E12 is empty: a patch of
+flattened grass. Beyond them the fire, and around it every Purist head turning. The talk stops. [SOUND: fire;
 then only fire.]
 
 **2 · THE PLAZA · CONTEXT (0:05–1:15, shots 2–4).** The Grid, the Standing stratum. A fossil plaza in shadowless daylight,
 crowded with citizens, a small white number over every head. A man stands in the middle of it. His number ticks down, one
 soft tone. The people nearest him drift a step away. Another tone. Another step. He folds a little smaller each time, until
 he is sitting on the paving with his arms around his knees and his number still falling. Around him, other numbers climb.
-RAUL and RAFE cross the plaza without stopping; neither of them has a number here.
+RAUL and RAFE cross the plaza without stopping; neither of them has a number here. Raul looks up, toward the surface.
 
-**3 · THE EDGE.** At the plaza's lowest edge the paving gives onto the next layer, and for an instant a long ranked list
-shows through it, lines sliding up and down past each other, re-ordering, unreadable. *(≤ 2 s; unnamed.)* Raul looks down,
-then up, toward the surface.
+**3 · SURFACING.** Real time. At the fence, Raul's shell blinks and is someone again, and turns its head toward the fire.
 
-**4 · SURFACING.** Real time. At the fence, Raul's shell blinks and is someone again, and turns its head toward the fire.
-
-**5 · THE RING · FRICTION (1:15–2:15, shots 5–6).** The fire. The tribe in a ring. Opposite the gate, THE OLDEST ELDER. The
+**4 · THE RING · FRICTION (1:15–2:15, shots 4–5).** The fire. The tribe in a ring. Opposite the gate, THE OLDEST ELDER. The
 grey shell stands just outside the firelight where Mara has left it. Mara stands between it and the ring. RUTH, in the ring,
 very still. ADAM, a little apart, his chrome-seamed hands on his knees.
 
@@ -101,29 +97,33 @@ fence: a **Standing field opens over Mara**, unbidden. A frame for a score. Empt
 fades.] Across the fire, Adam isn't looking at the shell like the others. He is looking at the girl, the way you look at
 someone walking a road you have walked the other way. His hand closes slowly on his knee.
 
-**6 · THE TAG.** Raul's shell comes in from the fence and stops at the edge of the ring. [UI: over the grey shell, a tag
+**5 · THE TAG.** Raul's shell comes in from the fence and stops at the edge of the ring. [UI: over the grey shell, a tag
 resolves: `VESPER · Tier 0`.] He stands there. Nobody at the fire can see what he sees.
 
-**7 · HER HAND · TURN (2:15–2:30, shots 7–8).** On the bench the grey shell lifts one hand toward the fire, slowly, the way
+**6 · HER HAND · TURN (2:15–2:30, shots 6–7).** On the bench the grey shell lifts one hand toward the fire, slowly, the way
 anyone does, palm to the heat. Raul watches the hand. It keeps moving. It doesn't stop halfway. It reaches the warmth and
 stays there. Raul crosses the ring. Mara, without being asked, gets up and gives him her place on the bench, and sits down
 on the ground by the fire. He sits beside the grey shell. Neither of them speaks. Mara looks from one shell to the other and
 doesn't ask.
 
-**8 · FINAL IMAGE.** Locked, from across the fire: two machine bodies on a Purist bench, a girl at their feet, firelight
+**7 · FINAL IMAGE.** Locked, from across the fire: two machine bodies on a Purist bench, a girl at their feet, firelight
 moving over chrome and grey composite at one and the same rate. Raul's hand comes up and finds the heat beside hers. Hold.
 Cut to black on the fire.
 
 *(Theme in subtext, never stated: a score is a thing other people put over your head; worth is a place at the fire, and it
 is given, not earned, which is exactly why it costs nothing. The girl doesn't fight the tribe; she just does it, and the
 value is written. The god who once scored everyone has no score of her own. A cold viewer sees a stranger let in from the
-cold, and an old man who sits down beside her. A serial viewer remembers a hand frozen in the air in S2E7, and watches this
+cold, and a chrome man who sits down beside her. A serial viewer remembers a hand frozen in the air in S2E7, and watches this
 one reach the fire.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Mara brings in the grey shell planted at the village's edge in E12 (the same shell,
+  the same spot, its grass left flattened); the Authorship glimpse (shot 3) is cut and shots renumbered (`Q-131` (1));
+  the `VESPER · Tier 0` tag and the no-line rule kept; Raul's capsule only is dated (hers unstated, `Q-92`); "a chrome
+  man", not "an old man".
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp.
   `REVEAL` (one major: Standing and the girl's authored value; the reunion is a vault spend, `WR-X2`, not a new concept;
-  minors: the blank field, the Authorship glimpse); `REVEAL-04` (Authorship unnamed; nothing said about why Vesper came,
+  minor: the blank field; the Authorship glimpse is cut, `Q-131` (1)); `REVEAL-04` (nothing said about why Vesper came,
   how she found him, or how long she lived); `Q-121` (simultaneity, slowed to his clock, **no line** between them);
   `WR-L2` (the field and the tag are only in Raul's Lens; Adam's Lens is off, and he reads the girl in raw sight);
   `WR-T4` (her Tier 2 → Tier 0 stated in the note above, never on screen); `SCENE-05` (four lines, each with a job: the
@@ -131,10 +131,11 @@ one reach the fire.)*
 - **Plants and touches (`WR-X4`):** a-ha #15, last touch (plant S1E6, reminder S1E17, payoff S2E7, here the reunion).
   `mara.c` (E3) internal reminder. Adam as recognizer (blueprint E14) sets up E17. The oldest elder (E8 → here → E20's
   donor) gains a middle touch.
-- **Invented here, to log:** Mara leading the shell in from the gate (how Vesper reaches the fire); the tribe's judgment
+- **Invented here, to log:** Mara leading the shell in from the gate (how Vesper reaches the fire), the same shell from
+  the same spot at the village's edge as E12, its patch of flattened grass left empty; the tribe's judgment
   scene and its three lines ("It's a Grid thing." / "It was cold." / "It can't be cold." / "Then it costs us nothing.");
   the oldest elder as the judge; the Standing field opening by itself as the stratum clings to Raul's Lens on surfacing;
-  the fossil plaza with the shrinking man; the Authorship glimpse as a ranked list re-ordering; Vesper's shell as a plain
+  the fossil plaza with the shrinking man; Vesper's shell as a plain
   grey leased body with a rental seam; her raised hand reaching the fire as the simultaneity image (answering S2E7's
   frozen hand); Raul sitting beside her; the 27 real years the two capsules have stood empty (T ≈ +8.5 → +35.5).
 - **Conflict noted:** the glossary's Vesper row lists her S3E14 caste as "Ghost in a leased shell"; the caste line in

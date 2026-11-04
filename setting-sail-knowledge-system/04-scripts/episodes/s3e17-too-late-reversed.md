@@ -10,7 +10,7 @@
 
 ## Setup & hook
 Raw sight, night. A fence rail, rough wood. Two hands on it, side by side: his, where the regrown flesh meets chrome
-in a seam across the knuckles; hers, unmarked, thinner than it was a month ago. Neither hand moves.
+in a seam at the wrist; hers, unmarked, thinner than it was a month ago. Neither hand moves.
 
 ## Cinematography — one clock, no glass
 | Element | The fence (Adam, Mara) | The fire (the tribe) |
@@ -51,8 +51,8 @@ for everyone; nothing here runs at 60×, 3,600× or 86,400×, so real and subjec
 next dawn, about T+38.1; Mara about 17, Adam and Ruth about 38. Adam lived about seventy years above in S2 inside a few
 real months (`Q-48`); none of that clock is running now.*
 
-**1 · THE RAIL (9:16) · HOOK (0:00–0:05).** Moonlight. Two hands on a fence rail: his chrome seam across regrown
-knuckles; hers, unmarked. [SOUND: wind; her breath, short.]
+**1 · THE RAIL (9:16) · HOOK (0:00–0:05).** Moonlight. Two hands on a fence rail: his regrown hand, the chrome
+seam at the wrist; hers, unmarked. [SOUND: wind; her breath, short.]
 
 **2 · WIDER — the fence · CONTEXT (0:05–1:15, shots 2–4).** ADAM and MARA at the fence, the village fire behind them.
 She's wrapped in a blanket she shouldn't have needed in autumn. At the fire, heads turn toward them, then away.
@@ -100,6 +100,8 @@ speech. She looks at the moon, which is the body she had, and doesn't say anythi
 Naomi's; the girl's name in the village is Naomi. No one says that either.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Adam's chrome seam is at the wrist, not across the knuckles (hook and shot 1),
+  matching E14's "chrome seams at the wrist".
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `Q-120` (the
   signed line, verbatim, the only thematic line spoken), `Q-102` (the breach is deliberate and costs his place at the
   fire, shown, never ruled aloud), `WR-L2` and the rotated ending (no UI at all), `WR-B1` (Adam a cyborg, Lens off),

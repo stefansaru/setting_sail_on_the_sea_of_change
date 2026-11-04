@@ -28,7 +28,7 @@ doesn't live. Each time Kai comes back, the point is bigger, until it's a disc.
 - **The watch stamp:** *WATCH 2,690*, *WATCH 3,150*, *WATCH 3,598*, one per cut.
 - **The ration counter:** *WATCHES · TIER 2 · RATION: RAFE · 23 h 59 m REAL* at the last watch (`WR-T5`); beside it,
   subjective, *≈ 9.9 yrs*.
-- **The target tag on the forward feed:** *DESTINATION · UNRESOLVED* → *RESOLVING* → *RESOLVED · DISC*.
+- **The target tag on the forward feed:** *DESTINATION · UNRESOLVED* → *RESOLVING* → *RESOLVED · DISC · ARRAY COMPOSITE*.
 - **The brake board:** *BRAKE BURN · 6 DAYS* in the last watch: deceleration hasn't begun (fuel is chemistry, `Q-70`).
 - **Rafe's collar:** the empty frame from E16 now reads *1:1000*. Nothing on screen says what it took.
 - **The base's notice, transcribed:** *The ramp resumes.*
@@ -40,7 +40,7 @@ doesn't live. Each time Kai comes back, the point is bigger, until it's a disc.
 
 ## Philosophical climax
 The season was a bargain about exposure: to fire you drop the screen, to protect you seal the manifest, to get away you
-give up the body. The planet arrives through the one gap in the shield, the gap that exists so the fleet can shoot,
+give up the body. The planet arrives through the one gap in the screen, the gap that exists so the fleet can shoot,
 and that is how you see where you're going: through the part that leaves you open. Kai has had ten years to hold what
 E19 closed: the people who will wake into ten years of flesh were never told the number, the boy who answered the
 beacon was never told the order of two lines, and Kai has kept both. The base is told the ramp resumes, and it does, for
@@ -54,10 +54,10 @@ bay looks back.
 > bay's glass and on the commons. One exchange.
 
 *Castes (`WR-B1`): Kai and Rafe are Ghosts; the base is mostly Ghosts on watch with a few Shadows (`Q-68`). Every tag
-is Kai's (`WR-L2`). Clocks (`WR-T1`, `WR-T4`, `WR-T6`): about T+8.2, some four real years after E19 (`Q-122`). Kai's
+is Kai's (`WR-L2`). Clocks (`WR-T1`, `WR-T4`, `WR-T6`): about T+8.0, nearly four real years after E19 (`Q-122`). Kai's
 watches are about one subjective day each (24 real seconds at 3,600×), about 2.5 a real day; between watches Kai is
 paused. Watch 3,598 brings the total to 86,352 real seconds, **23 h 59 m**, which at Tier 2 is 3,598 subjective days,
-**about 9.9 years**: one real day for one decade, as Rafe's first months aboard were (S1E15, T+3.9 to +4.2). The reel's
+**about 9.9 years**: one real day for one decade, as Rafe's first decade aboard was (one real day at Tier 2, just after T+3.9). The reel's
 three watches span about the last real year (2,690 → 3,598 is 908 watches, about 370 days). The fleet is about 0.1
 light-years out (about 4.3 from Earth); braking at about 0.05 g starts within the week and takes about two years to
 landfall, about T+10. Hull Four's reactor scrammed about four real years ago; its stacks fell to reserve (`Q-56`).
@@ -75,10 +75,10 @@ feed, alone, in the bay's low light. [UI: *WATCH 2,690*.] At the frame edge, Kai
 [UI: *RESOLVING*.] A few of the base stand at the glass behind Kai, looking where Kai looks.
 
 **4 · CUT — WATCH 3,598.** Same frame. Inside the bore, a disc: cloud, the edge of an ocean, a terminator line. [UI:
-*RESOLVED · DISC*.] The screen's black ring frames it exactly; the glyph at Kai's frame edge is the same shape. [UI,
+*RESOLVED · DISC · ARRAY COMPOSITE*.] The screen's black ring frames it exactly; the glyph at Kai's frame edge is the same shape. [UI,
 small, the bay's board: *BRAKE BURN · 6 DAYS*.]
 
-**5 · THE COUNTER.** Kai's ration counter, as Kai checks it the way Kai checks everything. [UI: *WATCHES · TIER 2 ·
+**5 · THE COUNTER.** Kai's ration counter. [UI: *WATCHES · TIER 2 ·
 RATION: RAFE · 23 h 59 m REAL · ≈ 9.9 yrs*.]
 
 **6 · RAFE · FRICTION (1:15–2:15, shots 6–9).** RAFE comes to stand beside Kai at the feed. Kai's eye goes to his collar
@@ -105,7 +105,7 @@ ASTERN · TRANSMITTING*.] [SOUND: a low tone at each pulse.] Nobody in the bay t
 
 **11 · HOLD.** The pulse. Once more. Once more. Cut to black.
 
-*(Theme in subtext, not stated: the destination is seen through the gun's gap in the shield, so arrival comes through
+*(Theme in subtext, not stated: the destination is seen through the gun's gap in the screen, so arrival comes through
 the part of you that's exposed, which is the season's Doughnut held by a fleet. Kai has lived Rafe's decade on Rafe's
 watts and still counts; Rafe now wears a rating for the seat he held by default, and its cost isn't shown. The ramp resumes for
 the people at the glass and never for slot 21, and Kai watches them instead of the board. The last image is the bill
@@ -113,14 +113,15 @@ nobody has opened: in E16 the dead hull kept pace, as it should have; the fleet 
 have fallen behind, and four years is longer than any reserve. Nobody remarks on it. That is Part 2.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** T+8.0, nearly four years after E19 (`Q-132` (6)); Rafe's decade = one real day at Tier 2 just after T+3.9; `· ARRAY COMPOSITE` on the resolved tag; "shield" → "screen"; ration-counter beat trimmed.
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-T1/T4/T5/T6`
-  (24 real s per watch; 3,598 watches = 23 h 59 m real = ≈9.9 yrs; about T+8.2; braking not yet begun), `WR-E1`, the S4
+  (24 real s per watch; 3,598 watches = 23 h 59 m real = ≈9.9 yrs; about T+8.0; braking not yet begun), `WR-E1`, the S4
   season test (glyph *whole → open → cracked → solid*; must not happen: aliens shown, landing — neither shown),
   `WR-R1` (vault held: Hull Four's anomaly unexplained, the second Kai unmentioned, the RESERVED slot not shown),
   `WR-F3`. `REVEAL` budget: ★ visual range, the planet through the bore; minor: Rafe's rating (`Q-64`), Hull Four
   astern and transmitting (`Q-56` reminder, S5's first reveal).
 - **Invented, logged (`WR-N1`):** *WATCH 2,690 / 3,150 / 3,598*, *WATCHES · TIER 2 · RATION: RAFE · 23 h 59 m REAL ·
-  ≈ 9.9 yrs*, *DESTINATION · UNRESOLVED / RESOLVING / RESOLVED · DISC*, *BRAKE BURN · 6 DAYS*, *HULL FOUR · ASTERN ·
+  ≈ 9.9 yrs*, *DESTINATION · UNRESOLVED / RESOLVING / RESOLVED · DISC · ARRAY COMPOSITE*, *BRAKE BURN · 6 DAYS*, *HULL FOUR · ASTERN ·
   TRANSMITTING*, the notice *The ramp resumes.*, Rafe's rating *1:1000*, the line pair *"Took me ten years to stop
   counting." / "I haven't."*; a watch of about one subjective day (24 real seconds).
 - **Timing note for [[the-seed-fleet]]:** its table reads "Deceleration begins" at E20; this reel puts E20 a week

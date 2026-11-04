@@ -71,8 +71,8 @@ be read. `STACK DRAW ▲ · CHEMISTRY ▼`.
 
 *Tick.* It becomes a rhythm, and the rhythm is the reel's heartbeat.
 
-**3 · THE FACE.** Rack focus from the cutter to the face under the frost. For the first time we see Kai's body:
-younger than the voice, plainer than the proxy, eyes closed, perfectly still. Kai looks at it for one beat between
+**3 · THE FACE.** Rack focus from the cutter to the face; the proxy's thumb wipes the frost away. Close, for the first time since E2, Kai's body:
+younger than the voice, the same face the Lens draws on the proxy, eyes closed, perfectly still. Kai looks at it for one beat between
 lines, the way you'd look at a photograph of yourself you don't remember being taken.
 
 **4 · WIDE — later.** The bay, static. Kai's proxy at capsule 10, small under the lamp. Through the ceiling grille,
@@ -122,6 +122,7 @@ The ship thanks everyone for leaving. Kai, the last person aboard who still has 
 and is thanked for nothing, because nobody asked.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Kai's body seen clear of frost for the first time since E2; the same face the Lens draws on the proxy.
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-B3` (70 →
   30, the two waypoints only), `WR-M4` (the Key's fragility shown, `unstable` → `secure`), `WR-B4` (nothing is
   forgotten: functions move to the stacks before their lines are cut), `WR-E1` (watts up, chemistry down, sealant),

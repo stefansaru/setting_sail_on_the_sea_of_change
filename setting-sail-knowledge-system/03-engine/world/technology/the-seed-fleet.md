@@ -60,7 +60,7 @@ T is real years from Raul's beam in S1E14. Cruise is about 10% of light speed, t
 | S1E17, Raul's body dies | ~+8.5 | | About 9 real years old |
 | S1E18–20, the Purist village | ~+8.5 to +8.6 | | Adam about 8; Naomi's "eleven good ones" start; Raul's Lens back on in E20 (`Q-119`) |
 | S4E16–19 | ~+4.2 | ~3.9 ly | The bill and the manifest |
-| S4E20, visual range | ~+8 | ~4.3 ly | Deceleration begins; a real-time jump of about 4 years from E19 |
+| S4E20, visual range | ~+8.0 | ~4.3 ly | A week before the brake burn (braking takes ~1.94 yr, so landfall ~+10); a real-time jump of nearly 4 years from E19 (`Q-132`) |
 | Landfall (S5) | ~+10 | 4.4 ly | Two years at about 0.05 g, about ten years before S2E20 |
 | Rafe's homebound copy lands | ~+12.6 | 4.4 ly | The beam sent after "Go home, Rafe" (~+8.2) forked: this instance merges with Rafe at the colony; the other waits on Earth, paused (`Q-54`) |
 | S2E1 → S2E20, Naomi dies | ~+19 → +19.5 | | Adam about 19; the climb fits inside her last months (`Q-48`) |

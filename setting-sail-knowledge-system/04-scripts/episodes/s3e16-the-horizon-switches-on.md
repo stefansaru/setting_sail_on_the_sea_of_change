@@ -34,6 +34,8 @@ S3E2: the Horizon module, surfacing out of the oldest stratum into the one Lens 
   Limited*. It scrolls past unremarked.
 - **Rafe's better system:** between Rafe's hands, the pack bar from E6, its one stubborn field still reading
   `Memory: fragment`. He runs it **backward**: the bar empties toward home. The shard returned; the body stopped.
+- **Rafe's Lens, once (→ E18, E20):** a dim line at his frame edge, `BEAM WINDOW · COLONY`, unremarked. Only in his
+  Lens (`Q-131` (3)).
 - **The speaker tag:** at the foot of Raul's frame, his own shell's tag reads `RAUL`. When Rafe speaks past him to the
   god, it **doesn't flip** (contrast E9). The god doesn't come.
 - **Slip: none (a-ha #14):** as Rafe turns away, the Lens reads his record the way it reads anyone's: one line,
@@ -90,7 +92,8 @@ Mara nods, slowly, as if spring were a place. Ruth's hand stops on the cloth, th
 
 **5 · OUTSIDE — two Ghosts at the fence · FRICTION (1:15–2:15, shots 5–7).** Night. RAFE waits by the woodpile in his
 leased shell. Between his hands, in Raul's Lens, the pack bar from E6, its last field still `Memory: fragment`. He runs
-it backward. The bar drains toward home.
+it backward. The bar drains toward home. [UI, one beat of Rafe's own POV: at the frame edge, dim, `BEAM WINDOW ·
+COLONY`. He doesn't look at it.]
 
 > **RAFE:** Bring the shard home and it ends with the body. *(beat)* She wouldn't feel a thing.
 
@@ -103,8 +106,8 @@ be listening in it.
 lets the bar fade.
 
 **7 · THE RECORD.** Rafe turns away toward the dark. As he goes, Raul's Lens reads him the way it reads anyone: one line
-under his shoulder, small, white. [UI: `Slip: none`.] Raul looks at it the way he once looked at the third glyph and
-didn't. This time he does.
+under his shoulder, small, white. [UI: `Slip: none`.] Once, he looked away from the third glyph (S2E18). This time he
+doesn't.
 
 **8 · ONE FRAME, TWO LINES · TURN (2:15–2:30, shots 8–9).** Raul's POV, held: through the hut's doorway, Ruth's hand on
 the girl's forehead and the grey number above her, `HORIZON · 181 d` now, the day turned over; and, in the same frame,
@@ -118,6 +121,10 @@ that undoes his argument is not anything he says but the one thing he never did:
 earlier Raul's question answered: the copy who left by beam is the only Raul who never felt the itch.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Rafe's E20 Branch planted: one beat of his POV in shot 5 with a dim
+  `BEAM WINDOW · COLONY` at the frame edge, unremarked (`Q-131` (3); again E18, closes E20); the `Slip: none` payoff
+  kept to one silent line, its look rewritten ("Once, he looked away from the third glyph (S2E18). This time he
+  doesn't.", `Q-131` (2)).
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md) — esp. `WR-L2`
   (every tag in Raul's Lens; Mara, Ruth and the elders in raw sight), `WR-B8` (only *Treatable · donor required* on
   screen; who could be a donor stays a gap until E20), `Q-65` (Rafe brings it to the god, not the girl), `Q-60` (the vow

@@ -66,7 +66,7 @@ holding nothing. RUTH crouches an arm's length off, hands open. The child doesn'
 long, level, unblinking look, like someone reading. [SOUND: a hen; Ruth's held breath.] Deep in the frame, soft, at the
 fence: two machine bodies sitting upright, eyes open, perfectly still.
 
-**2 · THE FLOODED CHANNEL · CONTEXT (0:05–1:15, shots 2–4).** The Grid's oldest layer but one. A drowned dock on a
+**2 · THE FLOODED CHANNEL · CONTEXT (0:05–1:15, shots 2–4).** The first of the fossil strata under the founding floor. A drowned dock on a
 pewter channel, sky without a source. On the black water, boats drift, small and slow, each carrying one warm light and,
 in the light, a flicker: a hand reaching, a mouth about to speak, a door half open. Thoughts, passing. Along the dock's
 edge sit the **fossil watchers**, dozens, legs over the water, eyes on the boats, dust on their shoulders. None of them
@@ -113,6 +113,8 @@ find out his parents never came. A serial viewer does the 8 × 24, and remembers
 follow.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** shot 2's placement line → "The first of the fossil strata under the founding
+  floor" (was "The Grid's oldest layer but one").
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp.
   `REVEAL` (one major: the fossil strata open, with the Observer stratum and a-ha #13's payoff; minors: "birth grant" in
   writing, first on screen `Q-123`, and `Visits: —`); `WR-T1/T4` (the 19.5 h / 192-year arithmetic above; the divers

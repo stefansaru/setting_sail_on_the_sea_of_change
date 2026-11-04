@@ -98,7 +98,7 @@ The tribe-mate looks at Kai the way the tribe looks at the lucky.
 
 He turns back to the others. [Camera: locked; Kai alone at the end of the frame, the grey sea behind.]
 
-**5 · INSERT — the ruler.** Kai looks at the ruler at the frame's edge. Under the table, Kai's finger touches Kai's own
+**5 · INSERT — the ruler.** Kai looks at the ruler at the frame's edge. Under the table, a finger touches the
 marker, idly, the way you test a loose tooth.
 
 **6 · THE CEILING · TURN (2:15–2:30, shots 6–7).** Kai drags the marker up. It rises a hair out of the crowded band,
@@ -113,6 +113,7 @@ ineligible for it. "Lucky" and the ceiling are the same fact with two arrows. "T
 this table; in two reels it will be the High Clock's manners.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Kai's ruler-marker touch made pronoun-free ("a finger touches the").
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp. `WR-B5` (fleet
   stasis holds Tier 0–1; the rare Tier-2 credit is not offered here), `WR-T1`/`WR-T4` (the 60× chirp), `Q-68` (the base
   is mostly Ghosts; Kai's band is the bodies), and the `REVEAL` budget: ★ the pyramid; · the promotion into a faster

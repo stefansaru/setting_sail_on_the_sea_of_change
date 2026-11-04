@@ -28,7 +28,7 @@ is in where two lines happen to sit.
   lines stay. Hull Four's days are counted from launch (voyage day 14,683 is the strike).
 - **The two lines (the reveal), adjacent, nothing between them:**
   *DAY 14,683 · 02:13 · TX · HULL FOUR · 1.2 MW · 0.4 s · KEYED: C-09 · TEO* (E9's line, now with the key that sent it)
-  *DAY 14,683 · 09:40:59 · FWD ARRAY · SENSOR FAULT · LOCK 00:59* (E10's rewritten tag)
+  *DAY 14,683 · 09:40:59 · FWD ARRAY · SENSOR FAULT · LOCK 59/60* (E10's rewritten tag)
 - **The serial line (scrolls past, unremarked):** *BEACON · ANALYSIS · EARLIEST PATTERN MATCH: PACKET · EARTH ORIGIN ·
   IN TRANSIT*.
 - **Kai's own two lines, near the end of the eight:**
@@ -84,7 +84,7 @@ counts. [UI: *ROUTINE · 41,198 HIDDEN*.] The room empties to eight lines standi
 the morning Kai asked him if he'd slept. *Some.* (E10.)
 
 **6 · THE SECOND LINE · FRICTION (1:15–2:15, shots 6–9).** Directly beneath it, nothing between: [UI: *DAY 14,683 ·
-09:40:59 · FWD ARRAY · SENSOR FAULT · LOCK 00:59*.] The words Kai watched rewrite themselves on the bay board (E10). The
+09:40:59 · FWD ARRAY · SENSOR FAULT · LOCK 59/60*.] The words Kai watched rewrite themselves on the bay board (E10). The
 room floods Rothko red, the Despair field of E10, and holds one beat, and drains back to green. Kai doesn't move. The two lines stand one above the other. Nothing on
 either says *because*.
 
@@ -116,6 +116,7 @@ written from something that came from home. The cold viewer gets two lines and a
 started it," is restated by the order of the lines alone.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** `LOCK 00:59` → `LOCK 59/60` (`Q-132` (2)).
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-T1/T4/T5`
   (six real seconds = six Apex days; 1,440× to Teo; 81 hours from strike to zero), `WR-R2` (no Unlisted shown; one log
   line), `WR-L3` (no detector for a Ghost), `WR-S5` (the log stays inside the sealed manifest), `WR-F3/F4`. `REVEAL`
@@ -123,7 +124,7 @@ started it," is restated by the order of the lines alone.)*
   the glyph re-drawn solid.
 - **Invented, logged (`WR-N1`):** voyage-day stamps (*DAY 14,683* for burst and strike, *14,686* for Hull Four's zero,
   counted from launch at about T−36), the eight surviving lines and *ROUTINE · 41,198 HIDDEN* of *41,206*, the key
-  suffix *KEYED: C-09 · TEO* on E9's `TX` line, *LOCK 00:59* on E10's `FWD ARRAY · SENSOR FAULT`, the beacon analysis
+  suffix *KEYED: C-09 · TEO* on E9's `TX` line, *LOCK 59/60* on E10's `FWD ARRAY · SENSOR FAULT`, the beacon analysis
   line, Kai's two lines (*C-10 · KAI · ORGANIC MASS 0% · TETHER SEVERED* at 18:34:47; *KAI · BEAM · → HULL ONE* at
   18:40:59), *TEO · SHADOW · ON WATCH*, the *tell Teo* square, *TIER 3 · 6 s REAL*.
 - **Matched to the parallel drafts:** E9's `TX · HULL FOUR · 1.2 MW · 0.4 s · 02:13`; E9a's screen drop at 09:40:00;

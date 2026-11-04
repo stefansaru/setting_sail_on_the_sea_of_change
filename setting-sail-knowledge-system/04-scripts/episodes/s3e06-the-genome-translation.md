@@ -10,8 +10,8 @@
 > [[the-distributed-president]] · [[the-perspective-lens-ui]].
 
 ## Setup & hook
-E5's last frame, carried on: source code resolved into a slow grey **genome helix**, turning in the founding stratum's
-light. A hand comes into frame and opens the helix like a book. It is Rafe's. Above the helix, at the edge of his Lens,
+E5's last frame, carried on: source code resolved into a **genome helix**, its firelight colour draining, as it turns,
+to the founding stratum's cold white. A hand comes into frame and opens the helix like a book. It is Rafe's. Above the helix, at the edge of his Lens,
 the law-feed that has never once addressed a person writes one line, to him.
 
 ## Cinematography — the oldest room
@@ -51,7 +51,7 @@ the thing that will make her mortal.
 > in the law-feed, never a voice. Three spoken lines.
 
 *Castes (`WR-B1`): Rafe is a Ghost (the E16 reply copy, woken E2, `Q-54`), in-grid, no shell needed down here. Raul is a
-Ghost; his leased shell stands empty at the village fence while he is in-grid; Lens on since S1E20, alignment off
+Ghost; his shell stands empty at the village fence while he is in-grid; Lens on since S1E20, alignment off
 (`Q-119`). The President is a Ghost (`Q-98`), distributed across every tier at once; the shard is of an **adult** god,
 the signed exception to `WR-M2` (`Q-65`), and it will end in a Branch (`WR-M1`, E18–E20). The automated rig is a
 machine, no caste. Timing (`WR-T4`): the founding stratum plays only at 1:1 (`Q-117`), so Rafe and Raul run at Tier 0,
@@ -60,8 +60,8 @@ whole mind takes most of a year to pack at its own pace (`WR-M5`); a shard is a 
 threads the same six weeks are about **9,900 years** (42 days × 86,400 ≈ 3.6 million days), a fact the reel never
 shows. Ruth and Adam, offscreen, are about 20.*
 
-**1 · THE HELIX · HOOK (0:00–0:05).** Grey light. A genome helix turns slowly at the centre of the frame, cold white
-from inside (E5's final image). A hand reaches in and opens it like a book. [SOUND: a hum at 1:1, like tape.]
+**1 · THE HELIX · HOOK (0:00–0:05).** Grey light. A genome helix turns slowly at the centre of the frame (E5's final
+image), its firelight colour draining to the stratum's cold white. A hand reaches in and opens it like a book. [SOUND: a hum at 1:1, like tape.]
 
 **2 · THE FOUNDING STRATUM · CONTEXT (0:05–1:15, shots 2–4).** Wider. RAFE stands at the helix, sleeves pushed up, the
 same face as Raul's, rendered with more years on it. RAUL at the frame edge, a step back. Far behind them, faint on a
@@ -109,6 +109,8 @@ The word he can't get past isn't a bug in his build; it's the price of being bor
 copy the only one on Earth without anyone saying so.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** the hook's helix carries E5's firelight colour and drains to the stratum's cold
+  white (no "slow grey"); Raul's shell is no longer called leased.
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): esp.
   `WR-M2`/`Q-65` (the shard is an adult god's), `WR-M5` (six real weeks for a shard at Tier 0), `WR-T4` (one clock in
   the stratum; the Apex figure for the President is bible only), `WR-F4` (three short lines; the thesis is the field

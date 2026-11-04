@@ -12,7 +12,7 @@
 ## Setup & hook
 Black. A pin of white appears in the dark, dead centre of a 9:16 frame. It does not twinkle. It *grows*: from a point
 to a coin of light in five seconds, and the black around it goes faintly blue. Pull back: the pin sits on the forward
-forward port, and the frame around it is Kai's Lens, every Context circle at the top of the frame turning, one by
+port, and the frame around it is Kai's Lens, every Context circle at the top of the frame turning, one by
 one, to look at it.
 
 ## Cinematography
@@ -74,7 +74,7 @@ port: `NATURAL · EXPECTED`.]
 
 **3 · THE RENDER.** Cut on the word to the same bay as the stacks draw it: the same port, the same light, and **hundreds of
 people**, shoulder to shoulder, faces turned one way. In Kai's Lens a frame-edge notice, gone in a second: `UNROSTERED WAKE
-· ALL HANDS · +0.3 MW`. KAI stands mid-crowd, counting heads out of habit, lips moving. TEO beside Kai, very still.
+· ALL HANDS · +0.3 MW`. KAI stands mid-crowd. TEO beside Kai, very still.
 
 **4 · WONDER BEAT — EXTERIOR (one shot, 4 s).** Far astern of the formation: seven hulls across the dark, each forward
 screen a dim disc. A beam link lights hull to hull, seconds apart, as the feed is shared down the line. Under one hull,
@@ -91,7 +91,7 @@ it, and it comes again.
 >
 > **A GHOST ON WATCH** *(not unkind):* Older than cities.
 >
-> **KAI** *(still counting, quiet):* Once in a lifetime.
+> **KAI** *(quiet):* Once in a lifetime.
 >
 > **TEO:** Once in a thousand.
 
@@ -115,6 +115,7 @@ exactly the audience a lie would be written for. Every circle showing one light 
 failure at once. The cold viewer gets a star; the viewer who catches the tooth knows stars don't repeat themselves.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Kai's head-counting tic cut; doubled "forward" typo fixed.
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp.
   `WR-B6` (the real bay holds only proxies; the base gathers in the render), `WR-L2` (all UI in Kai's Lens; the catalogue
   tag and light curve are diegetic on the port), `WR-E1` (the wake's watts), `WR-R2` (nothing of the makers, not even a

@@ -9,9 +9,9 @@
 > looks twice. One reveal: **the voyage will grow the bodies it promised.**
 
 ## Setup & hook
-Open on a hand that has never been used: a grown human hand, curled, behind amber-lit glass, very still. A grey
-machine hand rises into frame and stops a finger's width from the glass, the way you'd stop short of waking someone.
-It is not Kai's machine.
+Open on the ramp board, white type on dark slate, so close the letters fill the frame: a stranger's name, and beside it
+a status that changes as we watch, `GROWING` → `STILLED`. Somewhere in the hull, a body has just been finished and put
+to sleep. Nobody is there to see it but the board.
 
 ## Cinematography — the nursery that isn't one
 | Element | The synthesis bay | The ramp board |
@@ -59,16 +59,18 @@ enough for the Lens to read and no eye to notice. Kai and the partner are both a
 (`WR-E1`): every growing body draws chemistry at the highest rate aboard; each stilled one drops to a trickle; the
 capsules' warmth, the proxy and the shell draw watts. The reserved slot draws nothing until it is claimed.*
 
-**1 · COLD OPEN — EXTREME CLOSE (9:16) · HOOK (0:00–0:05).** Behind amber glass, a grown human hand, curled, utterly
-still. A grey machine hand rises into frame and stops a finger's width short of the glass. [SOUND: a soft pump-pulse,
-slower than a heart.] [UI: `STILLED`.]
+**1 · COLD OPEN — EXTREME CLOSE (9:16) · HOOK (0:00–0:05).** The ramp board, the slate so close its white type fills the
+frame: a colonist's name, and beside it the status flips, `GROWING` → `STILLED`. [SOUND: a faint electrical hum; under it,
+a soft pump-pulse, slower than a heart.]
 
 **2 · THE BAY — Caravaggio · CONTEXT (0:05–1:15, shots 2–3).** Pull back and dolly: capsules in two rows, amber pools in
 the dark, most of them holding a dim shape, a few holding a whole adult body, eyes closed. Kai's proxy comes down the
 row on rota: `check` · `log`. [UI: the star circle, a hair brighter. The `CHEMISTRY` level steps down once; `nominal`.]
-At the end of the row, the other machine, the one from the hook, stands at a capsule with its hand still raised.
+At the end of the row, another grey machine stands at a capsule, its hand raised and stopped a finger's width short of
+the glass, the way you'd stop short of waking someone. Behind the glass, a grown human hand, curled, utterly still. [UI:
+`STILLED`.]
 
-**3 · THE BOARD.** On the bay wall, the fleet's ramp board. [Camera: one slow pan along the seven columns, left to
+**3 · THE BOARD.** On the bay wall, the fleet's ramp board, pulled back to its full width. [Camera: one slow pan along the seven columns, left to
 right, never pausing.] Names and statuses: `GROWING`, `STILLED`, `QUEUED`, row after row. In the `HULL ONE` column, a
 single slot with no name, reading only `RESERVED`, slides past at the same speed as the rest. Kai's eye passes over it
 and on. Nobody in the bay looks twice.
@@ -114,6 +116,7 @@ someone waiting to hold her hand. "Arrive" is the season's want, written in inno
 serial viewer: the voyage is carrying a body for someone who hasn't asked yet, and the reel never says who.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** hook now opens on the ramp board (`GROWING` → `STILLED`), no longer repeating E2's machine hand at the glass; the stopped hand moves to shot 2.
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp. `Q-118`/`Q-124`
   (stilled bodies, no Woken), `WR-B6` (proxy and shell), `WR-E1`, `REVEAL-04` (the RESERVED slot unexplained; ramp
   bodies' nature held for E18), and the `REVEAL` budget: ★ the ramp; · the "arrive" square; · Rafe's partner (a-ha #6

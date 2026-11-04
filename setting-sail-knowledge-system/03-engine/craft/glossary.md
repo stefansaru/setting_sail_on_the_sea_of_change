@@ -59,6 +59,7 @@ A named or labelled character. Season is in the first two columns; caste follows
 | **Vance** | A merit-holder who believes mortality is a bug. He tempts Adam and later hunts the root key. Absent from S1. His record claims a batch of 10,000 with no failed fork filed (S2E14); his S3 case: "A world with no author is a world no one answers for" (`Q-103`). | S2E12; **HELD** in S1 | `CHR-04` [[vance]] | — | Ghost (`Q-90`) | Old English *fenn*, "marsh" |
 | **Vesper** | Raul's partner, lost to the Proximity Illusion: capsules inches apart, clocks lifetimes apart. | S2E7; her capsule, untagged, in S1E6 and S1E17 (`Q-88`); **HELD** by name in S1 | `CHR-05` [[vesper]] | Retired: Maya. | Shadow (Tier 2) → Ghost between S1 and S2 (`Q-92`) → Ghost in a leased shell (S3E14, `Q-121`) | Latin "evening", the evening star |
 | **The oldest elder** | The Purist elder who wants the pregnancy cut out (S3E8) and, dying, offers to be Mara's donor (S3E20). | S3E8 | `Q-106` `WR-B8` | — | Purist | Unnamed by design |
+| **The old woman** | The Purist woman who murmured "Hurried" in S2E19; in S3 she glances in at Ruth's door (E7), is the prophecy voice at the split (E8) and the midwife at the birth (E10). | S2E19; S3E5–S3E10 | none | THE OLD WOMAN (script label). S3E15's water-carrying "old woman of the tribe" is not tied to her. | Purist | Unnamed by design |
 
 ## Caste
 A way of existing (`WR-B1`). Every person has exactly one at any point.
@@ -111,7 +112,7 @@ A physical or simulated location.
 | **The destination system** | The fleet's goal, with habitable planets. Its planet comes into view at the end of S4. | S4E20 | `PLC-12` | Registry calls it unnamed; `Q-28` leans Centauri (logged). | Real | n/a |
 | **Flooded channel** | A dock from HELM's first module, now a fossil stratum with thoughts as boats. | S3E11 | `PLC-01` | — | Simulated | Oldest layer; tier unstated |
 | **The forward bay** | The bay where crews watch the screen drop and the bore fire. | S4E1 | `MAG-29` | — | Real | Tier 0–1 crew |
-| **The fossil strata** | The Grid's oldest layers, each one a HELM module. | S3E11 | `MAG-01..09` | the strata | Simulated | Tier unstated |
+| **The fossil strata** | The Grid's oldest layers, each one a HELM module. | S3E11 | `MAG-01..09` | the strata. Their archive renders: fossil watchers (S3E11), fossil helmsmen (S3E12), fossil editors (S3E13). | Simulated | Tier unstated |
 | **Hospitality lounge** | The warm-orange desk where Raul is placed after reassignment. | S1E5 | `WLD-12` | tourist lounge | Simulated | Tier 1, from S1E5 |
 | **Hull Four** | The wounded hull, struck through its open window in S4E10. Its crew call it the Station, and it is where Rafe wakes. That identity is writers' room until S4. | S4E1 by this name | `PLC-11` · `PLC-07` · `Q-45` | "the Station" (slang). Never state the link in S1. | Real, with simulated decks | Tier 0–3 on its stacks |
 | **Hull One** | The lead hull and the High Clock's seat. | S4E4, the ramp board's RESERVED slot (a-ha #12); seen S4E16 | `PLC-10` | Hull Two, Three, Five, Six and Seven exist but have no story. | Real, with simulated decks | Tier 0–3 |
@@ -142,6 +143,7 @@ A physical or simulated location.
 | **Un-zoned capsule bays** | The illegal nests of the Clock Brokers. | reel: The Locked Block (standalone, `Q-76/77`); S2E15 shows one welded door | `FAC-04` | — | Real | Bodies at 1:1 |
 | **The upper levels** | Tier 3 as a child hears it: where Teddy takes Raul and Jun. | S1E3b | `WLD-04` | — | Simulated | Tier 3 |
 | **Weather-controlled city** | A legacy HELM location. | bible only (legacy) | `PLC-02` | — | Not stated | Not stated |
+| **Bay C** | Hull Four's stasis bay for Decimus's ten wards: capsules `C-01`–`C-10`, Kai in 10, Teo in 09; the worn stencil THE STATION over its doors. Kai is at capsule 10 when the grain hits. | S4E2 ("stasis bay C"); labelled S4E10 | `Q-130` (1) `Q-132` (1) | stasis bay C; capsule tags `C-01`…`C-10` | Real | Tier 0 minds by proxy |
 | **The founder's chair** | Hull Cut only: the High Clock's empty seat, whose unspent Apex ration pays Kai's reading. | alternate cut only | `Q-113` | Not canon | Simulated | Kept for the founder |
 
 ## Technology
@@ -151,7 +153,7 @@ A device or system. *Not stated* means no source gives one, and the gap is logge
 |---|---|---|---|---|---|---|
 | **The alignment setting** | A Lens setting that fills in an Intention square for you and carries it out. On by default for minors. Whether that's kind stays unsettled (`WR-L4`). | S1E3b | `MAG-33` [[the-pattern-detector]] | automated course-of-action setting. Don't confuse with the CVP's "safety alignment". | The act stops being yours | Adults may switch it off, and almost none do. Reads loops, not ends. |
 | **Apex capsule** | The clinical capsule that holds a mind at Tier 3 during the Escape Loop. | S1E11 | `MAG-13` | — | Rationed Apex time | About 2.4 outside hours on Hope's credit |
-| **Authorship** | HELM module: an editable, re-rankable value hierarchy. Held. | S3E14; **HELD** | `MAG-06` | — | Getting stuck as the Lion | Negation alone authors nothing |
+| **Authorship** | HELM module: an editable, re-rankable value hierarchy. Held. | **HELD** (the S3E14 glimpse was cut, `Q-131`) | `MAG-06` | — | Getting stuck as the Lion | Negation alone authors nothing |
 | **Automated surgical rigs** | Robotic units that amputate and rebuild a body. | S1E10 | `MAG-15` | robotic surgical rigs | Organic mass | No surgeon's judgment |
 | **Beam link** | The connection that carries minds between hulls. | S4E6 | `MAG-29` | — | Watts and priority | Minds only, minutes between hulls |
 | **Bliss** | HELM module: the experience machine with a set-point readout. Held. | S3E15; **HELD** | `MAG-07` | — | Pleasure flatlines | Can't synthesize meaning |
@@ -182,17 +184,18 @@ A device or system. *Not stated* means no source gives one, and the gap is logge
 | **Planetary Status Engine** | The sensor net feeding the President the planet's real-time state. | S2E11 | `WLD-11` | — | Not stated (logged) | Measures only what it senses |
 | **Proven-in-Use token** | The cryptographic token the CVP mints for a clean record. | S2E13; **HELD** in S1 | `MAG-20` | compliance token. UI caps form `PROVEN-IN-USE` (the S2E13 seal). | None for the holder | A patch can mint a false one |
 | **Proxy** | A leased surface body or sensor rig through which a Shadow attends Tier 0. | S1E7 | `WLD-08` | leased surface proxy, telepresence, proxy shell | A lease | Present, but a world from your own flesh. Becomes a shell when its Shadow dies in it (S1E17 → E18) |
-| **The reactor** | The hull's power source, whose watts cap the Apex aboard. | S4E13 | `WLD-23` | — | Finite output | Ceiling on every clock aboard |
+| **The reactor** | The hull's power source, whose watts cap the Apex aboard. | S4E11 (`Q-132` (8)) | `WLD-23` | — | Finite output | Ceiling on every clock aboard |
 | **Read-Key** | The historical half of a ledger, safe to share. | bible only so far | `MAG-11` | — | Privacy | Read-only |
 | **Robotic training shell** | A simulated training shell Raul-Gamma learns in. | S2E9 slot | `WLD-18` | — | Not stated | Simulated, so no clash with the Quickening |
-| **The root key** | Mara's master signature, `// M.C.`. Loose inside a child once she incarnates. | S3E8 | `CHR-01` · `FCT-002` | Architect key, Architect's signature | Not stated | Mara alone holds it |
-| **Law-feed** | The live stream of the Law as the President writes it. | S3E1 | `MAG-18` | — | Read by the rated | Where `// M.C.` signs |
+| **The root key** | Mara's master signature, `// M.C.`. Loose inside a child once she incarnates. | S3E8 | `CHR-01` · `FCT-002` | Architect key, Architect's signature. UI form `ROOT KEY` (the tag in Vance's Lens, S3E8). | Not stated | Mara alone holds it |
+| **Law-feed** | The live stream of the Law as the President writes it. | S3E1 | `MAG-18` | — | Readable by any Lens; patching needs a rating (`Q-129` (1)) | Where `// M.C.` signs |
 | **The divers** | Raul and Rafe's team, reading down the Grid's strata at Tier 0. | S3E2 | [[setting-sail-the-cartographers-ledger]] | — | Archive access | Years of real time |
 | **Re-Cut** | Playing an un-run memory as it happened, unedited. | S3E19 | `MAG-04` | — | A tissue key (`Q-67`) | It can't be undone |
-| **The scattering screen** | A held curtain of dust and plasma ahead of the bow. It stops micrometeorites and must drop to fire. | S4E1 | `MAG-29` | the screen (canonical short form), forward shield, shield. Never "a plate" or "deactivates". | Drops for the whole lock and shot | Scatters light as well as rock |
+| **The scattering screen** | A held curtain of dust and plasma ahead of the bow. It stops micrometeorites and must drop to fire. | S4E1 | `MAG-29` | the screen (canonical short form). Never "shield" (retired, `Q-132`), "a plate" or "deactivates". | Drops for the whole lock and shot | Scatters light as well as rock |
 | **The Seed Fleet** | Seven numbered hulls flying at safe spacing, each a Grid in a can, carrying minds to a habitable system. In flight from before S1 to landfall about ten real years after S1E14, roughly ten years before S2E20. | S4E1 | `MAG-29` · `PLC-10` [[the-seed-fleet]] | the fleet, the Centauri expedition | Watts and chemistry | Light speed; spacing means hours by lifeboat |
 | **The sensor array** | The shared fleet sensor net. It logs every transmission. | S4E6 | `MAG-29` | the array | Watts | Words about its logs can lie; the logs don't |
 | **The server stacks** | The racks that run the tiers aboard a hull. | S4E2 | `MAG-29` | stacks | Watts | Reactor budget |
+| **The slate** | A sheet of city glass Raul carries up from the Studio core: a physical screen, so the Lens-less can see the clip in raw sight. Mara's fingertip on it turns the tissue lock. | S3E19; lights once by itself in S3E20's last frame | `Q-101` `Q-67` | physical screen, slate of glass | Not stated | Shows only; the lock stays in Raul's Lens |
 | **Shell** | A leased or built machine body that is dead until a Ghost downloads in. | S1E7 | `WLD-10` | host body, Cyborg Shell, casing. See "host" (logged). | A lease | Cold, temporary |
 | **Standing** | HELM module: a visible public score. Held. | S3E14; **HELD** | `MAG-05` | — | Shame spiral | Can't measure worth |
 | **The stress trigger** | The on-demand wake for the detector, reading a fast stress marker carried by the tether. | S1E3b | `MAG-33` | "cortisol trigger" is slang (see Slang). | Spikes from growing pains give false alarms | No tether, no trigger |
@@ -252,7 +255,7 @@ Something that happens to people.
 | **The Quickening** | Capsules force a body's growth to keep up with its mind. Everyone on the Grid is Quickened. | effect S1E6; the word from S4E18, the manifest's line (`Q-124`) | `MAG-34` [[the-quickening]] | Quickened. Slang: the Quick, the Hurried. | Capsule birth | Short-lived (about ten real years), worn, a hollow cache, growing pains, barren |
 | **The ramp** | The fleet's late-voyage growing of bodies for crossing minds. | S4E4 | `WLD-23` | synthesis ramp | Destination resources confirmed | Chemistry; ramp bodies are Quickened (sealed) |
 | **Deep stasis** | Fleet storage that pauses a body's clock until it wakes. | S4E2 | `Q-52` [[the-stasis-economy]] | stasis | A bay and a chemistry line | A trickle of chemistry; the decade starts on waking |
-| **Packing** | Preparing a mind to be beamed. | S4E15 | `Q-50` [[the-cyborg-slip]] | pack the self | Time, or the Apex | Short of time, only a Ghost can finish |
+| **Packing** | Preparing a mind to be beamed. | shown S3E6, word unspoken; word from S4E15 (`Q-129` (8)) | `Q-50` [[the-cyborg-slip]] | pack the self | Time, or the Apex | Short of time, only a Ghost can finish |
 | **Watch** | A rostered stretch awake aboard; between watches a mind is paused. | S4E1 | `Q-52` `WR-T6` | — | A roster | Reactor budget |
 | **The Sealed Manifest** | The fleet's true margins and odds, held by Hull One. | S4E18 | [[the-sealed-manifest]] | the manifest | Apex access | Opening it costs the base's trust |
 | **The spare margin** | Chemistry held in reserve, spent on refugees instead of new bodies. | S4E17 | `WLD-23` | — | Chemistry | Every life kept is a colonist not grown |
@@ -270,6 +273,7 @@ Something that happens to people.
 | **Voluntary Cloistering** | Choosing Hope over the Hospitality Baseline. | bible only so far | `WLD-12` | See Seekers. | Displacement or exhaustion | Outward life |
 | **Licensed Sabbatical** | The one exception to `WR-B6`: a body unplugged, briefly, at cost, under supervision. | S2E6 offered; S2E17 bought; S2E19 used; reel: The First Supper | `Q-72` | Sabbatical | A licence | Credits; brief; supervised |
 | **The standing reserve** | Hull One's embryo slot held for a claim not yet made; the board reads RESERVED. Bible: it holds a copy of the President's kept genome, stored before launch (`Q-119`). | S4E4 | `Q-112` `WLD-23` | the RESERVED slot | A claim by beam (S3E20's `Outbound · 4.4 ly`, landing about T+43) | Claimed in S5 |
+| **Re-still** | Putting a woken body back into deep stasis. Hull Four's refugees wait for it awake on Hull One, Teo among them. | S4E17 (`TEO · SHADOW · RE-STILL · QUEUED`) | `Q-63` `Q-130` | re-stilling, the re-stilling bay | A body woken in a lifeboat, which can't hold deep stasis | Chemistry, once per body (nine cost about two ramp slots) |
 
 ## Rule
 A law of the world or of society.
@@ -325,7 +329,7 @@ Something seen in the Lens.
 |---|---|---|---|---|---|
 | **+1 · Resilience** | A reward token when Raul stands up. | S1E3 | none | — | A metric paid for effort |
 | **+1 · Virtuous** | A reward token after the setting opens Raul's hand. | S1E3b | `MAG-33` | — | A metric paid for an act the system did |
-| **1:N rating tag** | A rating worn openly, like rank. Teddy wears `1:30`. | S1E3a (collar tag, unexplained) | `MAG-32` | collar tag, rating. `1:2`, `1:3`, `1:10`, `1:30`, `1:100` (S2E12 gate, S2E14 row plates), `1:1000` (S2E14 row plates), `1:10000` (Vance's collar, S2E12). | What the wearer is validated to answer for |
+| **1:N rating tag** | A rating worn openly, like rank. Teddy wears `1:30`. | S1E3a (collar tag, unexplained) | `MAG-32` | collar tag, rating. `1:2`, `1:3`, `1:10`, `1:30`, `1:100` (S2E12 gate, S2E14 row plates), `1:1000` (S2E14 row plates), `1:2000` (High Clock collar tags, S4E5), `1:10000` (Vance's collar, S2E12). | What the wearer is validated to answer for |
 | **Advanced Cellular Decay** | A red-yellow scan tag on Purists. | S1E19 | `VIS-08` | Cellular decay — advanced (S2E4). Also Untreated Osteoarthritis, Life Expectancy: Limited. | The body as a failing machine |
 | **"arrive" square** | Kai's Intention square for reaching the planet in a body. | S4E4 | `WLD-23` | — | The promise of a waking |
 | **BRANCH — confirmed** | The resolved E16 prompt. | S1E16 | `MAG-12` | — | The legal split |
@@ -333,7 +337,7 @@ Something seen in the Lens.
 | **Choose** | An unrecognized square lighting faintly in E8. Pays in S2E20: the one square nothing fills, lit unpowered in Adam's dead Lens as he chooses. | S1E8; payoff S2E20 | `Q-127` (6) · a-ha #8 | — | Raul's first free intention; Adam's own, with the patch off |
 | **Context circles** | The top row of round icons. | S1E2 | `MAG-14` | `[◯]`, top circles | The scene's active realities |
 | **Diagnostic widget** | A cold readout clamped to the frame edge after E10. | S1E10 | `MAG-15` | — | Battery, hydraulic pressure |
-| **Disc glyph** | Kai's glyph: the shield seen head-on, a disc with a bore. | S4E1 | `VIS-12` | — | whole → open → cracked → solid as a Ghost's |
+| **Disc glyph** | Kai's glyph: the screen seen head-on, a disc with a bore. | S4E1 | `VIS-12` | — | whole → open → cracked → solid as a Ghost's |
 | **Glyph** | The ring that charts a lead's balance. Raul: hollow → fractured → solid. Adam: absent → hollow → cold-complete → cracked. Mara: cold → blank → re-earned. Kai: whole → open → cracked → solid. | S1E6 | `Q-12` · `VIS-12` | Macro-Doughnut glyph, the Two Doughnuts | A mind's balance |
 | **Host age** | A vitals line showing a body's real age. "14 weeks" under a 34-year-old mind. | S1E6 | `MAG-34` | — | How little time the body has had |
 | **Host vitals** | The Shadow's body-health readout. | S1E6 | `WLD-08` | See "host" (logged). | The body's status |
@@ -386,11 +390,27 @@ Something seen in the Lens.
 | **RAUL / // M.C. (speaker tag)** | Raul's shell's speaker tag flips when the President speaks through it. | S3E9, S3E18 | `Q-101` | — | Whose voice it is |
 | **Lived: 192 yrs** | The parents' ledger in the Observer stratum. | S3E11 | `Q-108` · a-ha #13 | — | Their years while he grew |
 | **Charge: 0** | Rafe's better Helm draining the parents' ledger. | S3E12 | `WR-F4` | — | A system can empty grief, not hold it |
-| **Key: tissue** | The lock tag on Mara's clip. | S3E13 | `Q-67` | — | Only her body opens it |
+| **Key: tissue** | The lock tag on Mara's clip; the same key on a second lock, the author-seat's (`Q-131` (8)). | S3E13; the seat lock S3E18, S3E20 (with `author only`); S4E18 | `Q-67` `Q-131` (8) | `Key: tissue · author only` (S3E20) | Only her body opens it |
 | **Requires 1 : all** | What the author-seat asks. | S3E15 | `WR-S2` | — | No rating can meet it |
 | **Treatable · donor required** | Mara's illness, read in Raul's Lens. | S3E16 | `WR-B8` `Q-106` | — | The cure's price, again |
 | **Outbound · 4.4 ly** | A packet leaving at Mara's death. | S3E20 | `Q-112` `Q-125` · a-ha #12 | — | Unexplained on screen; bible: the god's remainder |
 | **Slip: none** | Rafe's own record: he left his body by beam and never felt the itch. | S3E16 | a-ha #14 · `WR-B7` | — | Pays S1E15's *Body: none* and S2E18's third glyph |
+| **CVP ✓** | The green tick each sensor-threaded law-feed clause lands with: the CVP's only on-screen name. | S2E11; S3E1 | `MAG-20` `Q-73` | Never "the Validation". | A clause checked against the measured world |
+| **Regrown · donor: NAOMI** | The first of two small lines over Adam's hand in Raul's Lens. | S3E1 | `Q-106` `WR-B8` | — | What regrew him, and whose cells |
+| **Cure: on file** | The second line over Adam's hand: the recipe still exists. | S3E1 | `Q-106` | Plant → `Treatable · donor required` (S3E16) → S3E20 | The cure is kept, unused |
+| **derived from: —** | The empty source line on E1's clause: no sensor thread under it. | S3E1; S3E2 | `MAG-18` | — | Law with no measurement behind it |
+| **// M.C. → Tier 0 · sector: unmeasured · PENDING** | E1's clause: the law's first request, signed `// M.C.`, carried in Raul's Lens through Act I. | S3E1 (`PENDING` beneath, grey); full line S3E2, S3E4, S3E5 | `MAG-18` `CHR-01` | `NOT APPLICABLE · sector: unmeasured` (the bounce, S3E5; goes out at the helix) | The god asking to come where she can't reach |
+| **signer: unresolved / signer: mara.c** | The clause's signature field: unresolvable, then filled with the oldest account's name. | S3E1 (`// M.C. · signer: unresolved`); S3E3 (`signer: mara.c`) | `CHR-01` `FCT-005` | — | Who signed the law |
+| **RESUMING** | Rafe's paused file waking, under `REPLY COPY · PAUSED · 12 yrs`. | S3E2 | `Q-54` | — | The pause ends |
+| **fit: 100% / RETURNED** | Rafe's built grey sphere, matched to the god's hole; then the tag when the law sends it back unopened. | S3E5 | `WR-F4` | Lower-case `fit: 100%` (also italic *fit: 100%* in the script) | A perfect part, refused |
+| ***Should a fork be made?*** | The law-feed line that stops scrolling and writes itself, signed `// M.C.`: the President's first direct address to a person. | S3E6 | `Q-117` `Q-65` | — | Her question to Rafe |
+| **Pack bar (*Genome* / *Shard* / `Memory: fragment`)** | Three unlabelled rows under the helix: two fill and tick, the third will not fill. Run backward in S3E16. | S3E6; S3E16 | `Q-117` `Q-105` | See `Memory: fragment`. The word "pack" stays off screen in S3. | What fits in a genome, and what can't |
+| **Read: VANCE · 1:10000** | The line under Raul's own chain entry: Vance has read it. | S3E8 | `Q-124` `Q-129` (4) | — | The leak, through Raul's open chain |
+| **Visits: —** | The last line on the parents' ledger card: no visit logged. | S3E11 | `Q-119` · a-ha #13 | Echoes `Caste: —` (S3E7). | They never came through the door |
+| **HORIZON · N d** | The honest countdown over Mara in Raul's Lens, in the founding stratum's grey type; it reads lower each return, never ticking on screen. May name its module (`Q-131` (9)). | S3E16 (`182 d`, `181 d`); S3E20 (`0 d`) | `MAG-09` | — | Days left |
+| **author only** | The line under the author-seat's `Key: tissue`: the lock turns only for the one it was cut from. | S3E18; S3E20 | `Q-131` (8) | `Key: tissue · author only` | The seat needs the shard home |
+| **BEAM WINDOW · COLONY** | A dim line at the edge of Rafe's Lens, unremarked; it closes as he chooses Branch. Bible: the colony original already merged with the homebound copy at about T+12.6. | S3E16; S3E18; closing S3E20 | `Q-131` (3) `Q-99` `Q-54` | `BEAM WINDOW · COLONY · CLOSING` (S3E20) | The way home, open, then let go |
+| **Blank rating tag** | The top node's tag in the governance tree: no field at all, as if no one ever asked. Distinct from `UNRATED`. | S3E4 | `Q-129` (2) `WR-S2` | Not `UNRATED` (a person never validated). Echoed by `mara.c`'s blank score (S3E3) and the empty Standing field (S3E14). | The one answering for everyone was never tested |
 | **UP-CLOCK · PERMANENT** | The amber Context circle offering to make Adam's residency clock permanent at Tier 1. | S2E5 | `Q-127` (2) · `MAG-34` | — | The temporary made permanent |
 | **Wakefulness: 10 yrs** | A care-chart line under `Organic: 90%`: years the brain has gone without sleep. | S2E6 | `MAG-22` [[tether-decay]] | — | Dreamless years, counted |
 | **TRIBE · 150** | The tribe overlay: a ring of 150 lights pulsing in one beat; two fingers scatter it to show the bodies far apart. | S2E7; recalled S2E10 | `WLD-17` [[frequency-tribes]] | tribe ring | Belonging as a shared clock |
@@ -403,7 +423,7 @@ Something seen in the Lens.
 | **APEX · 2.4 h · PENDING** | Adam's grey request line for Apex time. | S2E11 | `MAG-13` | — | A request logged, unanswered |
 | **APEX · 2.4 h · MERIT KEY REQUIRED / VALIDATION · 1:100 · ONE RUN** | The Apex gate's two lines: the key it asks for, and the honest road to one. | S2E12 | `MAG-18` `MAG-32` `WR-S2` `Q-116` | The Validation, never the CVP (`Q-73`). | What the gate demands |
 | **KEYS · VANCE** | The pending square Vance's signature chain parks in Adam's bottom row. | S2E12; carried S2E13, S2E15–S2E16 | `MAG-18` `CHR-04` | Gains the line `EXIT · APEX · 2.4 h` (S2E15). | An offer not yet taken |
-| **VANCE · 1:10000** | Vance's public chain header: every block spotless green, not one failure. | S2E12 (alone); beside Kavana's chain S2E13 | `CHR-04` `MAG-32` `Q-128` (2) | `VANCE · 1:10000 · BATCH 10,000` (S2E14) | A record with no failures |
+| **VANCE · 1:10000** | Vance's public chain header: every block spotless green, not one failure. Also his leased shell's collar tag. | S2E12 (alone); beside Kavana's chain S2E13; shell collar tag S3E15 (read as `1:10000`), S3E18 | `CHR-04` `MAG-32` `Q-128` (2) | `VANCE · 1:10000 · BATCH 10,000` (S2E14) | A record with no failures |
 | **FOLD FAILED** | The honest failure blocks crowding Kavana's public chain. | S2E13 | a-ha #10 | — | Years of honest failure |
 | **APEX QUEUE · RE-RANKED · MERIT FIRST** | Vance's signed block: the merit-key re-ranking of the Apex queue. | S2E13 | `Q-127` (9) `MAG-18` | — | The patched act |
 | **STRUCTURAL BALANCE · 100%** | Vance's flawless reading at signing. Kavana's for the same act reads `99%`. | S2E13 | `MAG-21` [[intent-patch]] | — | A missing tremor |
@@ -418,6 +438,24 @@ Something seen in the Lens.
 | **VESPER · Tier 0** | Vesper's tag in Raul's Lens at the fire: she has slowed to his clock. | S3E14 | `Q-121` · a-ha #15 | — | Raul's Lens | No line spoken |
 | **DORMANT UNTIL WINDOW CLOSES / VALIDATE 1:10 NOW** | Decimus's bay-board prompts. | S4E9a | `MAG-32` [[decimus]] | — | The bay board | — |
 | **"help" square** | The beacon's one legible word, in the bottom square. | S4E9 | `MAG-31` [[the-lure-beacon]] | — | The array feed | The lure's hook |
+| **Voyage-year and `DAY n` stamps** | Ship dates counted from launch (about T−36), not series time: the deck wall's day count after first light; the silence order's voyage years (`DRAFT · VOYAGE YEAR 9`, filled `VOYAGE YEAR 41`); the hull log's `DAY 14,683` / `DAY 14,686`. | S4E7 (deck wall, day 3–6); S4E8 (voyage year); S4E19 (`DAY n`) | `Q-130` (5) `WR-T6` | — | When, in the fleet's own count |
+| **`SCREEN · DOWN` / `LOCK 00/60` / `cost: watts` / `WATCH END · n`** | Firing and watch: the screen-down circle at the drop, the lock ticking `00/60`…`59/60` (the bore fires at the close of second 59), the shot's spend; the bottom-square countdown to a watch's end. The bay board carries the same lock (S4E10); the hull log stamps the hit `LOCK 59/60` (S4E19). | S4E1; `WATCH END` S4E2 | `MAG-30` `Q-52` `Q-132` (2) | Not `LOCK 00:00` / `LOCK 00:59` (replaced, `Q-132`) | The firing window; time left awake |
+| **`CHEMISTRY · nominal` / `CEILING · BODY · T0–1` / `↑ TIER 2` / `T0 → T1`** | Budgets and clocks: the chemistry level that reads one word, `nominal`, instead of a number (one line can be tapped: `C-10 · 0.2 ml/h`); the body's clock ceiling stopping Kai's marker on the ruler; a Ghost's half-second promotion tag; Kai's clock lifted (and `T1 → T0` back down). | S4E2; `CEILING`, `↑ TIER 2` S4E3; `T0 → T1` S4E5 | `WLD-23` `WR-E1` `WR-T4` | `WATTS` is the other budget circle (S4E2) | The kind version of the hull's chemistry; the body's limit; a climb |
+| **`REPORT · …` / `RELAY · Hull One` / `SEND UP · T1`** | Kai's audience with the High Clock: the report read before Kai speaks (`REPORT · C-07 · line +0.3% over schedule` → `REPORT · read`), the relay stuttering to Hull One, and the panel that files the next one upward. | S4E5 | `FAC-05` `WR-T4` | — | Being heard by people too fast to listen |
+| **`NATURAL · EXPECTED` / `UNROSTERED WAKE · ALL HANDS · +0.3 MW` / `LANGUAGES · ALL` / `SILENCE` / `LAYER 4 · n%` / `DRAFT · VOYAGE YEAR 9` / `DEFLECT · 7 HULLS · FUEL ≈ 2 BODIES` / `TX · HULL FOUR · 1.2 MW · 0.4 s · 02:13`** | The beacon thread: the catalogue's tag on the false supernova; the notice when the whole base wakes to watch; the beacon speaking in every language; the High Clock's closed `SILENCE` square (options: `ANSWER` · `TURN OFF ITS LINE · FUEL · 7 HULLS` · `SILENCE · 0 W`); Teo's decoder; the order's old draft; the deflect option's cost; the array log's line for Teo's burst. | S4E6; `LANGUAGES` S4E7; `SILENCE`, `LAYER 4`, `DRAFT` S4E8; `DEFLECT`, `TX` S4E9 | `MAG-31` `WLD-24` `Q-130` (4)–(5) | `TX` gains `KEYED: C-09 · TEO` in S4E19 | A lure, a silence, and who answered it |
+| **`1:3 · WAIVER · 10` / `STANDING 1:3 · NOT FORWARDED` / `FORKING · 10` / `FILED · 9` / `HULL FOUR STACKS`** | Decimus: its rating held on a waiver for ten wards; its raise refused for want of standing; the jump's ten forks; the nine failed forks filed in Hull Four's own stacks (reminded on the E15 board as `FILED · 9 · HULL FOUR STACKS`). | S4E9a; `FORKING`, `FILED` S4E9b; reminder S4E15 | `MAG-32` `CHR-10` `WR-S3` `Q-132` (7) | — | Care without standing; what a rating costs |
+| **`TARGET · KILL CONFIRMED` / `FWD · OBJECT · UNLISTED` / `FWD ARRAY · SENSOR FAULT`** | The strike board: the kill, seen about 1 min 50 s after the shot; the array's honest tag; the tag rewritten after one blink from above. | S4E10; `SENSOR FAULT` again in the S4E19 log | `MAG-30` `Q-66` `Q-132` (3) | — | The shot worked; the hull is holed; the kind word |
+| **`81:00:00` / `TIME LEFT, INSIDE · 202 d → 81 h` / `BEAM-OUT · BY PRIORITY` / `C-10 · HOLD`** | The evacuation opens: the countdown in Kai's Intention squares; the down-clock's recomputed line; the beam queue's order on the corridor wall; the lifeboat roster's one held capsule. | S4E11 | `Q-56` `WR-E3` `Q-130` (6) | Roster lines `BOAT 1 · C-01 02 03 04` · `BOAT 2 · C-05 06 07 08` · `BOAT 3 · C-09` | Who leaves, in what order |
+| **`C-10 · CRADLE · JAMMED` / the pack table** | Why capsule 10 can't move; the plain table Kai asks for: `PACK · 8 mo inside` / `TIER 0 · 243 d` / `TIER 1 · 4 d 01 h` / `TIER 2 · 1 h 37 m · CREDIT · SHADOWS RARELY` / `TIER 3 · 4 min · GHOSTS ONLY`. | S4E12 | `Q-50` `Q-79` `WR-T5` | — | The only way out, priced by clock |
+| **`DENIED · REACTOR RATIONED · BEAM QUEUE FIRST` / "We're sorry." / `BEAM QUEUE · n MINDS` / `BEAM QUEUE · EMPTY`** | Kai's up-clock refused, in hard type, with a soft line under it; the queue still ahead (`40 MINDS · 31 h`), later empty, leaving the reactor's last watts free. | S4E13; `EMPTY` S4E15 | `WLD-23` `Q-132` (8) | — | Fair order, felt at the bottom |
+| **`SEALANT · n left` / `Identity Key: unstable` / `Identity Key: in tissue · moves whole`** | The field severance: supplies counting down; the Key slipping (then `secure`); at 30% organic, the Key's last place and how it will go. | S4E14 | `CHR-08` `WR-M4` | — | Self by subtraction |
+| **`PACK · 8 mo · → HULL ONE` / `PACK · COMPLETE`** | Kai's mind packing at the Apex, then done at `00:00:00.5`. | S4E15 | `Q-50` `Q-79` `Q-132` (10) | — | Most of a year inside four Apex minutes |
+| **`HULL ONE · TIER 2 · RECEIVED` / `HULL FOUR · DARK · Δv 0.000`** | Kai's arrival tag on Hull One; the dead hull alongside, keeping pace. | S4E16 | `WR-T5` `Q-56` | — | Received; and the hull that should be falling behind |
+| **`CHEMISTRY · SPARE MARGIN` / `RAMP 30 → 19` / `WITHDRAWN` / "The ramp is paused." / "The ramp resumes."** | The spare margin as a bar; the vote's line (`REALLOCATE SPARE MARGIN → HULL FOUR BODIES · RAMP 30 → 19`); the ramp-board status for slots 20 and 21; the base's notices, before and after (with *All margins nominal.*). | S4E17; "The ramp resumes." S4E20 | `WLD-23` `Q-130` (7) | Statuses beside `GROWING` / `STILLED` / `QUEUED` (S4E4) | One budget, three versions |
+| **`RATION: RAFE`** | Who pays Kai's Tier-2 watches on Hull One: `WATCHES · TIER 2 · RATION: RAFE · 23 h 59 m REAL · ≈ 9.9 yrs` at the last. | S4E18 | `WR-T5` `Q-130` (8) | — | A decade on someone else's watts |
+| **`RAMP BODIES · QUICKENED · ≈ 10 YRS FROM WAKING`** | The manifest's line on what ramp bodies are; the `BASE` column beside it holds a dash. | S4E18 | `Q-118` [[the-quickening]] | — | What the base is not told |
+| **`ROUTINE · n HIDDEN` / `KEYED: C-09 · TEO` / `PACKET · EARTH ORIGIN` / `tell Teo`** | Hull Four's last log: the routine collapsed (`41,198` of `41,206`); the key that sent the burst; a serial line nobody reads (`BEACON · ANALYSIS · EARLIEST PATTERN MATCH: PACKET · EARTH ORIGIN · IN TRANSIT`); the square Kai lets go out. | S4E19 | `Q-111` `WR-S5` | — | The truth, read once and kept |
+| **`WATCH n` / `DESTINATION · UNRESOLVED` → `RESOLVING` → `RESOLVED · DISC · ARRAY COMPOSITE` / `BRAKE BURN · 6 DAYS` / `HULL FOUR · ASTERN · TRANSMITTING`** | The last reel: Kai's watch stamps (`WATCH 2,690`, `3,150`, `3,598`); the planet resolving through the bore from the array's combined feed; a week before braking; the dead hull behind, still sending. | S4E20 | `PLC-12` `Q-56` `Q-130` (9) `Q-132` (6) | — | Arrival, and the bill not yet paid |
 
 ## Slang
 Words characters use. These are the only permitted synonyms (`WR-N2`).
@@ -477,7 +515,7 @@ A recurring image or line. Quoted lines match the live scripts as of this page's
 | **Hollow → fractured → solid** | Raul's glyph arc. | S1E6–S1E20 | `Q-12` | — | One mind's balance |
 | **Hull Four still transmitting** | The last image of S4. | S4E20 | `PLC-11` | — | The bill not yet paid |
 | **"I cannot wait to find myself."** | The god, awaiting her birth. | S3E9 | `CHR-01` | — | Pilgrimage into forgetting |
-| **"I escaped" / "my body is dust"** | Kai's two truths. | S4E19 | `CHR-08` | — | S4's Doughnut |
+| **"I escaped" / "my body is dust"** | Kai's two truths, carried by Kai's two log lines in S4E19 (tether severed, beam sent), not spoken. | S4E19 | `CHR-08` | — | S4's Doughnut |
 | **"I'll never forget that."** | Raul's first words as a Ghost. | S1E17 | `WLD-14` | — | Tender, and a life sentence |
 | **"I'll stay."** | Raul to the mother in E20. Adam says it to Naomi in S2E20, and she answers with her S1E19 "I know." | S1E20; echo S2E20 | `CHR-02` | — | Presence over answers |
 | **"I'll think about it."** | Kavana's answer to the Chain-Check. Adam echoes it in the Hull Cut. | S1E12 | `MAG-11` | — | Refusal without refusing |
@@ -528,6 +566,10 @@ A recurring image or line. Quoted lines match the live scripts as of this page's
 | **"She's dying. Come home."** | Ruth's handwritten sheet held up to the village feed. | S2E10 | `Q-97` | — | The mortal world, writing by hand |
 | **"She's seventeen."** | Ruth's objection when the re-merge is put to the god. | S3E18 | `Q-100` `Q-65` | — | Who may answer for a child |
 | **"A world with no author is a world no one answers for."** | Vance's case. | S3E18 | `Q-103` `WR-S6` | — | The argument for an author |
+| **"Rated for ten."** | Decimus: "Ten of you. Rated for ten." on taking the bay; "Rated for ten. One left." at Kai's last climb. | S4E11; S4E15 | `CHR-10` | — | The rating, finally, and what's left of it |
+| **"Someone has to count."** | Decimus, low on the beam list, staying behind to keep count. | S4E15 | `CHR-10` | — | Care as arithmetic |
+| **"Next one."** | Kai's answer to Teo's "There's room." (Boat 3's empty C-10 bay); recalled in S4E16. | S4E12 | `CHR-08` | — | The easiest lie |
+| **"Stars don't repeat themselves."** | The analyst on the beacon's repeating tooth. | S4E7 (the image from S4E6) | `MAG-31` | — | The lie in the light curve |
 
 ## Retired terms
 Words that must not reach a new script or blueprint. Each points to the current word.
@@ -559,6 +601,7 @@ Words that must not reach a new script or blueprint. Each points to the current 
 | **Rushed body, rushed-body process** | The Quickening | Named 2026-11-02 | — |
 | **The S1–S2 mother "Ruth"** | Naomi | `Q-44` split | Hull Cut keeps one Ruth by design |
 | **Sea-gray palette, water and sail motif** | Doughnut color vectors, doughnut and arrow | `VIS-01..07` superseded | Registry legacy rows |
+| **Shield, forward shield** | the screen (the scattering screen) | One thing, one word; "shield" reads as a solid plate (`Q-132` (9)) | Verb "to shield" survives in `s4e09b` |
 | **Shield deactivates, shield plate** | the screen drops | It's a dust and plasma curtain (`Q-32`) | Author's seed |
 | **"Station accident" (as a separate event)** | the Open Window | Writers' room link: the "accident" is S4E10 | `s1e15` note |
 | **Station at Alpha Centauri** | the Station (Hull Four) | As above | Episode guide table (logged) |

@@ -37,7 +37,7 @@ Kai's Lens throughout (`WR-L2`); Kai is a Ghost from shot 3.
 ## Philosophical climax
 The enormous thing, said small. The S1 Slip promised that if the change is gradual you never notice you died;
 Kai's change was a night of knives, and the last cut still feels like nothing. That's the horror and the mercy in
-one breath. Then the world's oldest promise comes true for someone who was refused it twelve hours earlier. Speed
+one breath. Then the world's oldest promise comes true for someone who was refused it a day and a half earlier. Speed
 is a sanctuary you can hide inside from your own death, and it opens only when everyone with priority has gone.
 A safeguard pays for it with the watts it bet itself to earn, then stays behind to keep counting. Most of a year,
 inside four minutes, to fold a life into a beam. Twelve hours, inside half a second, to look at the body you're
@@ -58,7 +58,8 @@ At 86,400×, **packing ≈ 8 subjective months ≈ 243 days = 243 real seconds �
 **`00:00:00.5`**. "Four Apex minutes are most of a year inside" (`Q-79`). The last **0.5 s × 86,400 = 43,200 s =
 12 subjective hours**: the audit. The beam fires at `00:00:00.0`, as the reactor scrams. Each tenth-second tick at
 the Apex is 2.4 subjective hours. Who pays (`WR-T5`): **Decimus**, from the bay's `1:10` allocation, for the climb
-and the four Apex minutes (`Q-79`). Spends (`WR-E1`): **watts**, the reactor's last, at the fastest clock aboard;
+and the four Apex minutes (`Q-79`); the Apex pack (86.4 MW × 243.5 s ≈ 5.8 MWh) is paid from the bay's post-strike
+allocation, not the reserve E9b spent (`Q-132`). Spends (`WR-E1`): **watts**, the reactor's last, at the fastest clock aboard;
 the beam itself is watts. The body's line is **chemistry**, running out at zero. Bible only, never on screen
 (`Q-55`, `Q-31`, `WR-M3`): the last beam off a dying hull can't pause the sender until arrival is confirmed, so
 the transmit is a copy. A second Kai is still running in Hull Four's stacks when the frame cuts, and the ticking disc
@@ -82,7 +83,7 @@ scratches, once, at the side of its own steel neck, where there is nothing to sc
 
 > **KAI** *(gallows-dry, almost puzzled):* A slight itch. *(beat)* Nothing more.
 
-**4 · THE QUEUE.** On the board: `BEAM QUEUE · EMPTY`. One Flavin row still lit above the grille.
+**4 · THE QUEUE.** On the board: `BEAM QUEUE · EMPTY`. One Flavin row still lit above the grille; beside it on the board, small, `FILED · 9 · HULL FOUR STACKS`.
 
 > **DECIMUS:** Rated for ten. One left.
 
@@ -126,6 +127,7 @@ in that body. The serial viewer knows Rafe never felt this; the cold viewer only
 ticking after zero is the reel's last image, and the reel doesn't say whose eyes those are.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** `FILED · 9 · HULL FOUR STACKS` reminded on the board (`Q-132` (7)); "a day and a half earlier"; Apex pack paid from the bay's post-strike allocation (`Q-132` (10)).
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-M5` (four
   Apex minutes pack eight months), `WR-T5` (Decimus pays, on screen), `WR-T1`/`T4` (the timings in the note), `WR-T2`
   (the Apex serene), `WR-M3`/`M1` (the last beam forks; Branch, `Q-31`; never said), `WR-M4` (the Key moves whole),

@@ -15,9 +15,9 @@ all the way. Then the 9:16 frame **splits into ten**: two columns of five identi
 each the same small light, Decimus, beginning to count.
 
 ## Cinematography
-| Element | The ten panels (the test, simulated) | The real bay and the forward bay |
+| Element | The ten panels (the test, simulated) | The real bay and the bow feed |
 |---------|--------------------------------------|----------------------------------|
-| **Lighting** | **Flavin** (`VIS-15`): each panel is a clean simulated copy of the bay, neon-cold, ten copies of one night. A panel that fails freezes on its last frame, drains to grey and stamps `FAIL`. | **Caravaggio** as in E9 and E9a, frozen at Tier 2: hanging drips, the one working light. The forward bay's feed: the screen down, the dark ahead naked. |
+| **Lighting** | **Flavin** (`VIS-15`): each panel is a clean simulated copy of the bay, neon-cold, ten copies of one night. A panel that fails freezes on its last frame, drains to grey and stamps `FAIL`. | **Caravaggio** as in E9 and E9a, frozen at Tier 2: hanging drips, the one working light. The bay board's bow feed: the screen down, the dark ahead naked. |
 | **Camera** | The grid is locked. The camera dives into one panel at a time for a failure, five or six seconds each, then pulls back to the grid, one more panel grey. Calm, never frantic (`WR-T2`): every fork has sixty hours. | Two or three cutaways only, each perfectly still. |
 | **Sound** | Ten voices that are one voice, slightly out of step, counting; each failure removes one from the chord, so the count thins as the reel goes on. | The bay's held low note. At the end, the bore: a white crack of sound. |
 
@@ -42,19 +42,19 @@ what the tenth did right. *To act you must expose yourself*: it did, nine times,
 
 ## Script (draft v1)
 > 9:16 vertical · ~2.5 min · cinematic photoreal · *Black Mirror / Silo* register. **DECIMUS** = the bay safeguard (`CHR-10`);
-> **THE FORKS** = ten copies of it, one voice slightly out of step, each heard once. Kai's proxy in the forward bay and the
+> **THE FORKS** = ten copies of it, one voice slightly out of step, each heard once. Kai's proxy at capsule 10 and the
 > sleeping wards are present and silent. About forty-five spoken words.
 
 *Castes (`WR-B1`): Decimus and its ten forks are a **digital agent** and its copies (`Q-71`); a digital candidate may batch (the
 Validation, `Q-116`); each fork is a real instance after divergence and ends here (`WR-M1`): nine fail and are filed, one passes
 and carries the name. The test's bay is **simulated**: its "wards" are test figures, not people. The real wards are **Shadows** in
-deep stasis; Kai is on watch at Tier 0 in the forward bay by proxy (`WR-B6`). Timing (`WR-T4`): **firing day, about T+4.2**, from
-**09:40:00** (the screen drops) to about **09:41:00** (the bore fires): about **one real minute**, which each fork lives at **Tier 2**
+deep stasis; Kai is awake at Tier 0 in bay C by proxy, kneeling at capsule 10 with a line tester (`WR-B6`, `Q-132`); Teo is still paused. Timing (`WR-T4`): **firing day, about T+4.2**, from
+**09:40:00** (the screen drops) to **09:40:59**, the close of the lock's 59th second (the bore fires; the grain arrives, E10): about **one real minute**, which each fork lives at **Tier 2**
 as **sixty hours**; each fork-hour is one real second, so a fork failing at `H+06` fails at 09:40:06. Ten forks × sixty hours is
 600 fork-hours inside one real minute. To the real bay nothing moves: a drip hangs for the whole reel. The lock's length follows the
-firing physics: a target 20 million km out, about 67 s of light time, so about a minute's lock (E9's board). Spend (`WR-E1`): the
+firing physics: a target 20 million km out, its kill seen about 1 min 50 s after the shot (E1), so about a minute's lock (E9's board). Spend (`WR-E1`): the
 safeguard budget is **0 W** from the drop (power is rerouted to the screen and the bore); the forks run on Decimus's **reserve,
-0.6 MWh**: 10 forks × 3.6 MW (Tier 2, from the drafted 1 kW per mind at 1×) × 60 s = 2,160 MJ = 600 kWh, spent to zero. The ladder's
+0.6 MWh**: 10 forks × 3.6 MW (Tier 2, from the drafted 1 kW per mind at 1×) × 60 s = 2,160 MJ = 600 kWh, booked in full at the fork (no refunds), so the counter reads zero. The ladder's
 forty-nine forks would have cost about five times that and seven rungs of time. No chemistry.*
 
 **1 · COLD OPEN — EXTREME CLOSE (9:16) · HOOK (0:00–0:05).** The bay board. `DORMANT UNTIL WINDOW CLOSES`, grey. The line below lights:
@@ -65,8 +65,8 @@ Ten voices, one voice, a hair out of step:
 
 > **THE FORKS:** One. Two. Three…
 
-[UI: `RESERVE 0.6 MWh`, beginning to fall.] Cutaway, still: the real bay, a drip hanging. Cutaway, still: the forward bay, the screen
-down, the dark ahead with nothing in front of it, Kai's proxy at the wall.
+[UI: `RESERVE 0.6 MWh`, beginning to fall.] Cutaway, still: the real bay, a drip hanging. Cutaway, still: the bow feed on the bay board, the
+screen down, the dark ahead with nothing in front of it. Cutaway, still: Kai's proxy at capsule 10, the tester's probe not yet at its port.
 
 **3 · FORK ONE · `H+06`.** Dive in. The test-bay's night has started going wrong: a line failing, then another. The fork files a request
 upward and waits.
@@ -119,7 +119,7 @@ camera does not go in. One voice now, alone, counting, steady.
 [UI: `RESERVE 0.0`.]
 
 **13 · THE COUNT · TURN (2:15–2:30, shots 13–14).** The last panel opens out to fill the frame: the real bay again, Decimus's real view, ten
-quiet threads, one square lit. Over it, **`1:10`** resolves, and in the same frame the forward bay's feed goes **white**: the bore fires.
+quiet threads, one square lit. Over it, **`1:10`** resolves, and in the same frame the bow feed goes **white**: the bore fires.
 [SOUND: a white crack.]
 
 **14 · FINAL IMAGE.** No hold. Cut straight to E10.
@@ -129,6 +129,7 @@ virtue carried one step too far; the reel never shows what the tenth did right, 
 sit in Hull Four's stacks under one name. The viewer who has seen E10 knows what else happened in that white frame.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** Kai at capsule 10 in bay C; the bow feed replaces the forward bay; reel ends 09:40:59 (lock's 59th second); kill confirm ≈1 min 50 s; reserve booked in full at the fork (`Q-132` (1)–(3)).
 - **Audit** this draft with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md), esp. `WR-S2`/`WR-S3`
   (a 1:N batch leaves N−1 filed; aboard, filed in a hull's own stacks; none shut down here, so all nine are filed), `WR-M1` (each fork's
   end stated), `WR-T1`/`WR-T2` (one minute, sixty calm hours), `WR-E1`/`WR-E2` (the reserve to zero; the screen down for the whole lock),

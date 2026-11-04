@@ -30,8 +30,7 @@ downstairs that says almost nothing. It ends where it began, on lamp 21.
 - **The board:** slots 20 and 21, the two Hull Four names queued in E16, turn from *QUEUED* to *WITHDRAWN*.
 - **The base's version:** the commons notice, transcribed from the drone: *The ramp is paused.* Then: *All margins
   nominal.*
-- **The turn (two Context circles):** Kai's top row splits into two circles over the one bar: *WITHDRAWN* and
-  *PAUSED*.
+- **The turn:** no new UI. The notice's second line is still crawling in as lamp 21, beside *WITHDRAWN*, goes dark.
 
 ## Philosophical climax
 Nothing in the vote is cruel. Nine people arrived in bodies with nowhere to put them, and the High Clock keeps them
@@ -54,7 +53,7 @@ Every tag is Kai's (`WR-L2`). Clocks (`WR-T1`, `WR-T4`): Kai at Tier 2 (3,600×)
 afternoon, about four subjective hours at Tier 3, is about a sixth of a real second (14,400 s ÷ 86,400), which Kai
 lives as **ten minutes** (0.167 s × 3,600). The base's one-minute notice at Tier 1 is one real second, which Kai lives as
 **an hour**. The whole reel is about four of Kai's hours: four real seconds, in which a cradle lid at Tier 0 closes
-once. Series clock: about T+4.2, hours after E16's docking. Spends (`WR-E1`): the reallocation in chemistry (nine bodies
+once. Series clock: about T+4.2, minutes after E16's docking. Spends (`WR-E1`): the reallocation in chemistry (nine bodies
 kept, nine one-off re-stills costing about two slots' worth between them); the session in watts. Body 0%.*
 
 **1 · EXTREME CLOSE (9:16) · HOOK (0:00–0:05).** An amber status lamp beside a chalked name on a slate. The lamp below
@@ -91,14 +90,14 @@ has gone on to its next afternoon.
 
 **9 · DOWNSTAIRS.** Kai's Lens finds Hull One's commons, Tier 1: a warm, ordinary afternoon, nearly frozen. Near its
 centre, RAFE'S PARTNER, the woman from the ramp's glass (E4), listening to a notice. To Kai it is a long low drone. The
-Lens transcribes it a word every few of Kai's minutes. [UI: *The ramp is paused.*] Then, much later: [UI: *All margins
-nominal.*] Her face, sixty times slower than Kai's, begins to relax.
+Lens transcribes it a word every few of Kai's minutes. [UI: *The ramp is paused.*] Her face, sixty times slower than
+Kai's, begins to relax.
 
-**10 · TWO CIRCLES · TURN (2:15–2:30, shots 10–11).** Kai's top row splits into two Context circles above the one
-margin bar: [UI: *WITHDRAWN*] and [UI: *PAUSED*].
+**10 · THE LAMP · TURN (2:15–2:30, shots 10–11).** Back in the bay, the notice's drone still under everything. On the
+board, *21 · KAI · WITHDRAWN*. As the notice's next words crawl in at the frame's foot [UI: *All margins nominal.*], lamp
+21 goes dark, the way the others did.
 
-**11 · HOLD.** Back in the bay. Through the port, Teo's hand, still raised. Lamp 21 goes dark, the way the others did.
-Cut to black.
+**11 · HOLD.** Through the port, Teo's hand, still raised. Cut to black.
 
 *(Theme in subtext, not stated: one budget, three clocks, and what's true depends on which clock you stand on. At the
 Apex it's a vote; at the base it's a pause; in the bay it's a lamp going out. Rafe votes to keep strangers alive against
@@ -107,6 +106,7 @@ for Teo's waiting body, and Kai doesn't yet know what Teo sent. By the end of th
 asked them" are both true, and nobody says either.)*
 
 ## Still to write / next
+- **Revised 2026-11-04 (audit d1):** "minutes after E16's docking"; turn reworked: the two `WITHDRAWN`/`PAUSED` circles dropped, the turn is lamp 21 going dark while the base notice plays.
 - **Audit** with [`../../03-engine/prompts/audit-script.md`](../../03-engine/prompts/audit-script.md): `WR-T1/T4` (ten
   minutes for the council's afternoon, an hour for the base's minute, four real seconds for the reel), `WR-E1`
   (chemistry for bodies and re-stills; watts for the session), `WR-S6` (the High Clock's argument is credible),
