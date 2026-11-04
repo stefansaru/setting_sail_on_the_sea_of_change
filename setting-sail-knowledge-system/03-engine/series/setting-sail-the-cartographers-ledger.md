@@ -3,7 +3,7 @@
 > *(File slug `setting-sail-the-cartographers-ledger` — the third panel of the Ledger triptych:
 > [[setting-sail-tier-descent|S1 "The Intention Ledger"]] · [[setting-sail-tier-ascent|S2 "The Mortal
 > Ledger"]] · **S3 "The Cartographer's Ledger."** Display title **Intention in Context — Season 3:
-> The Cartographer's Ledger** (`Q-20`).)*
+> The Cartographer's Ledger** (`Q-20`).)* **Scripted 2026-11-04:** all 20 reels in `04-scripts/episodes/s3e##-*.md` (draft v1, audited; `Q-129`, `Q-131`); details the scripts settled are logged in those rulings and the glossary.
 
 > **The origin season.** S1 ran a mind **down** the [[velocity-tiers]]; S2 ran one **up.** S3 runs neither
 > way along the tiers — it runs **back, to the source.** The whole world — the Grid, the Lens, the tiers,

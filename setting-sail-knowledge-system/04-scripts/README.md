@@ -8,7 +8,7 @@
 > *(Renamed from the former `04-tools` on 2026-06-06, consolidated as the single "workable outputs" home.)*
 
 ## What lives here
-- **`episodes/`** — the per-shot **shooting scripts** (`s1e##`, `s2e##` + standalone reels) and the Episode Guide;
+- **`episodes/`** — the per-shot **shooting scripts** (`s1e##`–`s4e##` + standalone reels) and the Episode Guide;
   the verbatim source the audit runs against (moved here from `03-engine/scripts/`, 2026-06-06).
 - **`characters/`** — the **cast bible**: one page per character, expanding the terse `CHR-*` rows in
   [`../03-engine/craft/canon-registry.md`](../03-engine/craft/canon-registry.md) into full sheets (identity,
@@ -42,8 +42,9 @@
 - [`readable/season-1-the-intention-ledger.md`](readable/season-1-the-intention-ledger.md) — **S1**, all 22
   episodes as prose. ✅
 - [`readable/season-2-the-mortal-ledger.md`](readable/season-2-the-mortal-ledger.md) — **S2**, all 20 episodes as prose. ✅
-- **S3 "The Cartographer's Ledger"** — to be drafted from its blueprint.
-- **S4 "The Seed Ledger"** (title confirmed, `Q-26`; Part 2 provisional "The Colony Ledger") — blueprint only: [`../03-engine/series/setting-sail-the-seed-ledger.md`](../03-engine/series/setting-sail-the-seed-ledger.md).
+- [`readable/season-3-the-cartographers-ledger.md`](readable/season-3-the-cartographers-ledger.md) — **S3**, all 20 episodes as prose. ✅
+- [`readable/season-4-the-seed-ledger.md`](readable/season-4-the-seed-ledger.md) — **S4**, all 22 episodes as prose. ✅
+- **S4 Part 2, "The Colony Ledger"** (provisional, S5) — blueprint notes only, in [`../03-engine/series/setting-sail-the-seed-ledger.md`](../03-engine/series/setting-sail-the-seed-ledger.md).
 
 ## Conventions
 - Character pages use the same frontmatter spirit as the world bible (`id`, `canon`, `status`, `related`),

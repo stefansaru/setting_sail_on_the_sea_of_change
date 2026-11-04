@@ -1,4 +1,4 @@
-# Episode Guide — *Intention in Context*, Seasons 1–2
+# Episode Guide — *Intention in Context*, Seasons 1–4
 
 The manifest + status board. **Per-episode breakdowns** live in the blueprint
 [`../../03-engine/series/setting-sail-tier-descent.md`](../../03-engine/series/setting-sail-tier-descent.md); **drafted prose
@@ -102,6 +102,92 @@ scripts** live here; this file is the **index**.
 | 19 | The Pure Current, Reversed | T0 village | ✅ | [[s2e19-the-pure-current-reversed]] |
 | 20 | The Mortal Doughnut | Flesh ∩ Ledger | ✅ | [[s2e20-the-mortal-doughnut]] |
 
+# Season 3 "The Cartographer's Ledger"
+
+> **Season 3 status: 20 scripts, draft v1 audited and revised (✅), 2026-11-04.** Blueprint [[setting-sail-the-cartographers-ledger]]; audit `audit-reports/AuditReport_s3-scripts_d1_20261104`; rulings `Q-129`, `Q-131`. Readable edition: [`../readable/season-3-the-cartographers-ledger.md`](../readable/season-3-the-cartographers-ledger.md).
+
+## Act I · the author found (T≈+20.5)
+| Ep | Title | Where | ✓ | File |
+|----|-------|------|---|------|
+| 1 | The Authorless World | Village · law-feed | ✅ | [[s3e01-the-authorless-world]] |
+| 2 | The Sea Beneath | Founding floor | ✅ | [[s3e02-the-sea-beneath]] |
+| 3 | The Cartographer's Trace | Founding floor | ✅ | [[s3e03-the-cartographers-trace]] |
+| 4 | What the God Cannot Have | Governance vault | ✅ | [[s3e04-what-the-god-cannot-have]] |
+| 5 | The Decision to Become Small | Village | ✅ | [[s3e05-the-decision-to-become-small]] |
+
+## Act II · the incarnation (T≈+20.5→+21.5)
+| Ep | Title | Where | ✓ | File |
+|----|-------|------|---|------|
+| 6 | The Genome Translation | Founding floor | ✅ | [[s3e06-the-genome-translation]] |
+| 7 | The Vessel | Village | ✅ | [[s3e07-the-vessel]] |
+| 8 | Blasphemy or Prophecy | Village · law-chambers | ✅ | [[s3e08-blasphemy-or-prophecy]] |
+| 9 | The Annunciation | Village | ✅ | [[s3e09-the-annunciation]] |
+| 10 | The Nativity | Village (mid-season) | ✅ | [[s3e10-the-nativity]] |
+
+## Act III · the strata dive (Mara 1→16)
+| Ep | Title | Where | ✓ | File |
+|----|-------|------|---|------|
+| 11 | The Observer Stratum | Observer stratum | ✅ | [[s3e11-the-observer-stratum]] |
+| 12 | The Helm Stratum | Helm stratum | ✅ | [[s3e12-the-helm-stratum]] |
+| 13 | The Studio Floor | Studio floor | ✅ | [[s3e13-the-studio-floor]] |
+| 14 | The Standing Stratum | Standing stratum | ✅ | [[s3e14-the-standing-stratum]] |
+| 15 | The Bliss Door | Bliss · root chamber | ✅ | [[s3e15-the-bliss-door]] |
+
+## Act IV · the incarnate ring (Mara 17, T≈+38.5)
+| Ep | Title | Where | ✓ | File |
+|----|-------|------|---|------|
+| 16 | The Horizon Switches On | Village | ✅ | [[s3e16-the-horizon-switches-on]] |
+| 17 | Too Late, Reversed | Village fence | ✅ | [[s3e17-too-late-reversed]] |
+| 18 | The Root Key | Village | ✅ | [[s3e18-the-root-key]] |
+| 19 | The Un-Edited Memory | Village | ✅ | [[s3e19-the-un-edited-memory]] |
+| 20 | The Incarnate Ring | Village (finale) | ✅ | [[s3e20-the-incarnate-ring]] |
+
+# Season 4 "The Seed Ledger"
+
+> **Season 4 status: 22 scripts (20 + interlude E9a–b), draft v1 audited and revised (✅), 2026-11-04.** Blueprint [[setting-sail-the-seed-ledger]]; audit `audit-reports/AuditReport_s4-scripts_d1_20261104`; rulings `Q-130`, `Q-132`. Readable edition: [`../readable/season-4-the-seed-ledger.md`](../readable/season-4-the-seed-ledger.md).
+
+## Act I · the voyage as lived (T≈+3.9)
+| Ep | Title | Where | ✓ | File |
+|----|-------|------|---|------|
+| 1 | The Firing Day | Forward bay | ✅ | [[s4e01-the-firing-day]] |
+| 2 | Watts and Chemistry | Stasis bay C | ✅ | [[s4e02-watts-and-chemistry]] |
+| 3 | The Base of the Pyramid | Tier-1 commons | ✅ | [[s4e03-the-base-of-the-pyramid]] |
+| 4 | The Ramp | Synthesis bay | ✅ | [[s4e04-the-ramp]] |
+| 5 | The High Clock | Tier 1 · relay | ✅ | [[s4e05-the-high-clock]] |
+
+## Act II · the beacon (T≈+4.15→+4.2)
+| Ep | Title | Where | ✓ | File |
+|----|-------|------|---|------|
+| 6 | The Supernova | Forward bay | ✅ | [[s4e06-the-supernova]] |
+| 7 | Help | Analysis deck | ✅ | [[s4e07-help]] |
+| 8 | Heading, Speed, Acceleration | Apex / base | ✅ | [[s4e08-heading-speed-acceleration]] |
+| 9 | You Can Be Our Hero | Bay C, night | ✅ | [[s4e09-you-can-be-our-hero]] |
+
+## Interlude · Decimus
+| Ep | Title | Where | ✓ | File |
+|----|-------|------|---|------|
+| 9a | One in Three | Bay C systems | ✅ | [[s4e09a-one-in-three]] |
+| 9b | The Jump | Ten forks, one minute | ✅ | [[s4e09b-the-jump]] |
+
+## Act III · the open window (T≈+4.2)
+| Ep | Title | Where | ✓ | File |
+|----|-------|------|---|------|
+| 10 | The Open Window | Bay C (mid-season) | ✅ | [[s4e10-the-open-window]] |
+| 11 | Eighty-One Hours | Hull Four, dark | ✅ | [[s4e11-eighty-one-hours]] |
+| 12 | The Lifeboats | Bay doors | ✅ | [[s4e12-the-lifeboats]] |
+| 13 | Priority Denied | Data Buffer | ✅ | [[s4e13-priority-denied]] |
+| 14 | The Slip in One Night | Bay C | ✅ | [[s4e14-the-slip-in-one-night]] |
+| 15 | A Slight Itch | Identity Key · Apex | ✅ | [[s4e15-a-slight-itch]] |
+
+## Act IV · Hull One (T≈+4.2→+8.0)
+| Ep | Title | Where | ✓ | File |
+|----|-------|------|---|------|
+| 16 | Hull One | Hull One | ✅ | [[s4e16-hull-one]] |
+| 17 | The Spare Margin | Synthesis bay | ✅ | [[s4e17-the-spare-margin]] |
+| 18 | What the Base Is Not Told | Apex · manifest | ✅ | [[s4e18-what-the-base-is-not-told]] |
+| 19 | Sensor Fault | Apex · array log | ✅ | [[s4e19-sensor-fault]] |
+| 20 | Visual Range | Forward bay (finale) | ✅ | [[s4e20-visual-range]] |
+
 ## Standalone reels (slots per `Q-11`, `Q-76`, `Q-77`)
 | Title | Use | ✓ | File |
 |-------|-----|---|------|
@@ -123,7 +209,7 @@ scripts** live here; this file is the **index**.
 > remaining items are author calls. Reports: `audit-reports/AuditReport_<slug>_d1_20260605_220454.md`.
 
 ## Progress
-**S2: 20 / 20 scripts drafted and audited (2026-11-04).** **22 / 22 full S1 scripts drafted (E1–20 plus lettered E3a–b); last audit: the 2026-11-03 fix-and-audit round
+**S2: 20 / 20, S3: 20 / 20, S4: 22 / 22 scripts drafted and audited (2026-11-04).** **22 / 22 full S1 scripts drafted (E1–20 plus lettered E3a–b); last audit: the 2026-11-03 fix-and-audit round
 (rulings `Q-85`–`Q-89` applied: E1 birth grant; E14/E17 by leased proxy; minor castes in every header; the E6/E17
 capsule and the E20 KAVANA vial; three standalones retimed). Every S1 reel now carries hook / context / friction /
 turn timecodes except E1 (`Q-75`).** Next pass: a per-episode line-polish + shotlist before render.

@@ -3,7 +3,7 @@
 > *(File slug `setting-sail-the-seed-ledger` — the **far panel** beyond the Ledger triptych:
 > [[setting-sail-tier-descent|S1 "The Intention Ledger"]] · [[setting-sail-tier-ascent|S2 "The Mortal
 > Ledger"]] · [[setting-sail-the-cartographers-ledger|S3 "The Cartographer's Ledger"]] · **S4 "The Seed
-> Ledger."** Display title **Intention in Context — Season 4: The Seed Ledger** (`Q-26`).
+> Ledger."** Display title **Intention in Context — Season 4: The Seed Ledger** (`Q-26`). **Scripted 2026-11-04:** all 22 reels in `04-scripts/episodes/s4e##-*.md` (draft v1, audited; `Q-130`, `Q-132`); details the scripts settled are logged in those rulings and the glossary.
 > **Status: DRAFT / author's seed — 2026-10-12; author's answers folded in the same day** (`Q-28/29/31/32/33`
 > resolved as leans; `Q-34/35` added). `Q-26`, `Q-30`, `Q-35` resolved 2026-11-04. **Updated 2026-11-03:** `Q-109`–`Q-112`
 > applied; the S5 outline carries its watch items.)*
