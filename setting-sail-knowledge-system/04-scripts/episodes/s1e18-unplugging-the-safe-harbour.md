@@ -22,10 +22,15 @@ Raul has no answer. He, who can no longer forget anything, looks at people who w
 die, and feels something the Grid never priced.
 
 **RESOLUTION / CLIFFHANGER (2:15–2:30).** Raul lowers his hand from a half-raised diagnostic gesture and,
-deliberately, doesn't scan the child (Adam, about 8, `Q-81`). [UI: the fractured glyph holds,
+deliberately, doesn't scan the child (Adam, about 8, `Q-81`). At his side, his chrome fingers turn three times
+around nothing, a quarter-turn each: a nursery habit, back from S1E3a. [UI: the fractured glyph holds,
 quiet.] He walks toward the warm light. Cut to black. *(Into E19.)*
 
 *Canon: 0% organic Ghost in a shell (post-E17); clinical→Caravaggio register shift; Purists introduced
 ([[setting-sail-tier-descent]] / [[the-medical-sanctuary|cf Kavana]]). Sets up E19's flagship. The shell is the
 proxy he died in at E17, now a Ghost's shell (`Q-69`). Castes (`Q-87`): Raul is a Ghost in a shell; the child (Adam)
 and the villagers are Purists, with no Lens (`WR-L2`); every tag is Raul's.*
+
+*The three turns ([[nine-nine-nine]], `Q-133` (4)): the payoff of the S1E3a cube, gesture only, never named. It is the
+first no Raul chooses himself; E19's Lens-off is the second. Shell optics are full-field, so no Narrow Eye here
+([[the-narrow-eye]]).*

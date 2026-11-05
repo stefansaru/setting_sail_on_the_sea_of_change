@@ -24,6 +24,18 @@ dew.
 
 "Yes," he said. "Inside the capsule. Safe, warm, learning."
 
+"The chromosome report," she said. "Is it okay?"
+
+"All where they're supposed to be."
+
+She hesitated. "And the… gay genes. Did they switch anything on?"
+
+"Nobody sets that. Default settings."
+
+"Eye colour?"
+
+"Default." A small smile. "We'll see."
+
 She rested her head on his shoulder, and he wrapped his arms around her, and for a while they only stood
 there in the unbroken gold of a world that could not go wrong. Then they walked on, side by side.
 
@@ -116,12 +128,22 @@ his nose, and a tiny girl was staring up at them.
 
 "You were statues. For *two days.*"
 
-Jun laughed before he could stop himself. So did Raul, until he remembered he was angry. Across the room the
-Bear was waiting at the seam of light, and the seam was widening.
+Jun laughed before he could stop himself. So did Raul, until he remembered he was angry. The Bear knelt between them and pressed something soft into each
+small hand: a plush cube sewn from twenty-seven little squares, a stitched 9 on every face.
+
+"Two days," it said. "You can mend almost anything. You can't get time back. When someone wants your time, turn
+it three times first."
+
+Jun turned his, reading. "Nine… nine… nine."
+
+"In an old language, that's *no, no, no*."
+
+Across the room the Bear was waiting at the seam of light, and the seam was widening.
 
 "Coming?"
 
-The ball stayed on the floor.
+"Yes!" Raul was up before the word was out, the cube in his fist, unturned. Jun turned his once, then ran after
+him. The ball stayed on the floor.
 
 ### 3b. The Upper Level
 The seam opened onto light, and two small figures stepped through and stopped dead. A tag stamped itself across
@@ -506,7 +528,8 @@ not with fear, but with curiosity.
 Raul had no answer. He, who could no longer forget anything, looked at people who would forget everything and
 die, and felt something the Grid had never put a price on.
 
-He lowered his hand from a half-raised scan and, deliberately, did not measure them. He walked toward the warm
+He lowered his hand from a half-raised scan and, deliberately, did not measure them. At his side his chrome fingers
+turned three times around nothing, a quarter-turn each, a nursery habit come back. He walked toward the warm
 light.
 
 ### 19. The Pure Current

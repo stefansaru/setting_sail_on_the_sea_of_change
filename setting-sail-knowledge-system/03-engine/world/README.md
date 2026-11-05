@@ -79,6 +79,8 @@ World pages are checked under the **WORLD** layer (rules, consistency, lived-in 
 - [[cultural-taboos]] (`WLD-20`) — the etiquette of disgust: the Glacial Stutter, Organic Leakage, Masked Intent.
 - [[the-substrate-olympics]] (`WLD-21`) — Games split by substrate physics; the Tier-Reality Paradox (mind too fast for flesh).
 - [[the-virtuous]] (`WLD-25`) — the creed every Grid child is raised in: break negative loops; no leadership without proof.
+- [[nine-nine-nine]] (`WLD-26`) — Teddy's 27-square cube: turn it three times before you say yes; time can't be made.
+- [[the-caretaker-era]] (`TML-10`) — the world before the Grid: housing for all, no prisons, the Intention-in-Context Standard.
 
 ### mechanics/
 - [[velocity-tiers]] (`WLD-04`) — the time-dilation hierarchy (Tier 0–3; Apex = 86,400×).
@@ -101,6 +103,7 @@ World pages are checked under the **WORLD** layer (rules, consistency, lived-in 
 - [[asymmetric-perspective]] (`MAG-27`) — shared coordinates, private renders.
 - [[capsule-birth]] (`MAG-28`) — IVF → capsule; birth into the Tier-2 nursery.
 - [[the-firing-protocol]] (`MAG-30`) — the open window.
+- [[the-narrow-eye]] (`VIS-18`) — organic sight after the Grid: sharp only at the centre; the re-entry POV.
 
 ### technology/
 - [[the-personal-blockchain]] (`MAG-11`) — consciousness ledger; Full Disclosure; Chain-Check.
@@ -108,6 +111,7 @@ World pages are checked under the **WORLD** layer (rules, consistency, lived-in 
 - [[the-perspective-lens-ui]] (`MAG-14`) — the **9:16 UI grammar**: Context circles / Intention squares; custom lenses.
 - [[flavor-scripts]] (`MAG-26`) — digital gastronomy: taste as a software packet; the room morphs color to the flavor.
 - [[the-seed-fleet]] (`MAG-29`) — seven hulls; the two-clock T table.
+- [[the-wallet-and-policy-ledger]] (`MAG-35`) — `VC`/`MAT`/`CARE` coins; `AWARE · PROVEN` signing; standing policies.
 - [[the-lure-beacon]] (`MAG-31`) — the false supernova.
 
 ### environment/

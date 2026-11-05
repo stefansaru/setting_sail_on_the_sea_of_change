@@ -51,9 +51,15 @@ bought at the cost of **never beginning in the real world it was born into.** It
 ([[parallel-pedagogy]]) — multi-threaded childhood and ledger-fusion — and the whole descent: **Raul is *born*
 a Shadow** (S1E1–2) and spends the season learning what the capsule cost.
 
+- **Screening, not selection (`Q-133` (3)).** Every embryo is screened for health: the **chromosome report**
+  checks that the chromosomes are where they should be, and serious disease is corrected. **Traits are never
+  chosen.** Orientation, eye colour, height and temperament stay at **default settings**: nobody sets them, and no
+  one can buy a setting. On screen in S1E1: *"Nobody sets that. Default settings." … "Eye colour?" "Default. We'll
+  see."* The neutrality is the law of the land, not a class marker; nobody on the Grid is designed.
+
 ## Open questions
-- Is embryo **selection / trait-optimization** part of IVF here, and is it a class marker? (Ties to the
-  optimization theme and `WLD-13` [[societal-values]].)
+- ~~Is embryo **selection / trait-optimization** part of IVF here, and is it a class marker?~~ **Screening only;
+  traits stay at default for everyone** (`Q-133` (3)).
 - Who **decides** which embryos are instantiated, and is capsule-birth universal for Grid citizens?
 
 ## Related

@@ -74,7 +74,7 @@ These never change. If an idea needs one of them broken, it belongs in a differe
 | WR-S1 | G | **The Virtuous are common knowledge,** taught in childhood, on Earth and the fleet. Purists reject them. | Knowledge fits the speaker's upbringing. |
 | WR-S2 | G | **Validation:** responsibility for N requires a 1-in-N test. Failure costs the proof and may harm; it need not kill. Rated people assume empty roles automatically; unrated people must persuade. | Each leader's rating or lack of one is coherent. |
 | WR-S3 | G | **Forked candidates are mainly digital; human candidates are adults only.** Failed branches head to the Data Graveyards, or to a dying hull's stacks aboard the fleet. | Check each candidate. |
-| WR-S4 | G | **Law is intent-in-context,** verified live by the CVP against the Personal Blockchain. There are no police and no retroactive trials on the Grid. | Enforcement follows these channels. |
+| WR-S4 | G | **Law is intent-in-context,** verified live by the CVP against the Personal Blockchain. There are no police and no retroactive trials on the Grid; Hope's Jury Above hears only a Penitent's case for release, never guilt (`Q-133`). | Enforcement follows these channels. |
 | WR-S5 | G | **Secrets have a mechanism.** Full Disclosure is the norm; exceptions are the Sealed Manifest, Intent-Patches, sovereign and tissue locks, clock-speed itself, and the un-indexed Data Graveyards. | Name how each secret is kept. |
 | WR-S6 | G | **Society's leaders have an argument.** The Distributed President, High Clock and Vance are each credibly right about something. | State the argument. |
 

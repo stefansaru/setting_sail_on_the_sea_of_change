@@ -49,7 +49,7 @@ the person his squares point at is 4.4 light-years away, with him.
 
 ## Script (draft v1)
 > 9:16 vertical · ~2.5 min · cinematic photoreal · *Black Mirror / Silo* register. **RAUL** = the lead (`CHR-02`);
-> **RAFE** (`Q-14`, `Q-22`) = Raul's Branch, this instance the S1E16 reply copy (`Q-54`). About 25 spoken words.
+> **RAFE** (`Q-14`, `Q-22`) = Raul's Branch, this instance the S1E16 reply copy (`Q-54`). About 30 spoken words.
 
 *Castes (`WR-B1`): Raul is a Ghost in a shell; his shell sits idle on its stump in the village at Tier 0 while his mind
 dives (as in S2E18). Rafe is a Ghost: bodiless by beam (`WR-B7`), with no shell yet. The President (`Q-98`, a Ghost) is
@@ -88,7 +88,13 @@ is gone. [SOUND: the choral hum thinning to nothing.]
 
 **5 · THE GREY · FRICTION (1:15–2:15, shots 5–7).** The gold underfoot goes thin as old varnish. Through it, like a
 seabed through clearing water: **grey**. Corridors of white metal, water-stained. A small sail painted on every door,
-every rail. The two of them stand on it, small, in all that negative space. [SOUND: water against something far off.]
+every rail. Through the open doors, long **sorting halls**: bins of glass, of paper, of stripped copper wire, and bunks
+stacked three high above them. On one wall a children's poster, sun-faded: the universe drawn as a line that starts at a
+single bright dot, labelled **BIG BANG**. Rafe passes it without breaking stride.
+
+> **RAFE:** They still believed in that.
+
+The two of them stand on it, small, in all that negative space. [SOUND: water against something far off.]
 
 **6 · WONDER BEAT — the logo.** A wall-sized logo: a **sail on grey water**. Beneath it, a line of text worn past reading,
 except one word, clean: **SEA**. Raul reads it. Nothing explains it. Rafe doesn't look up from the thread: it runs on,
@@ -117,6 +123,9 @@ is the sea for him: real, read-only, 4.4 light-years wide.)*
   Rafe whose outcome comes at E20, `Q-99`; the merge of his other instance stays bible), `WR-F4` (nobody says "fork",
   "copy" or "sea"), `REVEAL` budget (★ the grey world under the Grid, the founding layer; the S2 vault spend: Rafe
   returns; minors: the SEA logo, `Recipient: 4.4 ly`).
+- **Revised 2026-11-05 (`Q-134` (6)):** the founding floor is dressed as a Caretaker sorting city ([[the-caretaker-era]]):
+  halls, bins, bunks, and the BIG BANG poster with Rafe's line. Texture, not a reveal: nothing is explained, and the
+  bible doesn't tie the city to Mara. About 30 spoken words now.
 - **Invented here, to log:** Rafe wakes in the Synchronization Node, where S1E16 left him; `RESUMING`; the two-glyph
   beat (solid vs his own) as how he learns time passed; "That's older than the tiers" / "Then it only plays at our speed";
   the descent drawn as a vertical fall through worn gold; the sail painted on every door; about three real days of

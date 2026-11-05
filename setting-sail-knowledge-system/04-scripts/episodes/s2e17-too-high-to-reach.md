@@ -80,11 +80,11 @@ filed into the cure. The violet comes back. He stands. Calm: the tier won't let 
 and new. Propped beside them, Ruth's sheet from E10, *"She's dying. Come home."*
 
 **7 · THE LEDGER (≈1:50–2:15).** The descent arrives as a form, compliance-green, one line per rung. [UI: *3 → 2 ·
-RELEASE APEX*.] He signs with a glance; it ticks green, and **the descent begins**: the violet starts to drain out of
+RELEASE APEX*.] He signs with a glance; it ticks green, [UI: *AWARE · PROVEN*], and **the descent begins**: the violet starts to drain out of
 the top of the frame toward Tier 2's amber, and the locked frame, for the first time all reel, **moves: a slow
 vertical fall**, steady as a lift. [SOUND: a low tone, dropping.] Falling, the next line: [UI: *2 → 1 · RELEASE MERGED
 SPEED*.] Signs; green. [UI: *1 → 0 · RESTORE PAIN*.] The glance holds. Seventy years, and this is the first form he
-has hesitated over. He signs. Green.
+has hesitated over. He signs. The stamp takes a beat longer to come, as if checking: [UI: *AWARE · PROVEN*]. Green.
 
 **8 · THE READING · TURN (2:15–2:30, shots 8–9).** Still falling, the amber climbing his face. He looks down at his
 mother on the frozen feed, the way he did from Tier 1 in E4. Unasked, his Lens reads her, in the small clean type of
@@ -106,6 +106,9 @@ still violet reel; this one is the start of the fall, `Q-128`.)*
   and a gift per tier; minor: `11 yrs · elapsed`, a-ha #3; the Sabbatical and the lintel are recalls).
 - **Logged for the glossary (`WR-N1`):** *REAL +2:24:00* (the second clock), the consent-ledger lines *3 → 2 · RELEASE
   APEX*, *2 → 1 · RELEASE MERGED SPEED*, *1 → 0 · RESTORE PAIN*, and the Apex credit counter.
+- **Revised 2026-11-05 (`Q-134` (4)):** each signature resolves *AWARE · PROVEN* ([[the-wallet-and-policy-ledger]]): a
+  signature counts only when the signer can prove they understand what it does. The third takes a beat longer: proving
+  you understand pain, from the Apex. The Apex credit counter is his `VC`.
 - The descent clock's schedule (about 20 real minutes to the Tier-1 landing in E18; the last ten, capsule to bedside,
   in E19) is a writers'-room breakdown of `Q-93`, logged.
 - Revised 2026-11-04 (audit d1): own register vs E16 (`Q-128`): hook moved off the still candle onto the turning

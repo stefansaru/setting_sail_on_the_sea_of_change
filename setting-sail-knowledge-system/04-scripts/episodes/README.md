@@ -198,6 +198,7 @@ scripts** live here; this file is the **index**.
 | The Substrate Paradox | Substrate-Olympics desync (culture; S2 candidate) | ✅ | [[the-substrate-paradox]] |
 | The First Supper | Flavor Scripts vs Hospitality (culture; licensed Sabbatical, `Q-72`) | ✅ | [[the-first-supper]] |
 | The Locked Block | Encrypted-Block Paradox at Hope; one welded door in [[s2e15-the-absolution]] (`Q-77`, `Q-116`), recalled S3E13 (`Q-119`) | ✅ | [[the-locked-block]] |
+| The Jury Above | A Penitent's whole road through Hope to the Jury Above (`Q-133`, `Q-134`); S2 candidate after [[s2e15-the-absolution]] | ✍️ draft v1, not yet audited | [[the-jury-above]] |
 | The Mirror Asymmetry | Aesthetic Dichotomy demo, split-screen (unslotted) | ✅ wordless by design, retimed (`Q-89`) | [[the-mirror-asymmetry]] |
 
 > **Deferred to S3 reserve** (no S1/S2 home): Turrell Raves & Historical Parsing ([[recreation-culture]]),

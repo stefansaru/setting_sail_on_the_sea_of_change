@@ -79,7 +79,12 @@ opening old formats like hatches; Raul followed. The ribbon of the law passed ov
 to nothing.
 
 The gold underfoot went thin as old varnish, and through it, like a seabed through clearing water, came grey:
-corridors of white metal, water-stained, a small sail painted on every door, every rail. The two of them stood on it,
+corridors of white metal, water-stained, a small sail painted on every door, every rail. Through the open doors ran long sorting halls, bins of glass, of
+paper, of stripped copper wire, with bunks stacked three high above them. On one wall hung a children's poster,
+sun-faded: the universe drawn as a line that began at a single bright dot, labelled *BIG BANG*. Rafe passed it
+without breaking stride. "They still believed in that."
+
+The two of them stood on it,
 small, in all that empty space. Far off, water moved against something.
 
 A logo filled one wall, a sail on grey water. Beneath it ran a line worn past reading, except one word, clean: *SEA*.

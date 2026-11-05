@@ -21,6 +21,16 @@ reckoned with what they did. It is the book's accountability/penitence rendered 
 exit exam.
 
 ## Rules / mechanics — The Ledger of Absolution
+The Ledger answers the four questions the Caretaker juries asked ([[the-caretaker-era]], `Q-133` (1)), and the
+Penitent presents it in person to **the Jury Above**, a digital jury sitting at Tier 2 ([[the-ministry-of-hope]]):
+
+| The jury asks | The Ledger's part |
+|---|---|
+| What did you do wrong? | **The Admission:** the act, stated plainly, with its harm to each person. |
+| Why did you do it? | **The Context Analysis** (1, below): the root cause. |
+| How will you make it right? | **The Restitution:** what is returned, in which coin, and to whom ([[the-wallet-and-policy-ledger]]). |
+| How do we know it won't happen again? | **The Preventative Data Proof** (2) and **Proof of Awakening** (3), usually a new public policy. |
+
 1. **The Context Analysis** — a granular, exhaustive **psycho-historical report** deconstructing *why*
    they executed the act: every external pressure, environmental factor, and hidden motivation that
    corrupted the choice. (Literal [[intention-in-context]] / [[the-doughnut-principle]].)
@@ -51,9 +61,14 @@ You can't run from a shadow **hardcoded into the ledger**; you are forced to *ho
 you lack the biological capacity to drop it — the [[the-macro-doughnut|Macro-Doughnut]] made into a
 sentence.
 
+**Not a punishment (`Q-133` (1)).** Hope gives the Penitent everything they need while they build the case. The
+horror above is how a stubborn Penitent *experiences* the wait, not what Hope is designed to do. Seekers may stay
+as long as they like, with no case to make.
+
 ## Open questions
-- Who *judges* the Ledger as sufficient — the Intercessors, an algorithm, or the Macro-Doughnut telemetry
-  itself? (Sets whether the system can be gamed or appealed.)
+- ~~Who *judges* the Ledger as sufficient?~~ **The Jury Above:** a digital jury chosen by lot, convened at Tier 2,
+  hears the Penitent present it (`Q-133` (1)). Intercessors prepare; the jury decides; a case sent back comes with
+  reasons. Shown in the reel [[the-jury-above]].
 
 ## Related
 - [[the-ministry-of-hope]] — the institution this runs.

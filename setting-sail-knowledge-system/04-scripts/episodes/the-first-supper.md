@@ -18,7 +18,12 @@ flawless meals and remembers every one.
 ## Friction (0:05–1:15)
 [[tether-decay|TTD]] forces a mandatory [[recreation-culture|Sub-Velocity Sabbatical]]: antenna off, down
 to [[velocity-tiers|1:1]], boots on un-optimized dirt at a surface resort. [UI, the last tag before the antenna
-drops: *SABBATICAL · LICENSED · SUPERVISED.*] An attendant at the door logs the Patron in. A **human chef** — a displaced
+drops: *SABBATICAL · LICENSED · SUPERVISED.*] An attendant at the door logs the Patron in. The first thing the Patron's own eyes do is fail: only a small circle in
+the middle of the room is sharp, and everything around it smears. The Patron keeps turning their head to catch things.
+[Camera: Narrow-Eye POV, `VIS-18`: a sharp centre that jumps, soft edges.]
+> **THE ATTENDANT** *(steadying an elbow)*: It's your eyes. They only do the middle. Give it a day.
+
+A **human chef** — a displaced
 real-time worker of the [[the-post-labor-economy|Hospitality Baseline]] — sets down a plate of *actual
 food.* It's **asymmetrical.** Steam. An imperfect, slightly bruised tomato. The Patron's Lens reflexively
 tries to **parse and log it** — and *can't.* No script. No data. The taste arrives blurry, warm, already
@@ -45,4 +50,7 @@ window, real weather, unscriptable. Fade on a face tasting impermanence for the 
   → real candlelit Caravaggio (`VIS-15`).
 - **Continuity:** standalone — the Patron need not be Raul; if cast as Raul, place on a pre-E17 Sabbatical.
 - **Audit:** `STORY-07`, `WORLD-03` (consistency: lossy outside), `CINE-16`, `VIS-15`; unslotted (`Q-11`).
-- **Sabbatical (`Q-72`):** brief, costly, supervised. The tag and the attendant carry it; nothing is said.
+- **Sabbatical (`Q-72`):** brief, costly, supervised. The tag and the attendant carry it; nothing else is said.
+- **The Narrow Eye ([[the-narrow-eye]], `Q-134` (2)):** a Grid mind back in organic eyes sees sharp only at the
+  centre. The POV opens narrow and widens through the reel; by the ending cut the window and the weather are in focus.
+  The attendant's one line is the only explanation.

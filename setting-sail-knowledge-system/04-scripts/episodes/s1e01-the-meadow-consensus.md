@@ -17,6 +17,11 @@ paid in S3 when Raul finds his parents' ledger (`Q-108`).
 
 **Castes (`Q-87`):** the man and the woman are Shadows. The child is a Shadow from placement.
 
+**The defaults (`Q-133` (3), [[capsule-birth]]):** embryos are screened for health, which is the chromosome report,
+and nothing else is chosen. Orientation, eye colour and every other trait are left at default; nobody sets them. The
+parents' exchange shows the neutrality and leaves the child's future open. Her "gay genes" is folk talk, and his
+answer corrects it gently: there is no switch. Never explained further on screen.
+
 ## Visual composition
 - **Wide (the meadow walk):** cinematic wide-angle; barefoot couple in an endless pristine meadow;
   warm golden morning light on dew; symmetrical framing pushing the couple low, vast open headroom of
@@ -47,6 +52,18 @@ brushing the morning air.
 
 The wind shifted slightly, carrying the scent of wildflowers. A bird landed nearby, tilted its head,
 then flew off again.
+
+"The chromosome report," she said. "Is it okay?"
+
+"All where they're supposed to be."
+
+She hesitated. "And the… gay genes. Did they switch anything on?"
+
+"Nobody sets that. Default settings."
+
+"Eye colour?"
+
+"Default." A small smile. "We'll see."
 
 She stepped closer and rested her head on his shoulder. He wrapped his arms around her. They stood
 like that for a moment, then continued to walk, side by side, through the meadow.

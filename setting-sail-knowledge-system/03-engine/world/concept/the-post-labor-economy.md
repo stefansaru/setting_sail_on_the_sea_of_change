@@ -47,6 +47,11 @@ their wordless terror).
 ## Open questions
 - Is the Hospitality Baseline genuinely dignified, or a gilded sedation — and does the show take a side?
 
+## Origin
+The safety net descends from the Caretaker Initiative ([[the-caretaker-era]], `TML-10`), which gave people work
+"AI couldn't take, yet": sorting, recycling, care. Here the "yet" has run out. What is left is work only people can
+do, paid in the **Care** coin ([[the-wallet-and-policy-ledger]]).
+
 ## Related
 - [[the-distributed-president]] — whose climate rulings trigger the displacements.
 - [[the-ministry-of-hope]] — the sanctuary door (its Seekers).

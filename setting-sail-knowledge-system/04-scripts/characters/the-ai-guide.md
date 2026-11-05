@@ -30,6 +30,8 @@ everyone learns."* Structural safety, wearing a friendly face.
 - **S1:** present through Raul's childhood (E2–3b) as the Teddy Bear teaching him to crawl, to get up, to chase
   the clap, then (E3a–b) to break out of [[the-virtuous|negative loops]]: it argues with two fighting boys, petitions
   the unnamed officials, and wins them a [[the-pattern-detector|pattern detector]]. Wears the rating `1:30`.
+  Gives each boy the [[nine-nine-nine|Nine Nine Nine]] cube (E3a): *"You can't get time back. When someone wants
+  your time, turn it three times first."* The one piece of its advice that is plainly good (`Q-133` (4)).
   Returns at his **death** (E17) — *"Raul. You're too far from your body. Come back."*, then *"Oh, Raul"* — no
   longer a warning, almost tender, seeing him out the way it once saw him in; and once more inside the replayed
   memory, exact: *"One step at a time."* Owns the music from E2 on: the song stops when the infant looks away and

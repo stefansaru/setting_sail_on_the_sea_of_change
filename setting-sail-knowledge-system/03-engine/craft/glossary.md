@@ -43,6 +43,10 @@ A named or labelled character. Season is in the first two columns; caste follows
 | **The partner in the mirror reel** | A woman whose hand Raul holds in-grid. She is revealed as a Shadow whose body looks sixty. | reel: The Mirror Asymmetry (unslotted) | `WLD-22` (unnamed) | — | Shadow | Unnamed |
 | **The Intercessor** | The gentle Hope cleric at Kavana's bedside and in the Apex. | S1E11 | `FAC-03` (unnamed; `CHR-?` in script) | See Group: the Intercessors. | Ghost in a shell (`Q-87`) | Latin "one who goes between" |
 | **The Patron** | A high-tier elite forced into a Sabbatical, undone by a real meal. | reel: The First Supper (unslotted) | `WLD-19` (unnamed, `Q-08`) | —. | Shadow (carries a TTD) | A title |
+| **The Penitent (Jury Above)** | A Tier-1 worker who stole her brother's credits, and earns her way out of Hope by saying why. | reel: The Jury Above (unslotted) | `FAC-03` (unnamed, `Q-08`) | — | Shadow | A title |
+| **The Seeker (Jury Above)** | An old man who has lived in Hope for 31 years by choice, watering plants. | reel: The Jury Above (unslotted) | `FAC-03` (unnamed) | See Group: the Seekers. | Shadow | A role label |
+| **The Foreperson** | The juror who speaks for the Jury Above. | reel: The Jury Above (unslotted) | `FAC-03` `Q-133` | — | Ghost or up-clocked Shadow | A role label |
+| **Twenty-Seven** | The Caretaker-era manager who answered every request "nine-nine-nine"; the cube's legend. From a real project manager the author knew of. | bible only | `WLD-26` `Q-134` (3) | 27 | Human (pre-Grid) | 9+9+9; *nein* |
 | **The peer** | The teen who chants the creed with Raul in E4. A proposal casts him as Jun. | S1E4 | none | "Jun" is a proposal only ([[the-virtuous-thread]]). | Shadow child (`Q-87`) | A role label |
 | **The promoter** | The voice that pitches the Champion on crossing the bracket. | reel: The Substrate Paradox (unslotted) | none | — | Shadow (`Q-87`) | A role label |
 | **Rafe** | Raul's Branch: beamed to the fleet, bodiless, he becomes his own person. He wakes on Hull Four and later sits on the High Clock. A copy is beamed home for S3. His Earth copy wakes in S3E2 and ends in a Branch at S3E20 (`Q-99`). | S1E15 | `CHR-02` Branch · `Q-14/22/45` [[the-centauri-clone]] | "the Centauri Clone" is a file slug and label only. Centauri Branch-clone, Deep-Space Clone and RAUL-CLONE are old labels. Retired as names. | Ghost (arrived bodiless) | Old form of Ralph, same root as Raul (*Radulf*) |
@@ -93,6 +97,8 @@ A faction or institution.
 | **The Intercessors** | Hope's clerical guards, in vestments, carrying staffs. Gentle, and in total control of an inmate's time. | S1E11 | `FAC-03` | — | To bring each Penitent to reckoning | Patience is mercy |
 | **Penitents** | Hope's inmates, forced or voluntary, on no fixed sentence. | S2E15; **HELD** in S1 | `FAC-03` | Inmates. See Seekers. | Release | Not a faction; no argument of its own |
 | **The Seekers** | Volunteers who check into Hope to detox their values. | S1E11–13 (Raul, the word unspoken) | `FAC-03` · `WLD-12` · `Q-09` (Raul, S1E11–13) | Voluntary Cloistering | To reset their compass | The outer Grid's positivity is unbearable |
+| **The Jury Above** | Hope's exit jury: Ghosts and up-clocked Shadows chosen by lot, convened at Tier 2, who hear a Penitent's four-part case and release it or send it back with reasons. Never judges guilt (`WR-S4`). | reel: The Jury Above (unslotted) | `FAC-03` `MAG-16` `Q-133` (1) | the jury. Do not use "court", "trial", "guilty". | A case they believe | Believing someone is harder than forgiving them |
+| **The Caretakers** | The leaders of the Caretaker Initiative before the Grid: housing for all, work AI couldn't take yet, no prisons. | bible only | `TML-10` | the Caretaker Initiative | Everyone housed, taught, and heard | Punishment is primitive |
 | **The Substrate Olympics** | The Games, split by substrate physics into two brackets. | reel: The Substrate Paradox (unslotted) | `WLD-21` [[the-substrate-olympics]] | Substrate Olympic Games, the Games | A fair contest across speeds | A shared race is impossible without a shared clock |
 | **The Unlisted** | The alien antagonists. Never shown in S4: only a beacon's voice and one log line (`WR-R2`). Nature, number and intent are held. | word from S4E10; **HELD**, as beings from S5 | `FAC-06` · `Q-30` | Same word as the sensor slang (see Slang; `WR-N2` logged). | Undefined (logged) | Undefined (logged) |
 | **The Virtuous** | The people raised in the virtuous principles: in effect, everyone on the Grid and aboard the fleet. | S1E3a | `WLD-25` [[the-virtuous]] | Same word as the creed (logged). | To break negative loops | You are at fault for staying in a loop, and nobody leads without proof |
@@ -106,6 +112,7 @@ A physical or simulated location.
 | **Alpha Centauri** | The star the fleet is bound for (author's lean). The audience believes the clone is stationed there. | S1E14 | `Q-28` · `PLC-07` | Centauri. Do not say "Alpha Centauri mining station". | Real | n/a |
 | **The analysis deck** | The hull space where the beacon's layers are read. | S4E7 | `MAG-29` | — | Real | Tier 0–1 crew |
 | **Capsule bay** | The clinical rows of capsules where Shadow bodies rest on Earth. | S1E3a | `FCT-009` | "stasis bay" (Earth); rented city capsule (S2, `Q-91`). See fleet stasis bays. | Real | Bodies at 1:1 |
+| **The Caretaker cities** | Pre-Grid cities on the Horn of Africa, built with and run by local people, housing the poor and the sick with real work. The Grid's founding floor is rendered from one: sorting halls, bins, bunks. | S3E2 (the floor's dressing, unnamed); the name is bible only | `TML-10` | sorting city | Real (pre-Grid); simulated as a fossil floor | — |
 | **The cloisters** | Hope's physical monasteries and digital sub-sectors. | S2E15; **HELD** in S1 | `PLC-08` | — | Both | Custom, slowed or sped |
 | **The Data Graveyards** | Low-priority archive nodes in frozen lunar craters, holding the sealed ledgers of the dead and failed forks. Un-indexed: what is or isn't filed shows only to someone who walks the rows. | S2E14; **HELD** in S1 | `PLC-09` [[data-graveyards]] | the Archive Slums, Architectural Rust. The page's "Ghost Town" collides with the caste. | Simulated, on real servers | Tier 2 per S2E14; lowest priority |
 | **The descent corridor** | The way down the tiers that Adam takes to reach Naomi. | S2E18 | none | Undefined beyond the blueprint. | Simulated | Tier 3 → 0 |
@@ -202,7 +209,12 @@ A device or system. *Not stated* means no source gives one, and the gap is logge
 | **Studio** | HELM module: memory as editable film. Held. | S3E13; **HELD** | `MAG-04` | — | Can edit the lesson out | Not treatment |
 | **Systems** | HELM module: a micro-habit agent. Held. | S3E15; **HELD** | `MAG-08` | — | Tiny steps as procrastination | Can't deliver a leap |
 | **Transit beam** | A ride through the neon city, seen once. Otherwise undefined (logged). | S1E4 | none | — | Undefined | Undefined |
-| **Velocity credits** | Temporary processing allocations, earned and spent like money. | reel: The Locked Block (standalone, `Q-76/77`); S2E15 shows one welded door | `WLD-04` | credits | Earned by merit; stolen by Brokers | Not a permanent tier |
+| **Velocity credits** | Temporary processing allocations, earned and spent like money. One of three coins (`MAG-35`), shown as `VC`. | reel: The Locked Block (standalone, `Q-76/77`); S2E15 shows one welded door | `WLD-04` | credits | Earned by merit; stolen by Brokers | Not a permanent tier |
+| **Matter** | The coin for physical things and energy at Tier 0. | bible only | `MAG-35` | `MAT` | Mined, grown, recycled | Atoms can't be rendered |
+| **Care** | The coin for hours of a person's real attention: hospitality, tending, teaching, supervision. | bible only | `MAG-35` | `CARE` | A person's hours | The work no machine was allowed to take |
+| **The wallet** | The coins held on a person's ledger. | bible only; the `VC` counter from S2E17 | `MAG-35` | — | — | All digital |
+| **The policy ledger** | A person's signed standing policies, public, private or mixed; transactions are checked against it. | reel: The Jury Above (`DEFAULT: NO`) | `MAG-35` | policies, standing policies. Not to be confused with **Policy Update** (`MAG-25`). | A full awareness proof to change one | Stricter than law, never instead of it |
+| **Nine Nine Nine** | Teddy's plush cube: 27 squares, a 9 on every face. Turn it three times before you say yes. | S1E3a | `WLD-26` [[nine-nine-nine]] | the cube. "The 27" is bible only. | Given to restless children | Only works if you turn it |
 | **Scram** | The reactor's emergency shutdown at zero; the stacks fall to reserve and keep transmitting. | S4E11 | `Q-56` `MAG-29` | stacks on reserve | Life support at zero | Reserve can't run for years unaided (S5) |
 | **The village feed** | A camera Raul fixed on the post across Naomi's yard, facing her door and its notches, streamed into Adam's Lens. | S2E2 | `Q-128` (5) | the feed, feed window | Its audio arrives as drone across a clock gap | One fixed angle; real time only, so it looks frozen from a high tier |
 | **KAVANA (vial)** | The sealed medicine at the Purist bedside: Kavana's formula. With no donor it makes chrome, so given to the boy it became his implants (S2E3). | S1E20 | `Q-88` · a-ha #9 · `Q-119` | — | Hope's cure | Never administered on screen |
@@ -213,7 +225,7 @@ Something that happens to people.
 | Term | Definition | On screen from | Canon ID | Variants / do not use | Trigger | Cost |
 |---|---|---|---|---|---|---|
 | **The 1% Mutation** | Hope's DNA-telomere rewrite: usually stable, but 1 in 100 collapses with 24 hours to live. | S1E11 | `MAG-13` [[the-1-percent-mutation]] | DNA-telomere rewrite, DNA correction, DNA therapy. The 99% outcome differs by page (logged). | Choosing the treatment | Death, or the Apex Escape Loop |
-| **Absolution Protocol** | Hope's exit exam: a Penitent stays until a Ledger of Absolution proves full reckoning. | S2E15; **HELD** in S1 | `MAG-16` [[the-absolution-protocol]] | Absolution Loop, the Ledger of Absolution (Context Analysis, Preventative Data Proof, Proof of Awakening) | An offense or a voluntary check-in | Time itself: it can feel like centuries |
+| **Absolution Protocol** | Hope's exit exam: a Penitent stays, given all the help they need, until a Ledger of Absolution proves full reckoning to the Jury Above (`Q-133`). | S2E15; **HELD** in S1 | `MAG-16` [[the-absolution-protocol]] | Absolution Loop, the Ledger of Absolution (Context Analysis, Preventative Data Proof, Proof of Awakening) | An offense or a voluntary check-in | Time itself: it can feel like centuries |
 | **Apex Escape Loop** | A 1% victim runs at Tier 3 to invent a cure in a subjective lifetime. | S1E11 | `MAG-13` | 24-Year Lab | A 1% failure | About 2.4 real hours buy 24 years, and you return a cyborg |
 | **The batch** | A digital candidate forks N copies to take a Validation. | S2E14; **HELD** in S1 | `MAG-32` | — | Seeking a rating | Forks × preparation × clock speed; the failed forks |
 | **Beam-out** | Escaping a dying hull by beam. Only the last beams leave a copy running (`WR-M3`). | S4E11 | `MAG-12` · `Q-31` | transmit | Hull death | For the last beams, a second you, left behind |
@@ -234,6 +246,9 @@ Something that happens to people.
 | **Ghost Intimacy** | Licensed intimacy as pure data. | S2E8, one tag only | `WLD-16` [[intimate-commerce]] | — | Choice | Kept forever |
 | **Ghost teardown** | Hope force-reads a rogue Ghost's ledger and wipes it. | reel: The Locked Block (standalone, `Q-76/77`); S2E15 shows one welded door | `MAG-25` | — | A caught Ghost | True death |
 | **Glacial Vacation** | A Sabbatical sold as leisure at a surface sanctuary. In person only as a licensed Sabbatical (`Q-72`). | reel: The First Supper (unslotted) | `WLD-19` [[recreation-culture]] | — | Choice or TTD | Velocity credits |
+| **The Narrow Eye** | Organic sight after the Grid: sharp only at the centre until the eye relearns (hours to weeks). | reel: The First Supper | `VIS-18` [[the-narrow-eye]] | — | Organic eyes back from the tiers | Headaches; slow reading; supervision |
+| **Signing** | A transaction counts only when the signer proves, to the CVP, that they understand what it does. | S2E17 | `MAG-35` | awareness proof | Any transaction | Slow for anything outside your policies |
+| **Embryo screening** | The chromosome report and health correction every embryo gets; nothing else is chosen. | S1E1 | `MAG-28` `Q-133` (3) | the chromosome report. Do not say "designer baby", "trait selection". | IVF | — |
 | **The Global Loop** | Ruling, automation, displacement, wordless dread: harm with no villain. | seen S1E5; the name is bible only | `WLD-12` | — | A planetary climate ruling | A person's place |
 | **Historical Parsing** | A citizen spends a subjective summer in an archive during a lunch hour. | bible only; **HELD** to S3 reserve | `WLD-19` | the Living Archive | Leisure | Velocity credits |
 | **Hospitality Baseline** | The default job for the displaced: human connection in tourism and hotels (`WR-E5`). | S1E5 | `WLD-12` [[the-post-labor-economy]] | Tourism & Human-Experience Economy, Hospitality Economy, tourism baseline (`WR-N2`, logged) | Automation of your role | Whether it's dignity or sedation stays open |
@@ -301,6 +316,8 @@ A law of the world or of society.
 | **The Meritocracy Upgrade** | Anyone can earn the right to patch the law. | S2E12; **HELD** in S1 | `MAG-18` | — | The Distributed President |
 | **Organic Leakage** | The taboo against sneezes, sobs and other bodily display. | reel: The Substrate Paradox (unslotted) | `WLD-20` | — | Social disgust |
 | **The Productivity Ledger** | Hope's inmates must work for privileges. | S2E15 | `FAC-03` | — | The Intercessors |
+| **Default settings** | Every trait (orientation, eye colour, the rest) is left as it comes; nobody sets it and no one can buy a setting. | S1E1 | `MAG-28` `Q-133` (3) | defaults. "Gay genes" only in the S1E1 line, as folk talk his answer corrects. | Law; the screening clinic |
+| **The four questions** | What did you do wrong? Why? How will you make it right? How do we know it won't happen again? The Penitent's case to the Jury Above. | reel: The Jury Above (WHAT · WHY · REPAIR · NEVER AGAIN) | `MAG-16` `Q-133` (1) | the Ledger of Absolution's Admission, Context Analysis, Restitution, Preventative Proof | The Jury Above |
 | **Proven-in-Use** | A consistent clean record defeats a challenge before it starts. | S2E13; **HELD** in S1 | `MAG-20` | — | The CVP |
 | **The pull of the body** | A Shadow can't leave its node for long, and never attends Tier 0 in person (`WR-B6`). | S1E6 | `WLD-08` | — | Biology |
 | **The Puritan Confinement** | A Purist patient is technically free but depends entirely on Hope's life support. | S1E11 (implied); the name is bible only | `MAG-17` | — | Physical dependency |
@@ -429,6 +446,14 @@ Something seen in the Lens.
 | **STRUCTURAL BALANCE · 100%** | Vance's flawless reading at signing. Kavana's for the same act reads `99%`. | S2E13 | `MAG-21` [[intent-patch]] | — | A missing tremor |
 | **QUEUED** | The tag on a dark Apex capsule beside a pushed-back patient. | S2E13 | `MAG-13` | — | The hours taken |
 | **PENITENT · VOLUNTARY / ABSOLUTION 0%** | Hope's cloister tags: Adam's status on entry, and the candle's reading. | S2E15 | `PLC-08` `VIS-14` | `ABSOLUTION 3%`, `ABSOLUTION 4%`. See Parish Metrics. | Release withheld |
+| **AWARE · PROVEN** | The stamp a valid signature resolves to. | S2E17 | `MAG-35` | — | Awareness proven |
+| **POLICY BREACH · KIN** | A transaction stopped for breaking a standing policy. | reel: The Jury Above | `MAG-35` | `POLICY ✓ n/n` (passing) | A breach; the CVP flag follows |
+| **DEFAULT: NO · PUBLIC** | A standing policy: anything outside your policies waits for an explicit yes; shown publicly. | reel: The Jury Above | `MAG-35` `WLD-26` | `DEFAULT: NO` | The grown-up cube |
+| **PENITENT · CVP REFERRAL** | Hope's intake tag for a Penitent brought in by braking. | reel: The Jury Above | `FAC-03` | Joins `PENITENT · VOLUNTARY`. | How they came |
+| **SEEKER · 31 yrs · by choice** | A Seeker's tag in Hope. | reel: The Jury Above | `FAC-03` | — | Stay length, voluntary |
+| **WHAT · WHY · REPAIR · NEVER AGAIN** | The four lines of the open book. | reel: The Jury Above | `VIS-14` `Q-133` (1) | See the four questions. | Case progress |
+| **REQUEST · 2 h · ACCEPT?** | An ordinary request for someone's time. | reel: The Jury Above | `MAG-35` | — | Time asked for |
+| **VC · MAT · CARE** | The wallet's three-line tally. | bible only | `MAG-35` | — | Balances |
 | **EXIT · APEX · 2.4 h** | The line under `KEYS · VANCE` when Vance returns at the cloister grille. | S2E15 | `MAG-18` | — | Vance's keys as the only exit |
 | **TIER 3 · 2.4 h · KEYS · VANCE** | The arrival tag at the Apex: who pays. | S2E16 | `WR-T5` | Recasts the standalone's `TIER 3 · OFF-SHIFT · hazard bonus`. | Who pays |
 | **REAL +2:24:00** | The second clock at the Apex; only its thousandths move. | S2E17 | `WR-T1` `WR-T4` | — | Real time spent |
@@ -464,6 +489,10 @@ Words characters use. These are the only permitted synonyms (`WR-N2`).
 |---|---|---|---|---|---|---|
 | **"The antenna"** | Calling the brain a mere receiver. | S1E6 | `WLD-03` | "the meat's just an antenna" | Grid adults | Your body doesn't matter |
 | **Chain** | The everyday word for your ledger. | S1E12 | `MAG-11` | chain-public | Citizens, Intercessors | The Personal Blockchain |
+| **"Nine, nine, nine"** | No, no, no: the cube read aloud. | S1E3a (Jun) | `WLD-26` | — | Children; anyone who kept the habit | No |
+| **"Nobody sets that. Default settings."** | The father's answer about the baby's traits. | S1E1 | `Q-133` (3) | — | The S1E1 father | Nothing about the child was chosen |
+| **"They still believed in that."** | Rafe on the BIG BANG poster. | S3E2 | `TML-10` | — | Rafe | The world is far older, and knows more, than we do |
+| **Narrow Eye** | Grid slang for organic sight's small sharp centre. | bible only; the attendant says "They only do the middle" | `VIS-18` | — | Sabbatical attendants, returning Shadows | Re-entry vision |
 | **Chrome** | Machine body, or someone who has one. | S1E13 | `MAG-15` | — | Everyone, often sadly | Synthetic flesh |
 | **Convert** | A Purist who climbed. | S2E12 | `CHR-06` | — | Grid, Vance | Rare climber from outside |
 | **Cortisol trigger** | The everyday name for the stress trigger. It reads a fast marker, not real cortisol, which is too slow. | S1E3b | `MAG-33` | cortisol on-demand trigger | Officials | The stress trigger |
@@ -495,6 +524,8 @@ A recurring image or line. Quoted lines match the live scripts as of this page's
 | Term | Definition | On screen from | Canon ID | Variants / do not use | Carries |
 |---|---|---|---|---|---|
 | **"Accept the sea. Choose the heading."** | HELM's old tagline, the trilogy's last line. | S3E20, shown as the old Sea logo's text, never spoken | `WLD-02` | — | The series' thesis, earned |
+| **Three turns** | Turning the cube, or nothing, three times before an answer. | S1E3a (unturned); S1E18 (around nothing); reel: The Jury Above | `WLD-26` | — | A no chosen, not imposed |
+| **The BIG BANG poster** | A sun-faded children's chart in the founding floor. | S3E2 | `TML-10` | — | How far the world has come; what it knows now is held |
 | **Aesthetic Dichotomy** | The hard cut between the flawless Grid and mortal flesh outside. | S1E17 (the cut); the name is bible only | `VIS-16` · `VIS-17` | The Substrate Snap (the cut in the mirror reel) | What the render hides |
 | **Amber thread** | A line that draws itself between two people. | S1E3b | `MAG-33` | the thread | A loop made visible; love misread (S2E2) |
 | **Arrow of Balance** | The arrow that passes through and holds both joy and pain. | S1E20 | `WLD-07` | "intention to feel balance" | Maturity |

@@ -44,11 +44,23 @@ here. No one is watching but us. *(Neither boy ever sees this. No age is shown: 
 on his head. Jun has stickers on his nose. A tiny girl stares up at them.
 > **TINY GIRL:** You were statues. For *two days.*
 
-Jun laughs before he can stop himself. So does Raul, then remembers he's angry. Across the room, Teddy waits
-at the **seam of light** Raul noticed in E3. The seam widens.
-> **THE GUIDE:** Coming?
+Jun laughs before he can stop himself. So does Raul, then remembers he's angry. Teddy kneels between them and
+presses something soft into each small hand: a plush **cube**, sewn from 27 little squares, a stitched **9** on
+every face.
+> **THE GUIDE:** Two days. You can mend almost anything. You can't get time back. When someone wants your
+> time, turn it three times first.
+>
+> **JUN** *(turning his, reading)*: Nine… nine… nine.
+>
+> **THE GUIDE:** In an old language, that's *no, no, no*.
 
-The ball stays on the floor. Cut to black.
+Across the room, Teddy waits at the **seam of light** Raul noticed in E3. The seam widens.
+> **THE GUIDE:** Coming?
+>
+> **RAUL:** Yes!
+
+He's up before the word is out, the cube in his fist, **unturned**. Jun turns his once, then runs after him. The
+ball stays on the floor. Cut to black.
 
 *Castes (`Q-87`): Raul, Jun and the tiny girl are Shadow children; Teddy is a digital agent (`Q-71`).*
 
@@ -60,5 +72,11 @@ three. Never stated on screen.*
 · the capsule intercut. · Teddy's collar tag, unexplained. Timing: at ~20 real hours old the bodies are
 newborns ([[the-quickening]]), and the small size is a question E6 answers. Ten real breaths ≈ 1 minute at
 Tier 0 = 60 hours at Tier 2 ([[velocity-tiers]]). Teddy's down-clock is **invited**, so E5 stays the first
-*forced* one. Never named on screen: tier, down-clock, capsule, body. About 115 spoken words.
+*forced* one. Never named on screen: tier, down-clock, capsule, body. About 155 spoken words.
 Source idea: [[generous-tit-for-tat]].*
+
+*The cube ([[nine-nine-nine]], `Q-133` (4), `Q-134` (3)): plant here, paid as a gesture in S1E18. Teddy gives it to
+the restless ones; the bible's model is ADHD, never named on screen. "Two days" is the girl's line turned into the
+lesson that time can't be made more of. Raul's instant "Yes!" with the cube unturned is the first of his season of
+yeses; the turn in E3b's last shot (the hand opened *for* him) is the second. Timing: the gift sits in the 2:15–2:30
+turn, so the capsule intercut trims to two monitors (164, 148) if the reel runs long.*
