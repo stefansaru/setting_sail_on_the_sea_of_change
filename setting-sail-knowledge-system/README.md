@@ -46,6 +46,7 @@ _schema/        The governor — rules, page templates, taxonomy, lint checklist
 - **Want to read the stories / the cast?** See [`04-scripts/`](04-scripts/README.md) — readable season
   prose in `readable/` and the character sheets in `characters/`.
 - **An AI assistant?** [`_schema/AGENTS.md`](_schema/AGENTS.md) is your operating manual.
+- **Picking up the work?** [`TODO.md`](TODO.md) lists where the last session stopped and what's next.
 
 ## Status
 
